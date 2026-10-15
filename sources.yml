@@ -36,6 +36,8 @@ sections:
         url: https://krebsonsecurity.com/feed/
 
   - name: APAC Watch
+    # Google News is broad, so headlines must mention at least one of these terms
+    require: "cyber|hack|ransomware|breach|malware|phishing|scam|leak|ddos|spyware|vulnerab|exploit|threat|attack|fraud|data theft|stolen data"
     hours_back: 24
     max_items: 15
     feeds:

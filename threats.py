@@ -200,6 +200,10 @@ def build(config, now):
             print(f"  ✓ {section['name']} / {feed['name']}: {len(stories)} in window")
             candidates.extend(stories)
 
+        if section.get("require"):  # drop stories whose headline lacks any required term
+            required = re.compile(r"\b(?:" + section["require"] + r")", re.I)
+            candidates = [s for s in candidates if required.search(s["title"])]
+
         candidates.sort(key=lambda s: s["published"], reverse=True)
         # A section with own_dedupe only merges duplicates within itself, so it is never emptied by others.
         pool = [] if section.get("own_dedupe") else seen
