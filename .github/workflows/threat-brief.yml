@@ -1,0 +1,45 @@
+name: Cyber threat brief
+
+on:
+  schedule:
+    # GitHub cron runs in UTC. Off the hour on purpose: GitHub delays jobs queued at :00.
+    - cron: "23 22 * * *" # 6:23 AM Malaysia time
+    - cron: "23 10 * * *" # 6:23 PM Malaysia time
+  workflow_dispatch: # adds a "Run workflow" button on the Actions tab
+
+permissions:
+  contents: write # needed only to commit the new brief back to the repo
+
+concurrency:
+  group: threat-brief
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Build the brief
+        run: python threats.py
+
+      - name: Commit the brief
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs briefs
+          if git diff --cached --quiet; then
+            echo "Nothing changed."
+            exit 0
+          fi
+          git commit -m "Threat brief $(TZ=Asia/Kuala_Lumpur date '+%F %H:%M')"
+          git push

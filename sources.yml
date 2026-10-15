@@ -1,0 +1,87 @@
+# What goes into your Cyber Threat Brief.
+# Each section pulls from the sources under it. Add, remove or reorder freely, then commit.
+# A source that fails on a given run is skipped and listed at the bottom of the page.
+#
+# hours_back: how far back each section looks. Research and advisories publish
+# less often than news, so they look further back.
+
+settings:
+  title: Cyber Threat Brief
+  keep_days: 90
+
+sections:
+  - name: Actively Exploited
+    type: kev            # CISA Known Exploited Vulnerabilities catalog
+    hours_back: 168      # 7 days
+    max_items: 25
+    feeds:
+      - name: CISA KEV
+        url: https://raw.githubusercontent.com/cisagov/kev-data/main/known_exploited_vulnerabilities.json
+
+  - name: Breaking Threats
+    hours_back: 24
+    max_items: 25
+    feeds:
+      - name: The Hacker News
+        url: https://feeds.feedburner.com/TheHackersNews
+      - name: BleepingComputer
+        url: https://www.bleepingcomputer.com/feed/
+      - name: SecurityWeek
+        url: https://www.securityweek.com/feed/
+      - name: The Record
+        url: https://therecord.media/feed
+      - name: Dark Reading
+        url: https://www.darkreading.com/rss.xml
+      - name: Krebs on Security
+        url: https://krebsonsecurity.com/feed/
+
+  - name: APAC Watch
+    hours_back: 24
+    max_items: 15
+    feeds:
+      - name: Google News
+        url: "https://news.google.com/rss/search?q=(Malaysia+OR+Singapore+OR+Indonesia+OR+Thailand+OR+Philippines+OR+Vietnam+OR+Australia+OR+Japan+OR+%22South+Korea%22+OR+India)+(cyberattack+OR+ransomware+OR+%22data+breach%22+OR+hackers+OR+malware)+when:1d&hl=en-SG&gl=SG&ceid=SG:en"
+
+  - name: Threat Research
+    hours_back: 168
+    max_items: 15
+    feeds:
+      - name: Unit 42
+        url: https://unit42.paloaltonetworks.com/feed/
+      - name: Cisco Talos
+        url: https://blog.talosintelligence.com/rss/
+      - name: Microsoft Threat Intelligence
+        url: https://www.microsoft.com/en-us/security/blog/topic/threat-intelligence/feed/
+      - name: Google Threat Intelligence
+        url: https://cloudblog.withgoogle.com/topics/threat-intelligence/rss/
+      - name: ESET Research
+        url: https://www.welivesecurity.com/en/rss/feed/
+      - name: Check Point Research
+        url: https://research.checkpoint.com/feed/
+
+  - name: Government Advisories
+    own_dedupe: true     # keep advisories even when a news story covers the same issue
+    hours_back: 72
+    max_items: 15
+    feeds:
+      - name: CISA
+        url: https://www.cisa.gov/cybersecurity-advisories/all.xml
+      - name: ACSC Australia
+        url: https://www.cyber.gov.au/rss/alerts
+      - name: HKCERT
+        url: https://www.hkcert.org/getrss/security-bulletin
+
+# Tags are added automatically when a story's title or summary matches.
+# Patterns are case-insensitive regular expressions, matched as whole words
+# (simple plurals like "carriers" are matched too). Edit to taste.
+tags:
+  Exploited: "actively exploited|exploited in the wild|in the wild|under active (attack|exploitation)|active (attack|exploitation)|amid active|exploited (for|by|to|against)"
+  Zero-day: "zero[- ]?day|0[- ]?day"
+  Ransomware: "ransomware|extortion|lockbit|akira|qilin|clop|black ?basta|play ransomware"
+  Nation-state: "APT ?\\d+|nation[- ]state|state[- ]sponsored|espionage|\\w+-nexus|typhoon|lazarus|sandworm|kimsuky|turla|cozy bear|fancy bear"
+  Breach: "data breach|breach|leak|stolen data|exposed data|records exposed"
+  Supply chain: "supply[- ]chain|npm|pypi|malicious package"
+  Telecom: "telecom|telco|carrier|5g|ss7|mobile operator|isp|salt typhoon"
+  AI: "AI|LLM|genai|artificial intelligence|agentic|chatgpt|copilot"
+  Phishing: "phishing|smishing|credential theft|BEC|business email compromise"
+  APAC: "malaysia|malaysian|singapore|indonesia|thailand|philippines|vietnam|australia|japan|korea|india|taiwan|hong kong|asean|asia[- ]pacific|apac|asian"
