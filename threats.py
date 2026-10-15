@@ -200,8 +200,10 @@ def build(config, now):
             print(f"  ✓ {section['name']} / {feed['name']}: {len(stories)} in window")
             candidates.extend(stories)
 
-        if section.get("require"):  # drop stories whose headline lacks any required term
-            required = re.compile(r"\b(?:" + section["require"] + r")", re.I)
+        # require: one pattern, or a list of patterns that must ALL appear in the headline
+        rules = section.get("require") or []
+        for rule in [rules] if isinstance(rules, str) else rules:
+            required = re.compile(r"\b(?:" + rule + r")", re.I)
             candidates = [s for s in candidates if required.search(s["title"])]
 
         candidates.sort(key=lambda s: s["published"], reverse=True)
