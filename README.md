@@ -1,6 +1,6 @@
 # Cyber Threat Brief
 
-Twice a day (about 6:25 AM and 6:25 PM Malaysia time), GitHub runs a Python script that collects what is happening in cybersecurity threats worldwide and publishes it as one page you can read on your phone.
+Every hour, GitHub runs a Python script that collects what is happening in cybersecurity threats worldwide and publishes it as one page you can read on your phone.
 
 ## What's on the page
 
@@ -19,7 +19,7 @@ At the top: how many exploited CVEs were added this week, how many are linked to
 ## How it works
 
 ```
-GitHub Actions (6:23 AM and 6:23 PM MYT)
+GitHub Actions (every hour, at 23 past)
         │
         ▼
 threats.py reads sources.yml ──► CISA KEV (JSON) + RSS feeds ──► window, dedupe, tag

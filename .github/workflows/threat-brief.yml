@@ -2,9 +2,9 @@ name: Cyber threat brief
 
 on:
   schedule:
-    # GitHub cron runs in UTC. Off the hour on purpose: GitHub delays jobs queued at :00.
-    - cron: "23 22 * * *" # 6:23 AM Malaysia time
-    - cron: "23 10 * * *" # 6:23 PM Malaysia time
+    # Every hour at 23 past, so the Telegram bot's alerts are timely.
+    # Off the hour on purpose: GitHub delays jobs queued at :00.
+    - cron: "23 * * * *"
   workflow_dispatch: # adds a "Run workflow" button on the Actions tab
 
 permissions:
