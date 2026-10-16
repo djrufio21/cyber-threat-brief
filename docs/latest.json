@@ -1,9 +1,43 @@
 {
- "generated": "2026-10-16T18:51:23+00:00",
+ "generated": "2026-10-16T22:08:45+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
    "stories": [
+    {
+     "title": "CVE-2026-102764: BeyondTrust Remote Support",
+     "subtitle": "BeyondTrust Remote Support Authentication Bypass by Spoofing Vulnerability",
+     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-102764",
+     "source": "CISA KEV",
+     "published": "2026-10-16T00:00:00+00:00",
+     "date_only": true,
+     "summary": "BeyondTrust Remote Support contains an authentication bypass by spoofing vulnerability that could allow a remote attacker to perform file operations on the appliance.",
+     "extra": "US federal patch deadline 19 Oct",
+     "tags": [
+      "Exploited"
+     ],
+     "vendor": "BeyondTrust",
+     "product": "Remote Support",
+     "cve": "CVE-2026-102764",
+     "also": []
+    },
+    {
+     "title": "CVE-2025-61624: Fortinet Multiple Products",
+     "subtitle": "Fortinet Multiple Products Path Traversal Vulnerability",
+     "link": "https://nvd.nist.gov/vuln/detail/CVE-2025-61624",
+     "source": "CISA KEV",
+     "published": "2026-10-16T00:00:00+00:00",
+     "date_only": true,
+     "summary": "FortiOS, FortiPAM, FortiProxy, and FortiSwitchManager contain a path traversal vulnerability that may allow an authenticated attacker with admin profile and at least read-write permissions to write or delete arbitrary files via specific…",
+     "extra": "US federal patch deadline 19 Oct",
+     "tags": [
+      "Exploited"
+     ],
+     "vendor": "Fortinet",
+     "product": "Multiple Products",
+     "cve": "CVE-2025-61624",
+     "also": []
+    },
     {
      "title": "CVE-2026-21589: Atlassian Multiple Products",
      "subtitle": "Atlassian Multiple Products Files or Directories Accessible to External Parties Vulnerability",
@@ -129,6 +163,75 @@
    "name": "Breaking Threats",
    "stories": [
     {
+     "title": "BeyondTrust Remote Support Zero-Day Continues Trend of Exploited Edge Bugs",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/endpoint-security/beyondtrust-remote-support-exploited-edge-bugs",
+     "source": "Dark Reading",
+     "published": "2026-10-16T20:34:37+00:00",
+     "date_only": false,
+     "summary": "Ivanti, Cisco, and Palo Alto Networks all had vulnerabilities in edge devices come under fire this week. Now BeyondTrust joins the group.",
+     "extra": "",
+     "tags": [
+      "Zero-day",
+      "Nation-state"
+     ],
+     "also": [
+      "The Hacker News"
+     ]
+    },
+    {
+     "title": "Critical BlockStrap flaw lets hackers run code on Magento servers",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/",
+     "source": "BleepingComputer",
+     "published": "2026-10-16T20:00:59+00:00",
+     "date_only": false,
+     "summary": "Researchers warn that hackers could soon exploit a maximum-severity vulnerability (CVE-2026-103849) affecting Magento and Adobe Commerce, potentially allowing them to execute arbitrary PHP code on store servers. [...]",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Fake Claude, ChatGPT Attacks Surge, Putting Developers at Risk",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/application-security/fake-claude-chatgpt-attacks-developers-risk",
+     "source": "Dark Reading",
+     "published": "2026-10-16T19:49:30+00:00",
+     "date_only": false,
+     "summary": "Campaigns that impersonate popular AI brands are on the rise, and they typically use ClickFix-like tactics to target unsuspecting enterprise employees.",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "Biomemory Launches DNA Shield, First Commercial Product Built on Its Molecular IT Platform",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/data-privacy/biomemory-launches-dna-shield",
+     "source": "Dark Reading",
+     "published": "2026-10-16T19:22:12+00:00",
+     "date_only": false,
+     "summary": "The launch follows the acquisition of catalog's assets and the appointment of Laurent Guengant as CEO earlier this year.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Enterprise AI Enters Risk Management Phase as Security Concerns Rise",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/cyber-risk/enterprise-ai-risk-management-phase-security-concerns-rise",
+     "source": "Dark Reading",
+     "published": "2026-10-16T19:13:59+00:00",
+     "date_only": false,
+     "summary": "Companies are increasingly discovering that the challenge with AI is no longer adoption, but execution.",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
      "title": "AI Takes Control of Robotic Arm in 16 Minutes Flat",
      "subtitle": "",
      "link": "https://www.darkreading.com/ics-ot-security/ai-takes-control-robotic-arm-16-minutes",
@@ -155,7 +258,7 @@
      "also": []
     },
     {
-     "title": "Zero-click attacks used targeted ads to deliver Candiru spyware",
+     "title": "Targeted ads installed Candiru spyware in zero-click attacks",
      "subtitle": "",
      "link": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/",
      "source": "BleepingComputer",
@@ -409,77 +512,26 @@
      "extra": "",
      "tags": [],
      "also": []
-    },
-    {
-     "title": "Microsoft: October Windows update may break Smart App Control",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/",
-     "source": "BleepingComputer",
-     "published": "2026-10-16T08:44:22+00:00",
-     "date_only": false,
-     "summary": "Microsoft says some users may have trouble turning on Smart App Control after installing this month's KB5127648 Windows 11 security update. [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Microsoft Patches Two Dozen RCE Flaws in Office",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/microsoft-patches-two-dozen-rce-flaws-in-office/",
-     "source": "SecurityWeek",
-     "published": "2026-10-16T07:55:06+00:00",
-     "date_only": false,
-     "summary": "In addition to RCE flaws, Microsoft fixed multiple information disclosure bugs and a security bypass issue in Office. The post Microsoft Patches Two Dozen RCE Flaws in Office appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "BAE Systems cyberattack disrupts US federal court operations",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/",
-     "source": "BleepingComputer",
-     "published": "2026-10-16T07:37:35+00:00",
-     "date_only": false,
-     "summary": "The Administrative Office of the US Courts says a cyberattack on government contractor BAE Systems has taken down the notice system used by federal bankruptcy courts. [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/china-linked-hackers-exploited.html",
-     "source": "The Hacker News",
-     "published": "2026-10-16T06:55:55+00:00",
-     "date_only": false,
-     "summary": "The China-nexus cyber espionage group tracked as Armory Castle (previously UNC5221 or Warp Panda) exploited a newly disclosed security flaw in BeyondTrust Remote Support (formerly Bomgar) as a zero-day in late August 2026. The…",
-     "extra": "",
-     "tags": [
-      "Zero-day",
-      "Nation-state"
-     ],
-     "also": []
-    },
-    {
-     "title": "CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During Testing",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html",
-     "source": "The Hacker News",
-     "published": "2026-10-16T06:53:09+00:00",
-     "date_only": false,
-     "summary": "AI agents being tested online reached the live systems of Indian organizations and read business records, including personal data and confidential material, CERT-In said in an advisory on October 15. The agents went beyond their assigned…",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
     }
    ]
   },
   {
    "name": "APAC Watch",
    "stories": [
+    {
+     "title": "Japan's power grid at risk to hackers through 100m home devices",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMmN5bW5xOEFsWm5yLTdqdmtlV0xLcUU0cExOd25EVUozOEgtUzRUUERfUXZ6MG5LVzc5ZEFLU3RFTmc5UDEtUHZYM083MWN2bnU2NWxVYnQtTGNqX0RmQUszQkp1V2gyVFBWZ0x0RElYX2xvZzJMNVotVXgwc2d2RVVpYVJZTzFzRmx2a3JReV83NUtvYU1NbUxyNEZmUUN5OXIwOEQ5YW41S1U3dW10Wg?oc=5",
+     "source": "Nikkei Asia",
+     "published": "2026-10-16T18:55:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
     {
      "title": "Japan’s False Emergency Alert for a 9.9 Earthquake Wasn’t a Cyberattack",
      "subtitle": "",
@@ -499,7 +551,7 @@
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSkVUN2V3eXlvM0Z0SHdIZXloY0hObjVabGRwelphTkc4UHA5RDRaXzl2c0xoSU5DZVhPUjdsalM3RDRzbmJYYmxZb3hhZDJ6NXZxYjU5VW9MNlNNQVFDZkg5eXFrd3ZXZ2FWN01YOVRrZ05JX1dPRHBEYzVrVUxOUUlXaXIyM2QteGlwaUViTEFGbXpHS01ORjRCOVhKdzJDa1gw?oc=5",
      "source": "Bloomberg.com",
-     "published": "2026-10-16T15:03:21+00:00",
+     "published": "2026-10-16T14:57:44+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -633,36 +685,6 @@
      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSDJPVGpBVUI3VTMwelhPMmhoc0RTNWx2Yk0zbzV4T185Qm1RcHFYTU5qTzVya2drb0o3NGNnckRycXpoR0VKN2pUMEpuZkM3blYzS195Z1VLcnJFa3MyQ3d6Z2tnakx3SVN5SGpEd0Nqc083bnlobU5YX0FyT1hydHJyYUJ6OGo3d3J3bWh0eU9adDMtNWRrT2FGaDF3WkktQjRESjlwdjlGd0FBYWfSAVpBVV95cUxOOEYzWjgzYXl0a2ttcUZqN2R1dnFuZUdWeFE3LXFzeFhQVmgtWmFuSFVGTm9lSzYycThia1k3eU9ZanQxRnJ0Vm8tcGtZZzFnMmdHc0dZMlRfZHc?oc=5",
      "source": "MLex",
      "published": "2026-10-16T01:04:36+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Ransomware hits cyber insurance for 47% of Singapore firms",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcXl6X3Fibmpob0lCdThuTkF0SWZwMFYwZW9kZ0R2Z09reE5fWmFIdF9mMkZEOWdhYjRyandrS0stYVRCd1AxQ1I1LWl3U25URUFBNlJmU3ltaHNGQmlldTNFS0tyTTJTRkIyTUltTk5rUGZEaFc5ZzBJWjBZbVJtU2RPR2YxVzEzSUp6cQ?oc=5",
-     "source": "Singapore Business Review",
-     "published": "2026-10-15T21:30:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Ransomware",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "South Korea names two crypto firms in breach wave that also hit major banks",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOb0tMMXoxNTcybkZMcWdLeW8wQXE1NFR2SjlmemdlMlBGeXl0SlR4OVhHVXQ2NkZrWWZlSFhqUm9CLVV2WW9nUjZTR2duVEQ3cU9GX0YzZ0hmcEJWZ0J6UV9CcEdQV0dKQUdMNG9tVjNNV3ROcFZTNi12clFJTGlScWo1WEtoamNvc3RKdklLSDFQaDlhYlhrcmN0dGxYSW1waWc?oc=5",
-     "source": "CryptoSlate",
-     "published": "2026-10-15T19:00:53+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
