@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-16T14:56:18+00:00",
+ "generated": "2026-10-16T18:51:23+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -129,6 +129,71 @@
    "name": "Breaking Threats",
    "stories": [
     {
+     "title": "AI Takes Control of Robotic Arm in 16 Minutes Flat",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/ics-ot-security/ai-takes-control-robotic-arm-16-minutes",
+     "source": "Dark Reading",
+     "published": "2026-10-16T18:37:50+00:00",
+     "date_only": false,
+     "summary": "Most OT devices at utilities, factories, and elsewhere have been deployed for a decade or more, but operators need to get agile and deploy new cyber defenses.",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
+     "source": "The Hacker News",
+     "published": "2026-10-16T17:48:45+00:00",
+     "date_only": false,
+     "summary": "A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address randomization and its SMAP and SMEP…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Zero-click attacks used targeted ads to deliver Candiru spyware",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/",
+     "source": "BleepingComputer",
+     "published": "2026-10-16T17:20:03+00:00",
+     "date_only": false,
+     "summary": "Candiru spyware was delivered to devices at Al Jazeera Media Network via targeted online advertisements in a zero-click attack that required only rendering the malicious ads on the victim's device. [...]",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html",
+     "source": "The Hacker News",
+     "published": "2026-10-16T16:43:39+00:00",
+     "date_only": false,
+     "summary": "Attackers repeatedly changed the files that AOMEI Backupper fetches from the vendor's own update servers, in windows of five to ten minutes at a time between May and July 2026, so that any copy of the Windows backup program that checked…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html",
+     "source": "The Hacker News",
+     "published": "2026-10-16T16:16:44+00:00",
+     "date_only": false,
+     "summary": "Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) spear-phishing campaign that has targeted individuals affiliated with Taiwan research organizations to direct victims to an adversary-in-the-middle…",
+     "extra": "",
+     "tags": [
+      "Phishing",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
      "title": "Proofpoint lines up $6.3 billion deal for Varonis’ data security",
      "subtitle": "",
      "link": "https://therecord.media/proofpoint-varonis-cybersecurity-acquisition",
@@ -152,6 +217,20 @@
      "summary": "Noteworthy stories that might have slipped under the radar: BofA adds 1,000 patching contractors, KGB RAT pairs data theft with jump scares, and Langflow flaw under attack. The post In Other News: ICS-Sniper Attack, Hacking XWorm Malware…",
      "extra": "",
      "tags": [],
+     "also": []
+    },
+    {
+     "title": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html",
+     "source": "The Hacker News",
+     "published": "2026-10-16T14:03:04+00:00",
+     "date_only": false,
+     "summary": "OpenAI has disclosed seven new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior, including one case where its research model, after not having funds on an Ethereum test network, spent test…",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
      "also": []
     },
     {
@@ -259,10 +338,12 @@
       "AI"
      ],
      "also": [
+      "Pasquale Pillitteri",
+      "CyberInsider",
+      "Security Affairs",
       "SQ Magazine",
       "International Business Times, Singapore Edition",
-      "Hackread",
-      "CyberSecurityNews"
+      "Hackread"
      ]
     },
     {
@@ -393,88 +474,41 @@
       "AI"
      ],
      "also": []
-    },
-    {
-     "title": "BeyondTrust patches zero-day exploited in attacks since August",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/",
-     "source": "BleepingComputer",
-     "published": "2026-10-16T06:18:08+00:00",
-     "date_only": false,
-     "summary": "BeyondTrust warned customers on Thursday to patch a critical flaw in its Remote Support (RS) that has been exploited in zero-day attacks since late August. [...]",
-     "extra": "",
-     "tags": [
-      "Zero-day"
-     ],
-     "also": []
-    },
-    {
-     "title": "PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html",
-     "source": "The Hacker News",
-     "published": "2026-10-16T04:59:36+00:00",
-     "date_only": false,
-     "summary": "A suspected advanced threat actor has been observed exploiting a security flaw in Fortinet FortiOS to deliver a previously unreported memory-resident ARM64 malware known as PEERSTITCH. The attack involves the exploitation of CVE-2025-61624…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "SecTor 2026 Reveals a Rapidly Shifting Cybersecurity Landscape",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/cybersecurity-operations/sector-2026-reveals-a-rapidly-shifting-cybersecurity-landscape",
-     "source": "Dark Reading",
-     "published": "2026-10-15T22:10:08+00:00",
-     "date_only": false,
-     "summary": "The event closed in Toronto last week, with experts sharing critical perspectives on emerging risks, drawing record attendance and marking 22% growth.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "F-Secure Launches Victim-First Scam Encyclopedia Covering 50+ Types of Consumer Fraud",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/threat-intelligence/f-secure-launches-victim-first-scam-encyclopedia-covering-50-types-of-consumer-fraud",
-     "source": "Dark Reading",
-     "published": "2026-10-15T21:55:07+00:00",
-     "date_only": false,
-     "summary": "Built from decades of threat intelligence research, the new resource explains scams from the victims' perspective and tracks emerging forms of cyber crime.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Federal bankruptcy courts dealing with outages after contractor cyberattack",
-     "subtitle": "",
-     "link": "https://therecord.media/federal-bankruptcy-courts-dealing-with-cyberattack-outage",
-     "source": "The Record",
-     "published": "2026-10-15T20:46:00+00:00",
-     "date_only": false,
-     "summary": "The incident, which involved a government contractor, has halted all production of bankruptcy notices.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "AI Slop Isn't Just for Social Media; It's Ruining Cyberattacks, Too",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/threat-intelligence/ai-slop-ruining-cyberattacks",
-     "source": "Dark Reading",
-     "published": "2026-10-15T20:43:20+00:00",
-     "date_only": false,
-     "summary": "Don't buy the hype! AI has been dumbing down cyberattacks, and serious threat actors are barely touching it.",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
     }
    ]
   },
   {
    "name": "APAC Watch",
    "stories": [
+    {
+     "title": "Japan’s False Emergency Alert for a 9.9 Earthquake Wasn’t a Cyberattack",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeHF3N0NYMlZwekZ2QVNmbG1JUkRKV1RhRFM0cTF4ZkNuN1k2OHJkLXRvTzlWWEdiZnFFSC1tU0NGcDNreUM0TkViY2FaamowaWlTdHo4NXFqZGE2dHhDaTVSYVYxdWhkNmtWVTJlZmZqUEJ0aERXRVJzUThvRXpLbkZabVJyNmRFal9ISlFuWG5HdFc5Tzd4ZnZhN3daNVpzSHc?oc=5",
+     "source": "Gizmodo",
+     "published": "2026-10-16T18:10:38+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Watch Japan’s Cyberattacks Are an AI Warning",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSkVUN2V3eXlvM0Z0SHdIZXloY0hObjVabGRwelphTkc4UHA5RDRaXzl2c0xoSU5DZVhPUjdsalM3RDRzbmJYYmxZb3hhZDJ6NXZxYjU5VW9MNlNNQVFDZkg5eXFrd3ZXZ2FWN01YOVRrZ05JX1dPRHBEYzVrVUxOUUlXaXIyM2QteGlwaUViTEFGbXpHS01ORjRCOVhKdzJDa1gw?oc=5",
+     "source": "Bloomberg.com",
+     "published": "2026-10-16T15:03:21+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "AI",
+      "APAC"
+     ],
+     "also": []
+    },
     {
      "title": "Comic CMoa and ACCESS confirm two data breaches, from Japan to Taiwan",
      "subtitle": "",
@@ -522,16 +556,15 @@
      "also": []
     },
     {
-     "title": "Japan's Yamato Transport confirms 5.31 mil. customer records leaked",
+     "title": "India’s Top Ethical Hacker Sunny Nehra Is One of His Kind: A Deep Dive Into the Mind, Research and Influence Behind the Name",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB1cFBUclBmRFgzNFFiNS00UnBmakVHWnlramtCS0MwaXJ1LWpZbTZ3aTV0Y1VGQ0l3YmxVeTlOYXZ6bHNXQnFpMTZsZlBzWGkzSEEzMFozUHVNQQ?oc=5",
-     "source": "Japan Wire by Kyodo News",
-     "published": "2026-10-16T08:11:00+00:00",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSHVfcTlnN2tUZnRzSy1BdjRpRHFqM2NiZmhDY0V1bVNaQnRab2NOWXExanRZX2tlMFUzdTRFcVZoYnNVb1R0eTNPYlY1ZXNvOE1ibGwxUi1LYnRMM1FaeXJ1OHRKRVlYR3l5NkxrVzRyQVJ2b2RTX2U2N2Q5ZkFIbzN0SGJ2Nm84ZGhXb1hvbHZTVTAwWS1FN3QxWWdPa0VWaEdFdE1mTHJrTG5Gdzl2dFBhdjhHMmRac1MxXzdMd2NLT2xlU3F6ZjBnTkdySlpJOFFFNF9hdVktdm1o?oc=5",
+     "source": "GBHackers News",
+     "published": "2026-10-16T11:57:35+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
      "tags": [
-      "Breach",
       "APAC"
      ],
      "also": []
@@ -638,42 +671,27 @@
       "APAC"
      ],
      "also": []
-    },
-    {
-     "title": "Millions hit by data breach in Japan: How cyber insurance can protect you against such risks — check costs, coverage",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNVmhQck5BSURNNEhKR1FGbEczejhjVndsOGdSWjkwdnI4SVJ3SHhZNU8yTHNSb2otS0ZRQVhmNGhPTTZUa1ZPNnVqcHJPN0RncDg2UVZLcHZxbGdKQ3YzdTloakVmQ0tSMHEtcHdBektOR0FVUkhOUjdjdVAzQVJQaXhuY19vV3pRSkIxWUdaX2puNEd6aW9yXzJCOXFocGVhdHU5endPb0c1dWdtam5sTGJDWTdQVTNzekNjQktvNlMyOUJHcmlFd0VPc09GbEFkZnRTVDZmam41eHp6cmlXTjlOSnJrN3Nmb0dBUXZURGJxaG5jYWfSAfsBQVVfeXFMTUdjWk9tdS0xRjZsWFNWMHRPVWU3Q3h0cVp1YWRiekd2YTRNakZTaGdfb19UZlI4Q3FCc3owXzFmMjZyMHpYOEVaRnEyaE0zTGFJRXBJVUREdGs1VzJ6bEkyWXowRFRXZzl1YnZCaGYyX3Y2MVYtX1N3dDQ4Z2tWQTR6QVNNMmNvUkQyMmkzRl9rU3RLM1FBQWtDUk9FSi1GUHFPZTJ2dlRJWlM0QmpWejNZbWk1QU5hQlp3bDFwODRjR1VpQ0JXY1oxMllzcDJKdkZoM0hOTDBBV0VmWjU2M1ZGN1d5Nmtzd18taFZxSU92UUdXTFo0b1NZR28?oc=5",
-     "source": "Livemint",
-     "published": "2026-10-15T18:37:56+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Latest India court data breach 'a slap in the face' after disclosures made in 2014",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPYnBhMTgwUW9yNnNxek80YzFtU0phNVFKNDBMd0pDeDZPRXBBTkRkNTVxMzhXU0k5WDBCRmhQYzNtd2x3OWFRLVBqRVk1ZlA1dVJRVzVvY2VUbGV0ZGp1TC1HOVpnengwMTE2T09IcVdDdDM4UUgxLXdWZmpKc2pQeHZud1pqd0tybkgzTl9Cb0JhVDg4MW5VT2dfcDVOa3FkbEVr?oc=5",
-     "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-     "published": "2026-10-15T18:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
     }
    ]
   },
   {
    "name": "Threat Research",
    "stories": [
+    {
+     "title": "Top 5 Initial Access Threat Vectors Observed by Unit 42 in September 2026",
+     "subtitle": "",
+     "link": "https://unit42.paloaltonetworks.com/top-5-initial-access-vectors-september-2026/",
+     "source": "Unit 42",
+     "published": "2026-10-16T17:47:54+00:00",
+     "date_only": false,
+     "summary": "Unit 42 details the top initial access vectors adversaries use to breach organizations, led by edge exploits, credential abuse and phishing The post Top 5 Initial Access Threat Vectors Observed by Unit 42 in September 2026 appeared first…",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "Phishing"
+     ],
+     "also": []
+    },
     {
      "title": "AI-Powered Espionage Campaign Targets Government Linux Infrastructure",
      "subtitle": "",
