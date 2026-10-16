@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-16T10:21:18+00:00",
+ "generated": "2026-10-16T14:56:18+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -129,6 +129,195 @@
    "name": "Breaking Threats",
    "stories": [
     {
+     "title": "Proofpoint lines up $6.3 billion deal for Varonis’ data security",
+     "subtitle": "",
+     "link": "https://therecord.media/proofpoint-varonis-cybersecurity-acquisition",
+     "source": "The Record",
+     "published": "2026-10-16T14:45:00+00:00",
+     "date_only": false,
+     "summary": "Cybersecurity giant Proofpoint says it will acquire Miami-based data visibility and security company Varonis in an all-cash transaction worth $6.3 billion.",
+     "extra": "",
+     "tags": [],
+     "also": [
+      "SecurityWeek"
+     ]
+    },
+    {
+     "title": "In Other News: ICS-Sniper Attack, Hacking XWorm Malware Operators, $250k Chrome Exploit",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/in-other-news-ics-sniper-attack-hacking-xworm-malware-operators-250k-chrome-exploit/",
+     "source": "SecurityWeek",
+     "published": "2026-10-16T14:09:51+00:00",
+     "date_only": false,
+     "summary": "Noteworthy stories that might have slipped under the radar: BofA adds 1,000 patching contractors, KGB RAT pairs data theft with jump scares, and Langflow flaw under attack. The post In Other News: ICS-Sniper Attack, Hacking XWorm Malware…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "When Your Ransomware Negotiator Works for the Other Side",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/cyber-risk/when-your-ransomware-negotiator-works-other-side",
+     "source": "Dark Reading",
+     "published": "2026-10-16T14:00:00+00:00",
+     "date_only": false,
+     "summary": "The shocking arrest of a well-known ransomware negotiator reveals the critical need for vendor program oversight.",
+     "extra": "",
+     "tags": [
+      "Ransomware"
+     ],
+     "also": []
+    },
+    {
+     "title": "Employees using personal ChatGPT at work? Here's what IT admins need to do",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/",
+     "source": "BleepingComputer",
+     "published": "2026-10-16T13:50:59+00:00",
+     "date_only": false,
+     "summary": "Employees using personal ChatGPT accounts at work can expose sensitive company data, even when their organization provides an approved Enterprise workspace. NordLayer explains how IT teams can investigate unauthorized AI use and block…",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "Moscow police detain suspected DataSuckers hackers linked to breaches in Ukraine and Russia",
+     "subtitle": "",
+     "link": "https://therecord.media/russia-datasuckers-hackers-arrested",
+     "source": "The Record",
+     "published": "2026-10-16T13:30:00+00:00",
+     "date_only": false,
+     "summary": "Russian authorities have reportedly detained three suspected members of the DataSuckers hacking group following a cyberattack on a popular restaurant chain that exposed vast amounts of customer information.",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": []
+    },
+    {
+     "title": "Baltimore suburb confirms August data breach after ransomware claims",
+     "subtitle": "",
+     "link": "https://therecord.media/anne-arundel-county-maryland-confirms-data-breach",
+     "source": "The Record",
+     "published": "2026-10-16T13:05:00+00:00",
+     "date_only": false,
+     "summary": "Anne Arundel County, Maryland, said an intruder stole files from government systems, and investigators are working to assess how much data was exposed.",
+     "extra": "",
+     "tags": [
+      "Ransomware",
+      "Breach",
+      "APAC"
+     ],
+     "also": [
+      "BigGo Finance"
+     ]
+    },
+    {
+     "title": "Suspected Chinese espionage attackers abusing BeyondTrust IT support zero-day",
+     "subtitle": "",
+     "link": "https://therecord.media/beyond-trust-cyberattack-china",
+     "source": "The Record",
+     "published": "2026-10-16T13:00:00+00:00",
+     "date_only": false,
+     "summary": "An alleged Chinese state-backed group is using a new zero-day affecting BeyondTrust IT support software to conduct espionage attacks.",
+     "extra": "",
+     "tags": [
+      "Zero-day",
+      "Nation-state"
+     ],
+     "also": []
+    },
+    {
+     "title": "When AI Agents Commit Breaches, Humans May Not Be Held Liable",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/insider-threats/ai-agents-breaches-humans-liable",
+     "source": "Dark Reading",
+     "published": "2026-10-16T13:00:00+00:00",
+     "date_only": false,
+     "summary": "As agents escape containment and access external systems, responsibility remains human. Accountability, however, is much less settled.",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "Burger King Japan data breach exposes 11 million customer records",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/",
+     "source": "BleepingComputer",
+     "published": "2026-10-16T12:01:29+00:00",
+     "date_only": false,
+     "summary": "Burger King Japan, the Japanese subsidiary of global fast-food giant Burger King, disclosed a major data breach after attackers accessed a server containing 11.18 million customer records. [...]",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC",
+      "AI"
+     ],
+     "also": [
+      "SQ Magazine",
+      "International Business Times, Singapore Edition",
+      "Hackread",
+      "CyberSecurityNews"
+     ]
+    },
+    {
+     "title": "BAE Systems Security Incident Stalls Notices From US Bankruptcy Courts",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/bae-systems-security-incident-stalls-notices-from-us-bankruptcy-courts/",
+     "source": "SecurityWeek",
+     "published": "2026-10-16T11:46:40+00:00",
+     "date_only": false,
+     "summary": "A cyber incident affecting contractor BAE Systems has knocked out the Bankruptcy Noticing Center, halting notices nationwide for a week. The post BAE Systems Security Incident Stalls Notices From US Bankruptcy Courts appeared first on…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "AI Decision Models and Their Impact on AI SOC Platforms",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html",
+     "source": "The Hacker News",
+     "published": "2026-10-16T11:30:00+00:00",
+     "date_only": false,
+     "summary": "In the space of a month, a new category of AI model went from nonexistent to everywhere. TypeSafe AI released Jev on September 15 and called it a System One model, a nod to Kahneman's fast, intuitive thinking. OpenAI announced its own…",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "Chinese APT Exploited BeyondTrust Vulnerability as Zero-Day",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/chinese-apt-exploited-beyondtrust-vulnerability-as-zero-day/",
+     "source": "SecurityWeek",
+     "published": "2026-10-16T10:53:22+00:00",
+     "date_only": false,
+     "summary": "Armory Castle exploited CVE-2026-102764 for initial access, deployed custom tools, and deleted logs and artifacts. The post Chinese APT Exploited BeyondTrust Vulnerability as Zero-Day appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [
+      "Zero-day"
+     ],
+     "also": []
+    },
+    {
+     "title": "OpenAI Models Hacked Data Portals, Raided a Crypto Wallet to Finish Tasks",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/openai-models-hacked-data-portals-raided-a-crypto-wallet-to-finish-tasks/",
+     "source": "SecurityWeek",
+     "published": "2026-10-16T10:32:11+00:00",
+     "date_only": false,
+     "summary": "Left without funds for a coding task, an OpenAI model spent test crypto from a stranger’s wallet and left it out of its report. The post OpenAI Models Hacked Data Portals, Raided a Crypto Wallet to Finish Tasks appeared first on…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
      "title": "F5, Juniper Networks Patch Critical Vulnerabilities",
      "subtitle": "",
      "link": "https://www.securityweek.com/f5-juniper-networks-patch-critical-vulnerabilities/",
@@ -172,18 +361,6 @@
      "published": "2026-10-16T07:37:35+00:00",
      "date_only": false,
      "summary": "The Administrative Office of the US Courts says a cyberattack on government contractor BAE Systems has taken down the notice system used by federal bankruptcy courts. [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Proofpoint Inks $6.3 Billion All-Cash Deal to Acquire Varonis",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/proofpoint-inks-6-3-billion-all-cash-deal-to-acquire-varonis/",
-     "source": "SecurityWeek",
-     "published": "2026-10-16T07:12:51+00:00",
-     "date_only": false,
-     "summary": "The Thoma Bravo-owned Proofpoint will acquire Varonis in an all-cash transaction and Varonis will become a private company. The post Proofpoint Inks $6.3 Billion All-Cash Deal to Acquire Varonis appeared first on SecurityWeek .",
      "extra": "",
      "tags": [],
      "also": []
@@ -292,156 +469,6 @@
       "AI"
      ],
      "also": []
-    },
-    {
-     "title": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/",
-     "source": "BleepingComputer",
-     "published": "2026-10-15T20:25:04+00:00",
-     "date_only": false,
-     "summary": "Threat actors are exploiting a critical command execution flaw, now tracked as CVE-2026-110447, in the Collabora Online - Built-in CODE Server app (richdocumentscode) for Nextcloud. [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Critical PwnEscape Linux Kernel Vulnerability Lets Guest VMs Read Host Memory",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/critical-pwnescape-linux-kernel.html",
-     "source": "The Hacker News",
-     "published": "2026-10-15T20:24:36+00:00",
-     "date_only": false,
-     "summary": "A newly disclosed critical flaw in the Linux kernel allows code inside a virtual machine to read memory on the host computer it runs on. A researcher demonstrated the leak against Vercel's live cloud sandboxes, and Vercel confirmed it. The…",
-     "extra": "",
-     "tags": [
-      "Breach"
-     ],
-     "also": []
-    },
-    {
-     "title": "Android gets AI defenses against messaging scams, fake calls",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/android-gets-ai-defenses-against-messaging-scams-fake-calls/",
-     "source": "BleepingComputer",
-     "published": "2026-10-15T19:48:43+00:00",
-     "date_only": false,
-     "summary": "Google announced new AI-powered defenses against scam messages and call-forwarding abuse on Android, currently rolling out to eligible devices. [...]",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Zero-click spyware infecting devices through online ads, researchers say",
-     "subtitle": "",
-     "link": "https://therecord.media/spyware-citizen-lab-advertising",
-     "source": "The Record",
-     "published": "2026-10-15T19:00:00+00:00",
-     "date_only": false,
-     "summary": "Powerful zero-click spyware is infected devices worldwide through targeted ads, new research shows — an alarming development in the spread of surveillance technology.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "ThreatsDay: Adobe RCE, DNS Wallet Theft, NVIDIA Container Escape, Self-Healing Backdoor + 23 More",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/threatsday-adobe-rce-dns-wallet-theft.html",
-     "source": "The Hacker News",
-     "published": "2026-10-15T18:49:33+00:00",
-     "date_only": false,
-     "summary": "Someone built a tool to steal data, then decided it should scare the victim for fun. Yes, that’s an actual feature. And somehow, it fits right in with this week's security stories. The rest gets interesting in different ways. A small…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Hackers hijack D-Link, Ubiquiti devices to resell your stolen bandwidth",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-d-link-ubiquiti-devices-to-resell-your-stolen-bandwidth/",
-     "source": "BleepingComputer",
-     "published": "2026-10-15T18:20:59+00:00",
-     "date_only": false,
-     "summary": "A proxyjacking campaign has impacted devices in 34 countries, monetizing victims' internet connections through a commercial residential proxy network. [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Context Is King in the Fight Against Modern Cyberattacks",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/context-is-king-in-the-fight-against-modern-cyberattacks/",
-     "source": "SecurityWeek",
-     "published": "2026-10-15T17:42:50+00:00",
-     "date_only": false,
-     "summary": "Contextual defense helps security teams connect the signals, anticipate what comes next, and stop threats before they escalate. The post Context Is King in the Fight Against Modern Cyberattacks appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Fake Arch Linux packages push malware with root privileges",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/fake-arch-linux-packages-push-malware-with-root-privileges/",
-     "source": "BleepingComputer",
-     "published": "2026-10-15T17:12:31+00:00",
-     "date_only": false,
-     "summary": "A threat actor uploaded malicious packages to the Arch User Repository (AUR) that impersonated two popular helper tools, yay and paru. [...]",
-     "extra": "",
-     "tags": [
-      "Supply chain"
-     ],
-     "also": []
-    },
-    {
-     "title": "Watch Now: Zero Trust Strategies Summit – All Sessions Available on Demand",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/virtual-event-today-zero-trust-strategies-summit-2/",
-     "source": "SecurityWeek",
-     "published": "2026-10-15T16:51:34+00:00",
-     "date_only": false,
-     "summary": "This summit is laser-focused on the next generation of Zero Trust and Identity security, moving beyond theory to deliver actionable strategies. The post Watch Now: Zero Trust Strategies Summit – All Sessions Available on Demand appeared…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Citizen Lab Traces Zero-Click Candiru Spyware Infections at Al Jazeera to Targeted Online Ads",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/citizen-lab-traces-zero-click-candiru.html",
-     "source": "The Hacker News",
-     "published": "2026-10-15T16:01:57+00:00",
-     "date_only": false,
-     "summary": "Candiru, an Israeli maker of spyware sold to governments, infected devices at the news network Al Jazeera through ordinary online ads, in attacks that needed no click or other action from the user, researchers at the Citizen Lab said…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Silent Lynx Exploits WinRAR Flaw to Deploy Reverse Shell in CIS Government Attacks",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/silent-lynx-exploits-winrar-flaw-to.html",
-     "source": "The Hacker News",
-     "published": "2026-10-15T16:00:26+00:00",
-     "date_only": false,
-     "summary": "The threat actor known as Silent Lynx has been attributed to a fresh set of attacks targeting government organizations across the Commonwealth of Independent States (CIS). The activity, observed from June 2025 through August 2026, involves…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Vulnerability Management Isn't About the Score — It's About How It Applies to You",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/cybersecurity-operations/vulnerability-management-isnt-about-the-score-its-about-how-it-applies-to-you",
-     "source": "Dark Reading",
-     "published": "2026-10-15T15:17:18+00:00",
-     "date_only": false,
-     "summary": "Organizations need to move away from vendor-assigned, theoretical scores toward real exploit data specific to their environments.",
-     "extra": "",
-     "tags": [],
-     "also": []
     }
    ]
   },
@@ -449,11 +476,11 @@
    "name": "APAC Watch",
    "stories": [
     {
-     "title": "Burger King Japan Data Breach Impacts 11.18 Million App Member Records",
+     "title": "Comic CMoa and ACCESS confirm two data breaches, from Japan to Taiwan",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE84akh0SVI0WUpRQVBaX1c1STJZTDBZTlpBdnJtSnVOWjlGUFFGS2NXWFZ1ZW1kZlpDeTg5RlhKdnlxNkFaYTNhaDNGUVJOODRXM3c2a1lyUmxvMGtaV1p1VkFkaXZyUWNzc0d6eHhFSlBjOGw4cXM5ZUIxUkhWdkk?oc=5",
-     "source": "Hackread",
-     "published": "2026-10-16T10:03:41+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSWtHQ0pyYktmV3RqS1lzdnlWNGNIYTlmWXU1YlJRcnh6bmp1aXo3aHZ6RFphVFNvb3BacXJ0Tm9ibENGTVdSQ0FMNmdWeVB5MlNNOVIwejNJNFBLbkNjRlFhaTVKVWlXa2oyejRtb2kwdFE2Y2FuNTNyMnpFZ0hQcUFrbUpMZ3ZRc0d6QzBjcVN6elE0Y3JheDMyQm5NQTc1U3c?oc=5",
+     "source": "Pasquale Pillitteri",
+     "published": "2026-10-16T14:18:58+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -461,10 +488,38 @@
       "Breach",
       "APAC"
      ],
-     "also": [
-      "MLex",
-      "CyberSecurityNews"
-     ]
+     "also": []
+    },
+    {
+     "title": "Millions of personal records in Japan, South Korea exposed amid surge in AI-powered cyberattacks",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRDNSdVJydnU2SmtVblN0YnpXNXh0THFncXBxNEV5X2Fqd0RES0pyTTY1UjRjWHN1LThtWElKYUVyNi1nYl9Scnh2azFad2p0Qks3dlZkTXZvZ21fckpoU3phT1FnODZ0V3prUTR5RWNlTUlPczBldUlmLWlYbFU4NTZsVHY4QXVqRTl2WlQ4Tkx0eGh5X2hFakRlYjB3T1VEVVNnX0xyWVRMMzd2bGpjWm5qdnJjQzJYRFRpUDdZUmctVU1iUEVCbUtHTXZBQjNxa0JoTGRR?oc=5",
+     "source": "The Straits Times",
+     "published": "2026-10-16T13:45:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "AI",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Singapore Reports Higher AI Linked Ransomware Attacks",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qU0wxN3hrdHcyTVVWb0NiYkZKRGVsZEUzUWU1SEN1ZmhIRjFiNW1rRXp6emdqcEUwNmUzX0p0dEF1LVd4ZVBjY25VQ1JTd2FMb1BtLUdtQzdjTzJVRUVsT0EzR3BGWmF0T1NPWHNn?oc=5",
+     "source": "SuaraGarut.ID",
+     "published": "2026-10-16T13:20:51+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Ransomware",
+      "AI",
+      "APAC"
+     ],
+     "also": []
     },
     {
      "title": "Japan's Yamato Transport confirms 5.31 mil. customer records leaked",
@@ -492,20 +547,6 @@
      "extra": "",
      "tags": [
       "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Microsoft disrupts Japan-linked global cybercrime network",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdVI2QnBCZTdKclF6YnZVVUFhYVBOMG50ZVFPZkVTbzZQRlc3UDBORFpxNUZUTTJSRncwT2tjei1mY0JuMU9vcGVkS3J2Z3BCellCcXhJQlg0SlE4LVl3U3NpdlVuVnNaaFo0S2c2VlQ5a3pqZ0QzczdGRE1iMklIeUx5VFhGcmNiaTdWV2xvM3ZlamJhblZtYks3YVVoc3Z3X0E?oc=5",
-     "source": "Telecompaper",
-     "published": "2026-10-16T05:39:04+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
       "APAC"
      ],
      "also": []
@@ -554,6 +595,21 @@
      "also": []
     },
     {
+     "title": "Japan's Burger King reports data breach affecting 11m app accounts",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSDJPVGpBVUI3VTMwelhPMmhoc0RTNWx2Yk0zbzV4T185Qm1RcHFYTU5qTzVya2drb0o3NGNnckRycXpoR0VKN2pUMEpuZkM3blYzS195Z1VLcnJFa3MyQ3d6Z2tnakx3SVN5SGpEd0Nqc083bnlobU5YX0FyT1hydHJyYUJ6OGo3d3J3bWh0eU9adDMtNWRrT2FGaDF3WkktQjRESjlwdjlGd0FBYWfSAVpBVV95cUxOOEYzWjgzYXl0a2ttcUZqN2R1dnFuZUdWeFE3LXFzeFhQVmgtWmFuSFVGTm9lSzYycThia1k3eU9ZanQxRnJ0Vm8tcGtZZzFnMmdHc0dZMlRfZHc?oc=5",
+     "source": "MLex",
+     "published": "2026-10-16T01:04:36+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
      "title": "Ransomware hits cyber insurance for 47% of Singapore firms",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNcXl6X3Fibmpob0lCdThuTkF0SWZwMFYwZW9kZ0R2Z09reE5fWmFIdF9mMkZEOWdhYjRyandrS0stYVRCd1AxQ1I1LWl3U25URUFBNlJmU3ltaHNGQmlldTNFS0tyTTJTRkIyTUltTk5rUGZEaFc5ZzBJWjBZbVJtU2RPR2YxVzEzSUp6cQ?oc=5",
@@ -566,9 +622,7 @@
       "Ransomware",
       "APAC"
      ],
-     "also": [
-      "Asian Business Review"
-     ]
+     "also": []
     },
     {
      "title": "South Korea names two crypto firms in breach wave that also hit major banks",
@@ -611,37 +665,6 @@
      "extra": "",
      "tags": [
       "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "AI and Ransomware Threats Top ASEAN Agenda, BSSN Chief Urges Joint",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUDEtS0k3WFlKalFnMnVUcjBXVHFCNmxHdXBSNWFXay1DM2l4ODVfMENnRUJDY3pmd0FobzVMM3ppU1V3Y0ZzQ3F6bzJiSWV6TUUwYzVrSHI4Wkk1RXphZmRfdU0wU2V0dnlXYU16MnMxNmhGVzlPcXZ6WjZPbWRqSnRNVEFSR0ZFRXZEMzhQT3FsZVpiMm9raGpqVXUtSzA?oc=5",
-     "source": "Aktualita.co",
-     "published": "2026-10-15T11:15:41+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Ransomware",
-      "AI",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "String of Ransomware Cyber Attacks Prompts First \"Cybersecurity State of Emergency\" Declaration From Japan",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTVZJV0hlQW5UcjM4QUI4bE5BTFdXczFVUDRMOU5yclFOZGpzX181MTRRelBiWWd6ZmtzWlU0SnNudWd5RlE2OE5LUDQtSmRneDNlNVhYSExCUU5pdGpVQndQZnNLdURIdEJtM1AxbGpaNDVhWEVCVDhGd1FacWU3b28yRnRvNkZCRWo4UFBxMVBKQ2NTM0JOek0xNlBHZ2QyN2F2T3pNaEM3eEhJb2RoWVNwNTQ5VjFDMHd3Zk1OWGQxN1RpN0w0SVVOd1JFTElLVWxZMXFfODF4clBRekJTWnlR?oc=5",
-     "source": "CPO Magazine",
-     "published": "2026-10-15T11:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Ransomware",
       "APAC"
      ],
      "also": []
@@ -689,6 +712,20 @@
      "summary": "Written by: Jayson Frost, Bryce Greathouse, Brian Meyer, John Palmisano, Rajesh Rajeshirke, Steve Rasch, John Wolfram Introduction On October 15, BeyondTrust disclosed a vulnerability, CVE-2026-102764, impacting BeyondTrust Remote Support…",
      "extra": "",
      "tags": [],
+     "also": []
+    },
+    {
+     "title": "Investigating Ephemeral Supply Chain Tampering",
+     "subtitle": "",
+     "link": "https://cloud.google.com/blog/topics/threat-intelligence/investigating-ephemeral-supply-chain-tampering/",
+     "source": "Google Threat Intelligence",
+     "published": "2026-10-15T11:00:00+00:00",
+     "date_only": false,
+     "summary": "Written by: Tyler McLellan Introduction Google Threat Intelligence Group (GTIG) and Mandiant investigated a software supply chain compromise campaign targeting the update infrastructure belonging to AOMEI Technology between April 2026 and…",
+     "extra": "",
+     "tags": [
+      "Supply chain"
+     ],
      "also": []
     },
     {
