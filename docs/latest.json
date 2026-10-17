@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17T19:31:17+00:00",
+ "generated": "2026-10-17T22:27:00+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -216,52 +216,26 @@
      "extra": "",
      "tags": [],
      "also": []
-    },
-    {
-     "title": "BeyondTrust Remote Support Zero-Day Continues Trend of Exploited Edge Bugs",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/endpoint-security/beyondtrust-remote-support-exploited-edge-bugs",
-     "source": "Dark Reading",
-     "published": "2026-10-16T20:34:37+00:00",
-     "date_only": false,
-     "summary": "Ivanti, Cisco, and Palo Alto Networks all had vulnerabilities in edge devices come under fire this week. Now BeyondTrust joins the group.",
-     "extra": "",
-     "tags": [
-      "Zero-day"
-     ],
-     "also": []
-    },
-    {
-     "title": "Critical BlockStrap flaw lets hackers run code on Magento servers",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/",
-     "source": "BleepingComputer",
-     "published": "2026-10-16T20:00:59+00:00",
-     "date_only": false,
-     "summary": "Researchers warn that hackers could soon exploit a maximum-severity vulnerability (CVE-2026-103849) affecting Magento and Adobe Commerce, potentially allowing them to execute arbitrary PHP code on store servers. [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Fake Claude, ChatGPT Attacks Surge, Putting Developers at Risk",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/application-security/fake-claude-chatgpt-attacks-developers-risk",
-     "source": "Dark Reading",
-     "published": "2026-10-16T19:49:30+00:00",
-     "date_only": false,
-     "summary": "Campaigns that impersonate popular AI brands are on the rise, and they typically use ClickFix-like tactics to target unsuspecting enterprise employees.",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
     }
    ]
   },
   {
    "name": "APAC Watch",
    "stories": [
+    {
+     "title": "Vietnam proposed Russia to unite in the fight against cyber threats",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaElOVG9vVFduMUdEMGM1enhmQVQyQVFFWTVZQ09abTNURWdGNzFCZ2llcXQwcU5ERlExeXd6Z2V6dzdqaktfRW1LMlpGeFhySVBoWjRmNDZfYk9BbWtnb3BNdk1kZFhHRDk2UzhKc2NMLTQyY3ZjRmI1dUNablZtWU5MRE1kdlp5Uko3bXVZdnFKQ3lwRXJWdUdQcl9NQk1pcUFV0gGoAUFVX3lxTE9tZ1ZyOU81VVl0cjFlOU1IV01LX1ZsWWk1YUtQbjVJSFQwTVY4WWxfUWZkeHpJREttZzhwZG9DSUNRRmFHdG5vdTNyYWsycVBkNHlFNi1KZkQ3NkRfRkRTQXY3TDFpYWkxc1lubFRGampGXzRjRlpuVy1DRURGRVhSbEpmVDdYRE1DTmFMYlN1eF9fT0g5WHFSMVZ2ajBGa19PQl9hV0RmaQ?oc=5",
+     "source": "www1.ru",
+     "published": "2026-10-17T08:09:45+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
     {
      "title": "Cybersecurity in Singapore: How AI Is Changing Data Protection and Business Risk",
      "subtitle": "",
@@ -293,11 +267,11 @@
      "also": []
     },
     {
-     "title": "More Japanese firms disclose details of data breaches",
+     "title": "Cyberattacks continue to menace Japan as more firms disclose data breaches",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdXRsVTNfWk0yMDg4anlYa1lkOFJMODBBREtfa3Y4cUZBb1VnRkY0azdhclc2dmZncm41Z1pHcnBPd2hMblBILUw2SFBLY3VNSHdBZGZxZHdsUHJ2RzFsQVZLQ0w4SUk5cWJGaHBqUzdCdjhqZzgxQUlWOVU2NkRNWURNME5lbWZBdmZoemU5RGltdmZDNTFxZDc5dC1fTUdRM0E?oc=5",
-     "source": "Tuoi Tre News | The News Gateway to Vietnam",
-     "published": "2026-10-17T04:26:00+00:00",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdmhxa2cyWWdDTXJ1c241b3F3YnVJQjBsU3FWRVdZUXB4M2lFMFBMTm9LRG5VYm1mSEVTRkVDQ1E5RXJhandvRGJOMGtlb01xTmhnMm5RcFhBa1FyZ1h0OWRyejF1N1QwQVplTU5ZeXQxQnhjMUxOQlZNc1hCQ0FIN19ieTZHWnBFcXdCS3lJY3hjZw?oc=5",
+     "source": "The Japan Times",
+     "published": "2026-10-17T02:04:00+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -305,9 +279,7 @@
       "Breach",
       "APAC"
      ],
-     "also": [
-      "The Japan Times"
-     ]
+     "also": []
     },
     {
      "title": "Mint Explainer | India issues first ever AI agent cyber-attack warning. What’s really at stake?",
@@ -320,20 +292,6 @@
      "extra": "",
      "tags": [
       "AI",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Japan inundated with cyberattacks",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9MaHI2SkJXWDhXM0YyaUlOVC1heVJiSlJoLXlDaks3bGJjTnpTM2lTWl8wTzN6eG1DTjRuWWtudnRsajFUR2N5eDYzZldGeFFISE9NVWFHeDhaQlN2Slp2VF9EXzA4V1pJNlM5LXVYUm5pZS1WUHNR?oc=5",
-     "source": "Business Insurance",
-     "published": "2026-10-16T19:40:47+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
       "APAC"
      ],
      "also": []
