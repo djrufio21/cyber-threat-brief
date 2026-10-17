@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17T17:19:05+00:00",
+ "generated": "2026-10-17T19:31:17+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -256,90 +256,12 @@
       "AI"
      ],
      "also": []
-    },
-    {
-     "title": "Biomemory Launches DNA Shield, First Commercial Product Built on Its Molecular IT Platform",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/data-privacy/biomemory-launches-dna-shield",
-     "source": "Dark Reading",
-     "published": "2026-10-16T19:22:12+00:00",
-     "date_only": false,
-     "summary": "The launch follows the acquisition of catalog's assets and the appointment of Laurent Guengant as CEO earlier this year.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Enterprise AI Enters Risk Management Phase as Security Concerns Rise",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/cyber-risk/enterprise-ai-risk-management-phase-security-concerns-rise",
-     "source": "Dark Reading",
-     "published": "2026-10-16T19:13:59+00:00",
-     "date_only": false,
-     "summary": "Companies are increasingly discovering that the challenge with AI is no longer adoption, but execution.",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "AI Takes Control of Robotic Arm in 16 Minutes Flat",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/ics-ot-security/ai-takes-control-robotic-arm-16-minutes",
-     "source": "Dark Reading",
-     "published": "2026-10-16T18:37:50+00:00",
-     "date_only": false,
-     "summary": "Most OT devices at utilities, factories, and elsewhere have been deployed for a decade or more, but operators need to get agile and deploy new cyber defenses.",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
-     "source": "The Hacker News",
-     "published": "2026-10-16T17:48:45+00:00",
-     "date_only": false,
-     "summary": "A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address randomization and its SMAP and SMEP…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Targeted ads installed Candiru spyware in zero-click attacks",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/",
-     "source": "BleepingComputer",
-     "published": "2026-10-16T17:20:03+00:00",
-     "date_only": false,
-     "summary": "Candiru spyware was delivered to devices at Al Jazeera Media Network via targeted online advertisements in a zero-click attack that required only rendering the malicious ads on the victim's device. [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
     }
    ]
   },
   {
    "name": "APAC Watch",
    "stories": [
-    {
-     "title": "Vietnam proposed Russia to unite in the fight against cyber threats",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaElOVG9vVFduMUdEMGM1enhmQVQyQVFFWTVZQ09abTNURWdGNzFCZ2llcXQwcU5ERlExeXd6Z2V6dzdqaktfRW1LMlpGeFhySVBoWjRmNDZfYk9BbWtnb3BNdk1kZFhHRDk2UzhKc2NMLTQyY3ZjRmI1dUNablZtWU5MRE1kdlp5Uko3bXVZdnFKQ3lwRXJWdUdQcl9NQk1pcUFV0gGoAUFVX3lxTE9tZ1ZyOU81VVl0cjFlOU1IV01LX1ZsWWk1YUtQbjVJSFQwTVY4WWxfUWZkeHpJREttZzhwZG9DSUNRRmFHdG5vdTNyYWsycVBkNHlFNi1KZkQ3NkRfRkRTQXY3TDFpYWkxc1lubFRGampGXzRjRlpuVy1DRURGRVhSbEpmVDdYRE1DTmFMYlN1eF9fT0g5WHFSMVZ2ajBGa19PQl9hV0RmaQ?oc=5",
-     "source": "www1.ru",
-     "published": "2026-10-17T08:09:45+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
     {
      "title": "Cybersecurity in Singapore: How AI Is Changing Data Protection and Business Risk",
      "subtitle": "",
@@ -415,51 +337,6 @@
       "APAC"
      ],
      "also": []
-    },
-    {
-     "title": "Japan's power grid at risk to hackers through 100m home devices",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMmN5bW5xOEFsWm5yLTdqdmtlV0xLcUU0cExOd25EVUozOEgtUzRUUERfUXZ6MG5LVzc5ZEFLU3RFTmc5UDEtUHZYM083MWN2bnU2NWxVYnQtTGNqX0RmQUszQkp1V2gyVFBWZ0x0RElYX2xvZzJMNVotVXgwc2d2RVVpYVJZTzFzRmx2a3JReV83NUtvYU1NbUxyNEZmUUN5OXIwOEQ5YW41S1U3dW10Wg?oc=5",
-     "source": "Nikkei Asia",
-     "published": "2026-10-16T18:55:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Japan’s False Emergency Alert for a 9.9 Earthquake Wasn’t a Cyberattack",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeHF3N0NYMlZwekZ2QVNmbG1JUkRKV1RhRFM0cTF4ZkNuN1k2OHJkLXRvTzlWWEdiZnFFSC1tU0NGcDNreUM0TkViY2FaamowaWlTdHo4NXFqZGE2dHhDaTVSYVYxdWhkNmtWVTJlZmZqUEJ0aERXRVJzUThvRXpLbkZabVJyNmRFal9ISlFuWG5HdFc5Tzd4ZnZhN3daNVpzSHc?oc=5",
-     "source": "Gizmodo",
-     "published": "2026-10-16T18:10:38+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Burger King Japan confirms data breach, 11.18 million app records",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOW40MkxoeDZ3OWJBSjJDcHJ2eXVmR3hYMVZUYTJiLUtBcENjSk9jZEdzNUpOZ2ttRU5pMzZQd3BoLUpjQWtXOVhLUEJlVlZRU1NXaEs5Q2xBSy1paVlhQ1ZmSExTTEJEVjhjLUs0Wlp5cmlBYWx2OER4cTFzcWJtMnVJdTBGQmg1OXRVc181b0x1R19LaHdLUFFxRXlzbUJsZUVhYkJJc3Y?oc=5",
-     "source": "Pasquale Pillitteri",
-     "published": "2026-10-16T18:04:35+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": [
-      "CyberInsider"
-     ]
     }
    ]
   },
