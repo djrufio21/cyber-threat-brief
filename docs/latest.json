@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17T00:35:34+00:00",
+ "generated": "2026-10-17T05:41:41+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -441,9 +441,11 @@
       "AI"
      ],
      "also": [
+      "CyberSecurityNews",
       "Pasquale Pillitteri",
       "CyberInsider",
       "Security Affairs",
+      "SecNews.gr",
       "SQ Magazine",
       "International Business Times, Singapore Edition",
       "Hackread"
@@ -519,6 +521,35 @@
    "name": "APAC Watch",
    "stories": [
     {
+     "title": "Cyberattacks continue to menace Japan as more firms disclose data breaches",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdmhxa2cyWWdDTXJ1c241b3F3YnVJQjBsU3FWRVdZUXB4M2lFMFBMTm9LRG5VYm1mSEVTRkVDQ1E5RXJhandvRGJOMGtlb01xTmhnMm5RcFhBa1FyZ1h0OWRyejF1N1QwQVplTU5ZeXQxQnhjMUxOQlZNc1hCQ0FIN19ieTZHWnBFcXdCS3lJY3hjZw?oc=5",
+     "source": "The Japan Times",
+     "published": "2026-10-17T02:04:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Japan inundated with cyberattacks",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9MaHI2SkJXWDhXM0YyaUlOVC1heVJiSlJoLXlDaks3bGJjTnpTM2lTWl8wTzN6eG1DTjRuWWtudnRsajFUR2N5eDYzZldGeFFISE9NVWFHeDhaQlN2Slp2VF9EXzA4V1pJNlM5LXVYUm5pZS1WUHNR?oc=5",
+     "source": "Business Insurance",
+     "published": "2026-10-16T19:40:47+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
      "title": "Japan's power grid at risk to hackers through 100m home devices",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMmN5bW5xOEFsWm5yLTdqdmtlV0xLcUU0cExOd25EVUozOEgtUzRUUERfUXZ6MG5LVzc5ZEFLU3RFTmc5UDEtUHZYM083MWN2bnU2NWxVYnQtTGNqX0RmQUszQkp1V2gyVFBWZ0x0RElYX2xvZzJMNVotVXgwc2d2RVVpYVJZTzFzRmx2a3JReV83NUtvYU1NbUxyNEZmUUN5OXIwOEQ5YW41S1U3dW10Wg?oc=5",
@@ -577,6 +608,22 @@
      "also": []
     },
     {
+     "title": "Why Japan’s lean supply chains are proving a soft target for ransomware",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdGxHV21JZ2pWVllFUnVqY0Vid3JUNTZnUTRLay1JYmZlT1BrT0UyMzFkNnN0SkhzY2o5S3VBVnA1WlZIRk92SEZYRXlVTk04ZGgzS1ZhTlhLR3ltUzUyTUJCVTM1VTFlRnp3Q0xyX2JGdWZTeU51X21TMEIyc3dTUldZcExLTXZCbVFIWG9BMzRlLVA3LV9mc3QxU29RaGpjM0Y5bzlURmhid1JwZFlYOGxQSk9MQk1fMmpITlVfUlJqcVl4bTlybWpWcUJ2d1paM0dvTzhhcmlGZw?oc=5",
+     "source": "StrategicRISK Europe",
+     "published": "2026-10-16T13:45:13+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Ransomware",
+      "Supply chain",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
      "title": "Millions of personal records in Japan, South Korea exposed amid surge in AI-powered cyberattacks",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRDNSdVJydnU2SmtVblN0YnpXNXh0THFncXBxNEV5X2Fqd0RES0pyTTY1UjRjWHN1LThtWElKYUVyNi1nYl9Scnh2azFad2p0Qks3dlZkTXZvZ21fckpoU3phT1FnODZ0V3prUTR5RWNlTUlPczBldUlmLWlYbFU4NTZsVHY4QXVqRTl2WlQ4Tkx0eGh5X2hFakRlYjB3T1VEVVNnX0xyWVRMMzd2bGpjWm5qdnJjQzJYRFRpUDdZUmctVU1iUEVCbUtHTXZBQjNxa0JoTGRR?oc=5",
@@ -622,69 +669,26 @@
      "also": []
     },
     {
-     "title": "Shinhan Bank, Hit by 25,000-Customer Data Breach, Has Lowest Security Budget Among South Korea's Big Five Banks",
+     "title": "Rogue AI Agents Breach Indian Firms’ Live Systems, Government Warns",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1idG52Z2ZDMkQ1SkFKaEhVUlNaaGdYamJ1N1ZxMGdOYkhkNkg5b0h6RWNhZy1iR29CRi1ER3hVUHc2WFI0OVE3Xzh5QmZzR2hSVDNZNDJQdEhzZ3lEY1pMZlBYY0xROXI0V1EwMUtHaDJaS2hOa3c?oc=5",
-     "source": "BigGo Finance",
-     "published": "2026-10-16T06:25:00+00:00",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYzFZaEJJUUxuRk9PamhCaUM4a3dXM2ZvMjhBeUtnSVEzNklxdURiTF9CMEg5UzBiYXN5VUdXQnJiRGVNNmRsNHNTOG5LRlk4WWk3QkxDU3l4NGlncXhSRTFxVjRDeUp1Xzk3RFltMXRFanRpV0pQZnpUek9PVWhmbVhqaVplanNZRXltQXdJeFptVnda?oc=5",
+     "source": "Unique Times Magazine",
+     "published": "2026-10-16T10:30:14+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
      "tags": [
       "Breach",
-      "APAC"
+      "AI"
      ],
      "also": []
     },
     {
-     "title": "Hackers Target 60 Indian Banking and UPI Apps With New GhostBat Android Malware",
+     "title": "Shinhan Bank, Hit by 25,000-Customer Data Breach, Has Lowest Security Budget Among South Korea's Big Five Banks",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBPR09Wb28yNDRSWWI1dmprR3laZ3ZvZWlwZzhWN2VMYzA1bzNUcHZ6dWdLX3VyajdiM0pnOXE2bGVTX2MzQ3JuTzFnVDM5Q0VhLWlEWXZsczdnSW5Hal9ITTB6NWlYVkExVktN0gFrQVVfeXFMUE9HT1ZvbzI0NFJZYjV2amtHeVpndm9laXBnOFY3ZUxjMDVvM1Rwdnp1Z0tfdXJqN2IzSmc5cTZsZVNfYzNDcm5PMWdUMzlDRWEtaURZdmxzN2dJbkdqX0hNMHo1aVhWQTFWS00?oc=5",
-     "source": "CyberSecurityNews",
-     "published": "2026-10-16T05:32:49+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Japan Declares Cybersecurity Emergency: AI Cyberattacks Hit 14 Million People and 495 Businesses",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWTFzTy00THBpMjQzbnlSNHZrZ3ctRzZWcVN5MGpWVDNwOEN6TFRNT3Z1cDY2Q0dJLWxySUMwa0p1dUtsZDJHci1EMC1WVmNsS3BMQzVwMFZ1eTVXSnlSaEo4MVhTSFFJYUdKajFhNjMzVzMzenlGMWF0TG5wbExycG9JdjV6Z25BVkZjMlNSOHlfbVk4Xy1Xdk1Fd1hYeDkxbGsxWDR3STR4X1U0cVRYaFpYWkdHRUctWmpCVVBuWDlFMzRINlViSjRR?oc=5",
-     "source": "Sify News",
-     "published": "2026-10-16T04:36:50+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "AI",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Singapore faces AI-linked ransomware at 1.5 times global",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSjRLNktfaDRqWE5GTTZxUHdLbWlYa0hTTDlHWFgyU3cwalc3emlCYm11Wmc0VUV2SHhBd2lyUml1UllORzljSFQ3cHRGckdkdzVIVUpMQlEtZExZNVVIOW05Yk15YUE5M3JKMHpGdEtVU2hnQnZlNDJfNm9YUlZNWWtCYjRPNW1NQ0xBUDNqNUpZV3c?oc=5",
-     "source": "SecurityBrief Asia",
-     "published": "2026-10-16T03:11:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Ransomware",
-      "AI",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Japan's Burger King reports data breach affecting 11m app accounts",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSDJPVGpBVUI3VTMwelhPMmhoc0RTNWx2Yk0zbzV4T185Qm1RcHFYTU5qTzVya2drb0o3NGNnckRycXpoR0VKN2pUMEpuZkM3blYzS195Z1VLcnJFa3MyQ3d6Z2tnakx3SVN5SGpEd0Nqc083bnlobU5YX0FyT1hydHJyYUJ6OGo3d3J3bWh0eU9adDMtNWRrT2FGaDF3WkktQjRESjlwdjlGd0FBYWfSAVpBVV95cUxOOEYzWjgzYXl0a2ttcUZqN2R1dnFuZUdWeFE3LXFzeFhQVmgtWmFuSFVGTm9lSzYycThia1k3eU9ZanQxRnJ0Vm8tcGtZZzFnMmdHc0dZMlRfZHc?oc=5",
-     "source": "MLex",
-     "published": "2026-10-16T01:04:36+00:00",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1idG52Z2ZDMkQ1SkFKaEhVUlNaaGdYamJ1N1ZxMGdOYkhkNkg5b0h6RWNhZy1iR29CRi1ER3hVUHc2WFI0OVE3Xzh5QmZzR2hSVDNZNDJQdEhzZ3lEY1pMZlBYY0xROXI0V1EwMUtHaDJaS2hOa3c?oc=5",
+     "source": "BigGo Finance",
+     "published": "2026-10-16T06:25:00+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -712,6 +716,18 @@
       "Breach",
       "Phishing"
      ],
+     "also": []
+    },
+    {
+     "title": "Inbox flooded with sign-up messages? Email bombing explained",
+     "subtitle": "",
+     "link": "https://www.welivesecurity.com/en/cybersecurity/inbox-flooded-signup-messages-email-bombing/",
+     "source": "ESET Research",
+     "published": "2026-10-16T09:00:00+00:00",
+     "date_only": false,
+     "summary": "If you’re suddenly being overwhelmed with sign-up emails, it could very well be a sign of something more serious",
+     "extra": "",
+     "tags": [],
      "also": []
     },
     {
@@ -947,42 +963,6 @@
      "published": "2026-10-15T01:00:00+00:00",
      "date_only": false,
      "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Adobe Monthly Security Update (October 2026)",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-october-2026",
-     "source": "HKCERT",
-     "published": "2026-10-14T03:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "MongoDB Multiple Vulnerabilities",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/mongodb-multiple-vulnerabilities_20261014",
-     "source": "HKCERT",
-     "published": "2026-10-14T03:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Protecting operational technology and edge devices",
-     "subtitle": "",
-     "link": "https://www.cyber.gov.au/alert/protecting-operational-technology-and-edge-devices",
-     "source": "ACSC Australia",
-     "published": "2026-10-14T02:17:37+00:00",
-     "date_only": false,
-     "summary": "Alert on the cyber security risks to operational technology (OT), including refrigeration and cooling technology, with mitigation advice and guidance for businesses and organisations that operate this technology.",
      "extra": "",
      "tags": [],
      "also": []
