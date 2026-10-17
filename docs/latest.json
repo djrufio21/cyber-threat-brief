@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17T05:41:41+00:00",
+ "generated": "2026-10-17T10:57:27+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -163,6 +163,18 @@
    "name": "Breaking Threats",
    "stories": [
     {
+     "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
+     "source": "The Hacker News",
+     "published": "2026-10-17T06:16:46+00:00",
+     "date_only": false,
+     "summary": "Cybersecurity researchers are sounding the alarm related to an active campaign in which unknown threat actors are abusing a compromised Microsoft 365 (M365) credential belonging to ConnectWise Cloud Backup (formerly SkyKick) to gain…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
      "title": "BeyondTrust Remote Support Zero-Day Continues Trend of Exploited Edge Bugs",
      "subtitle": "",
      "link": "https://www.darkreading.com/endpoint-security/beyondtrust-remote-support-exploited-edge-bugs",
@@ -172,12 +184,9 @@
      "summary": "Ivanti, Cisco, and Palo Alto Networks all had vulnerabilities in edge devices come under fire this week. Now BeyondTrust joins the group.",
      "extra": "",
      "tags": [
-      "Zero-day",
-      "Nation-state"
+      "Zero-day"
      ],
-     "also": [
-      "The Hacker News"
-     ]
+     "also": []
     },
     {
      "title": "Critical BlockStrap flaw lets hackers run code on Magento servers",
@@ -306,9 +315,7 @@
      "summary": "Cybersecurity giant Proofpoint says it will acquire Miami-based data visibility and security company Varonis in an all-cash transaction worth $6.3 billion.",
      "extra": "",
      "tags": [],
-     "also": [
-      "SecurityWeek"
-     ]
+     "also": []
     },
     {
      "title": "In Other News: ICS-Sniper Attack, Hacking XWorm Malware Operators, $250k Chrome Exploit",
@@ -389,12 +396,9 @@
      "extra": "",
      "tags": [
       "Ransomware",
-      "Breach",
-      "APAC"
+      "Breach"
      ],
-     "also": [
-      "BigGo Finance"
-     ]
+     "also": []
     },
     {
      "title": "Suspected Chinese espionage attackers abusing BeyondTrust IT support zero-day",
@@ -437,18 +441,14 @@
      "extra": "",
      "tags": [
       "Breach",
-      "APAC",
-      "AI"
+      "APAC"
      ],
      "also": [
-      "CyberSecurityNews",
       "Pasquale Pillitteri",
       "CyberInsider",
       "Security Affairs",
       "SecNews.gr",
-      "SQ Magazine",
-      "International Business Times, Singapore Edition",
-      "Hackread"
+      "SQ Magazine"
      ]
     },
     {
@@ -476,50 +476,27 @@
       "AI"
      ],
      "also": []
-    },
-    {
-     "title": "Chinese APT Exploited BeyondTrust Vulnerability as Zero-Day",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/chinese-apt-exploited-beyondtrust-vulnerability-as-zero-day/",
-     "source": "SecurityWeek",
-     "published": "2026-10-16T10:53:22+00:00",
-     "date_only": false,
-     "summary": "Armory Castle exploited CVE-2026-102764 for initial access, deployed custom tools, and deleted logs and artifacts. The post Chinese APT Exploited BeyondTrust Vulnerability as Zero-Day appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [
-      "Zero-day"
-     ],
-     "also": []
-    },
-    {
-     "title": "OpenAI Models Hacked Data Portals, Raided a Crypto Wallet to Finish Tasks",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/openai-models-hacked-data-portals-raided-a-crypto-wallet-to-finish-tasks/",
-     "source": "SecurityWeek",
-     "published": "2026-10-16T10:32:11+00:00",
-     "date_only": false,
-     "summary": "Left without funds for a coding task, an OpenAI model spent test crypto from a stranger’s wallet and left it out of its report. The post OpenAI Models Hacked Data Portals, Raided a Crypto Wallet to Finish Tasks appeared first on…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "F5, Juniper Networks Patch Critical Vulnerabilities",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/f5-juniper-networks-patch-critical-vulnerabilities/",
-     "source": "SecurityWeek",
-     "published": "2026-10-16T09:54:34+00:00",
-     "date_only": false,
-     "summary": "Successful exploitation of some of these issues could lead to remote code execution and full device takeover. The post F5, Juniper Networks Patch Critical Vulnerabilities appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [],
-     "also": []
     }
    ]
   },
   {
    "name": "APAC Watch",
    "stories": [
+    {
+     "title": "Napoleon Perdis reports data breach affecting 339,000 customers — ABC News Australia",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQTlyS2xmT3B3ZEw5ajlYWl9hY1h0SGlGekJKR0JEM1piQm5ibFZtUENncWVUbUxhbUJNdXhRajBIX0stUlh2SG1pbnRqdDNkTzh5bUVGYTdaaTJiODFoYnJWYnN5X1c4bEJBWWVuWjUteUt0WEtqYi1kN2tqS0Y4NkpNbm8tekhiQlQyS3pDUmtOamozRG1aQURVVnRyTG5ieFFSMFVkUUlWWlFvaXc?oc=5",
+     "source": "UA.NEWS",
+     "published": "2026-10-17T06:44:13+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
     {
      "title": "Cyberattacks continue to menace Japan as more firms disclose data breaches",
      "subtitle": "",
@@ -531,6 +508,21 @@
      "extra": "",
      "tags": [
       "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Mint Explainer | India issues first ever AI agent cyber-attack warning. What’s really at stake?",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQS3V2eG81ODZlNTBqTmVjRlJ1cTFfWk1rVUU4RzFWeGVvSXlwcEdJTlBiNGNsMkhBTXFocUY0ZWpfa0VwSTJjTXVrR0dGUDRXQjZsaDVlc0ZEaEpEZDhoTGRveEZXUVF0RGQxaXFjQzlNN0RYdC1hdDIxLVFHZTBhbWpiSnQtWEFNZlpUbExZYnJWejA0eWtaNTFLbFZTVDJOWHRUUkh0U2p3Q3Y4ZG1zZzlNbGJPZ3cwNHhDcXhSalRIZE5LZWfSAcsBQVVfeXFMT0lILW9QbXVXX0xQaTFvemgtbkliV3M3ZHVaaHpXUnk2SEZHWkUwMWp0c2VmelpPWXhWYWw2MEt6MUktdDgzVzYtUUtpSTkxMXMxN0VYek5jZkNkRUZBTUZRS3cxTXREWDkyZkxEcjdyRDBDbVlra3FnN2NBZDkzem9jYlJBMFJERGZ1b1g0QTVqYmIzX1JjWC16ZV9iSDg4ZW9JU09FWXJRRm9GMFNTd3c3VTBxMmRvMjBhY3ZqYXE1elF3M3ljQkQwSEk?oc=5",
+     "source": "Livemint",
+     "published": "2026-10-17T00:30:43+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "AI",
       "APAC"
      ],
      "also": []
@@ -593,11 +585,11 @@
      "also": []
     },
     {
-     "title": "Comic CMoa and ACCESS confirm two data breaches, from Japan to Taiwan",
+     "title": "Japan's Yamato Transport confirms 5.31 mil. customer records leaked",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSWtHQ0pyYktmV3RqS1lzdnlWNGNIYTlmWXU1YlJRcnh6bmp1aXo3aHZ6RFphVFNvb3BacXJ0Tm9ibENGTVdSQ0FMNmdWeVB5MlNNOVIwejNJNFBLbkNjRlFhaTVKVWlXa2oyejRtb2kwdFE2Y2FuNTNyMnpFZ0hQcUFrbUpMZ3ZRc0d6QzBjcVN6elE0Y3JheDMyQm5NQTc1U3c?oc=5",
-     "source": "Pasquale Pillitteri",
-     "published": "2026-10-16T14:18:58+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB1cFBUclBmRFgzNFFiNS00UnBmakVHWnlramtCS0MwaXJ1LWpZbTZ3aTV0Y1VGQ0l3YmxVeTlOYXZ6bHNXQnFpMTZsZlBzWGkzSEEzMFozUHVNQQ?oc=5",
+     "source": "Japan Wire by Kyodo News",
+     "published": "2026-10-16T14:38:57+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -608,17 +600,16 @@
      "also": []
     },
     {
-     "title": "Why Japan’s lean supply chains are proving a soft target for ransomware",
+     "title": "Comic CMoa and ACCESS confirm two data breaches, from Japan to Taiwan",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdGxHV21JZ2pWVllFUnVqY0Vid3JUNTZnUTRLay1JYmZlT1BrT0UyMzFkNnN0SkhzY2o5S3VBVnA1WlZIRk92SEZYRXlVTk04ZGgzS1ZhTlhLR3ltUzUyTUJCVTM1VTFlRnp3Q0xyX2JGdWZTeU51X21TMEIyc3dTUldZcExLTXZCbVFIWG9BMzRlLVA3LV9mc3QxU29RaGpjM0Y5bzlURmhid1JwZFlYOGxQSk9MQk1fMmpITlVfUlJqcVl4bTlybWpWcUJ2d1paM0dvTzhhcmlGZw?oc=5",
-     "source": "StrategicRISK Europe",
-     "published": "2026-10-16T13:45:13+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSWtHQ0pyYktmV3RqS1lzdnlWNGNIYTlmWXU1YlJRcnh6bmp1aXo3aHZ6RFphVFNvb3BacXJ0Tm9ibENGTVdSQ0FMNmdWeVB5MlNNOVIwejNJNFBLbkNjRlFhaTVKVWlXa2oyejRtb2kwdFE2Y2FuNTNyMnpFZ0hQcUFrbUpMZ3ZRc0d6QzBjcVN6elE0Y3JheDMyQm5NQTc1U3c?oc=5",
+     "source": "Pasquale Pillitteri",
+     "published": "2026-10-16T14:18:58+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
      "tags": [
-      "Ransomware",
-      "Supply chain",
+      "Breach",
       "APAC"
      ],
      "also": []
@@ -669,32 +660,16 @@
      "also": []
     },
     {
-     "title": "Rogue AI Agents Breach Indian Firms’ Live Systems, Government Warns",
+     "title": "Chinese Phishing Network Uses 17,000 Domains to Target Japanese Banks and Steal Credentials",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQYzFZaEJJUUxuRk9PamhCaUM4a3dXM2ZvMjhBeUtnSVEzNklxdURiTF9CMEg5UzBiYXN5VUdXQnJiRGVNNmRsNHNTOG5LRlk4WWk3QkxDU3l4NGlncXhSRTFxVjRDeUp1Xzk3RFltMXRFanRpV0pQZnpUek9PVWhmbVhqaVplanNZRXltQXdJeFptVnda?oc=5",
-     "source": "Unique Times Magazine",
-     "published": "2026-10-16T10:30:14+00:00",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA2WTViWlAxSElSbUMzVzBZS1FoYlEwcGNIOUROdEtnVExJWlFUdlM0WUtHOU15TFdFUU1nWmU0MjIxWjc5eEpHN1NmdVFPUEJBOEZpZjdueHNkZldzb1BMNEYzUngwMFZYdGl4d0530gFuQVVfeXFMUDZZNWJaUDFISVJtQzNXMFlLUWhiUTBwY0g5RE50S2dUTElaUVR2UzRZS0c5TXlMV0VRTWdaZTQyMjFaNzl4Skc3U2Z1UU9QQkE4RmlmN254c2RmV3NvUEw0RjNSeDAwVlh0aXh3Tnc?oc=5",
+     "source": "CyberSecurityNews",
+     "published": "2026-10-16T11:26:11+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
      "tags": [
-      "Breach",
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Shinhan Bank, Hit by 25,000-Customer Data Breach, Has Lowest Security Budget Among South Korea's Big Five Banks",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1idG52Z2ZDMkQ1SkFKaEhVUlNaaGdYamJ1N1ZxMGdOYkhkNkg5b0h6RWNhZy1iR29CRi1ER3hVUHc2WFI0OVE3Xzh5QmZzR2hSVDNZNDJQdEhzZ3lEY1pMZlBYY0xROXI0V1EwMUtHaDJaS2hOa3c?oc=5",
-     "source": "BigGo Finance",
-     "published": "2026-10-16T06:25:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
+      "Phishing"
      ],
      "also": []
     }
@@ -716,18 +691,6 @@
       "Breach",
       "Phishing"
      ],
-     "also": []
-    },
-    {
-     "title": "Inbox flooded with sign-up messages? Email bombing explained",
-     "subtitle": "",
-     "link": "https://www.welivesecurity.com/en/cybersecurity/inbox-flooded-signup-messages-email-bombing/",
-     "source": "ESET Research",
-     "published": "2026-10-16T09:00:00+00:00",
-     "date_only": false,
-     "summary": "If you’re suddenly being overwhelmed with sign-up emails, it could very well be a sign of something more serious",
-     "extra": "",
-     "tags": [],
      "also": []
     },
     {
