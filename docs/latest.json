@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17T14:16:31+00:00",
+ "generated": "2026-10-17T17:19:05+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -163,6 +163,35 @@
    "name": "Breaking Threats",
    "stories": [
     {
+     "title": "Hackers breach Microsoft 365 tenants via ConnectWise supply-chain attack",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/hackers-breach-microsoft-365-tenants-via-connectwise-supply-chain-attack/",
+     "source": "BleepingComputer",
+     "published": "2026-10-17T15:18:51+00:00",
+     "date_only": false,
+     "summary": "ConnectWise has shut down customer access to its Cloud Backup service (formerly SkyKick Cloud Backup) after hackers accessed application identities and compromised Microsoft 365 tenants. [...]",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "Supply chain"
+     ],
+     "also": [
+      "The Hacker News"
+     ]
+    },
+    {
+     "title": "Drupal patches critical RCE flaws, warns exploits may emerge soon",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/drupal-patches-critical-rce-flaws-warns-exploits-may-emerge-soon/",
+     "source": "BleepingComputer",
+     "published": "2026-10-17T14:32:48+00:00",
+     "date_only": false,
+     "summary": "Drupal has patched two critical vulnerabilities that could allow attackers to execute code remotely on websites running any supported version of the content management system. [...]",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
      "title": "MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon",
      "subtitle": "",
      "link": "https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html",
@@ -184,18 +213,6 @@
      "published": "2026-10-17T11:00:00+00:00",
      "date_only": false,
      "summary": "Israeli company Discover-Tech’s ads allow threat actors to fingerprint and track devices at scale and infect selected targets. The post Israeli Ad Firm Doubled as Candiru’s Zero-Click Spyware Delivery Channel appeared first on SecurityWeek…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html",
-     "source": "The Hacker News",
-     "published": "2026-10-17T06:16:46+00:00",
-     "date_only": false,
-     "summary": "Cybersecurity researchers are sounding the alarm related to an active campaign in which unknown threat actors are abusing a compromised Microsoft 365 (M365) credential belonging to ConnectWise Cloud Backup (formerly SkyKick) to gain…",
      "extra": "",
      "tags": [],
      "also": []
@@ -303,51 +320,26 @@
      "extra": "",
      "tags": [],
      "also": []
-    },
-    {
-     "title": "Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html",
-     "source": "The Hacker News",
-     "published": "2026-10-16T16:43:39+00:00",
-     "date_only": false,
-     "summary": "Attackers repeatedly changed the files that AOMEI Backupper fetches from the vendor's own update servers, in windows of five to ten minutes at a time between May and July 2026, so that any copy of the Windows backup program that checked…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html",
-     "source": "The Hacker News",
-     "published": "2026-10-16T16:16:44+00:00",
-     "date_only": false,
-     "summary": "Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) spear-phishing campaign that has targeted individuals affiliated with Taiwan research organizations to direct victims to an adversary-in-the-middle…",
-     "extra": "",
-     "tags": [
-      "Phishing",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Proofpoint lines up $6.3 billion deal for Varonis’ data security",
-     "subtitle": "",
-     "link": "https://therecord.media/proofpoint-varonis-cybersecurity-acquisition",
-     "source": "The Record",
-     "published": "2026-10-16T14:45:00+00:00",
-     "date_only": false,
-     "summary": "Cybersecurity giant Proofpoint says it will acquire Miami-based data visibility and security company Varonis in an all-cash transaction worth $6.3 billion.",
-     "extra": "",
-     "tags": [],
-     "also": []
     }
    ]
   },
   {
    "name": "APAC Watch",
    "stories": [
+    {
+     "title": "Vietnam proposed Russia to unite in the fight against cyber threats",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaElOVG9vVFduMUdEMGM1enhmQVQyQVFFWTVZQ09abTNURWdGNzFCZ2llcXQwcU5ERlExeXd6Z2V6dzdqaktfRW1LMlpGeFhySVBoWjRmNDZfYk9BbWtnb3BNdk1kZFhHRDk2UzhKc2NMLTQyY3ZjRmI1dUNablZtWU5MRE1kdlp5Uko3bXVZdnFKQ3lwRXJWdUdQcl9NQk1pcUFV0gGoAUFVX3lxTE9tZ1ZyOU81VVl0cjFlOU1IV01LX1ZsWWk1YUtQbjVJSFQwTVY4WWxfUWZkeHpJREttZzhwZG9DSUNRRmFHdG5vdTNyYWsycVBkNHlFNi1KZkQ3NkRfRkRTQXY3TDFpYWkxc1lubFRGampGXzRjRlpuVy1DRURGRVhSbEpmVDdYRE1DTmFMYlN1eF9fT0g5WHFSMVZ2ajBGa19PQl9hV0RmaQ?oc=5",
+     "source": "www1.ru",
+     "published": "2026-10-17T08:09:45+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
     {
      "title": "Cybersecurity in Singapore: How AI Is Changing Data Protection and Business Risk",
      "subtitle": "",
@@ -466,69 +458,8 @@
       "APAC"
      ],
      "also": [
-      "CyberInsider",
-      "Security Affairs",
-      "SecNews.gr"
+      "CyberInsider"
      ]
-    },
-    {
-     "title": "Germany probes Vladimir K arrested in Japan over Synnovis hack",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMjhTbHVyZ24wVVd6V3dVb0VCbV9DeDRtb1RYNUNXSlVYOXNHam5XeTdISzBzNjUxaDdBbzZiU3NNamVRd1dBWFpsSUJ2ZHVtWDQ4T3YzY1RWV2wxMEpHXzVpYjNDNG9aV0V1Z1I1bjRPUGpxU19vWnR3WTNVUVM1aXh3UjZldVVtdGZZNGdmMncyV1FNRWhwX0hwRGJDTkdveDhCQUItdjRnU0U?oc=5",
-     "source": "NewsBytes",
-     "published": "2026-10-16T15:52:56+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Watch Japan’s Cyberattacks Are an AI Warning",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPSkVUN2V3eXlvM0Z0SHdIZXloY0hObjVabGRwelphTkc4UHA5RDRaXzl2c0xoSU5DZVhPUjdsalM3RDRzbmJYYmxZb3hhZDJ6NXZxYjU5VW9MNlNNQVFDZkg5eXFrd3ZXZ2FWN01YOVRrZ05JX1dPRHBEYzVrVUxOUUlXaXIyM2QteGlwaUViTEFGbXpHS01ORjRCOVhKdzJDa1gw?oc=5",
-     "source": "Bloomberg.com",
-     "published": "2026-10-16T14:57:44+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "AI",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Japan's Yamato Transport confirms 5.31 mil. customer records leaked",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB1cFBUclBmRFgzNFFiNS00UnBmakVHWnlramtCS0MwaXJ1LWpZbTZ3aTV0Y1VGQ0l3YmxVeTlOYXZ6bHNXQnFpMTZsZlBzWGkzSEEzMFozUHVNQQ?oc=5",
-     "source": "Japan Wire by Kyodo News",
-     "published": "2026-10-16T14:38:57+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Comic CMoa and ACCESS confirm two data breaches, from Japan to Taiwan",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSWtHQ0pyYktmV3RqS1lzdnlWNGNIYTlmWXU1YlJRcnh6bmp1aXo3aHZ6RFphVFNvb3BacXJ0Tm9ibENGTVdSQ0FMNmdWeVB5MlNNOVIwejNJNFBLbkNjRlFhaTVKVWlXa2oyejRtb2kwdFE2Y2FuNTNyMnpFZ0hQcUFrbUpMZ3ZRc0d6QzBjcVN6elE0Y3JheDMyQm5NQTc1U3c?oc=5",
-     "source": "Pasquale Pillitteri",
-     "published": "2026-10-16T14:18:58+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
     }
    ]
   },
