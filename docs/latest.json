@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-17T22:27:00+00:00",
+ "generated": "2026-10-18T01:12:23+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -280,21 +280,6 @@
       "APAC"
      ],
      "also": []
-    },
-    {
-     "title": "Mint Explainer | India issues first ever AI agent cyber-attack warning. What’s really at stake?",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQS3V2eG81ODZlNTBqTmVjRlJ1cTFfWk1rVUU4RzFWeGVvSXlwcEdJTlBiNGNsMkhBTXFocUY0ZWpfa0VwSTJjTXVrR0dGUDRXQjZsaDVlc0ZEaEpEZDhoTGRveEZXUVF0RGQxaXFjQzlNN0RYdC1hdDIxLVFHZTBhbWpiSnQtWEFNZlpUbExZYnJWejA0eWtaNTFLbFZTVDJOWHRUUkh0U2p3Q3Y4ZG1zZzlNbGJPZ3cwNHhDcXhSalRIZE5LZWfSAcsBQVVfeXFMT0lILW9QbXVXX0xQaTFvemgtbkliV3M3ZHVaaHpXUnk2SEZHWkUwMWp0c2VmelpPWXhWYWw2MEt6MUktdDgzVzYtUUtpSTkxMXMxN0VYek5jZkNkRUZBTUZRS3cxTXREWDkyZkxEcjdyRDBDbVlra3FnN2NBZDkzem9jYlJBMFJERGZ1b1g0QTVqYmIzX1JjWC16ZV9iSDg4ZW9JU09FWXJRRm9GMFNTd3c3VTBxMmRvMjBhY3ZqYXE1elF3M3ljQkQwSEk?oc=5",
-     "source": "Livemint",
-     "published": "2026-10-17T00:30:43+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "AI",
-      "APAC"
-     ],
-     "also": []
     }
    ]
   },
@@ -547,18 +532,6 @@
      "link": "https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20261015",
      "source": "HKCERT",
      "published": "2026-10-15T03:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Juniper Junos OS Multiple Vulnerabilities",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/juniper-junos-os-multiple-vulnerabilities_20261015",
-     "source": "HKCERT",
-     "published": "2026-10-15T01:00:00+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
