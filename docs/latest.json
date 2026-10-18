@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T18:42:40+00:00",
+ "generated": "2026-10-18T21:35:42+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -205,6 +205,36 @@
   {
    "name": "APAC Watch",
    "stories": [
+    {
+     "title": "Weekly Global Wrap: KFC switches soda supplier; DPE could hand markets to new operators; Burger King Japan confirms data breach",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQTFJ4NFJRcU1KMnpiVnZENEdEdXBRTmswTFMzQ1ZlVTJZVWI4UEh6TWlFOVpxMXdGUUUxWWR3Y0ZEckNPVHczWGYwY3FqWERfekxueW8xdnZZS0l6RmZjdnlTWm1sTE9ZQU9yTFUwenFQN1QtWW9NOUpaZFNQTlVGallvU3ZDN1BxSmd1THduTEJwSzJOR0dWNVB2dlFsRXBaU3JRdlB3Z1NocWhSZEdZQklkcHpILW42RTEzOUl5cm1jWnhnVTdENklUQVg0VjlRTHYxckxOMFFMSGV2RV9GU0tfbGxSV1lDVmRoaUNQcDg?oc=5",
+     "source": "QSR Media Asia",
+     "published": "2026-10-18T20:32:25+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Threat of Chinese cyberattacks grows as ‘good guys’ and ‘bad guys’ of AI industry gain foothold in Australia",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiwAJBVV95cUxNNTQ5WmRJaWxKSkI1VEJqeFdvM3RkR29RS2ZfeWZacExXZ1duNmNaM3pqeXktS0ktV2xUQnhsYlhVckV3cHpsY2VhZnVoaERMX0pxWHo4X2FtelRhdGVzMFNHaWExbC1temk5a0FtNE9jVHBRZVU5aGdqakVfTXVubHBJWXZZcWx5c1BfUTY0NHhYRTFMME9SM0FEQkZhUTBwcmViZF9DVXN2WkFTdzB4WG9mamY0RWdNa1lEQ21OUFJ4U3Bic1dXTF9UR2owbFloYUo5NzJGUlZqTEVTaHltVEp4Nldud1ZhS3ltZGhnNWxwNzM0ZG9YU0htSnpKRFBjVEdRRHdvVF9UNnZaN1IzdXlOX1F3OUh1LVBVYXRIZXpxeC1uSXd4U3M5YVhITl9VM216S2VZc3hjdlRfMm5Va9IBxgJBVV95cUxPM2hpM1dyeTdrYU1vUFZicG9JTmpiQUZOTzNla1dPVHBBYzc2dHo3azRfQW9LSWRMdFJtZnpiX05vOVZxQnl4T2pjaXlxYTFpajBxUl9ZZjg1YV9tWXdRZGNwNXdEczlHVE1KXzhLYlNmMWQySld5UFZjMmdpTGZpMFhPNjVCaHlFV1VVNHZsdHFCMDhNY1lwM1pIM1Q4c2Fpa05MQkFadzhCaDVSODRFVkpHcGVmYVB2V01JcmJvdUxsY2NzM0ZDVjVNMk1oWnVuSGNSYU9UY21zUFhFaDR5LU5sc1E5WldmanFTcUhWUGdoQXh6ZFBBUGpVb0c2UHQ5RXlQWHhJeWUxWUtWai13clR5TnVvUlR3Zi03OTBsZ0RYNEtWVEJId3J4QmE0cTdfQ3VmdmxSc1Q1dVNjMkV5cmQ0RmJ0dw?oc=5",
+     "source": "News24",
+     "published": "2026-10-18T18:01:09+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "AI",
+      "APAC"
+     ],
+     "also": []
+    },
     {
      "title": "South Korea Names Gopax Operator In Cyberattack Wave Affecting 16 Firms | Bitcoinist.com",
      "subtitle": "",
