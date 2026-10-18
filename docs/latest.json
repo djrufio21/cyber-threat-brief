@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T15:58:50+00:00",
+ "generated": "2026-10-18T18:42:40+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -205,6 +205,49 @@
   {
    "name": "APAC Watch",
    "stories": [
+    {
+     "title": "South Korea Names Gopax Operator In Cyberattack Wave Affecting 16 Firms | Bitcoinist.com",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBxVmpjNFd3azNiY3BZRnZmOU5rQXJ5YkN6VWNyazJFQkp2YVFqb1BhbnQ3bER4N29Ramx0czdzc3BXaGhEUXQ1Y2xpNGNaSWRBY2ZkZjRldWdFNTBPcjZmTWNxa0F4Nm40M3V3aVJaZE51QWhFdU9hZC130gF_QVVfeXFMT1N1aWY2dmFfU0MwclVqelJUWXBkZjIzX08yN1RtRHRSZUdLV3RENjk0UkozUGkxRXozTmVkTWFvdVpwcUF3bjdGVUxxUHdzMGlWNFRUT3dlQUx3R01zWTdtdlpGMGxDZFNYak5TWk5LT3JMSGtsVTRONWVZMVZZYw?oc=5",
+     "source": "Bitcoinist.com",
+     "published": "2026-10-18T13:30:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Hollys Coffee Membership Hacked in South Korea — Passwords, Home Addresses Exposed; Website Down",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1LVBuRElDQnp5OTdRWlQ2WUQwWTQyUm40aUViY2JXb0h1TjBBLU9JTlJieVgzSzI3ckROTnAyT3VSVkZMMUtCZjVBMmg0WUNaZk4yTy1BS0JCLUVGazdfdTZGbFRLa1Q0elNwZ3AzSm9aOVEwanc?oc=5",
+     "source": "BigGo Finance",
+     "published": "2026-10-18T10:35:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Burger King Japan Smartphone App Data Breach Exposes 11 Million Customer Records in 2026",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWTZjdXR5ZGNxVjBvSW5VbnU4aVBxR0ZQZVVOLWtYX1o1NGJzSGd1VHRURDJZbURidEd5dzVPc2IyaUQ0ZERTUUpqQjFEUTVBUnR6R3l2US01R0g5eWxyOUFtc2dzeGN1dWhXNHk1VTVKeHhTdUs5cWQ1S1pPeGxMcW94UmVRbUhRcEtVYW5zUVdwU0lkZEd4dHh2MDYyOUhSSVBIaWx3TXZBOVViT2FPakZZUmlaSFha?oc=5",
+     "source": "Rescana",
+     "published": "2026-10-18T10:00:51+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
     {
      "title": "Ransomware Forces Insurance Changes for Nearly Half of Singapore Firms",
      "subtitle": "",
