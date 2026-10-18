@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-18T01:12:23+00:00",
+ "generated": "2026-10-18T06:03:48+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -223,6 +223,34 @@
    "name": "APAC Watch",
    "stories": [
     {
+     "title": "Cyber Alert: Today’s Biggest Cyber Crime Stories Shaking India – 18 th October",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNYXhhblU2OHRjUVNOX2ZaVTFhdkthaVlmS0hqbmpiOVptODQ2NVRxRTBValNIb0k1WnRyc1haaVRwdVhOUWdseXMtMnA2ckRqZDlsYmlHVk16Z194cnZsMnRaZWNNejEtNTdKVEdsU0tkYTJ0U1pvMVZjbXBKdG1zSmFBTDZKWjVfQVM5cEVtYTA?oc=5",
+     "source": "The420.in",
+     "published": "2026-10-18T04:27:20+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "“I’d left, but they still had my driver’s license” Japan on high alert as personal data keeps leaking",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1URHV1R1ZqajQ2MllTRkZVMm9rRlcxOWQwYUNtR2JJaFJ1clM0Ulp1aFZkUjd0X3k5T25oWE0wYW9OYjc1MXBLdU56STgyVlMyYWxZaDJmRjc?oc=5",
+     "source": "파이낸셜뉴스",
+     "published": "2026-10-18T02:55:39+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
      "title": "Vietnam proposed Russia to unite in the fight against cyber threats",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaElOVG9vVFduMUdEMGM1enhmQVQyQVFFWTVZQ09abTNURWdGNzFCZ2llcXQwcU5ERlExeXd6Z2V6dzdqaktfRW1LMlpGeFhySVBoWjRmNDZfYk9BbWtnb3BNdk1kZFhHRDk2UzhKc2NMLTQyY3ZjRmI1dUNablZtWU5MRE1kdlp5Uko3bXVZdnFKQ3lwRXJWdUdQcl9NQk1pcUFV0gGoAUFVX3lxTE9tZ1ZyOU81VVl0cjFlOU1IV01LX1ZsWWk1YUtQbjVJSFQwTVY4WWxfUWZkeHpJREttZzhwZG9DSUNRRmFHdG5vdTNyYWsycVBkNHlFNi1KZkQ3NkRfRkRTQXY3TDFpYWkxc1lubFRGampGXzRjRlpuVy1DRURGRVhSbEpmVDdYRE1DTmFMYlN1eF9fT0g5WHFSMVZ2ajBGa19PQl9hV0RmaQ?oc=5",
@@ -257,21 +285,6 @@
      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQTlyS2xmT3B3ZEw5ajlYWl9hY1h0SGlGekJKR0JEM1piQm5ibFZtUENncWVUbUxhbUJNdXhRajBIX0stUlh2SG1pbnRqdDNkTzh5bUVGYTdaaTJiODFoYnJWYnN5X1c4bEJBWWVuWjUteUt0WEtqYi1kN2tqS0Y4NkpNbm8tekhiQlQyS3pDUmtOamozRG1aQURVVnRyTG5ieFFSMFVkUUlWWlFvaXc?oc=5",
      "source": "UA.NEWS",
      "published": "2026-10-17T06:44:13+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Cyberattacks continue to menace Japan as more firms disclose data breaches",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOdmhxa2cyWWdDTXJ1c241b3F3YnVJQjBsU3FWRVdZUXB4M2lFMFBMTm9LRG5VYm1mSEVTRkVDQ1E5RXJhandvRGJOMGtlb01xTmhnMm5RcFhBa1FyZ1h0OWRyejF1N1QwQVplTU5ZeXQxQnhjMUxOQlZNc1hCQ0FIN19ieTZHWnBFcXdCS3lJY3hjZw?oc=5",
-     "source": "The Japan Times",
-     "published": "2026-10-17T02:04:00+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -496,42 +509,6 @@
      "link": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20261016",
      "source": "HKCERT",
      "published": "2026-10-16T03:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Cisco Secure Email Gateway Remote Code Execution Vulnerability",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/cisco-secure-email-gateway-remote-code-execution-vulnerability_20261015",
-     "source": "HKCERT",
-     "published": "2026-10-15T03:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "IBM WebSphere Products Multiple Vulnerabilities",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/ibm-websphere-products-multiple-vulnerabilities_20261015",
-     "source": "HKCERT",
-     "published": "2026-10-15T03:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Mozilla Products Multiple Vulnerabilities",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20261015",
-     "source": "HKCERT",
-     "published": "2026-10-15T03:00:00+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
