@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T17:34:43+00:00",
+ "generated": "2026-10-19T22:28:51+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -163,6 +163,162 @@
    "name": "Breaking Threats",
    "stories": [
     {
+     "title": "Nikkei discloses third data breach in a month, 1.8M records exposed",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-third-data-breach-in-a-month-18m-records-exposed/",
+     "source": "BleepingComputer",
+     "published": "2026-10-19T21:49:48+00:00",
+     "date_only": false,
+     "summary": "Nikkei Inc. disclosed a new data breach, the third in about a month, that exposed 1.83 million personal information records. [...]",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": [
+      "shattered.io"
+     ]
+    },
+    {
+     "title": "WordPress SEO plugin Rank Math compromised to backdoor websites",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/wordpress-seo-plugin-rank-math-compromised-to-backdoor-websites/",
+     "source": "BleepingComputer",
+     "published": "2026-10-19T21:24:51+00:00",
+     "date_only": false,
+     "summary": "Some downloads of the Rank Math PRO WordPress plugin from the vendor's official website carried malware that planted hidden backdoors in a supply-chain attack last week. [...]",
+     "extra": "",
+     "tags": [
+      "Supply chain"
+     ],
+     "also": [
+      "The Hacker News",
+      "SecurityWeek"
+     ]
+    },
+    {
+     "title": "Researchers Infiltrate Microsoft Tech Support Scam Operation",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/threat-intelligence/microsoft-tech-support-scam-operation",
+     "source": "Dark Reading",
+     "published": "2026-10-19T21:13:41+00:00",
+     "date_only": false,
+     "summary": "A large-scale scam operation impersonating Microsoft uses a malicious traffic distribution system (TDS) run by a Russian organization and abuses thousands of Cloudflare links.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "'AdFection' Turns Ad Impressions Into Zero-Click Spyware Delivery",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/data-privacy/adfection-online-ads-spyware-delivery",
+     "source": "Dark Reading",
+     "published": "2026-10-19T19:55:01+00:00",
+     "date_only": false,
+     "summary": "Spyware vendors are exploiting targeted ad bidding in the digital ecosystem to identify and track individuals and organizations of interest.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Judge denies WhatsApp’s bid to hold spyware maker in contempt for allegedly targeting users",
+     "subtitle": "",
+     "link": "https://therecord.media/whatsapp-denied-appeal-alleged-nso-group-violation-injunction",
+     "source": "The Record",
+     "published": "2026-10-19T19:49:00+00:00",
+     "date_only": false,
+     "summary": "WhatsApp argued that NSO Group violated a 2025 injunction against using the messaging app to spread spyware. A federal judge said WhatsApp hurt its case by not revealing enough information.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "ConnectWise suspends Cloud Backup service after supply chain attack",
+     "subtitle": "",
+     "link": "https://therecord.media/connectwise-suspends-cloud-backup-service-supply-chain-attack",
+     "source": "The Record",
+     "published": "2026-10-19T19:45:00+00:00",
+     "date_only": false,
+     "summary": "ConnectWise initially said on Friday that it was investigating “attempts of unauthorized access associated with the ConnectWise Cloud Backup environment,” and confirmed such access on Saturday.",
+     "extra": "",
+     "tags": [
+      "Supply chain"
+     ],
+     "also": []
+    },
+    {
+     "title": "Hackers hijack AOMEI update servers to secretly spread malware",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-aomei-update-servers-to-secretly-spread-malware/",
+     "source": "BleepingComputer",
+     "published": "2026-10-19T19:40:58+00:00",
+     "date_only": false,
+     "summary": "Hackers reportedly compromised AOMEI's servers to distribute malware through a built-in promotional feature in its backup software, briefly tampering with configuration files before restoring them to their original state to hide the…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "ConnectWise Disables Cloud Backups Amid Concerns for Downstream MSPs",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/identity-access-management-security/connectwise-disables-cloud-backups-downstream-msps",
+     "source": "Dark Reading",
+     "published": "2026-10-19T19:19:33+00:00",
+     "date_only": false,
+     "summary": "Researchers say attackers authenticated into Microsoft 365 tenants using ConnectWise credentials; ConnectWise says customer impact remains unconfirmed.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Bullhorn takes staffing platform offline to contain cyberattack",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/bullhorn-takes-staffing-platform-offline-to-contain-cyberattack/",
+     "source": "BleepingComputer",
+     "published": "2026-10-19T18:51:13+00:00",
+     "date_only": false,
+     "summary": "Staffing software company Bullhorn has disabled access to its platform to contain a cyberattack that caused a system-wide outage. [...]",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Two more Serbian opposition figures targeted with spyware, researchers say",
+     "subtitle": "",
+     "link": "https://therecord.media/serbia-spyware-pegasus-elections",
+     "source": "The Record",
+     "published": "2026-10-19T18:45:00+00:00",
+     "date_only": false,
+     "summary": "A phone belonging to the rector of the University of Belgrade was discovered to have been infected with Pegasus spyware, the latest in a series of such discoveries in the lead-up to Serbia's national elections.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Siemens Software Center Vulnerability Exploited in ClickFix Malware Attacks",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/siemens-software-center-vulnerability-exploited-in-clickfix-malware-attacks/",
+     "source": "SecurityWeek",
+     "published": "2026-10-19T18:15:39+00:00",
+     "date_only": false,
+     "summary": "Attackers paired a genuine, signed copy of Siemens Software Center with malicious DLLs to infect Windows PCs via ClickFix lures. The post Siemens Software Center Vulnerability Exploited in ClickFix Malware Attacks appeared first on…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/hackers-exploit-plex2shell-flaws-to.html",
+     "source": "The Hacker News",
+     "published": "2026-10-19T17:32:13+00:00",
+     "date_only": false,
+     "summary": "Threat actors have begun to exploit a chain of vulnerabilities in Plex Media Server to deploy cryptocurrency miners and reverse proxy software, a day after a proof-of-concept (PoC) went public. According to a researcher who goes by the…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
      "title": "OpenCode hack exposes API keys amid AI distillation attacks",
      "subtitle": "",
      "link": "https://www.bleepingcomputer.com/news/security/opencode-hack-exposes-api-keys-amid-ai-distillation-attacks/",
@@ -188,22 +344,6 @@
      "extra": "",
      "tags": [],
      "also": []
-    },
-    {
-     "title": "Popular WordPress SEO Plugin Rank Math PRO Hijacked to Deliver Self-Restoring Backdoor",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/popular-wordpress-seo-plugin-rank-math.html",
-     "source": "The Hacker News",
-     "published": "2026-10-19T16:28:47+00:00",
-     "date_only": false,
-     "summary": "Copies of Rank Math PRO, the paid version of the Rank Math SEO plugin for WordPress, that were downloaded from rankmath.com or delivered as updates between 20:02 UTC on October 15 and 07:12 UTC on October 16 contained malware, Rank Math…",
-     "extra": "",
-     "tags": [
-      "Supply chain"
-     ],
-     "also": [
-      "SecurityWeek"
-     ]
     },
     {
      "title": "Russian social media giant VK faces disruptions after data center drone strike",
@@ -343,149 +483,6 @@
       "Supply chain"
      ],
      "also": []
-    },
-    {
-     "title": "Microsoft fixes classic Outlook bug that hid Copilot buttons",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-hid-copilot-buttons-in-classic-outlook/",
-     "source": "BleepingComputer",
-     "published": "2026-10-19T12:44:44+00:00",
-     "date_only": false,
-     "summary": "Microsoft has fixed a known issue that removed the Copilot Chat and Copilot buttons in the classic Outlook desktop mail client for some Windows users. [...]",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Plex2Shell Exploit Chain Weaponized Against Plex Servers Hours After Disclosure",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/plex2shell-exploit-chain-weaponized-against-plex-servers-hours-after-disclosure/",
-     "source": "SecurityWeek",
-     "published": "2026-10-19T12:44:39+00:00",
-     "date_only": false,
-     "summary": "Threat actors have been observed delivering cryptocurrency miners and proxy software. The post Plex2Shell Exploit Chain Weaponized Against Plex Servers Hours After Disclosure appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "One Compromised Login Exposed Millions of California Students’ Records",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/one-compromised-login-exposed-millions-of-california-students-records/",
-     "source": "SecurityWeek",
-     "published": "2026-10-19T11:55:50+00:00",
-     "date_only": false,
-     "summary": "Intruders used compromised credentials to access an ETS SFTP server, copying records of California students back to 2006. The post One Compromised Login Exposed Millions of California Students’ Records appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "From Email-to-Case to the Boardroom: How Inherited Agents Break Governance Built for Software",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/from-email-to-case-to-boardroom-how.html",
-     "source": "The Hacker News",
-     "published": "2026-10-19T11:50:00+00:00",
-     "date_only": false,
-     "summary": "In Salesforce Agentforce, the recommended way to make an agent respond to events is a Flow: a record is created or a case is updated, and the Flow passes data into the agent's prompt. Separately, Email-to-Case and Web-to-Case turn inbound…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Hackers steal customer data from major Russian hosting provider FirstVDS",
-     "subtitle": "",
-     "link": "https://therecord.media/russia-cyberattack-firstvds-cloud",
-     "source": "The Record",
-     "published": "2026-10-19T11:45:00+00:00",
-     "date_only": false,
-     "summary": "Hackers have stolen passwords, access credentials and other sensitive data belonging to customers of Russian hosting provider FirstVDS after exploiting a vulnerability in software used to manage its servers.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Exploited Fortinet Bug Linked to Stealthy FortiGate Implant in Telecom Hack",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/exploited-fortinet-bug-linked-to-stealthy-fortigate-implant-in-telecom-hack/",
-     "source": "SecurityWeek",
-     "published": "2026-10-19T11:13:23+00:00",
-     "date_only": false,
-     "summary": "The persistent, stealthy FortiGate implant was deployed against a telecommunications organization. The post Exploited Fortinet Bug Linked to Stealthy FortiGate Implant in Telecom Hack appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [
-      "Telecom"
-     ],
-     "also": []
-    },
-    {
-     "title": "Fake Web3 Accelerator Uses npm Packages to Spread Malware and Hijack AI Agent Traffic",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/fake-web3-accelerator-uses-npm-packages.html",
-     "source": "The Hacker News",
-     "published": "2026-10-19T10:06:40+00:00",
-     "date_only": false,
-     "summary": "A fake Web3 accelerator has been observed pushing information stealers and backdoors to Windows and macOS systems using malicious npm packages under the pretext of offering free artificial intelligence (AI) credits for Anthropic Claude and…",
-     "extra": "",
-     "tags": [
-      "Supply chain",
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "MITRE ATT&CK v20 Catalogs AI Abuse, MFA Bypass, Water Utility Attacks",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/mitre-attck-v20-catalogs-ai-abuse-mfa-bypass-water-utility-attacks/",
-     "source": "SecurityWeek",
-     "published": "2026-10-19T09:37:04+00:00",
-     "date_only": false,
-     "summary": "Defenders get 15 new detection strategies, six for Enterprise and nine for ICS, backed by 38 analytics. The post MITRE ATT&CK v20 Catalogs AI Abuse, MFA Bypass, Water Utility Attacks appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Microsoft: October Windows Server updates break Exchange sign-in, mail flow",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/",
-     "source": "BleepingComputer",
-     "published": "2026-10-19T08:58:41+00:00",
-     "date_only": false,
-     "summary": "Microsoft has confirmed that this month's Windows Server security updates are causing OWA sign-in and mail delivery issues on some Exchange Server systems. [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Anthropic Acquires Confidential AI Startup Opaque Systems",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/anthropic-acquires-confidential-ai-startup-opaque-systems/",
-     "source": "SecurityWeek",
-     "published": "2026-10-19T07:45:25+00:00",
-     "date_only": false,
-     "summary": "Opaque Systems has developed technology that lets AI systems use sensitive data while keeping it protected by the underlying hardware. The post Anthropic Acquires Confidential AI Startup Opaque Systems appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html",
-     "source": "The Hacker News",
-     "published": "2026-10-19T06:29:44+00:00",
-     "date_only": false,
-     "summary": "A flaw in Broadcom's Wi-Fi setup software lets an attacker within radio range run code as root on Broadcom-based routers, without the network password or any pairing step, security researcher Quentin Kaiser disclosed on October 16. He…",
-     "extra": "",
-     "tags": [],
-     "also": []
     }
    ]
   },
@@ -493,26 +490,25 @@
    "name": "APAC Watch",
    "stories": [
     {
-     "title": "Hollys Data Breach: 2.76M Records Exposed in Korea",
+     "title": "Korean Coffee Chain Hollys Suffers Major Data Breach, 2.76 Million Customers Affected",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9FcS1fOTlzWm5uVnlrLTB1cDY0OURmRnc1U3RTVkJwUTNreHhnYmNYS2toN2tuVVEzY3lwa2JWNWhKNHhvdG5nNUtickJQLVNRUWxHZmlxTlcxMXNSX2RNR0VIZXBGVW11OGFNQ25GQkEyOTJJ?oc=5",
-     "source": "shattered.io",
-     "published": "2026-10-19T16:30:42+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPenpGZTBhTExCY1g0OEFPLTlaNEtwY0ROQi1TSnVMR2lYN1JfbVZlUFUwNnlVTV8xc21GRHNSWWxUTTlCUkJUZks1aVkxRUhqTFJjZU90WkRMVk1aZWxCUzBwQzBlVFgyU3l5YWc0TlBuYVQzRlMxN0FaVnpaSG5reEN6R0ZFY244OWxjMUI3MnBTS1FhMFdHNmdSTk15bGFqblVfQk5WdURWdlJJQTV6Z3FpVEprRk1iTzhJRktvOEbSAcYBQVVfeXFMUFlWZmRSNzZkLVVCcGx0VC0yb3JjZGkxN1VGU080dWRVNVRnWi1SSlZBUXNTb2pReEdrbFhvdy1hbVZrQ3FnczBXNHBqc3JjSHMzNmhCWk5IaTVZM3pONjNfV1JQTlNiQmtTanpleFFWU211bWluN1lxYUdaMlQ1U1FoZ1lkTlh1ek9FcXRhOGhHYW9faWdEbmM1bTBLeVl1Z25nZkFoQjRFbE1iN0tNQXFEV2pRbEZWeTNlZks0TTVMaGVvdW1B?oc=5",
+     "source": "Lokmat Times",
+     "published": "2026-10-19T17:18:23+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
      "tags": [
-      "Breach",
-      "APAC"
+      "Breach"
      ],
      "also": []
     },
     {
-     "title": "Burger King Japan Confirms Data Breach Exposing 11.18 Million Customer Records",
+     "title": "Burger King Japan Data Breach Exposes 11.18 Million Records",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeWl1N2hKTmZmTW9memRwM0Q3YV9na0xEcTJTYzE3dE9UVERRdFFzUTNUaE5ENUh0WnJNVlZlVTh0UGRjUUI4R3ZfTndOdUdMMHFwSjNGdlVxV2Vyem1hV2NqZFd3ZDVxMTZfMGo1VHp6bElIR3d2R3lGWFQxMkZUMS1HNzZ0cTdCeDlESmRVVnpsWEFWQ1pKZEJwSDQ5bmlZ?oc=5",
-     "source": "eSecurity Planet",
-     "published": "2026-10-19T14:40:16+00:00",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT29MTFlIYm1JbjN3Q1ZpR204bGp3ZzJWc2p6TmdiZlhDX29XdlRlbm9yWmxJX2hTbkpnRVJZZmplR3BQdTl3UTZBRllLS08xSk1QZ25NX3BpWWJmbzhGUHNNY1A2ZTNrRDl3bm1DOElYeFBWT0RBb1d4ZXU3cVVBMFE1LVAxU3ZNSjdXc2VJVzYzcXE4?oc=5",
+     "source": "Safestate",
+     "published": "2026-10-19T16:14:35+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -521,11 +517,12 @@
       "APAC"
      ],
      "also": [
+      "eSecurity Planet",
       "Yahoo",
       "shattered.io",
       "TechRadar",
       "Rescana",
-      "QSR Media Australia"
+      "QSR Media Asia"
      ]
     },
     {
@@ -568,6 +565,20 @@
      "extra": "",
      "tags": [
       "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "India 6th in terms of users hit by mobile malware in Q2: Report",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQjMwUHAtX0k4UmpwcFVrbFBHM3hHNHc3cmU4aF9QX0ExVElRc0ZzZGRwc2FMcHhzeERxSzFBMGI5Q3JBUlE2VnFwX2dsZzJZQkVsT2M0QTdzV25Uc2pVTV9uei1iVEV5akpQRVRsa000UnJTMDZMYUxaU052c1Y0N2t2WFpkRmhHeWdMUzhTbWZHTXVXTFE5clMzcFdaT0FxbEpTWlFYRlNvaEtaNTZxX0p5MlNmLU5ZcXBRMWhrc1JaMVR0OEJPMnpRZEZURFN2UzJ2a2wwNWxmcG5BaEHSAdgBQVVfeXFMTk1WdzhJbVVFbVUwbzhNYjRZaU9JNE9DTnlLZ1o0UVg1eW1XYXlqTDBPU2FFN1pJWnpzOUNBWFhHYndtWjhBMzY2bk5YbVhBLWd2QWVJOFVIR0JGT0JMT0x2SnROTjUyd29sS3FqbGRRSjUtNUllQ2dWRFh4Vi1odm9BS2dKaFZUc2ZTTXhQS3FiRmgyazlHMnF6aEdGbk9BbmEwajd3NkQ5Y1ptRzR2TjhEZXBXQU94SmQxcHp5dWtYcGZiZFFqOFV5dWFHdFBsMWJTNm84eW1S?oc=5",
+     "source": "ET Government",
+     "published": "2026-10-19T08:01:22+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
       "APAC"
      ],
      "also": []
@@ -645,22 +656,6 @@
       "APAC"
      ],
      "also": []
-    },
-    {
-     "title": "Japan data leaks mount as experts point to AI misuse",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBGWHlfS0g2bWdJU3h5bE5LMzZzYklrT2V0QWNvcGx2cjNKMUtNbGdtUFExSXFULXdEaVRDeENBcEdjOWxtV3E1em5RcVFCcUwtNF9BX0RNX1N1Wl9FdnpoSWtka1N6REhFNzhldTBJYUFMQ0k?oc=5",
-     "source": "毎日新聞",
-     "published": "2026-10-18T22:01:40+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "AI",
-      "APAC"
-     ],
-     "also": []
     }
    ]
   },
@@ -734,6 +729,32 @@
      "summary": "Is the cybersecurity world really facing a \"Bugmageddon?\" Thor breaks down the latest CVE and KEV trends in the latest Threat Source newsletter.",
      "extra": "",
      "tags": [],
+     "also": []
+    },
+    {
+     "title": "ARMORY CASTLE Exploits BeyondTrust",
+     "subtitle": "",
+     "link": "https://cloud.google.com/blog/topics/threat-intelligence/armory-castle-exploits-beyondtrust/",
+     "source": "Google Threat Intelligence",
+     "published": "2026-10-15T14:00:00+00:00",
+     "date_only": false,
+     "summary": "Written by: Jayson Frost, Bryce Greathouse, Brian Meyer, John Palmisano, Rajesh Rajeshirke, Steve Rasch, John Wolfram Introduction On October 15, BeyondTrust disclosed a vulnerability, CVE-2026-102764, impacting BeyondTrust Remote Support…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Investigating Ephemeral Supply Chain Tampering",
+     "subtitle": "",
+     "link": "https://cloud.google.com/blog/topics/threat-intelligence/investigating-ephemeral-supply-chain-tampering/",
+     "source": "Google Threat Intelligence",
+     "published": "2026-10-15T11:00:00+00:00",
+     "date_only": false,
+     "summary": "Written by: Tyler McLellan Introduction Google Threat Intelligence Group (GTIG) and Mandiant investigated a software supply chain compromise campaign targeting the update infrastructure belonging to AOMEI Technology between April 2026 and…",
+     "extra": "",
+     "tags": [
+      "Supply chain"
+     ],
      "also": []
     },
     {
