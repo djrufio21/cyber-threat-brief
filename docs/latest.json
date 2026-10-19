@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T04:54:21+00:00",
+ "generated": "2026-10-19T10:56:00+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -163,6 +163,73 @@
    "name": "Breaking Threats",
    "stories": [
     {
+     "title": "MITRE ATT&CK v20 Catalogs AI Abuse, MFA Bypass, Water Utility Attacks",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/mitre-attck-v20-catalogs-ai-abuse-mfa-bypass-water-utility-attacks/",
+     "source": "SecurityWeek",
+     "published": "2026-10-19T09:37:04+00:00",
+     "date_only": false,
+     "summary": "Defenders get 15 new detection strategies, six for Enterprise and nine for ICS, backed by 38 analytics. The post MITRE ATT&CK v20 Catalogs AI Abuse, MFA Bypass, Water Utility Attacks appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "Microsoft: October Windows Server updates break Exchange sign-in, mail flow",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-october-windows-server-updates-cause-exchange-issues/",
+     "source": "BleepingComputer",
+     "published": "2026-10-19T08:58:41+00:00",
+     "date_only": false,
+     "summary": "Microsoft has confirmed that this month's Windows Server security updates are causing OWA sign-in and mail delivery issues on some Exchange Server systems. [...]",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Anthropic Acquires Confidential AI Startup Opaque Systems",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/anthropic-acquires-confidential-ai-startup-opaque-systems/",
+     "source": "SecurityWeek",
+     "published": "2026-10-19T07:45:25+00:00",
+     "date_only": false,
+     "summary": "Opaque Systems has developed technology that lets AI systems use sensitive data while keeping it protected by the underlying hardware. The post Anthropic Acquires Confidential AI Startup Opaque Systems appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "Unpatched Broadcom Wi-Fi Flaw Lets Attackers in Range Run Code as Root on Routers",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/unpatched-broadcom-wi-fi-flaw-lets.html",
+     "source": "The Hacker News",
+     "published": "2026-10-19T06:29:44+00:00",
+     "date_only": false,
+     "summary": "A flaw in Broadcom's Wi-Fi setup software lets an attacker within radio range run code as root on Broadcom-based routers, without the network password or any pairing step, security researcher Quentin Kaiser disclosed on October 16. He…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "OpenCode Console Breach May Have Exposed OpenAI, Anthropic, and Google API Keys",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/opencode-console-breach-may-have.html",
+     "source": "The Hacker News",
+     "published": "2026-10-19T06:07:08+00:00",
+     "date_only": false,
+     "summary": "An intruder reached a legacy system at OpenCode on the night of October 16 and may have exposed the third-party AI provider keys that users had saved in OpenCode Console, the company said. Console is OpenCode's optional hosted service: a…",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "AI"
+     ],
+     "also": []
+    },
+    {
      "title": "Hackers exploit SiteGuard WAF flaw to run commands as admins",
      "subtitle": "",
      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/",
@@ -187,24 +254,86 @@
       "AI"
      ],
      "also": []
-    },
-    {
-     "title": "ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html",
-     "source": "The Hacker News",
-     "published": "2026-10-18T08:23:02+00:00",
-     "date_only": false,
-     "summary": "ConnectWise on Saturday said it has disabled seven ConnectWise application identities as it continues its investigation into an incident in which unknown threat actors obtained unauthorized access to the application identities and…",
-     "extra": "",
-     "tags": [],
-     "also": []
     }
    ]
   },
   {
    "name": "APAC Watch",
    "stories": [
+    {
+     "title": "Millions of users exposed as Japan data breaches continue to surge",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9OZzRzMTNFcU9nM09rV245QTRqMVJTV1pWbmJNSTd5OEVfWFl6RFgxMEpBVW1zWkVwSmNHYzNYVmRRMl9NNEFhVjdZb2xSanFXWFViMkV3?oc=5",
+     "source": "朝日新聞",
+     "published": "2026-10-19T09:29:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Japan faces 'next big storm' as hackers use stolen data, warns Trend Micro",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaTVEaWRocG9xVE5MVkk1LWlaRklKSFpTWTFEZXNGRHYxMnQweDA1TWh6aWVPR3prNXlGbTR3aWdyLTdOSkVOZHAtVm1pTjA5bHVsd1M3MzdBMmVrUWlzS1RQTUlxY1NfQkxXbnZkVzdMVG8tR1N5LXNYSHpQOXdCWmRfREJPUnp0TXJjZXhsMDJiZXQ1S0YtbDlCdHd0RUJOYzRucDRFYWZvaHlBV3FOemxhUlNrV0VndHlr?oc=5",
+     "source": "Nikkei Asia",
+     "published": "2026-10-19T08:31:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Japan’s Cyber Alarm: Is India Ready?",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE81Ull6NlptakpPWWc2QTFMLTVORjFLN2tmLVBPSmNvWFl0MElSUXRFTGhPelF3NFg1UEo5OXhxcmZjUEtOS1RGTTBXazduOTQ3Y2RsWDVDWGNMcGN4aTNzRk4yMzZEd3pQLUozTy1zaw?oc=5",
+     "source": "varindia",
+     "published": "2026-10-19T05:28:53+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Burger King Japan Smartphone App Data Breach Exposes 11 Million Customer Records in 2026",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWTZjdXR5ZGNxVjBvSW5VbnU4aVBxR0ZQZVVOLWtYX1o1NGJzSGd1VHRURDJZbURidEd5dzVPc2IyaUQ0ZERTUUpqQjFEUTVBUnR6R3l2US01R0g5eWxyOUFtc2dzeGN1dWhXNHk1VTVKeHhTdUs5cWQ1S1pPeGxMcW94UmVRbUhRcEtVYW5zUVdwU0lkZEd4dHh2MDYyOUhSSVBIaWx3TXZBOVViT2FPakZZUmlaSFha?oc=5",
+     "source": "Rescana",
+     "published": "2026-10-19T05:00:59+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Japan's JETRO website taken offline after unauthorized access; investigation into possible data leak underway",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9pcnk0TzYtaTFRVnh4bkl6NHprci1jRzFPZlRkaWxSdXhILV9vdExrUlg1ZXJndjRYRUFYTUI0OG9adm5JVU4zVlJqLUhHZXc5bmV5VXFmZkZqOFFMVDM3bklXVFhPRWxweDA1Z1d4S2NNZFhVWGc?oc=5",
+     "source": "BigGo Finance",
+     "published": "2026-10-19T04:55:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
     {
      "title": "Cyber Alert: Today’s Biggest Cyber Crime Stories Shaking India – 19 th October",
      "subtitle": "",
@@ -232,9 +361,7 @@
       "Ransomware",
       "APAC"
      ],
-     "also": [
-      "ইন্স্যুরেন্স নিউজ বিডি"
-     ]
+     "also": []
     },
     {
      "title": "Singapore: Organisations face ransomware attacks at 1.5 times the global rate",
@@ -324,77 +451,6 @@
      "tags": [
       "APAC"
      ],
-     "also": []
-    },
-    {
-     "title": "Hollys Coffee Membership Hacked in South Korea — Passwords, Home Addresses Exposed; Website Down",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB1LVBuRElDQnp5OTdRWlQ2WUQwWTQyUm40aUViY2JXb0h1TjBBLU9JTlJieVgzSzI3ckROTnAyT3VSVkZMMUtCZjVBMmg0WUNaZk4yTy1BS0JCLUVGazdfdTZGbFRLa1Q0elNwZ3AzSm9aOVEwanc?oc=5",
-     "source": "BigGo Finance",
-     "published": "2026-10-18T10:35:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Burger King Japan Smartphone App Data Breach Exposes 11 Million Customer Records in 2026",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWTZjdXR5ZGNxVjBvSW5VbnU4aVBxR0ZQZVVOLWtYX1o1NGJzSGd1VHRURDJZbURidEd5dzVPc2IyaUQ0ZERTUUpqQjFEUTVBUnR6R3l2US01R0g5eWxyOUFtc2dzeGN1dWhXNHk1VTVKeHhTdUs5cWQ1S1pPeGxMcW94UmVRbUhRcEtVYW5zUVdwU0lkZEd4dHh2MDYyOUhSSVBIaWx3TXZBOVViT2FPakZZUmlaSFha?oc=5",
-     "source": "Rescana",
-     "published": "2026-10-18T10:00:51+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Japan Cyberattack Wave Exposes 14 Million Records as Data Breaches Spread Across Companies",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPTmRJQjNkci01Tkp0NEhvMm9kU3l0VVN5WVpYSjRYVnNEVFk2TWJaNDV0RTl6NmZLX01yWjFUNGdUUTUxQWxEMkhpUVRwd1ZXUGhZT19UWDJZVnl3cmFWcnZYdDM2TmhpSno1aG5rMGdtMC1OdWJUYjZuMXFoRlFxMDJvblp3UmpxaEVQUWtZVmVwSThxSGMxSHg1Z2ZVN1lmbVFLTC1PTTRORndELXY1Y2Z4OVdBRTA?oc=5",
-     "source": "International Business Times, Singapore Edition",
-     "published": "2026-10-18T06:27:50+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Malaysia’s CryptoBilis Breach Raises Fresh Concerns Over Digital Asset Security",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUUR3aGM5WFlXal85SG8zWVVrMllWZENSc0VLOVk4bUc4M3VkalA3Q21TNEllOEdpSUkyXzVqWFB1ZWJxQllOVGktdUoxSXFFa3YwN25LR3dGQUVFVnQ5Q0Z0bFFKY2pWaDl5TklpUzltYTM5aFBFaGRma0pwUmVQSVB0SVBMbk1hcjdRa1d5RnVDNUZEdnZNeVRYdGU4OEpiLWUwR1ZTLVR1a19HU01sUmFObmdNUQ?oc=5",
-     "source": "BusinessToday Malaysia",
-     "published": "2026-10-18T05:52:10+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Hackers Target 60 Indian Banking and UPI Apps With New GhostBat Android Malware",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE95OXQ2Rms5N0JaR3RzLVJVYVFiUFJxQzVPQjZwd3NwUmRwQW1KaGRVQmZ1V0VFUDRfalBOT3h0RjJRZDZhNlJGNXQ5dWpBT093YnViUG1FdUNRcWs4R3l3TDlmQmJ1QdIBa0FVX3lxTFBPR09Wb28yNDRSWWI1dmprR3laZ3ZvZWlwZzhWN2VMYzA1bzNUcHZ6dWdLX3VyajdiM0pnOXE2bGVTX2MzQ3JuTzFnVDM5Q0VhLWlEWXZsczdnSW5Hal9ITTB6NWlYVkExVktN?oc=5",
-     "source": "CyberSecurityNews",
-     "published": "2026-10-18T05:40:55+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
      "also": []
     }
    ]
@@ -581,20 +637,6 @@
      "published": "2026-10-12T14:51:31+00:00",
      "date_only": false,
      "summary": "For the latest discoveries in cyber research for the week of 12th October, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES Denmark’s government has disclosed a breach involving its Central Register of Persons…",
-     "extra": "",
-     "tags": [
-      "Breach"
-     ],
-     "also": []
-    },
-    {
-     "title": "What to do when a data breach notice doesn't say much",
-     "subtitle": "",
-     "link": "https://www.welivesecurity.com/en/how-to/what-to-do-when-a-data-breach-notice-tells-you-almost-nothing/",
-     "source": "ESET Research",
-     "published": "2026-10-12T09:00:00+00:00",
-     "date_only": false,
-     "summary": "Data breach notifications are telling victims less than ever. What the company leaves out can still shape what you do next.",
      "extra": "",
      "tags": [
       "Breach"
