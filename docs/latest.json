@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-19T22:28:51+00:00",
+ "generated": "2026-10-20T01:55:09+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -490,6 +490,42 @@
    "name": "APAC Watch",
    "stories": [
     {
+     "title": "Japan Faces New Wave Of AI-Powered Cyberattacks As Hackers Exploit Stolen Data",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVHlXTGs1aElqalJKdnJtQWtQVVFjajhta1hmeVlmUjI4ckxQcmktbFlUQUNOY1l4cmF6UWpBOXhnVnpYeTVsUk53a3lEZUpCQmNTbWRzbFlfMkNwUGhKVFh4QWJTUXAtQlZEUUc2RTRRWXIxX054NF81azZYVXZ0TGV0cGlnSWpuN1pTb0VXa0ZZdHRiYndxZngyeW1vZlV2YnZLWG0xMWU3bWlPOUI4?oc=5",
+     "source": "ChannelNews.com.au",
+     "published": "2026-10-19T23:36:15+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "AI",
+      "APAC"
+     ],
+     "also": [
+      "Nikkei Asia"
+     ]
+    },
+    {
+     "title": "Weekly Global Wrap: KFC switches soda supplier; Domino's Pizza parent puts the spotlight on Australian franchisee; Burger King Japan confirms data breach",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPWXgtQm5SUGJHaG9ManREblIxRDUtUlZ0YWdaZGpNcGZSMjVsMFdwTGZoZ2V0eXctQWRrTjJPN0JSeGlEUjBfUXg0bHd2UGpmeEV1bWYxR3BCNFdCZDZWWmxxZWdvdU9ya3pTaHBYY2s5NmRRRW1pQTEwZVd6MFo1ZWZVZDU2ejJDb1FKaEtWWW05R0ZTSEJEY0pfbC1JX0tzdGRDa3N0TlNPQU56NS1NSklFSk5qUGlGSUxRT2doUGZfY0ZTZXk1S3dXOGgtNnhVOWNteWhrcTRBc01iYkRzTGZfaFlFeTV6dFVwVkVCWm5PUQ?oc=5",
+     "source": "QSR Media Asia",
+     "published": "2026-10-19T22:47:29+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": [
+      "eSecurity Planet",
+      "Safestate"
+     ]
+    },
+    {
      "title": "Korean Coffee Chain Hollys Suffers Major Data Breach, 2.76 Million Customers Affected",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPenpGZTBhTExCY1g0OEFPLTlaNEtwY0ROQi1TSnVMR2lYN1JfbVZlUFUwNnlVTV8xc21GRHNSWWxUTTlCUkJUZks1aVkxRUhqTFJjZU90WkRMVk1aZWxCUzBwQzBlVFgyU3l5YWc0TlBuYVQzRlMxN0FaVnpaSG5reEN6R0ZFY244OWxjMUI3MnBTS1FhMFdHNmdSTk15bGFqblVfQk5WdURWdlJJQTV6Z3FpVEprRk1iTzhJRktvOEbSAcYBQVVfeXFMUFlWZmRSNzZkLVVCcGx0VC0yb3JjZGkxN1VGU080dWRVNVRnWi1SSlZBUXNTb2pReEdrbFhvdy1hbVZrQ3FnczBXNHBqc3JjSHMzNmhCWk5IaTVZM3pONjNfV1JQTlNiQmtTanpleFFWU211bWluN1lxYUdaMlQ1U1FoZ1lkTlh1ek9FcXRhOGhHYW9faWdEbmM1bTBLeVl1Z25nZkFoQjRFbE1iN0tNQXFEV2pRbEZWeTNlZks0TTVMaGVvdW1B?oc=5",
@@ -504,11 +540,11 @@
      "also": []
     },
     {
-     "title": "Burger King Japan Data Breach Exposes 11.18 Million Records",
+     "title": "BK Japan reports data breach involving 11.18m customer records",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQT29MTFlIYm1JbjN3Q1ZpR204bGp3ZzJWc2p6TmdiZlhDX29XdlRlbm9yWmxJX2hTbkpnRVJZZmplR3BQdTl3UTZBRllLS08xSk1QZ25NX3BpWWJmbzhGUHNNY1A2ZTNrRDl3bm1DOElYeFBWT0RBb1d4ZXU3cVVBMFE1LVAxU3ZNSjdXc2VJVzYzcXE4?oc=5",
-     "source": "Safestate",
-     "published": "2026-10-19T16:14:35+00:00",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNLW9VTnZlUzhaVV9fQ3VtYlVHLTB4bnVrLU5Gc2ZKbldHejlJRUpqNEdoVTFRNDRYYWJBZmN6ZXZUNFlnbVh6bklFczdKclNXTlhSa1V6SmMxRG91ZWRma3h3enlLeW42RFk0S0Y1eS1rcTFpTVlBUEdlX1ZVMTVVY3k4am9sUHNaV1UyNlpR?oc=5",
+     "source": "Yahoo",
+     "published": "2026-10-19T14:01:20+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -517,12 +553,9 @@
       "APAC"
      ],
      "also": [
-      "eSecurity Planet",
-      "Yahoo",
       "shattered.io",
       "TechRadar",
-      "Rescana",
-      "QSR Media Asia"
+      "Rescana"
      ]
     },
     {
@@ -555,21 +588,6 @@
      "also": []
     },
     {
-     "title": "Japan faces 'next big storm' as hackers use stolen data, warns Trend Micro",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaTVEaWRocG9xVE5MVkk1LWlaRklKSFpTWTFEZXNGRHYxMnQweDA1TWh6aWVPR3prNXlGbTR3aWdyLTdOSkVOZHAtVm1pTjA5bHVsd1M3MzdBMmVrUWlzS1RQTUlxY1NfQkxXbnZkVzdMVG8tR1N5LXNYSHpQOXdCWmRfREJPUnp0TXJjZXhsMDJiZXQ1S0YtbDlCdHd0RUJOYzRucDRFYWZvaHlBV3FOemxhUlNrV0VndHlr?oc=5",
-     "source": "Nikkei Asia",
-     "published": "2026-10-19T08:31:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
      "title": "India 6th in terms of users hit by mobile malware in Q2: Report",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOQjMwUHAtX0k4UmpwcFVrbFBHM3hHNHc3cmU4aF9QX0ExVElRc0ZzZGRwc2FMcHhzeERxSzFBMGI5Q3JBUlE2VnFwX2dsZzJZQkVsT2M0QTdzV25Uc2pVTV9uei1iVEV5akpQRVRsa000UnJTMDZMYUxaU052c1Y0N2t2WFpkRmhHeWdMUzhTbWZHTXVXTFE5clMzcFdaT0FxbEpTWlFYRlNvaEtaNTZxX0p5MlNmLU5ZcXBRMWhrc1JaMVR0OEJPMnpRZEZURFN2UzJ2a2wwNWxmcG5BaEHSAdgBQVVfeXFMTk1WdzhJbVVFbVUwbzhNYjRZaU9JNE9DTnlLZ1o0UVg1eW1XYXlqTDBPU2FFN1pJWnpzOUNBWFhHYndtWjhBMzY2bk5YbVhBLWd2QWVJOFVIR0JGT0JMT0x2SnROTjUyd29sS3FqbGRRSjUtNUllQ2dWRFh4Vi1odm9BS2dKaFZUc2ZTTXhQS3FiRmgyazlHMnF6aEdGbk9BbmEwajd3NkQ5Y1ptRzR2TjhEZXBXQU94SmQxcHp5dWtYcGZiZFFqOFV5dWFHdFBsMWJTNm84eW1S?oc=5",
@@ -579,21 +597,6 @@
      "summary": "",
      "extra": "",
      "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Japan's JETRO website taken offline after unauthorized access; investigation into possible data leak underway",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9pcnk0TzYtaTFRVnh4bkl6NHprci1jRzFPZlRkaWxSdXhILV9vdExrUlg1ZXJndjRYRUFYTUI0OG9adm5JVU4zVlJqLUhHZXc5bmV5VXFmZkZqOFFMVDM3bklXVFhPRWxweDA1Z1d4S2NNZFhVWGc?oc=5",
-     "source": "BigGo Finance",
-     "published": "2026-10-19T04:55:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
       "APAC"
      ],
      "also": []
@@ -611,57 +614,27 @@
       "APAC"
      ],
      "also": []
-    },
-    {
-     "title": "Ransomware drives up insurance costs for nearly half of Singapore firms",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMGhjY1JldlBDd2dhejV5c3ZIRGpIZ2ozS2RsVkNLUmR5VnN3Um1LY2s3WmdQRjBEaEYzcm5tcEFfWmxJZXZSaVZKM2pBVWpFYWlPajlnT1ZidEdkRFQ3Y2dDSXV2LTREZXAzQmduUk85cnk5U1dTRFlZLUdWV1VwcUY1dTdaazZMWFVKcEpMVVNfX2NfdWRvQllYZEN5ZEk3NXdhWVNwOFNpUQ?oc=5",
-     "source": "Insurance Asia",
-     "published": "2026-10-19T01:40:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Ransomware",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Singapore: Organisations face ransomware attacks at 1.5 times the global rate",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOWHZ5RzBNdlVYRXZ4M2dyQl91WUgyeV9TczkyU3dXNkpld01IdExOTVRGV0o0ZnhDeFROVEhCMEdfcm01dkg2NGRka1hSMFRKUHZ5cHNOVFhKWnhoYUlvcEw1MnZiem1zNE9oLWRBZWN4TW9KOU9CUFBFYkd0QWxBVk1NMVBDaWZidTN0VGE0OVh6OTZLTHROX2dEaXQ0dktNUUpJTkdZTjY0QXA5ODRHOEFQa0hmNE5MOUdkSS1YdHFNZ1ExcThUYlJOSjJ1dWluRllXYmVHSWl0UnpZeU9lNmtOczBZc09lcVZIODJrb2lrdw?oc=5",
-     "source": "Asia Insurance Review",
-     "published": "2026-10-19T00:03:44+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Ransomware",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Australia 11th in Microsoft cyber report as phishing rises",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNU1Rra2NmZnFBVmFhTnBid1djT1UydndLNDMzajFkd3djZEFOeF9CU3JwSXVTWjlEM3A4YW14SDB4LW5UelUwVXJaYVM4Nm1rc1VJSG9uOHJ6d1JCWDYxb0J1cWVvci1ySTZfVFItclFZczdsSmRHMm5tT180NTFocXBOVkVYb2tVdXhxdXQ3R1ZQczFlajBPNA?oc=5",
-     "source": "SecurityBrief Australia",
-     "published": "2026-10-18T22:30:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Phishing",
-      "APAC"
-     ],
-     "also": []
     }
    ]
   },
   {
    "name": "Threat Research",
    "stories": [
+    {
+     "title": "Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 19)",
+     "subtitle": "",
+     "link": "https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/",
+     "source": "Unit 42",
+     "published": "2026-10-19T22:35:42+00:00",
+     "date_only": false,
+     "summary": "Ransomware operators including Spikey Scorpius (aka Qilin) and Tarnished Scorpius (aka Inc) are exploiting PAN-OS vulnerability CVE-2026-0257. The post Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 19) appeared…",
+     "extra": "",
+     "tags": [
+      "Exploited",
+      "Ransomware"
+     ],
+     "also": []
+    },
     {
      "title": "19th October – Threat Intelligence Report",
      "subtitle": "",
