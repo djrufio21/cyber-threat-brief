@@ -1,9 +1,111 @@
 {
- "generated": "2026-10-20T18:32:14+00:00",
+ "generated": "2026-10-20T22:24:33+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
    "stories": [
+    {
+     "title": "CVE-2026-106931: EG Secure Solutions SiteGuard Server Edition",
+     "subtitle": "EG Secure Solutions SiteGuard Server Edition OS Command Injection Vulnerability",
+     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-106931",
+     "source": "CISA KEV",
+     "published": "2026-10-20T00:00:00+00:00",
+     "date_only": true,
+     "summary": "EG Secure Solutions SiteGuard Server Edition contains an OS command injection vulnerability which may allow an attacker to execute arbitrary OS commands with root or SYSTEM privileges on the system running the affected product.",
+     "extra": "US federal patch deadline 23 Oct",
+     "tags": [
+      "Exploited"
+     ],
+     "vendor": "EG Secure Solutions",
+     "product": "SiteGuard Server Edition",
+     "cve": "CVE-2026-106931",
+     "also": []
+    },
+    {
+     "title": "CVE-2026-96656: Plex Media Server",
+     "subtitle": "Plex Media Server External Control of File Name or Path Vulnerability",
+     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-96656",
+     "source": "CISA KEV",
+     "published": "2026-10-20T00:00:00+00:00",
+     "date_only": true,
+     "summary": "Plex Media Server contains an external control of file name or path vulnerability which can allow an admin user to write arbitrary files that may be executed on load. This vulnerability can be chained with CVE-2026-96652, CVE-2026-96654…",
+     "extra": "US federal patch deadline 23 Oct",
+     "tags": [
+      "Exploited"
+     ],
+     "vendor": "Plex",
+     "product": "Media Server",
+     "cve": "CVE-2026-96656",
+     "also": []
+    },
+    {
+     "title": "CVE-2026-96655: Plex Media Server",
+     "subtitle": "Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability",
+     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-96655",
+     "source": "CISA KEV",
+     "published": "2026-10-20T00:00:00+00:00",
+     "date_only": true,
+     "summary": "Plex Media Server contains a server-side request forgery (SSRF) vulnerability that could allow an authenticated user to request arbitrary internal or external addresses via the '/video/:/transcode/universal' path parameter. This…",
+     "extra": "US federal patch deadline 3 Nov",
+     "tags": [
+      "Exploited"
+     ],
+     "vendor": "Plex",
+     "product": "Media Server",
+     "cve": "CVE-2026-96655",
+     "also": []
+    },
+    {
+     "title": "CVE-2026-96654: Plex Media Server",
+     "subtitle": "Plex Media Server Improper Neutralization of Encoded URI Schemes in a Web Page Vulnerability",
+     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-96654",
+     "source": "CISA KEV",
+     "published": "2026-10-20T00:00:00+00:00",
+     "date_only": true,
+     "summary": "Plex Media Server contains an improper neutralization of encoded URI schemes in a web page vulnerability that could allow an attacker to call other plugins' functions and supply their own parameters. This vulnerability can be chained with…",
+     "extra": "US federal patch deadline 23 Oct",
+     "tags": [
+      "Exploited"
+     ],
+     "vendor": "Plex",
+     "product": "Media Server",
+     "cve": "CVE-2026-96654",
+     "also": []
+    },
+    {
+     "title": "CVE-2026-96652: Plex Media Server",
+     "subtitle": "Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability",
+     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-96652",
+     "source": "CISA KEV",
+     "published": "2026-10-20T00:00:00+00:00",
+     "date_only": true,
+     "summary": "Plex Media Server contains a server-side request forgery (SSRF) vulnerability which could allow an attacker using any X-Plex-Token value to include a full URL in the 'protocol' parameter and force the Plex server to POST to the attacker's…",
+     "extra": "US federal patch deadline 3 Nov",
+     "tags": [
+      "Exploited"
+     ],
+     "vendor": "Plex",
+     "product": "Media Server",
+     "cve": "CVE-2026-96652",
+     "also": []
+    },
+    {
+     "title": "CVE-2026-110936: Siemens Software Center",
+     "subtitle": "Siemens Software Center Uncontrolled Search Path Element Vulnerability",
+     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-110936",
+     "source": "CISA KEV",
+     "published": "2026-10-20T00:00:00+00:00",
+     "date_only": true,
+     "summary": "Siemens Software Center contains an uncontrolled search path element vulnerability that could allow an authenticated local attacker to place a specially crafted DLL in a directory that the application searches, leading to arbitrary code…",
+     "extra": "US federal patch deadline 3 Nov",
+     "tags": [
+      "Exploited"
+     ],
+     "vendor": "Siemens",
+     "product": "Software Center",
+     "cve": "CVE-2026-110936",
+     "also": []
+    },
     {
      "title": "CVE-2026-102764: BeyondTrust Remote Support",
      "subtitle": "BeyondTrust Remote Support Authentication Bypass by Spoofing Vulnerability",
@@ -163,6 +265,101 @@
    "name": "Breaking Threats",
    "stories": [
     {
+     "title": "Tech Giants Block eMudhra Certificates Tied to 8 Compromised Keys",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/cyber-risk/tech-giants-emudhra-certificates-compromised-keys",
+     "source": "Dark Reading",
+     "published": "2026-10-20T21:45:47+00:00",
+     "date_only": false,
+     "summary": "Google, Mozilla, Apple, the Go project and others moved swiftly to block the affected certificates from the Indian CA, though it's unclear how the keys were compromised.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/",
+     "source": "BleepingComputer",
+     "published": "2026-10-20T20:56:43+00:00",
+     "date_only": false,
+     "summary": "The PHP security team is warning administrators to prepare for emergency security updates tomorrow to address two critical vulnerabilities, as information about the flaws has reportedly leaked ahead of their scheduled disclosure. [...]",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": []
+    },
+    {
+     "title": "FBI says SafePay ransomware gang ‘among most active’ with more than 600 victims since 2024",
+     "subtitle": "",
+     "link": "https://therecord.media/fbi-says-safepay-ransomware-gang-among-most-active-600-victims",
+     "source": "The Record",
+     "published": "2026-10-20T20:27:00+00:00",
+     "date_only": false,
+     "summary": "The FBI and cyber agencies in the UK and Germany said SafePay is targeting businesses and critical infrastructure by guessing passwords, exploiting vulnerabilities and using phishing attacks.",
+     "extra": "",
+     "tags": [
+      "Ransomware",
+      "Phishing"
+     ],
+     "also": []
+    },
+    {
+     "title": "Zeabur shutting down after second security breach in two months",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/zeabur-shutting-down-after-second-security-breach-in-two-months/",
+     "source": "BleepingComputer",
+     "published": "2026-10-20T19:33:02+00:00",
+     "date_only": false,
+     "summary": "Development platform Zeabur has disclosed details of a cybersecurity incident in which an attacker used leaked internal credentials stored in plaintext to compromise its infrastructure and steal over 3.2 million environment variable…",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": []
+    },
+    {
+     "title": "California warns all public school students of data stolen in contractor breach",
+     "subtitle": "",
+     "link": "https://therecord.media/california-warns-all-public-school-students-of-data-breach",
+     "source": "The Record",
+     "published": "2026-10-20T19:20:00+00:00",
+     "date_only": false,
+     "summary": "The CDE released multiple statements over the last week warning the state’s students that assessment contractor Educational Testing Service (ETS) suffered a months-long data breach.",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": []
+    },
+    {
+     "title": "Ex-OpenAI Engineer Detained After Planting Secret Recorder at HQ",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/insider-threats/ex-openai-engineer-secret-recorder-saudi-ties",
+     "source": "Dark Reading",
+     "published": "2026-10-20T19:16:49+00:00",
+     "date_only": false,
+     "summary": "The perp, who has Saudi ties, was arrested for allegedly bugging an OpenAI conference room, highlighting a preventable insider threat vector.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "23andMe successor settles with California for $6 million over cybersecurity failings",
+     "subtitle": "",
+     "link": "https://therecord.media/23andme-california-data-breach-settlement",
+     "source": "The Record",
+     "published": "2026-10-20T18:32:00+00:00",
+     "date_only": false,
+     "summary": "California Attorney General Rob Bonta announced a settlement under which 23andMe's successor will pay $6 million to resolve allegations that the company did not properly protect customers' data before a 2023 breach.",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": []
+    },
+    {
      "title": "OpenAI says GPT-6.1 Sol is dramatically better at migrating legacy code",
      "subtitle": "",
      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-gpt-61-sol-is-dramatically-better-at-migrating-legacy-code/",
@@ -291,20 +488,6 @@
      "also": []
     },
     {
-     "title": "AOMEI yet to notify customers after hackers hijacked its software updates",
-     "subtitle": "",
-     "link": "https://therecord.media/aomei-yet-to-notify-customers-hijack-software",
-     "source": "The Record",
-     "published": "2026-10-20T14:11:00+00:00",
-     "date_only": false,
-     "summary": "In an email, the Hong Kong-registered company confirmed to Recorded Future News that hackers repeatedly altered configuration files on its update servers between April and July, redirecting the software to download malware for minutes at a…",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
      "title": "Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites",
      "subtitle": "",
      "link": "https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html",
@@ -317,18 +500,6 @@
       "Breach",
       "AI"
      ],
-     "also": []
-    },
-    {
-     "title": "Anti-Putin messages disrupt nationwide school assessments in Russia",
-     "subtitle": "",
-     "link": "https://therecord.media/anti-putin-messages-disrupt-russian-education-platform",
-     "source": "The Record",
-     "published": "2026-10-20T14:05:00+00:00",
-     "date_only": false,
-     "summary": "A pro-Ukraine group that says it operates within Russia took responsibility for anti-Putin messages appearing on an education assessment platform. Authorities said they had restored systems.",
-     "extra": "",
-     "tags": [],
      "also": []
     },
     {
@@ -422,70 +593,6 @@
       "AI"
      ],
      "also": []
-    },
-    {
-     "title": "Ex-OpenAI Worker Accused of Bugging Conference Room Planned to Fly to Saudi Arabia, Prosecutors Say",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/ex-openai-worker-accused-of-bugging-conference-room-planned-to-fly-to-saudi-arabia-prosecutors-say/",
-     "source": "SecurityWeek",
-     "published": "2026-10-20T12:33:12+00:00",
-     "date_only": false,
-     "summary": "Abdulrahman Alfozan’s wife and young son also left the country the day after the 35-year-old Saudi national’s arrest. The post Ex-OpenAI Worker Accused of Bugging Conference Room Planned to Fly to Saudi Arabia, Prosecutors Say appeared…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Windows Server 2025 gets support for quick machine recovery",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2025-gets-support-for-quick-machine-recovery/",
-     "source": "BleepingComputer",
-     "published": "2026-10-20T12:16:32+00:00",
-     "date_only": false,
-     "summary": "Microsoft announced that IT administrators can now use quick machine recovery on Windows Server 2025 after installing the October 2026 security update. [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html",
-     "source": "The Hacker News",
-     "published": "2026-10-20T11:41:06+00:00",
-     "date_only": false,
-     "summary": "WhatsApp's help pages carried hidden instructions for its support chatbot that told it not to recommend a data protection authority or regulator to users who could no longer delete their accounts, even though WhatsApp's own privacy policy…",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "What Security Teams Can Do To Tame Wild Code",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/what-security-teams-can-do-to-tame-wild.html",
-     "source": "The Hacker News",
-     "published": "2026-10-20T11:33:04+00:00",
-     "date_only": false,
-     "summary": "A sales manager builds an AI-assisted workflow to route leads. It connects to customer records, summarizes inbound requests, and posts updates to a shared channel. The workflow saves time, reduces manual work, and soon becomes part of the…",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Go Issues Emergency Update Blocking Eight CA Keys Over Undisclosed Security Concerns",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/go-issues-emergency-update-blocking.html",
-     "source": "The Hacker News",
-     "published": "2026-10-20T11:32:59+00:00",
-     "date_only": false,
-     "summary": "Go 1.27.3 and Go 1.26.10, released on October 20, make Go's certificate verifier reject any certificate chain that passes through one of eight intermediate certificate authority keys. Programs built on the new release will refuse…",
-     "extra": "",
-     "tags": [],
-     "also": []
     }
    ]
   },
@@ -493,11 +600,37 @@
    "name": "APAC Watch",
    "stories": [
     {
+     "title": "How Secure Is Your Access To Your Digital Titles? A Japanese Cyberattack Sounds the Alarm!",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYkYtZ3liYlhFamluNWc5NjR3RDJhLTlZXzZMWXNQYkZsY3ByUVdoajJ4MUdzVUVDRFVGdS1PVW1TYnZZa1lUbjJhcnRNWUFVbk42TjJudjkycVpmUk8xaVVtN0FWclNQME5Mb0VQUmtQV1FtSF90LW9UaGNfYXRGSW0xSHBfMTFQVWphc2NMcWlUUU9FRkpyTkh0c3JMeWYwS294em40SE1WUE5Ta2NFdG42Y241WEVRa1hTOHdR?oc=5",
+     "source": "Anime UK News",
+     "published": "2026-10-20T20:00:57+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
      "title": "Japan brokerage IwaiCosmo hit with unauthorized trades in cyberattack",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbVFoQ25GejFqMWRCQVRmX0o2WmZTRTJIYkFta0JtV2lFdmxsVHNpZ3N3R3paY0JVSkRZSWljaF9CODlLY2dOU3JvMzV4ZXMtQnlCc3k1ekVhVWZTUkExMmY0bFdCejJNTjNMSm55N0FJRGR3S3ZJU1QtSUtuVnQ5dTZNajlLQ0lnN3A2VGZBN2psNUFEZWV2LXp1ckxfdUYxVUNIbFNGUzdnSFJaZHlET2tMMmN3OW5H?oc=5",
      "source": "Nikkei Asia",
      "published": "2026-10-20T17:18:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Cyberattack on Japan's Iwai Cosmo Securities Triggers Unintended Orders in 7 Accounts, 5 Trades Executed",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE81U2p3cjJSOEhrcGl4OXJIVVY1UVVBQmlUWGdGM3hkMHN1V1hRX3JPTnFZbm5xSVBpbTJNUnNnaGlINDRneWdFUEUxUjRqdFVTRG40Mm5YRnBINzIwa2dpVlZZQUVfZ3ZTZ3NHZ0QtVWJnaXA0TEE?oc=5",
+     "source": "BigGo Finance",
+     "published": "2026-10-20T15:25:00+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -566,6 +699,23 @@
      "also": []
     },
     {
+     "title": "Security firm finds China-linked AI agent behind Japan cyberattacks",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYkxsd0RhSktuSk5yTDlmcjV4QjN3R2hhSm5KRTk4NThESl8xejBIcGVmdnI4YWs0ZWhRbXdidlM0dzR5cEc5bjBOTHBSaDdfWnZuTkdRR2VvRklBakZJQUJqcnI0aGs1UUZUMWdOYVN5UTI0eDVGQXVYV3ppeVdGOFZSWkFHTl9ncnEyNWlLcWstZHFZZ1lwVUhSNTdHYWZpeXowQUhBeHhGTXRhSzM2QVJyTQ?oc=5",
+     "source": "Japan Today",
+     "published": "2026-10-20T07:34:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "AI",
+      "APAC"
+     ],
+     "also": [
+      "CNA"
+     ]
+    },
+    {
      "title": "AI tool that hacked Korean Banks was used in Japan, GMO says",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPT1NuanA1WjExdGp6OVNMUGdxNnQxUkUzU2l3eTI3YUE1QXQxaDQwOVgtbUtpRGRtdmRxakNxU0pOZm1ZRTBZQ0EzOEVfV3dyaE5TdnhnNzJSM3JkUTZzN01ROUdTbWxNbGd5alVla2xKZC16cXQ4a2FYMTdqa2VKbzlldzFfdVRwT1NDbV9KX0hEUS1mc0NCbUY4Yw?oc=5",
@@ -578,16 +728,14 @@
       "AI",
       "APAC"
      ],
-     "also": [
-      "Bloomberg.com"
-     ]
+     "also": []
     },
     {
-     "title": "Security firm finds China-linked AI agent behind Japan cyberattacks",
+     "title": "Chinese AI tool Artex used in wave of cyberattacks on Japan",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1HVzBTNUlONjJ6R2k3Njh4eS0xVDgwYTJZYkdLUGh1QUV6RmNoRXpMVEdfWFQ1Y2RVSk9ZSlFSaTBEYlFQR21hMlpybXU3X0pJT2xOZVo4TTNFUQ?oc=5",
-     "source": "Japan Wire by Kyodo News",
-     "published": "2026-10-20T06:06:42+00:00",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVFRBa2pRNm1IdHpWT1VBdExwM05yLTJzSlduMG0yMV9XRkt3R1N4LTFxa2U2TUthelNnTllyZXlpcndTLWlqUHFldVZycGc2d3E0V2tZb0dxai1SdzA4UTlITXZxbVY5NmVuMG94MExLZmEzMUxWVm9UaTNLekNnUWRtdkk4ZERadzFseXRPTVFwN2lyQzE4?oc=5",
+     "source": "Yeni Şafak English",
+     "published": "2026-10-20T06:52:50+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -595,9 +743,7 @@
       "AI",
       "APAC"
      ],
-     "also": [
-      "CNA"
-     ]
+     "also": []
     },
     {
      "title": "Hackers Claim State Bank of India Data Leak Exposing 375,000 Records and 2,722 Documents",
@@ -663,6 +809,21 @@
    "name": "Threat Research",
    "stories": [
     {
+     "title": "Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 20)",
+     "subtitle": "",
+     "link": "https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/",
+     "source": "Unit 42",
+     "published": "2026-10-20T20:30:42+00:00",
+     "date_only": false,
+     "summary": "Ransomware operators including Spikey Scorpius (aka Qilin) and Tarnished Scorpius (aka Inc) are exploiting PAN-OS vulnerability CVE-2026-0257. The post Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 20) appeared…",
+     "extra": "",
+     "tags": [
+      "Exploited",
+      "Ransomware"
+     ],
+     "also": []
+    },
+    {
      "title": "There's only so much code: the rise in vulnerability numbers",
      "subtitle": "",
      "link": "https://blog.talosintelligence.com/theres-only-so-much-code-the-rise-in-vulnerability-numbers/",
@@ -685,21 +846,6 @@
      "extra": "",
      "tags": [
       "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 19)",
-     "subtitle": "",
-     "link": "https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/",
-     "source": "Unit 42",
-     "published": "2026-10-19T22:35:42+00:00",
-     "date_only": false,
-     "summary": "Ransomware operators including Spikey Scorpius (aka Qilin) and Tarnished Scorpius (aka Inc) are exploiting PAN-OS vulnerability CVE-2026-0257. The post Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 (Updated October 19) appeared…",
-     "extra": "",
-     "tags": [
-      "Exploited",
-      "Ransomware"
      ],
      "also": []
     },
@@ -846,18 +992,6 @@
      "published": "2026-10-14T09:00:00+00:00",
      "date_only": false,
      "summary": "Open Enrollment is peak season for Medicare fraud – here’s how to tell real outreach from fakes and keep your details safe",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "The Noise Inside the Network: How an Unsophisticated Attack Exposed a Third-Party Risk",
-     "subtitle": "",
-     "link": "https://unit42.paloaltonetworks.com/noise-inside-network-third-party-risk/",
-     "source": "Unit 42",
-     "published": "2026-10-13T22:00:04+00:00",
-     "date_only": false,
-     "summary": "Unit 42 dissects a cyberattack targeting a European bank's IT infrastructure, delivering concrete defense strategies to help organizations detect and counter comparable threats. The post The Noise Inside the Network: How an Unsophisticated…",
      "extra": "",
      "tags": [],
      "also": []
