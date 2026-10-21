@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T01:42:26+00:00",
+ "generated": "2026-10-21T07:48:39+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -231,6 +231,115 @@
    "name": "Breaking Threats",
    "stories": [
     {
+     "title": "State Bank of India Confirms Data Leak After 3,897 Customer Records Found on Dark Web",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html",
+     "source": "The Hacker News",
+     "published": "2026-10-21T07:44:22+00:00",
+     "date_only": false,
+     "summary": "State Bank of India has identified 3,897 customer records containing personal information in a set of about 375,000 records available on the dark web, and it does not yet know where the data came from. The state-owned bank, India's…",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": [
+      "CXO Digitalpulse",
+      "News24Online",
+      "marketscreener.com",
+      "Traders Union",
+      "Times Now",
+      "Free Press Journal",
+      "The Straits Times",
+      "Livemint",
+      "The Indian Express",
+      "KSL News",
+      "Business Upturn",
+      "BusinessLine",
+      "CNA",
+      "Central Oregon Daily",
+      "Reuters"
+     ]
+    },
+    {
+     "title": "CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html",
+     "source": "The Hacker News",
+     "published": "2026-10-21T07:26:49+00:00",
+     "date_only": false,
+     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, including four vulnerabilities impacting Plex Media Server that's collectively…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "PHP2Shell: Mass Exploitation Looms for Leaked Critical PHP Flaws",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/php2shell-mass-exploitation-looms-for-leaked-critical-php-flaws/",
+     "source": "SecurityWeek",
+     "published": "2026-10-21T07:02:06+00:00",
+     "date_only": false,
+     "summary": "Tracked as CVE-2026-109618 and CVE-2026-109619, the bugs could potentially lead to unauthenticated remote code execution. The post PHP2Shell: Mass Exploitation Looms for Leaked Critical PHP Flaws appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": []
+    },
+    {
+     "title": "Hackers Hid Vasilek Backdoor in VMware Tools During 2-Year Russian Healthcare Intrusion",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/hackers-hid-vasilek-backdoor-in-vmware.html",
+     "source": "The Hacker News",
+     "published": "2026-10-21T06:05:15+00:00",
+     "date_only": false,
+     "summary": "A Belarus-aligned hacktivist group spent nearly two years within the network of a Russian healthcare organization. According to a report published by Russian cybersecurity firm Solar, the activity has been attributed to a threat cluster…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Hijacked Developer Account Used to Plant Stealer in OVHcloud CLI",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/hijacked-developer-account-used-to-plant-stealer-in-ovhcloud-cli/",
+     "source": "SecurityWeek",
+     "published": "2026-10-21T06:02:27+00:00",
+     "date_only": false,
+     "summary": "Researchers say the developer’s account was compromised in March with a GlassWorm-linked loader. The post Hijacked Developer Account Used to Plant Stealer in OVHcloud CLI appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
+     "source": "The Hacker News",
+     "published": "2026-10-21T04:57:50+00:00",
+     "date_only": false,
+     "summary": "This story is developing and was written before PHP's scheduled 14:00 UTC release on October 21. Once the release is out, the affected and fixed versions below are confirmed by the official advisory. PHP will ship an out-of-cycle security…",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": [
+      "BleepingComputer"
+     ]
+    },
+    {
+     "title": "Accenture, Dragos, SANS Launch $10M Initiative to Defend Small US Utilities",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/accenture-dragos-sans-launch-10m-initiative-to-defend-small-us-utilities/",
+     "source": "SecurityWeek",
+     "published": "2026-10-21T04:22:11+00:00",
+     "date_only": false,
+     "summary": "The first phase will cover up to 500 utilities, which will get free security tools, equipment, deployment help and training. The post Accenture, Dragos, SANS Launch $10M Initiative to Defend Small US Utilities appeared first on…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
      "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
      "subtitle": "",
      "link": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
@@ -257,20 +366,6 @@
      "also": [
       "Dark Reading"
      ]
-    },
-    {
-     "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/php-warns-admins-of-two-critical-flaws-emergency-patches-coming-tomorrow/",
-     "source": "BleepingComputer",
-     "published": "2026-10-20T20:56:43+00:00",
-     "date_only": false,
-     "summary": "The PHP security team is warning administrators to prepare for emergency security updates tomorrow to address two critical vulnerabilities, as information about the flaws has reportedly leaked ahead of their scheduled disclosure. [...]",
-     "extra": "",
-     "tags": [
-      "Breach"
-     ],
-     "also": []
     },
     {
      "title": "FBI says SafePay ransomware gang ‘among most active’ with more than 600 victims since 2024",
@@ -483,84 +578,6 @@
       "AI"
      ],
      "also": []
-    },
-    {
-     "title": "AOMEI Backupper Compromised in Short-Burst Supply Chain Campaign",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/aomei-backupper-compromised-in-short-burst-supply-chain-campaign/",
-     "source": "SecurityWeek",
-     "published": "2026-10-20T13:51:01+00:00",
-     "date_only": false,
-     "summary": "Across multiple short compromise windows, users were served a downloader for the ShinyRoad modular backdoor framework. The post AOMEI Backupper Compromised in Short-Burst Supply Chain Campaign appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [
-      "Supply chain"
-     ],
-     "also": []
-    },
-    {
-     "title": "CJIS v6.1 Compliance: 5 Practical Priorities for Agencies",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/cjis-v61-compliance-5-practical-priorities-for-agencies/",
-     "source": "BleepingComputer",
-     "published": "2026-10-20T13:51:00+00:00",
-     "date_only": false,
-     "summary": "CJIS v6.1 requires agencies to maintain strong authentication, account security, and audit controls while demonstrating ongoing compliance. Specops outlines five practical priorities covering MFA, account management, passwords, logging…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "The Key to AI Software Security Isn’t Speed, It’s Maturity",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/the-key-to-ai-software-security-isnt-speed-its-maturity/",
-     "source": "SecurityWeek",
-     "published": "2026-10-20T13:34:23+00:00",
-     "date_only": false,
-     "summary": "Where your developers sit on the AI adoption scale has a real impact on how you are addressing security risk. The post The Key to AI Software Security Isn’t Speed, It’s Maturity appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Hacker gets 8 years for stealing $3.3 million from taxpayers",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/hacker-gets-8-years-for-stealing-33-million-from-taxpayers/",
-     "source": "BleepingComputer",
-     "published": "2026-10-20T13:18:36+00:00",
-     "date_only": false,
-     "summary": "A Nigerian national was sentenced to eight years in prison for his involvement in a series of spearphishing attacks targeting US tax preparation businesses since 2019. [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Ahold Delhaize Restoring Services Disrupted by Cyberattack",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/ahold-delhaize-restoring-services-disrupted-by-cyberattack/",
-     "source": "SecurityWeek",
-     "published": "2026-10-20T13:02:18+00:00",
-     "date_only": false,
-     "summary": "The company has restored many websites and apps in Europe and expects e-commerce brands in the US to be restored in days. The post Ahold Delhaize Restoring Services Disrupted by Cyberattack appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [],
-     "also": [
-      "BleepingComputer"
-     ]
-    },
-    {
-     "title": "Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone Days Before Election",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html",
-     "source": "The Hacker News",
-     "published": "2026-10-20T12:59:44+00:00",
-     "date_only": false,
-     "summary": "The iPhone of Vladan Đokić, rector of the University of Belgrade and a prominent supporter of Serbia's student protest movement, was infected with NSO Group's Pegasus spyware in 2026, the Citizen Lab said on October 19. The finding came…",
-     "extra": "",
-     "tags": [],
-     "also": []
     }
    ]
   },
@@ -568,16 +585,20 @@
    "name": "APAC Watch",
    "stories": [
     {
-     "title": "How Secure Is Your Access To Your Digital Titles? A Japanese Cyberattack Sounds the Alarm!",
+     "title": "Cyberattack hits India’s largest bank, exposes customer records",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYkYtZ3liYlhFamluNWc5NjR3RDJhLTlZXzZMWXNQYkZsY3ByUVdoajJ4MUdzVUVDRFVGdS1PVW1TYnZZa1lUbjJhcnRNWUFVbk42TjJudjkycVpmUk8xaVVtN0FWclNQME5Mb0VQUmtQV1FtSF90LW9UaGNfYXRGSW0xSHBfMTFQVWphc2NMcWlUUU9FRkpyTkh0c3JMeWYwS294em40SE1WUE5Ta2NFdG42Y241WEVRa1hTOHdR?oc=5",
-     "source": "Anime UK News",
-     "published": "2026-10-20T20:00:57+00:00",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTXViRGxCSjd1aXlfbTFadGdkbVcwSUZBTDVrdGw1ZXZZLUxyYm5oYk80bjd6SUgzc3ZkRW1YUUQ4ZWxkUHMxR3FmSXlrN3ExMWczdEMzclRCbU5uX2F2R1Fjc1BhU0JQZUpDcnVFU3lrZHFtdkZPeWVSRXZsbFNQRElHTHRzbjBzUExKNVpQbVZNUXIzMkFEQ2N3SmdFT2ljRERUZ0tEVUdaTEdEbVg5TjlhYm5OY1dMc1N6RzN3LTdNOVRUU3N3?oc=5",
+     "source": "The Business Times",
+     "published": "2026-10-21T06:49:00+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
-     "tags": [],
-     "also": []
+     "tags": [
+      "APAC"
+     ],
+     "also": [
+      "Bloomberg.com"
+     ]
     },
     {
      "title": "Japan brokerage IwaiCosmo hit with unauthorized trades in cyberattack",
@@ -603,127 +624,6 @@
      "summary": "",
      "extra": "",
      "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "AI-Powered Hacker Targets Over 1,200 Websites Across US, Canada, Australia, and Japan",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbnFWRk1lQVoyRUc4VjVlVTBieTA3X2J1NWc1RlRCTDJELU5kV2dRWTluTUtncFpnNDZYWE10cXVJRVZwZ29TSUtOOWFzSHhoR0FwcTFoaDJnNnpNdXdNam5hUVE0dUJfSkN1S2x4UXFyTkJUX0YtUm54OXZ3VUN4Wi1fRk8zX2lId0taOFBITWhRZ1ItQlZPSEFqUHU0QXJ1TjhiZU1JdFdoS21VX1pzZXBwT2NGdGN5SDdTaU9R0gG-AUFVX3lxTE9ucVZGTWVBWjJFRzhWNWVVMGJ5MDdfYnU1ZzVGVEJMMkQtTmRXZ1FZOW5NS2dwWmc0NlhYTXRxdUlFVnBnb1NJS045YXNIeGhHQXBxMWhoMmc2ek11d01qbmFRUTR1Ql9KQ3VLbHhRcXJOQlRfRi1Sbng5dndVQ3haLV9GTzNfaUh3S1o4UEhNaFFnUi1CVk9IQWpQdTRBcnVOOGJlTUl0V2hLbVVfWnNlcHBPY0Z0Y3lIN1NpT1E?oc=5",
-     "source": "Inkorr",
-     "published": "2026-10-20T13:08:28+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "AI",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Japan Data Breaches 2026: Inside the October Surge",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZ2EwZGdWLUFTM0tpY1B1eERpS2gzRElLRFBsUE0ybFp5OUpIczBXcERLTDFfODVFQmFKdzByeXFwTXV6WHo4RVJYUGpuQXFvaWRfSjJTZ3NQcXY4MHVfT3Z0MTE2OVYtUFA2ZFRJWHZGSzVZWXpjRnZmS2lUOEk0Zw?oc=5",
-     "source": "SOCRadar",
-     "published": "2026-10-20T12:04:52+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "AI-Assisted Hackers Target South Korean Banks as Breaches Expose 68,000 People’s Data",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBwLVotXzVqVVZJbE9iYkU1d09reWRaemUxMDFsWFZhNkFjVlRzYUFOdThXMVhlQXk3cTJCeXQ1R2xlWE9IUW1RcjdDWm4wUHRsZ25LaDRQMG1LUGtoQ2xHQV9qWdIBY0FVX3lxTFBwLVotXzVqVVZJbE9iYkU1d09reWRaemUxMDFsWFZhNkFjVlRzYUFOdThXMVhlQXk3cTJCeXQ1R2xlWE9IUW1RcjdDWm4wUHRsZ25LaDRQMG1LUGtoQ2xHQV9qWQ?oc=5",
-     "source": "Cyber Press",
-     "published": "2026-10-20T10:15:26+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "AI Agents Hack More Than 100 Websites, Including Australian Targets, for Just US$5,000",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNcDA3NUJrMFdKZkxLbjRQQWh1LTVfWnA2TG1zeDNyUnRKSmVHYjEtQkJoVlhTaUltRktLX09XaG05Z0VseUhfOWJJUXB2N1U3ZGJyS0V2QTRlWl9IOGNWRWFxd0FoUGt6c19MQUJkU2ZFaU42Rkc4STNSR09PZzgwZ1NhNXJZbHpDNGlFVTB1aVhINllneVg3UVBHRElIdUFpOWVMQTdEYzA1YllOYWlLVjdsXzhJN0d0U1JCWFVR?oc=5",
-     "source": "Crypto News Australia",
-     "published": "2026-10-20T10:01:44+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Security firm finds China-linked AI agent behind Japan cyberattacks",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNYkxsd0RhSktuSk5yTDlmcjV4QjN3R2hhSm5KRTk4NThESl8xejBIcGVmdnI4YWs0ZWhRbXdidlM0dzR5cEc5bjBOTHBSaDdfWnZuTkdRR2VvRklBakZJQUJqcnI0aGs1UUZUMWdOYVN5UTI0eDVGQXVYV3ppeVdGOFZSWkFHTl9ncnEyNWlLcWstZHFZZ1lwVUhSNTdHYWZpeXowQUhBeHhGTXRhSzM2QVJyTQ?oc=5",
-     "source": "Japan Today",
-     "published": "2026-10-20T07:34:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "AI",
-      "APAC"
-     ],
-     "also": [
-      "CNA"
-     ]
-    },
-    {
-     "title": "AI tool that hacked Korean Banks was used in Japan, GMO says",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPT1NuanA1WjExdGp6OVNMUGdxNnQxUkUzU2l3eTI3YUE1QXQxaDQwOVgtbUtpRGRtdmRxakNxU0pOZm1ZRTBZQ0EzOEVfV3dyaE5TdnhnNzJSM3JkUTZzN01ROUdTbWxNbGd5alVla2xKZC16cXQ4a2FYMTdqa2VKbzlldzFfdVRwT1NDbV9KX0hEUS1mc0NCbUY4Yw?oc=5",
-     "source": "Moneyweb",
-     "published": "2026-10-20T07:00:50+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "AI",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Chinese AI tool Artex used in wave of cyberattacks on Japan",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVFRBa2pRNm1IdHpWT1VBdExwM05yLTJzSlduMG0yMV9XRkt3R1N4LTFxa2U2TUthelNnTllyZXlpcndTLWlqUHFldVZycGc2d3E0V2tZb0dxai1SdzA4UTlITXZxbVY5NmVuMG94MExLZmEzMUxWVm9UaTNLekNnUWRtdkk4ZERadzFseXRPTVFwN2lyQzE4?oc=5",
-     "source": "Yeni Şafak English",
-     "published": "2026-10-20T06:52:50+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "AI",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Hackers Claim State Bank of India Data Leak Exposing 375,000 Records and 2,722 Documents",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Rb3FBUWVrVEVCZUhFMVFhbVhsRTZEbDZWdm9xUnBGSG50eE9YQVN1b2h3TW81dVMwREJKUG5HVGl5dUI1WXZ2WHdXNWM2TWl4bjk0MXg1YTlmQnRDakhyS000YU5BLVowS2Vn0gFrQVVfeXFMTlFvcUFRZWtURUJlSEUxUWFtWGxFNkRsNlZ2b3FScEZIbnR4T1hBU3VvaHdNbzV1UzBEQkpQbkdUaXl1QjVZdnZYd1c1YzZNaXhuOTQxeDVhOWZCdENqSHJLTTRhTkEtWjBLZWc?oc=5",
-     "source": "Cyber Press",
-     "published": "2026-10-20T04:57:39+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
       "APAC"
      ],
      "also": []
@@ -772,6 +672,18 @@
      "tags": [
       "AI"
      ],
+     "also": []
+    },
+    {
+     "title": "Is the ad a scam? How to tell before you click",
+     "subtitle": "",
+     "link": "https://www.welivesecurity.com/en/social-media/is-ad-scam-how-tell-before-click/",
+     "source": "ESET Research",
+     "published": "2026-10-20T09:00:00+00:00",
+     "date_only": false,
+     "summary": "You can trust a social media platform and still get scammed by an ad running on it",
+     "extra": "",
+     "tags": [],
      "also": []
     },
     {
@@ -926,6 +838,54 @@
   {
    "name": "Government Advisories",
    "stories": [
+    {
+     "title": "Critical vulnerabilities in PHP",
+     "subtitle": "",
+     "link": "https://www.cyber.gov.au/alert/critical-vulnerabilities-in-php",
+     "source": "ACSC Australia",
+     "published": "2026-10-21T03:01:26+00:00",
+     "date_only": false,
+     "summary": "A security release for two critical PHP vulnerabilities is set for public disclosure on 22 October 2026. PHP is widely used to power web applications.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Google Chrome Multiple Vulnerabilities",
+     "subtitle": "",
+     "link": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20261021",
+     "source": "HKCERT",
+     "published": "2026-10-21T03:00:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Nginx Multiple Vulnerabilities",
+     "subtitle": "",
+     "link": "https://www.hkcert.org/security-bulletin/nginx-multiple-vulnerabilities_20261021",
+     "source": "HKCERT",
+     "published": "2026-10-21T01:00:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Oracle Products Multiple Vulnerabilities",
+     "subtitle": "",
+     "link": "https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20261021",
+     "source": "HKCERT",
+     "published": "2026-10-21T01:00:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
     {
      "title": "Fortinet Products Elevation of Privilege Vulnerability",
      "subtitle": "",
