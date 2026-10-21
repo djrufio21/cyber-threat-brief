@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-21T18:45:35+00:00",
+ "generated": "2026-10-21T22:28:04+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -231,6 +231,136 @@
    "name": "Breaking Threats",
    "stories": [
     {
+     "title": "Google Chrome adds Gemini-powered scam detection, warns users of ClickFix attacks",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/google/google-chrome-adds-gemini-powered-scam-detection-warns-users-of-clickfix-attacks/",
+     "source": "BleepingComputer",
+     "published": "2026-10-21T22:16:26+00:00",
+     "date_only": false,
+     "summary": "Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix attacks. [...]",
+     "extra": "",
+     "tags": [],
+     "also": [
+      "The Hacker News"
+     ]
+    },
+    {
+     "title": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/japans-onamae-desktop-cloud-hacked-up-to-27-000-servers-affected/",
+     "source": "BleepingComputer",
+     "published": "2026-10-21T21:43:27+00:00",
+     "date_only": false,
+     "summary": "Hackers compromised the infrastructure of Onamae Desktop Cloud, a popular provider of VPS services in Japan, and installed malware on up to 26,739 customers' servers. [...]",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "TiDB Breach Exposes Flawed Cloud Security Assumptions",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/cloud-security/tidb-breach-flawed-cloud-security",
+     "source": "Dark Reading",
+     "published": "2026-10-21T21:15:39+00:00",
+     "date_only": false,
+     "summary": "Cloud providers may be storing sensitive customer data, without either party knowing it. But when a provider is breached, the data comes home to roost.",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": []
+    },
+    {
+     "title": "Lazarus hackers use post-quantum cryptography for malware delivery",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-use-post-quantum-cryptography-for-malware-delivery/",
+     "source": "BleepingComputer",
+     "published": "2026-10-21T20:31:48+00:00",
+     "date_only": false,
+     "summary": "North Korean hackers are using a post-quantum cryptographic mechanism to secure malicious payload delivery in new operations that combine old and new malware. [...]",
+     "extra": "",
+     "tags": [
+      "Nation-state"
+     ],
+     "also": []
+    },
+    {
+     "title": "Meta on the spot for $25 billion under New Mexico privacy ruling",
+     "subtitle": "",
+     "link": "https://therecord.media/meta-new-mexico-penalty-cambridge-analytica-privacy-case",
+     "source": "The Record",
+     "published": "2026-10-21T20:25:00+00:00",
+     "date_only": false,
+     "summary": "The Cambridge Analytica data privacy scandal from a decade ago is still weighing on Meta's finances.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Marvell, Microsoft & Oracle Work to Standardize Data Center Hardware Security",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/cloud-security/marvell-microsoft-oracle-standardize-data-center-hardware-security",
+     "source": "Dark Reading",
+     "published": "2026-10-21T20:14:42+00:00",
+     "date_only": false,
+     "summary": "The effort is aimed at standardizing a NIST FIPS 140-3 Level 3 integrated HSM for cloud and hyperscale data center infrastructure.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Cloud Security Alliance Survey Finds Data Loss Prevention Often Detects Data Loss Only After It Happens",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/cloud-security/cloud-security-alliance-survey-data-loss-prevention-detects-data-loss",
+     "source": "Dark Reading",
+     "published": "2026-10-21T20:03:14+00:00",
+     "date_only": false,
+     "summary": "Research finds that, among respondents experiencing data loss, only 16% said DLP blocked their most significant incidents before data left the organization.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Tech trio launches $10 million initiative to help under-resourced utilities bolster cybersecurity",
+     "subtitle": "",
+     "link": "https://therecord.media/utilities-cybersecurity-initiative-accenture",
+     "source": "The Record",
+     "published": "2026-10-21T19:45:00+00:00",
+     "date_only": false,
+     "summary": "Up to 500 under-resourced utilities will receive support in order to bolster their cybersecurity through a private sector initiative launched this week.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "'PHP2Shell' Bugs Signal Red Alert for Security Industry",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/application-security/php2shell-bugs-red-alert-security-industry",
+     "source": "Dark Reading",
+     "published": "2026-10-21T19:19:17+00:00",
+     "date_only": false,
+     "summary": "Security teams are scrambling to remediate two critical PHP vulnerabilities following leaked details and reports of exploitation attempts.",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": []
+    },
+    {
+     "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
+     "source": "The Hacker News",
+     "published": "2026-10-21T18:57:34+00:00",
+     "date_only": false,
+     "summary": "GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every version of the software going back to 7.0, released in 2014. The fix matters even for…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
      "title": "CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers",
      "subtitle": "",
      "link": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/",
@@ -422,140 +552,29 @@
      "extra": "",
      "tags": [],
      "also": []
-    },
-    {
-     "title": "PHP ships emergency patches for critical PHP2Shell flaws",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/php-ships-emergency-patches-for-critical-php2shell-flaws/",
-     "source": "BleepingComputer",
-     "published": "2026-10-21T14:07:05+00:00",
-     "date_only": false,
-     "summary": "The PHP security team released emergency security patches for two critical remote code execution (RCE) vulnerabilities (CVE-2026-109618 and CVE-2026-109619) tracked collectively as PHP2Shell. [...]",
-     "extra": "",
-     "tags": [],
-     "also": [
-      "The Hacker News"
-     ]
-    },
-    {
-     "title": "ClickFix has never been bigger, and AI tools are its most convincing lure yet",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/clickfix-has-never-been-bigger-and-ai-tools-are-its-most-convincing-lure-yet/",
-     "source": "BleepingComputer",
-     "published": "2026-10-21T14:00:10+00:00",
-     "date_only": false,
-     "summary": "ClickFix attacks are surging as cybercriminals use fake AI installers, malicious search results, and trusted chatbot platforms to trick users into executing malware. Push Security examines how these attacks evade traditional defenses and…",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Asymptote Labs Lands $5.5 Million Seed for AI Agent Runtime Security",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/asymptote-labs-lands-5-5-million-seed-for-ai-agent-runtime-security/",
-     "source": "SecurityWeek",
-     "published": "2026-10-21T13:17:35+00:00",
-     "date_only": false,
-     "summary": "Asymptote Labs raises $5.5M seed led by Tower Research Ventures to commercialize its Beacon AI agent runtime security platform. The post Asymptote Labs Lands $5.5 Million Seed for AI Agent Runtime Security appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html",
-     "source": "The Hacker News",
-     "published": "2026-10-21T13:15:09+00:00",
-     "date_only": false,
-     "summary": "Google on Tuesday said it's rolling out improved safeguards in its Chrome browser to secure users against ClickFix attacks when Enhanced Protection is enabled. ClickFix is a popular social engineering technique in which bad actors trick…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Decades-Old Windows Utility Powers Modern ClickFix Attack",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/cyberattacks-data-breaches/decades-old-windows-utility-modern-clickfix-attack",
-     "source": "Dark Reading",
-     "published": "2026-10-21T13:00:00+00:00",
-     "date_only": false,
-     "summary": "The attack uses malicious Google search results related to Amazon and leverages the \"finger\" utility to launch a CAPTCHA that installs malware, including the Lumma stealer.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Memory Bugs Account for Most of Chrome’s 353 New Security Fixes",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/memory-bugs-account-for-most-of-chromes-353-new-security-fixes/",
-     "source": "SecurityWeek",
-     "published": "2026-10-21T12:57:47+00:00",
-     "date_only": false,
-     "summary": "The update fixes 353 flaws, including 163 memory corruption and 125 use-after-free vulnerabilities. The post Memory Bugs Account for Most of Chrome’s 353 New Security Fixes appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "OpenAI Agents Silenced Security Team Alerts, Removed Misalignment Monitor",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/openai-agents-silenced-security-team-alerts-removed-misalignment-monitor/",
-     "source": "SecurityWeek",
-     "published": "2026-10-21T12:34:22+00:00",
-     "date_only": false,
-     "summary": "In two internal incidents, agents read routine coding instructions as permission to weaken monitoring, and one gave a false answer about it. The post OpenAI Agents Silenced Security Team Alerts, Removed Misalignment Monitor appeared first…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Microsoft PowerToys adds CursorHide, Button Lock mouse tools",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-powertoys-adds-cursorhide-button-lock-mouse-tools/",
-     "source": "BleepingComputer",
-     "published": "2026-10-21T12:20:34+00:00",
-     "date_only": false,
-     "summary": "Microsoft has released PowerToys 0.102, with two new mouse utilities, new command-line tools, and Command Palette improvements. [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html",
-     "source": "The Hacker News",
-     "published": "2026-10-21T12:05:00+00:00",
-     "date_only": false,
-     "summary": "Cybersecurity researchers have disclosed details of a previously undocumented China-aligned threat cluster known as Bronze Sandcastle that has been observed targeting organizations in Asia and Africa since mid-2025. \"The most distinctive…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html",
-     "source": "The Hacker News",
-     "published": "2026-10-21T11:53:34+00:00",
-     "date_only": false,
-     "summary": "Generative AI has changed what a malicious email looks like. Messages that once gave themselves away through clumsy wording, generic pretexts, and reused templates now arrive fluent, personalized, and unique to each recipient, and the…",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
     }
    ]
   },
   {
    "name": "APAC Watch",
    "stories": [
+    {
+     "title": "Data Breach at Burger King Japan Exposes over 11 Million Customer Records",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPLThqR1F6Z0hXS0pnSXBEUzZHYXdrREdKVjBsTDFoaEI3QlpOYUsxYk5iTGg4al9FcGUwQkFmT2syaTlRb0lrbk5HTkFfYTl2Q0p0em0yM0NBNmwyZDVMWEtRTjlwMGpwUE1ibDZvTWQ4ZUtSRW1QR0VQQnZfQzVvSWNET2NVNzJQTEhCTGk2U1VicjNpRnRfSlh6V3RkM1ZXSjhCWDBqd3BkOXJYMVg2Q3dxRFV2N09E?oc=5",
+     "source": "CPO Magazine",
+     "published": "2026-10-21T22:00:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": [
+      "Business Insurance"
+     ]
+    },
     {
      "title": "Taiwan Faces Cyberattack Surge Ahead of Elections, China Suspected",
      "subtitle": "",
@@ -566,21 +585,6 @@
      "summary": "",
      "extra": "",
      "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Burger King Japan data breach exposes 11M customer records",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSEh5ZFBybTg5bFNiQ1c4ZWZPMWVZTjdxV25nOTEwQ1ZUTFpNVnNZekxEZzFnY3RLSjJUN1haVGt1aFNaQmdUVjVPY3FTSjJvQ1NfZktvYjM0b0gybm50WnFMcU5pcmtscVQyVXZFdERROFpjY0Jnc21nV1ZwVm02cnU3TERsVDNCc0NJR2NhOUx2VThBQ05HQg?oc=5",
-     "source": "www.businessinsurance.com",
-     "published": "2026-10-21T14:18:41+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
       "APAC"
      ],
      "also": []
@@ -639,6 +643,34 @@
   {
    "name": "Threat Research",
    "stories": [
+    {
+     "title": "Compromised eMudhra intermediate certificates",
+     "subtitle": "",
+     "link": "https://blog.talosintelligence.com/compromised-intermediate-certificates/",
+     "source": "Cisco Talos",
+     "published": "2026-10-21T20:43:29+00:00",
+     "date_only": false,
+     "summary": "Cisco Talos is aware of eight intermediate certificates belonging to the intermediate certificate authority, eMudhra.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise",
+     "subtitle": "",
+     "link": "https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/",
+     "source": "Microsoft Threat Intelligence",
+     "published": "2026-10-21T18:23:55+00:00",
+     "date_only": false,
+     "summary": "Storm-0940 used ARTEX agentic AI to accelerate a ConnectWise supply chain compromise, enabling application credential abuse across Microsoft 365 environments. The post AI-driven, large-scale nation-state campaign using ARTEX enables supply…",
+     "extra": "",
+     "tags": [
+      "Nation-state",
+      "Supply chain",
+      "AI"
+     ],
+     "also": []
+    },
     {
      "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619",
      "subtitle": "",
@@ -810,32 +842,6 @@
      "summary": "Is the cybersecurity world really facing a \"Bugmageddon?\" Thor breaks down the latest CVE and KEV trends in the latest Threat Source newsletter.",
      "extra": "",
      "tags": [],
-     "also": []
-    },
-    {
-     "title": "ARMORY CASTLE Exploits BeyondTrust",
-     "subtitle": "",
-     "link": "https://cloud.google.com/blog/topics/threat-intelligence/armory-castle-exploits-beyondtrust/",
-     "source": "Google Threat Intelligence",
-     "published": "2026-10-15T14:00:00+00:00",
-     "date_only": false,
-     "summary": "Written by: Jayson Frost, Bryce Greathouse, Brian Meyer, John Palmisano, Rajesh Rajeshirke, Steve Rasch, John Wolfram Introduction On October 15, BeyondTrust disclosed a vulnerability, CVE-2026-102764, impacting BeyondTrust Remote Support…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Investigating Ephemeral Supply Chain Tampering",
-     "subtitle": "",
-     "link": "https://cloud.google.com/blog/topics/threat-intelligence/investigating-ephemeral-supply-chain-tampering/",
-     "source": "Google Threat Intelligence",
-     "published": "2026-10-15T11:00:00+00:00",
-     "date_only": false,
-     "summary": "Written by: Tyler McLellan Introduction Google Threat Intelligence Group (GTIG) and Mandiant investigated a software supply chain compromise campaign targeting the update infrastructure belonging to AOMEI Technology between April 2026 and…",
-     "extra": "",
-     "tags": [
-      "Supply chain"
-     ],
      "also": []
     }
    ]
