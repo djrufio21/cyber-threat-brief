@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-20T22:24:33+00:00",
+ "generated": "2026-10-21T01:42:26+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -224,40 +224,6 @@
      "product": "PAN-OS",
      "cve": "CVE-2026-0322",
      "also": []
-    },
-    {
-     "title": "CVE-2026-104935: Ivanti Connect Secure",
-     "subtitle": "Ivanti Connect Secure Authentication Bypass by Spoofing Vulnerability",
-     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-104935",
-     "source": "CISA KEV",
-     "published": "2026-10-13T00:00:00+00:00",
-     "date_only": true,
-     "summary": "Ivanti Connect Secure contains an authentication bypass by spoofing vulnerability that allows a remote unauthenticated attacker to execute arbitrary commands.",
-     "extra": "US federal patch deadline 16 Oct",
-     "tags": [
-      "Exploited"
-     ],
-     "vendor": "Ivanti",
-     "product": "Connect Secure",
-     "cve": "CVE-2026-104935",
-     "also": []
-    },
-    {
-     "title": "CVE-2026-96951: Microsoft Windows",
-     "subtitle": "Microsoft Windows Command Injection Vulnerability",
-     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-96951",
-     "source": "CISA KEV",
-     "published": "2026-10-13T00:00:00+00:00",
-     "date_only": true,
-     "summary": "Microsoft Windows Shell contains a command injection vulnerability that allows an unauthorized attacker to bypass a security feature over a network.",
-     "extra": "US federal patch deadline 16 Oct",
-     "tags": [
-      "Exploited"
-     ],
-     "vendor": "Microsoft",
-     "product": "Windows",
-     "cve": "CVE-2026-96951",
-     "also": []
     }
    ]
   },
@@ -265,16 +231,32 @@
    "name": "Breaking Threats",
    "stories": [
     {
-     "title": "Tech Giants Block eMudhra Certificates Tied to 8 Compromised Keys",
+     "title": "Stolen UpdraftCentral keys used to backdoor WordPress sites",
      "subtitle": "",
-     "link": "https://www.darkreading.com/cyber-risk/tech-giants-emudhra-certificates-compromised-keys",
-     "source": "Dark Reading",
-     "published": "2026-10-20T21:45:47+00:00",
+     "link": "https://www.bleepingcomputer.com/news/security/stolen-updraftcentral-keys-used-to-backdoor-wordpress-sites/",
+     "source": "BleepingComputer",
+     "published": "2026-10-21T01:01:50+00:00",
      "date_only": false,
-     "summary": "Google, Mozilla, Apple, the Go project and others moved swiftly to block the affected certificates from the Indian CA, though it's unclear how the keys were compromised.",
+     "summary": "A threat actor breached TeamUpdraft's website, a developer of popular WordPress backup and security plugins, potentially compromising UpdraftCentral connection keys that can send commands to connected websites. [...]",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": []
+    },
+    {
+     "title": "Mozilla, Google, Apple block compromised eMudhra CA certificates",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/mozilla-google-apple-block-compromised-emudhra-ca-certificates/",
+     "source": "BleepingComputer",
+     "published": "2026-10-21T00:46:42+00:00",
+     "date_only": false,
+     "summary": "Certificate authority eMudhra revoked eight compromised intermediate certificates after researchers found their private keys were so weak that anyone could recover them almost instantly and use them to forge trusted certificates for…",
      "extra": "",
      "tags": [],
-     "also": []
+     "also": [
+      "Dark Reading"
+     ]
     },
     {
      "title": "PHP warns admins of two critical flaws, emergency patches coming tomorrow",
@@ -579,20 +561,6 @@
      "extra": "",
      "tags": [],
      "also": []
-    },
-    {
-     "title": "AI Platform Cairn Abused to Hack Over 100 Organizations",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/ai-platform-cairn-abused-to-hack-over-100-organizations/",
-     "source": "SecurityWeek",
-     "published": "2026-10-20T12:47:22+00:00",
-     "date_only": false,
-     "summary": "At least three threat actors have been abusing Cairn for persistent access and financial theft. The post AI Platform Cairn Abused to Hack Over 100 Organizations appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
     }
    ]
   },
@@ -751,49 +719,6 @@
      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Rb3FBUWVrVEVCZUhFMVFhbVhsRTZEbDZWdm9xUnBGSG50eE9YQVN1b2h3TW81dVMwREJKUG5HVGl5dUI1WXZ2WHdXNWM2TWl4bjk0MXg1YTlmQnRDakhyS000YU5BLVowS2Vn0gFrQVVfeXFMTlFvcUFRZWtURUJlSEUxUWFtWGxFNkRsNlZ2b3FScEZIbnR4T1hBU3VvaHdNbzV1UzBEQkpQbkdUaXl1QjVZdnZYd1c1YzZNaXhuOTQxeDVhOWZCdENqSHJLTTRhTkEtWjBLZWc?oc=5",
      "source": "Cyber Press",
      "published": "2026-10-20T04:57:39+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Japanese firms scrambling for help after hackers compromise over 1.8 million customer records",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSmdHSHNWaDdSTW5hWUlGdHdSbm9ZNGhxSmYwc1dTM1R5a1FOQ3c0X3RSa2ZrY2NnOEMwaVJSdmdONWJmdGdXTFZQemhaZUUwX0VuYW1EemR5MTNSTy1vQVFXNjNEYXVRTi1BbnlnbkNITUVXVF9nR20tMlR4R3otYVQtb0Zwd1BYZ2hVdGFrUUxtV2h4VmFnTWlsbU5pRDczdFJ1V1lrLXFsclpfeUY1RzNsOEY2SjhiUEdaMDRtTDBrZDY2NFJXNVFXRVVfNkM0bDdN?oc=5",
-     "source": "TokyoReporter",
-     "published": "2026-10-19T23:39:17+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Japan Faces New Wave Of AI-Powered Cyberattacks As Hackers Exploit Stolen Data",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVHlXTGs1aElqalJKdnJtQWtQVVFjajhta1hmeVlmUjI4ckxQcmktbFlUQUNOY1l4cmF6UWpBOXhnVnpYeTVsUk53a3lEZUpCQmNTbWRzbFlfMkNwUGhKVFh4QWJTUXAtQlZEUUc2RTRRWXIxX054NF81azZYVXZ0TGV0cGlnSWpuN1pTb0VXa0ZZdHRiYndxZngyeW1vZlV2YnZLWG0xMWU3bWlPOUI4?oc=5",
-     "source": "ChannelNews.com.au",
-     "published": "2026-10-19T23:39:08+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "AI",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Burger King Japan Confirms Data Breach Exposing 11.18 Million Customer Records",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeWl1N2hKTmZmTW9memRwM0Q3YV9na0xEcTJTYzE3dE9UVERRdFFzUTNUaE5ENUh0WnJNVlZlVTh0UGRjUUI4R3ZfTndOdUdMMHFwSjNGdlVxV2Vyem1hV2NqZFd3ZDVxMTZfMGo1VHp6bElIR3d2R3lGWFQxMkZUMS1HNzZ0cTdCeDlESmRVVnpsWEFWQ1pKZEJwSDQ5bmlZ?oc=5",
-     "source": "eSecurity Planet",
-     "published": "2026-10-19T22:41:13+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
