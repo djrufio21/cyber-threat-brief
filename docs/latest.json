@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T18:38:28+00:00",
+ "generated": "2026-10-22T22:28:47+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -163,6 +163,146 @@
    "name": "Breaking Threats",
    "stories": [
     {
+     "title": "Railway warns devs to rotate secrets after potential breach",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/railway-warns-devs-to-rotate-secrets-after-potential-breach/",
+     "source": "BleepingComputer",
+     "published": "2026-10-22T21:25:31+00:00",
+     "date_only": false,
+     "summary": "Cloud platform Railway published an urgent warning to users after detecting suspicious activity on its systems that store customer environment variables earlier this week. [...]",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": []
+    },
+    {
+     "title": "Toronto crime tips org freezes operations after details of data breach come to light",
+     "subtitle": "",
+     "link": "https://therecord.media/toronto-crime-tips-org-freezes-ops-after-breach",
+     "source": "The Record",
+     "published": "2026-10-22T20:52:00+00:00",
+     "date_only": false,
+     "summary": "Late Wednesday night the Toronto chapter of Crime Stoppers broke ranks with the national association, revealing a timeline showing what it knew and when along with an announcement that it will pause operations.",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": []
+    },
+    {
+     "title": "Microsoft Links Storm-0940 to ConnectWise Supply Chain Attack",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/cyberattacks-data-breaches/microsoft-storm-0940-connectwise-supply-chain-attack",
+     "source": "Dark Reading",
+     "published": "2026-10-22T20:42:17+00:00",
+     "date_only": false,
+     "summary": "The China-linked actor used an AI-enabled penetration-testing tool to automate and accelerate its attack on more than 2,200 tenants.",
+     "extra": "",
+     "tags": [
+      "Supply chain",
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "What We Missed: Feds Lasso Texas Laptop Farms",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/insider-threats/texas-laptop-farms-north-korean-it-workers",
+     "source": "Dark Reading",
+     "published": "2026-10-22T20:33:10+00:00",
+     "date_only": false,
+     "summary": "In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, from busting up North Korea's stateside infrastructure in \"Operation Lonestar Justice\" to Staples' gift card bonanza.",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Capcom confirms data breach affecting 11.7 million accounts",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/capcom-confirms-data-breach-affecting-117-million-accounts/",
+     "source": "BleepingComputer",
+     "published": "2026-10-22T20:22:45+00:00",
+     "date_only": false,
+     "summary": "Japanese gaming giant Capcom has confirmed that hackers breached its membership service, CAPCOM ID, exposing more than 11.7 million customer email addresses and associated information. [...]",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": []
+    },
+    {
+     "title": "Les supermarchés de l'UE paient d'un firmware de réfrigérateur non mis à jour",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/ics-ot-security/eu-grocers-unpatched-fridge-firmware-french",
+     "source": "Dark Reading",
+     "published": "2026-10-22T19:30:20+00:00",
+     "date_only": false,
+     "summary": "Des centaines de magasins ont subi des pertes se chiffrant en millions d'euros parce qu'ils avaient fait appel à des tiers pour gérer le micrologiciel OT obsolète qui pilotait leurs systèmes de climatisation.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "LiteLLM release pipeline hacked to distribute info-stealer malware",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/litellm-release-pipeline-hacked-to-distribute-info-stealer-malware/",
+     "source": "BleepingComputer",
+     "published": "2026-10-22T19:12:51+00:00",
+     "date_only": false,
+     "summary": "Hackers compromised the LiteLLM project's PyPI package and published malicious Docker images with a payload that steals credentials, secrets, and environment variables. [...]",
+     "extra": "",
+     "tags": [
+      "Supply chain"
+     ],
+     "also": []
+    },
+    {
+     "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
+     "source": "The Hacker News",
+     "published": "2026-10-22T19:05:35+00:00",
+     "date_only": false,
+     "summary": "Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching. Nobody reviewed its access. Nobody owns…",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html",
+     "source": "The Hacker News",
+     "published": "2026-10-22T19:05:17+00:00",
+     "date_only": false,
+     "summary": "Attackers are exploiting a zero-day SQL injection flaw in Arista's VeloCloud Orchestrator (VCO), the central management system for VeloCloud SD-WAN networks, the company said in an advisory on October 22. The flaw lets anyone who can log…",
+     "extra": "",
+     "tags": [
+      "Zero-day",
+      "Exploited"
+     ],
+     "also": [
+      "BleepingComputer"
+     ]
+    },
+    {
+     "title": "Indian tech company eMudhra announces withdrawal from certificate business after security incident",
+     "subtitle": "",
+     "link": "https://therecord.media/indian-tech-company-announces-withdrawal-certificate-business-incident",
+     "source": "The Record",
+     "published": "2026-10-22T18:46:00+00:00",
+     "date_only": false,
+     "summary": "The issue was publicized by cybersecurity researcher Scott Helme, who published a blog saying that instead of a random 384-bit number, one of the company's private keys was just the number four.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
      "title": "eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable",
      "subtitle": "",
      "link": "https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html",
@@ -186,21 +326,6 @@
      "tags": [
       "Breach",
       "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Arista patches new VeloCloud Orchestrator zero-day exploited in attacks",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/arista-patches-new-velocloud-orchestrator-zero-day-exploited-in-attacks/",
-     "source": "BleepingComputer",
-     "published": "2026-10-22T17:18:22+00:00",
-     "date_only": false,
-     "summary": "Arista Networks released security updates to patch an actively exploited zero-day vulnerability affecting VeloCloud Orchestrator (VCO) On-Prem deployments. [...]",
-     "extra": "",
-     "tags": [
-      "Exploited",
-      "Zero-day"
      ],
      "also": []
     },
@@ -374,133 +499,27 @@
      "extra": "",
      "tags": [],
      "also": []
-    },
-    {
-     "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
-     "source": "The Hacker News",
-     "published": "2026-10-22T11:45:00+00:00",
-     "date_only": false,
-     "summary": "Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching. Nobody reviewed its access. Nobody owns…",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "GitLab warns of new max severity code execution vulnerability",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/",
-     "source": "BleepingComputer",
-     "published": "2026-10-22T11:41:48+00:00",
-     "date_only": false,
-     "summary": "GitLab has released security patches for a maximum-severity Regular Expression Compiler flaw that can let remote attackers run arbitrary code on vulnerable servers. [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html",
-     "source": "The Hacker News",
-     "published": "2026-10-22T11:15:42+00:00",
-     "date_only": false,
-     "summary": "Platform-as-a-Service (PaaS) provider Railway on Wednesday disclosed \"anomalous activity\" related to systems that store customer environment variables. Upon further investigation, the company found that an unauthorized third party may have…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Splunk, SolarWinds Release Fresh Security Updates",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/splunk-solarwinds-release-fresh-security-updates/",
-     "source": "SecurityWeek",
-     "published": "2026-10-22T10:45:24+00:00",
-     "date_only": false,
-     "summary": "Patched vulnerabilities could allow attackers to execute code, elevate privileges, and leak sensitive information. The post Splunk, SolarWinds Release Fresh Security Updates appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [
-      "Breach"
-     ],
-     "also": []
-    },
-    {
-     "title": "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html",
-     "source": "The Hacker News",
-     "published": "2026-10-22T10:44:05+00:00",
-     "date_only": false,
-     "summary": "A flaw in the OpenCode AI coding agent allowed a malicious or hijacked MCP server to run code on a developer's Windows or WSL machine when the developer signed in. OpenCode connects to MCP (Model Context Protocol) servers to add outside…",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Cisco Patches 34 Vulnerabilities Across Multiple Products",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/cisco-patches-34-vulnerabilities-across-multiple-products/",
-     "source": "SecurityWeek",
-     "published": "2026-10-22T10:05:21+00:00",
-     "date_only": false,
-     "summary": "Critical-severity security defects could lead to command execution, authentication bypass, and XSS attacks. The post Cisco Patches 34 Vulnerabilities Across Multiple Products appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
-     "source": "The Hacker News",
-     "published": "2026-10-22T08:28:48+00:00",
-     "date_only": false,
-     "summary": "LiteLLM on Wednesday disclosed that threat actors compromised \"multiple independent security controls\" to push a malicious version of the Python package containing a credential stealer and a backdoor. On October 21, 2026, LiteLLM's release…",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "Supply chain",
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Authorities disrupt nearly 11,000 cybercrime networks in Africa",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/",
-     "source": "BleepingComputer",
-     "published": "2026-10-22T08:27:11+00:00",
-     "date_only": false,
-     "summary": "Law enforcement agencies have disrupted nearly 11,000 cybercriminal networks and arrested more than 1,400 people in Operation Serengeti III, which targeted business email compromise, ransomware, and online scams. [...]",
-     "extra": "",
-     "tags": [
-      "Ransomware",
-      "Phishing"
-     ],
-     "also": []
-    },
-    {
-     "title": "Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html",
-     "source": "The Hacker News",
-     "published": "2026-10-22T07:47:22+00:00",
-     "date_only": false,
-     "summary": "Node.js released security updates on October 21 for its three supported release lines, 22.x, 24.x and 26.x, fixing 10 flaws. The most serious is a bug in the Brotli decompression code that Node.js bundles, which the project says can allow…",
-     "extra": "",
-     "tags": [],
-     "also": []
     }
    ]
   },
   {
    "name": "APAC Watch",
    "stories": [
+    {
+     "title": "Australia has toughest data breach fines in APAC: report",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZG82N0ItSVptcnR1a3R2TUJBRV81dHJwU05qNGl1bGFibHotRzBtd2FRYlBoRUJ5QXhCbzdKWlJka2VjRDZpZ3JrbEdfTEdUZUtHejVRYjV4NDJVRHR2aUNmVDJmZml2T3h5d2c4UjVkS0laVVhDbTVRNDBETFowMVlTMFEyQXBuYVRxVUdfNlFoWmU1azNrWFBwQl83OU0wZm55M0JZTlNrQTFuSGt2aWVRM0lNY3BqdEloSngxcEdodnZ3?oc=5",
+     "source": "Technology Decisions",
+     "published": "2026-10-22T22:17:54+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
     {
      "title": "State Bank of India reports cyberattack involving nearly 3,900 customer records",
      "subtitle": "",
@@ -514,7 +533,24 @@
       "APAC"
      ],
      "also": [
-      "Central Oregon Daily"
+      "The Financial Express"
+     ]
+    },
+    {
+     "title": "Hackers Planted Malware on Japanese Cloud Servers, Forcing the Provider to Shut Down Its Service",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WTzZCbmpWbzdjLTlXMDkwSUd3OW1xY3N4S3o5TllGTGpPTm9KdFYyei10b29jM0x5dHNQNTBpYTFrN1lUNGVLTlNsLVNwT3dHWnJZM3ZuU3NmUEN6RHcxZUxmM2bSAWpBVV95cUxQR2w3N2ZlRTBoV204NVJKXzdVOFlEWjR1S01lRlYzdzJXQmZITnlTRHlXTmUyMUhaVE9UQ3ZxVXpzcnNBa3JzT2stekRudFdUTVZNa0JhWEV5ay0zNG5kdGhUMmt6ZGRJZXdR?oc=5",
+     "source": "CyberSecurityNews",
+     "published": "2026-10-22T14:16:13+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": [
+      "teiss",
+      "Cyber Press"
      ]
     },
     {
@@ -532,6 +568,18 @@
      "also": []
     },
     {
+     "title": "SBI Cyberattack Shows Need for Cutting-Edge Defenses at Indian Banks",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnplSHhZdVJUeWRvYlU5TzJjZ3QtaGFmc3N3UXdOWmZ1OHF3WE51SE1CTFNzYkV2bUhyTnl6NjE1cW5oeVhBVFZBRjJ2UktCbEJYcjVvN01weXNLakFuM29NTVhfWFNKT2tNNzEzNXl1ckFhZ2daTGprWlNmWTBQbXhjNzNnR3BxamVKeEM5ejg2WHVOMGEwdjZxODRHZzIzS1Vrd2EwdzlGRG9aaHNxRVhveFd2UzMtQWQ4ZHZLbw?oc=5",
+     "source": "Bloomberg.com",
+     "published": "2026-10-22T12:30:01+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
      "title": "Singapore organisations urged to patch critical PHP flaws immediately amid cyberattack threat",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSXo1cFBmVDBzWmhiRnJhRUZocnBrTWJINTRONGlMU0JjeERNQUZmMllPYXlDNE1pcVlmN2FNekk5bjl1YXQzaVVfc1dDQUktRi14M0JmSjU0cGpBRTVILWtPcENSQ0tXR1hOek5ZV1ljOVJXdWNyS1oxRjQ1WUNkSGYtaEVWMUdDc0VEaE50ajBPTkJRdmw4T0wzckdhLUtUY2xKZmN3?oc=5",
@@ -546,11 +594,11 @@
      "also": []
     },
     {
-     "title": "Japan’s GMO Internet Shuts Down Cloud Service After Hackers Plant Malware, 26,739 Servers at Risk",
+     "title": "SBI data exposure puts India’s cybersecurity ecosystem under scrutiny",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vaC05alFTdlNPTGFuSEtIem45c0VIdWRZNDJld1NLY2dSbXVoRVItdk1wcm9PNzhEV1lDLXUzQklqaFdDTDA5Y1lGQjZBcm1tQ1hLTlMyWkJKVWUtMXBmd9IBYEFVX3lxTE9vaC05alFTdlNPTGFuSEtIem45c0VIdWRZNDJld1NLY2dSbXVoRVItdk1wcm9PNzhEV1lDLXUzQklqaFdDTDA5Y1lGQjZBcm1tQ1hLTlMyWkJKVWUtMXBmdw?oc=5",
-     "source": "Cyber Press",
-     "published": "2026-10-22T07:07:05+00:00",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPR21RbTIyc0NVWjlPSEY3SHV0bzVtQlRZNnp2TTBjZVltejZtTnF2LUh6cjQzeWNTamI4bWtYQTdGRG82NHBGMWdfR0xMZDB1QWdydG12YS1jLVFSNmU3TV9vUVE3SjJDb0pYcGhYRUVNOEoxbEpLVTRmamdWSWZMeVRETm82TmFIckI4bG9NMWNSeUZmNEFhdDdNMGtlXzg0Z1lxQjVxcGw5bFJnWXVRakhLMldJbjBoRHVkbHlkTXdBcnRRRWxkcDFmR3hlUVBqZGtTMnZwa1lkdUJz0gHiAUFVX3lxTE5obVRjVUV6OG1BMmJ6T1dheHNrRkRZV0VMS1VYV092VmRMOERRZnVFcFdLZk54M3M4VnhoSEE4YmZKRVlsWmd4Y0tSaDMtdThMclY2VGU0UDVteTQzalVkTGhhU1VVdG9aQkF6TktvajdCOFMzTF8tZVhZelNtXy02Nzh6eTFYV0lFVFVpNTBRb055MGZiME04ZERsakZBMnNwZy04YlpNV1hXdFpwOUtzSU5NdkM5M3YtQlBDMExRZFRmVGN6RWxPeTdxTWVDd3hlRzVObnVCNVUzR2d5RHBRZ1E?oc=5",
+     "source": "ET Entrepreneur",
+     "published": "2026-10-22T09:09:57+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -558,6 +606,23 @@
       "APAC"
      ],
      "also": []
+    },
+    {
+     "title": "State Bank Of India Confirms Cyberattack, Stolen Data Found On Dark Web",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQazhIYlRVdTBOMkM5bk1KOE1La19nLWZMZGdBRnF6OWp3OFo5UFIyeVdoQ2tMYnZldkVkQjlrYXpjbGFYT2JUaVJMOGwyNHlSRlhrQ0lwYlRFY1FqNlN4WjFYajJMMWZ4QUFwcldxNl9VU3Yta2hDUWJuSnQ4Z1gyVE55VlBqbFFLZG15OEM2b2t3eWEybVY2Z0UxX0FZNXRvZkE?oc=5",
+     "source": "Menafn",
+     "published": "2026-10-22T08:02:50+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": [
+      "Kashmir Media Service"
+     ]
     },
     {
      "title": "From eMudhra To SBI, Reliance: 5 Major Data Breaches That Exposed India’s Digital Fault Lines",
@@ -575,11 +640,11 @@
      "also": []
     },
     {
-     "title": "India’s top bank admits data breach as 3,897 customer details found on dark web",
+     "title": "Hackers Return to India’s Booming Fintech Sector; SBI Investigates Suspected Dark Web Data Leak, Here’s How You Can Protect Your Data",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb2JQY2lwWWRxeWlFV2p0cHlWU2dPNG9Hc1BNS3JSUVM5cThQX2l6ZURpaXVXQ2tqNHdoNzlKU2lnN19jMUFtTDdwN2F6eUdkTnJsWEdvdk1fVjhZTUtpWlduNDNtR0V0b3E1bktjV251cHJyMHJlM1FQdUc1cjFvUDVsbmtRQVBRaVU4R25jbHdmcHRrMEFWbEFYT3RndXVXVUJZYlNjZnUyYVZQLW9PMXpiOUV6Vk9G?oc=5",
-     "source": "Kashmir Media Service",
-     "published": "2026-10-22T05:36:36+00:00",
+     "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQbWx0d1dST2NTNlh3ZVZpay1KaUNOa3BEazY5NWgzLS01eEpYMFVGSTQ1dk9pRExZTXptOU5ScDRjTHlOOHZnUS1tNEdaU0c0RW01dHR4R3NpQ3dkeHF5Q3lKMzlxd2NyYW9IeWhfXzNNdEloS0dpOFYwM2tVaWFGU1BqMkFpaW1DMjFCS01wUV9wclZTcmRxM09FREkwX19DX0NFWlV6WFUyNE54OEo4RXNvcWM1OURSQ19hRDhsYjhyVk9lQ1dLc0M2YlhFWGZGZlRNN3hvT1pmZlQyWXNQQkY0cTdBUElHemtJaV9mQjdVQ1hXZ0szZTdXQW3SAfwBQVVfeXFMUG1sdHdXUk9jUzZYd2VWaWstSmlDTmtwRGs2OTVoMy0tNXhKWDBVRkk0NXZPaURMWU16bTlOUnA0Y0x5Tjh2Z1EtbTRHWlNHNEVtNXR0eEdzaUN3ZHhxeUN5SjM5cXdjcmFvSHloX18zTXRJaEtHaThWMDNrVWlhRlNQajJBaWltQzIxQktNcFFfcHJWU3JkcTNPRURJMF9fQ19DRVpVelhVMjROeDhKOEVzb3FjNTlEUkNfYUQ4bGI4clZPZUNXS3NDNmJYRVhmRmZUTTd4b09aZmZUMllzUEJGNHE3QVBJR3prSWlfZkI3VUNYV2dLM2U3V0Ft?oc=5",
+     "source": "DNP India",
+     "published": "2026-10-22T05:40:44+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -588,8 +653,7 @@
       "APAC"
      ],
      "also": [
-      "The Crypto Times",
-      "Asia News Network"
+      "The Crypto Times"
      ]
     },
     {
@@ -636,9 +700,7 @@
       "Breach",
       "APAC"
      ],
-     "also": [
-      "CPO Magazine"
-     ]
+     "also": []
     },
     {
      "title": "US NSA, India's CERT-In warn of critical PHP flaws that could let hackers take over servers",
@@ -655,44 +717,16 @@
      "also": []
     },
     {
-     "title": "Hackers breach Yonsei University portal, leak data of 10,000 in South Korea - CHOSUNBIZ",
+     "title": "India’s SBI data breach: Personal details in 3,897 customer records exposed on dark web, probe launched",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQTUk5MnZBOUJGWHoyVmI3S19pUjZBcVMwY0FON0VJaGlGYnM4UFFIdU56TlhIejEzdFBiNVNkZnFnbHZJVjNtbklNbVBXTHBCOTB6cFZsR2FDME93OUhXMVRCb184TE5VNXZiT1psSndvYy10c1ZpOFZzTF9DRGNXeNIBlAFBVV95cUxPWnZLQURqQ1BKeFhhMGszM0I5b181WmFoS05SdHRRNTlZa05ER3R6Y01mS2E3MTlsMzMxWjZFV1B6czFsb1RvSElYNHJMTU4xSk1jMDhFZndlYjdsUnVZNmVDZXdSY2RIdWFtbElJT0llRWhDTHJ1NnBpZDZIaFQ3N1VsQkFNdEpBTzZwZGJMTndtQTk0?oc=5",
-     "source": "Chosunbiz",
-     "published": "2026-10-22T00:52:00+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMWpRRGtZNlBUaVR6QzdjZHNabXRwN0tEU2RaOTBQVFdQNnVPRlRrWTNtRkJxWFFSNDBJTGJQVm1tTF9YYXVfMVNFYkhPUE5uLUM0TmR1RzVsOGk3ckFOcnFDUzRHSXRZM2JidGxwcTJCU3c2X1hwNUZtaktlNTNoa1JxRWcxS0ltajN4NmE2TnVtdzlyc2RUQnJETnNWaXNfOERISTkwR3RDN3NWRV9jS2taQ0RDUGpXYk8tTXRuSmtVNVk?oc=5",
+     "source": "Asia News Network",
+     "published": "2026-10-22T01:19:18+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
      "tags": [
       "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Australians facing spike in data breaches after 'critical' flaw uncovered",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPUTVlb25PVFZBMHhUV2czLTc5THpRZTNQQ0QyWUQwX25zRnQ5X0xCOGlzSjYtWWxuTnNDdExYVlNzVGFUczZaMzk0TWdydm1lUl9LUDVuN0FUQXpuV1NhYVVNU3dvLVBiR0I3TWJWdC1DV1RvZldJbmVJVnNxY3l1eXNGMUJMREcwakw2clM3WUFLSHVodjFqSGhTeHRqcGJBRUZIR0Y2cw?oc=5",
-     "source": "ABC News & Headlines – Australian Broadcasting Corporation",
-     "published": "2026-10-22T00:48:22+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach"
-     ],
-     "also": []
-    },
-    {
-     "title": "Australia cyber rules tighten as reporting deadlines bite",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOX1Nrc1p3anFteTVkby01U0hIY1lDSE5YTkpoSFdZVll2VE5kdTRtemtDYmMtV0kxd0c4TVpIVlhDdUo5dmVzdlNxclQ4LW56ZmEyX0NKOV9nZTdzamxPdEVMX1dBamxJNUNsRVhlWUw5aXhCZllkTGJMVWJ1ak5Sd0ZfeE1SRW9qWUhiMjBaTnZGUnVfWm9R?oc=5",
-     "source": "SecurityBrief Australia",
-     "published": "2026-10-21T23:53:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
       "APAC"
      ],
      "also": []
