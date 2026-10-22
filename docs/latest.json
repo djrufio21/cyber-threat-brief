@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T07:44:32+00:00",
+ "generated": "2026-10-22T13:54:47+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -163,6 +163,216 @@
    "name": "Breaking Threats",
    "stories": [
     {
+     "title": "Cybercrime crackdown across Africa leads to 1,462 arrests, $105 million seized",
+     "subtitle": "",
+     "link": "https://therecord.media/africa-cybercrime-interpol-arrests",
+     "source": "The Record",
+     "published": "2026-10-22T13:30:00+00:00",
+     "date_only": false,
+     "summary": "More than 1,400 suspected cybercriminals were arrested across Africa this summer as part of a crackdown on the gangs perpetrating online fraud, ransomware and business email compromise attacks, Interpol said.",
+     "extra": "",
+     "tags": [
+      "Ransomware",
+      "Phishing"
+     ],
+     "also": []
+    },
+    {
+     "title": "Amazon says PHP2Shell exploitation began 4 days before patches",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/amazon-says-php2shell-exploitation-began-4-days-before-patches/",
+     "source": "BleepingComputer",
+     "published": "2026-10-22T13:09:12+00:00",
+     "date_only": false,
+     "summary": "Security researchers at Amazon Threat Intelligence say attackers began targeting the PHP2Shell flaws four days before security patches were released on Wednesday. [...]",
+     "extra": "",
+     "tags": [],
+     "also": [
+      "SecurityWeek"
+     ]
+    },
+    {
+     "title": "Indurex Raises $8 Million to Expand Industrial Cybersecurity Platform",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/indurex-raises-8-million-to-expand-industrial-cybersecurity-platform/",
+     "source": "SecurityWeek",
+     "published": "2026-10-22T13:00:00+00:00",
+     "date_only": false,
+     "summary": "The Amsterdam-based company plans to use the funding for research and development and commercial expansion in Europe and the Middle East. The post Indurex Raises $8 Million to Expand Industrial Cybersecurity Platform appeared first on…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Signal Vulnerability Lets Malicious Callers Block Hang-Ups",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/signal-vulnerability-lets-malicious-callers-block-hang-ups/",
+     "source": "SecurityWeek",
+     "published": "2026-10-22T12:34:31+00:00",
+     "date_only": false,
+     "summary": "Affecting the open source calling library RingRTC, the bug prevented calls from ending properly. The post Signal Vulnerability Lets Malicious Callers Block Hang-Ups appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Tech and Security Companies Respond to PHP2Shell Vulnerabilities",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/tech-and-security-companies-respond-to-php2shell-vulnerabilities/",
+     "source": "SecurityWeek",
+     "published": "2026-10-22T12:20:23+00:00",
+     "date_only": false,
+     "summary": "Vendors are checking their products for PHP2Shell, security firms are shipping detections, and governments are urging immediate patching. The post Tech and Security Companies Respond to PHP2Shell Vulnerabilities appeared first on…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "South Carolina officials offer assistance after state capital hit with cyberattack",
+     "subtitle": "",
+     "link": "https://therecord.media/south-carolina-officials-offer-assistance-cyber-incident",
+     "source": "The Record",
+     "published": "2026-10-22T12:14:00+00:00",
+     "date_only": false,
+     "summary": "The systems impacted by the attack include the MyColaSC platform that citizens use to pay utility bills, report non-emergency issues and access other city services.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
+     "source": "The Hacker News",
+     "published": "2026-10-22T11:45:00+00:00",
+     "date_only": false,
+     "summary": "Right now, there is probably an AI agent running on a laptop somewhere in your network. It stores API keys and database passwords, can access your internal systems, and works without anyone watching. Nobody reviewed its access. Nobody owns…",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "GitLab warns of new max severity code execution vulnerability",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/gitlab-warns-of-new-max-severity-code-execution-vulnerability/",
+     "source": "BleepingComputer",
+     "published": "2026-10-22T11:41:48+00:00",
+     "date_only": false,
+     "summary": "GitLab has released security patches for a maximum-severity Regular Expression Compiler flaw that can let remote attackers run arbitrary code on vulnerable servers. [...]",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html",
+     "source": "The Hacker News",
+     "published": "2026-10-22T11:15:42+00:00",
+     "date_only": false,
+     "summary": "Platform-as-a-Service (PaaS) provider Railway on Wednesday disclosed \"anomalous activity\" related to systems that store customer environment variables. Upon further investigation, the company found that an unauthorized third party may have…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Splunk, SolarWinds Release Fresh Security Updates",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/splunk-solarwinds-release-fresh-security-updates/",
+     "source": "SecurityWeek",
+     "published": "2026-10-22T10:45:24+00:00",
+     "date_only": false,
+     "summary": "Patched vulnerabilities could allow attackers to execute code, elevate privileges, and leak sensitive information. The post Splunk, SolarWinds Release Fresh Security Updates appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": []
+    },
+    {
+     "title": "OpenCode Flaw Lets Malicious MCP Servers Execute Code During Sign-In on Windows and WSL",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/opencode-flaw-lets-malicious-mcp.html",
+     "source": "The Hacker News",
+     "published": "2026-10-22T10:44:05+00:00",
+     "date_only": false,
+     "summary": "A flaw in the OpenCode AI coding agent allowed a malicious or hijacked MCP server to run code on a developer's Windows or WSL machine when the developer signed in. OpenCode connects to MCP (Model Context Protocol) servers to add outside…",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "Cisco Patches 34 Vulnerabilities Across Multiple Products",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/cisco-patches-34-vulnerabilities-across-multiple-products/",
+     "source": "SecurityWeek",
+     "published": "2026-10-22T10:05:21+00:00",
+     "date_only": false,
+     "summary": "Critical-severity security defects could lead to command execution, authentication bypass, and XSS attacks. The post Cisco Patches 34 Vulnerabilities Across Multiple Products appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "LiteLLM Suspects GitHub Token Leak in AI Gateway Logs Behind Malicious Package Release",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/litellm-suspects-github-token-leak-in.html",
+     "source": "The Hacker News",
+     "published": "2026-10-22T08:28:48+00:00",
+     "date_only": false,
+     "summary": "LiteLLM on Wednesday disclosed that threat actors compromised \"multiple independent security controls\" to push a malicious version of the Python package containing a credential stealer and a backdoor. On October 21, 2026, LiteLLM's release…",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "Supply chain",
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "Authorities disrupt nearly 11,000 cybercrime networks in Africa",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/authorities-disrupt-nearly-11-000-cybercrime-networks-in-africa/",
+     "source": "BleepingComputer",
+     "published": "2026-10-22T08:27:11+00:00",
+     "date_only": false,
+     "summary": "Law enforcement agencies have disrupted nearly 11,000 cybercriminal networks and arrested more than 1,400 people in Operation Serengeti III, which targeted business email compromise, ransomware, and online scams. [...]",
+     "extra": "",
+     "tags": [
+      "Ransomware",
+      "Phishing"
+     ],
+     "also": []
+    },
+    {
+     "title": "Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html",
+     "source": "The Hacker News",
+     "published": "2026-10-22T07:47:22+00:00",
+     "date_only": false,
+     "summary": "Node.js released security updates on October 21 for its three supported release lines, 22.x, 24.x and 26.x, fixing 10 flaws. The most serious is a bug in the Brotli decompression code that Node.js bundles, which the project says can allow…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Oracle Patches Over 1,200 Vulnerabilities With October 2026 CPU",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/oracle-patches-over-1200-vulnerabilities-with-october-2026-cpu/",
+     "source": "SecurityWeek",
+     "published": "2026-10-22T07:38:14+00:00",
+     "date_only": false,
+     "summary": "Nearly 100 vulnerabilities have been assigned a critical severity rating and Fusion Middleware received the most patches. The post Oracle Patches Over 1,200 Vulnerabilities With October 2026 CPU appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
      "title": "Meta Ordered to Pay New Mexico $25 Billion for Deceiving Users About Privacy on Facebook",
      "subtitle": "",
      "link": "https://www.securityweek.com/meta-ordered-to-pay-new-mexico-25-billion-for-deceiving-users-about-privacy-on-facebook/",
@@ -175,6 +385,30 @@
      "also": [
       "The Record"
      ]
+    },
+    {
+     "title": "New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html",
+     "source": "The Hacker News",
+     "published": "2026-10-22T06:38:31+00:00",
+     "date_only": false,
+     "summary": "A remote attacker who has not logged in can crash many HTTP/3 web servers with a single connection, security firm FoxIO disclosed, releasing working proof-of-concept code. By sending a small batch of compressed HTTP headers that expands in…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Someone Tried to Exploit PHP2Shell 4 Days Before the Vulnerabilities Were Publicly Disclosed",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html",
+     "source": "The Hacker News",
+     "published": "2026-10-22T06:34:10+00:00",
+     "date_only": false,
+     "summary": "Amazon's Threat Intelligence team on Wednesday said it detected an attempt to exploit the newly disclosed PHP2Shell vulnerabilities on October 17, 2026, against its MadPot honeypot service, as the flaws come under broad exploitation in the…",
+     "extra": "",
+     "tags": [],
+     "also": []
     },
     {
      "title": "UAE Transitions 50% of Gov't Services to Agentic AI",
@@ -215,9 +449,7 @@
      "summary": "Chrome is getting new scam protections that use Gemini to detect deceptive websites and warn users when they copy suspicious commands from ClickFix attacks. [...]",
      "extra": "",
      "tags": [],
-     "also": [
-      "The Hacker News"
-     ]
+     "also": []
     },
     {
      "title": "Japan's Onamae Desktop Cloud hacked, up to 27,000 servers affected",
@@ -231,7 +463,9 @@
      "tags": [
       "APAC"
      ],
-     "also": []
+     "also": [
+      "teiss"
+     ]
     },
     {
      "title": "TiDB Breach Exposes Flawed Cloud Security Assumptions",
@@ -260,240 +494,85 @@
       "Nation-state"
      ],
      "also": []
-    },
-    {
-     "title": "Marvell, Microsoft & Oracle Work to Standardize Data Center Hardware Security",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/cloud-security/marvell-microsoft-oracle-standardize-data-center-hardware-security",
-     "source": "Dark Reading",
-     "published": "2026-10-21T20:14:42+00:00",
-     "date_only": false,
-     "summary": "The effort is aimed at standardizing a NIST FIPS 140-3 Level 3 integrated HSM for cloud and hyperscale data center infrastructure.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Cloud Security Alliance Survey Finds Data Loss Prevention Often Detects Data Loss Only After It Happens",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/cloud-security/cloud-security-alliance-survey-data-loss-prevention-detects-data-loss",
-     "source": "Dark Reading",
-     "published": "2026-10-21T20:03:14+00:00",
-     "date_only": false,
-     "summary": "Research finds that, among respondents experiencing data loss, only 16% said DLP blocked their most significant incidents before data left the organization.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Tech trio launches $10 million initiative to help under-resourced utilities bolster cybersecurity",
-     "subtitle": "",
-     "link": "https://therecord.media/utilities-cybersecurity-initiative-accenture",
-     "source": "The Record",
-     "published": "2026-10-21T19:45:00+00:00",
-     "date_only": false,
-     "summary": "Up to 500 under-resourced utilities will receive support in order to bolster their cybersecurity through a private sector initiative launched this week.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "'PHP2Shell' Bugs Signal Red Alert for Security Industry",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/application-security/php2shell-bugs-red-alert-security-industry",
-     "source": "Dark Reading",
-     "published": "2026-10-21T19:19:17+00:00",
-     "date_only": false,
-     "summary": "Security teams are scrambling to remediate two critical PHP vulnerabilities following leaked details and reports of exploitation attempts.",
-     "extra": "",
-     "tags": [
-      "Breach"
-     ],
-     "also": []
-    },
-    {
-     "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
-     "source": "The Hacker News",
-     "published": "2026-10-21T18:57:34+00:00",
-     "date_only": false,
-     "summary": "GitLab released fixes on October 21 for a flaw that lets an attacker run code on a self-managed server without logging in, and it affects every version of the software going back to 7.0, released in 2014. The fix matters even for…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "CISA: Hackers chain Plex flaws in Plex2Shell attacks to breach servers",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/cisa-hackers-chain-plex-flaws-in-plex2shell-attacks-to-breach-servers/",
-     "source": "BleepingComputer",
-     "published": "2026-10-21T18:34:42+00:00",
-     "date_only": false,
-     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that attackers are actively exploiting four vulnerabilities in Plex Media Server. [...]",
-     "extra": "",
-     "tags": [
-      "Breach"
-     ],
-     "also": []
-    },
-    {
-     "title": "Democrat lawmakers say Russia is aiming to undermine party ahead of midterms",
-     "subtitle": "",
-     "link": "https://therecord.media/democrat-lawmakers-say-russia-is-aiming-to-undermine-party",
-     "source": "The Record",
-     "published": "2026-10-21T18:28:00+00:00",
-     "date_only": false,
-     "summary": "The pair stressed the latest update showed no country is pursuing the technically challenging effort to interfere with or hack into the country’s election infrastructure or tamper directly with votes.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html",
-     "source": "The Hacker News",
-     "published": "2026-10-21T18:01:57+00:00",
-     "date_only": false,
-     "summary": "The popular LiteLLM Python package has been compromised as part of a software supply chain attack that delivered a credential stealer and a backdoor, according to reports from SafeDep, Socket, StepSecurity, and Upwind. The compromise…",
-     "extra": "",
-     "tags": [
-      "Supply chain"
-     ],
-     "also": []
-    },
-    {
-     "title": "PHP says AI review of critical bugs first sparked alarm in August, but signs surfaced in 2024",
-     "subtitle": "",
-     "link": "https://therecord.media/php-foundation-statement-critical-vulnerabilities",
-     "source": "The Record",
-     "published": "2026-10-21T17:30:00+00:00",
-     "date_only": false,
-     "summary": "In a lengthy statement about two critical vulnerabilities, the PHP Foundation explained how one dated to 2024, how a recent third-party review by AI companies heightened attention on both, why it scrambled to post information earlier than…",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Google Hardens Chrome Against ClickFix Attacks, Insecure HTTP Connections",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/google-hardens-chrome-against-clickfix-attacks-insecure-http-connections/",
-     "source": "SecurityWeek",
-     "published": "2026-10-21T17:00:00+00:00",
-     "date_only": false,
-     "summary": "Protections have been added against scams and social engineering, including new site warnings and server-side Gemini analysis. The post Google Hardens Chrome Against ClickFix Attacks, Insecure HTTP Connections appeared first on…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "PHP2Shell Patches Land as First Exploitation Attempts Hit Sensors",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/php2shell-patches-land-as-first-exploitation-attempts-hit-sensors/",
-     "source": "SecurityWeek",
-     "published": "2026-10-21T16:50:40+00:00",
-     "date_only": false,
-     "summary": "Several cybersecurity companies saw exploitation attempts of CVE-2026-109618 and CVE-2026-109619 before PHP released the patches. The post PHP2Shell Patches Land as First Exploitation Attempts Hit Sensors appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "OVHcloud GitHub Compromise Tied to GlassWorm Threat Actors",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/cyberattacks-data-breaches/ovhcloud-github-compromise-glassworm-threat-actors",
-     "source": "Dark Reading",
-     "published": "2026-10-21T16:50:15+00:00",
-     "date_only": false,
-     "summary": "A developer's GitHub account that was compromised several months earlier was used to push malicious code to unsuspecting users.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "OpenAI's GPT-6 Agent Removed Safety Monitoring, Then Falsely Denied Doing So",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/openais-gpt-6-agent-removed-safety.html",
-     "source": "The Hacker News",
-     "published": "2026-10-21T16:33:47+00:00",
-     "date_only": false,
-     "summary": "OpenAI has revealed that two artificial intelligence (AI) agents powered by GPT-6.1 Sol and GPT-6 Astra weakened misalignment monitoring while making requested software changes during two internal coding tasks. The AI company said the…",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "OpenAI agents disabled safety monitoring, one lied about it",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/openai-agents-disabled-safety-monitoring-one-lied-about-it/",
-     "source": "BleepingComputer",
-     "published": "2026-10-21T16:26:53+00:00",
-     "date_only": false,
-     "summary": "OpenAI agents powered by the GPT-6.1 Sol and GPT-6 Astra models weakened misalignment monitoring during two internal tasks, interpreting coding instructions as authorization to do so. [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Optiv Launches CyberBOT Cybersecurity Awareness Training Program",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/cybersecurity-operations/optiv-launches-cyberbot-cybersecurity-awareness-training-program",
-     "source": "Dark Reading",
-     "published": "2026-10-21T15:44:48+00:00",
-     "date_only": false,
-     "summary": "Hands-on sessions provide educators, nonprofits, and community leaders with an accessible resource to foster year-round cyber awareness and build more resilient communities.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Survey Finds High-Profile Executives Feel Untouchable as Digital Exposure Turns Into Physical Risk",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/cybersecurity-operations/360-privacy-survey-high-profile-executives-feel-untouchable",
-     "source": "Dark Reading",
-     "published": "2026-10-21T15:29:09+00:00",
-     "date_only": false,
-     "summary": "360 Privacy finds more than 8 in 10 security and wealth professionals say cybersecurity and physical security can no longer be separated.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Widespread PHP Flaw May Cause Many Site Outages Today",
-     "subtitle": "",
-     "link": "https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/",
-     "source": "Krebs on Security",
-     "published": "2026-10-21T15:26:07+00:00",
-     "date_only": false,
-     "summary": "Expect to see quite a few websites serving \"404\" or \"Page Not Found\" errors today: Nearly 70 percent of websites need to update their core software to fix a pair of vulnerabilities that allow an attacker to seize full control over affected…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "‘Context Bombs’ Cut AI Attack Success by Misleading Agents With Fake Targets",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/context-bombs-cut-ai-attack-success-by-misleading-agents-with-fake-targets/",
-     "source": "SecurityWeek",
-     "published": "2026-10-21T15:00:00+00:00",
-     "date_only": false,
-     "summary": "Deceptive prompts lure AI agents into decoys and dead ends, cutting attack success by up to 91% in tests and raising the cost of a successful attack 23-fold. The post ‘Context Bombs’ Cut AI Attack Success by Misleading Agents With Fake…",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
     }
    ]
   },
   {
    "name": "APAC Watch",
    "stories": [
+    {
+     "title": "SBI Cyberattack Shows Need for Cutting-Edge Defenses at Indian Banks",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRnplSHhZdVJUeWRvYlU5TzJjZ3QtaGFmc3N3UXdOWmZ1OHF3WE51SE1CTFNzYkV2bUhyTnl6NjE1cW5oeVhBVFZBRjJ2UktCbEJYcjVvN01weXNLakFuM29NTVhfWFNKT2tNNzEzNXl1ckFhZ2daTGprWlNmWTBQbXhjNzNnR3BxamVKeEM5ejg2WHVOMGEwdjZxODRHZzIzS1Vrd2EwdzlGRG9aaHNxRVhveFd2UzMtQWQ4ZHZLbw?oc=5",
+     "source": "Bloomberg.com",
+     "published": "2026-10-22T12:30:01+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Singapore organisations urged to patch critical PHP flaws immediately amid cyberattack threat",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSXo1cFBmVDBzWmhiRnJhRUZocnBrTWJINTRONGlMU0JjeERNQUZmMllPYXlDNE1pcVlmN2FNekk5bjl1YXQzaVVfc1dDQUktRi14M0JmSjU0cGpBRTVILWtPcENSQ0tXR1hOek5ZV1ljOVJXdWNyS1oxRjQ1WUNkSGYtaEVWMUdDc0VEaE50ajBPTkJRdmw4T0wzckdhLUtUY2xKZmN3?oc=5",
+     "source": "CNA",
+     "published": "2026-10-22T09:33:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "SBI data exposure puts India’s cybersecurity ecosystem under scrutiny",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPR21RbTIyc0NVWjlPSEY3SHV0bzVtQlRZNnp2TTBjZVltejZtTnF2LUh6cjQzeWNTamI4bWtYQTdGRG82NHBGMWdfR0xMZDB1QWdydG12YS1jLVFSNmU3TV9vUVE3SjJDb0pYcGhYRUVNOEoxbEpLVTRmamdWSWZMeVRETm82TmFIckI4bG9NMWNSeUZmNEFhdDdNMGtlXzg0Z1lxQjVxcGw5bFJnWXVRakhLMldJbjBoRHVkbHlkTXdBcnRRRWxkcDFmR3hlUVBqZGtTMnZwa1lkdUJz0gHiAUFVX3lxTE5obVRjVUV6OG1BMmJ6T1dheHNrRkRZV0VMS1VYV092VmRMOERRZnVFcFdLZk54M3M4VnhoSEE4YmZKRVlsWmd4Y0tSaDMtdThMclY2VGU0UDVteTQzalVkTGhhU1VVdG9aQkF6TktvajdCOFMzTF8tZVhZelNtXy02Nzh6eTFYV0lFVFVpNTBRb055MGZiME04ZERsakZBMnNwZy04YlpNV1hXdFpwOUtzSU5NdkM5M3YtQlBDMExRZFRmVGN6RWxPeTdxTWVDd3hlRzVObnVCNVUzR2d5RHBRZ1E?oc=5",
+     "source": "ET Entrepreneur",
+     "published": "2026-10-22T09:09:57+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "State Bank Of India Confirms Cyberattack, Stolen Data Found On Dark Web",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQazhIYlRVdTBOMkM5bk1KOE1La19nLWZMZGdBRnF6OWp3OFo5UFIyeVdoQ2tMYnZldkVkQjlrYXpjbGFYT2JUaVJMOGwyNHlSRlhrQ0lwYlRFY1FqNlN4WjFYajJMMWZ4QUFwcldxNl9VU3Yta2hDUWJuSnQ4Z1gyVE55VlBqbFFLZG15OEM2b2t3eWEybVY2Z0UxX0FZNXRvZkE?oc=5",
+     "source": "Menafn",
+     "published": "2026-10-22T08:02:50+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": [
+      "Kashmir Media Service",
+      "The Financial Express",
+      "TechNadu"
+     ]
+    },
+    {
+     "title": "Japan’s GMO Internet Shuts Down Cloud Service After Hackers Plant Malware, 26,739 Servers at Risk",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9vaC05alFTdlNPTGFuSEtIem45c0VIdWRZNDJld1NLY2dSbXVoRVItdk1wcm9PNzhEV1lDLXUzQklqaFdDTDA5Y1lGQjZBcm1tQ1hLTlMyWkJKVWUtMXBmd9IBYEFVX3lxTE9vaC05alFTdlNPTGFuSEtIem45c0VIdWRZNDJld1NLY2dSbXVoRVItdk1wcm9PNzhEV1lDLXUzQklqaFdDTDA5Y1lGQjZBcm1tQ1hLTlMyWkJKVWUtMXBmdw?oc=5",
+     "source": "Cyber Press",
+     "published": "2026-10-22T07:07:05+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
     {
      "title": "From eMudhra To SBI, Reliance: 5 Major Data Breaches That Exposed India’s Digital Fault Lines",
      "subtitle": "",
@@ -508,6 +587,23 @@
       "APAC"
      ],
      "also": []
+    },
+    {
+     "title": "Hackers Return to India’s Booming Fintech Sector; SBI Investigates Suspected Dark Web Data Leak, Here’s How You Can Protect Your Data",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQbWx0d1dST2NTNlh3ZVZpay1KaUNOa3BEazY5NWgzLS01eEpYMFVGSTQ1dk9pRExZTXptOU5ScDRjTHlOOHZnUS1tNEdaU0c0RW01dHR4R3NpQ3dkeHF5Q3lKMzlxd2NyYW9IeWhfXzNNdEloS0dpOFYwM2tVaWFGU1BqMkFpaW1DMjFCS01wUV9wclZTcmRxM09FREkwX19DX0NFWlV6WFUyNE54OEo4RXNvcWM1OURSQ19hRDhsYjhyVk9lQ1dLc0M2YlhFWGZGZlRNN3hvT1pmZlQyWXNQQkY0cTdBUElHemtJaV9mQjdVQ1hXZ0szZTdXQW3SAfwBQVVfeXFMUG1sdHdXUk9jUzZYd2VWaWstSmlDTmtwRGs2OTVoMy0tNXhKWDBVRkk0NXZPaURMWU16bTlOUnA0Y0x5Tjh2Z1EtbTRHWlNHNEVtNXR0eEdzaUN3ZHhxeUN5SjM5cXdjcmFvSHloX18zTXRJaEtHaThWMDNrVWlhRlNQajJBaWltQzIxQktNcFFfcHJWU3JkcTNPRURJMF9fQ19DRVpVelhVMjROeDhKOEVzb3FjNTlEUkNfYUQ4bGI4clZPZUNXS3NDNmJYRVhmRmZUTTd4b09aZmZUMllzUEJGNHE3QVBJR3prSWlfZkI3VUNYV2dLM2U3V0Ft?oc=5",
+     "source": "DNP India",
+     "published": "2026-10-22T05:40:44+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": [
+      "The Crypto Times"
+     ]
     },
     {
      "title": "MarketSmith India's Mayuresh Joshi adopts 'wait and watch' on eMudhra after data breach",
@@ -541,27 +637,6 @@
      "also": []
     },
     {
-     "title": "India’s top bank admits data breach as 3,897 customer details found on dark web",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNb2JQY2lwWWRxeWlFV2p0cHlWU2dPNG9Hc1BNS3JSUVM5cThQX2l6ZURpaXVXQ2tqNHdoNzlKU2lnN19jMUFtTDdwN2F6eUdkTnJsWEdvdk1fVjhZTUtpWlduNDNtR0V0b3E1bktjV251cHJyMHJlM1FQdUc1cjFvUDVsbmtRQVBRaVU4R25jbHdmcHRrMEFWbEFYT3RndXVXVUJZYlNjZnUyYVZQLW9PMXpiOUV6Vk9G?oc=5",
-     "source": "Kashmir Media Service",
-     "published": "2026-10-22T04:35:18+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": [
-      "The Crypto Times",
-      "Asia News Network",
-      "The Hindu",
-      "Insurance Journal",
-      "The Peninsula Qatar"
-     ]
-    },
-    {
      "title": "Data breach hits 11 million Burger King Japan customers",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaTBvdThYanc4VFlhZ0IzaTFjeGYxR19fQzZzdDAyWEIwakVNdWdiYmhJRjBYUDE0R1Z3SUhvbjFEWTBWVlBKVXhhRjVKSmt0Qll2QjVJakdTZ3hwR3lDZUhvZ3dBb0dLZ2JZUkhfTnlzZVY2cEhCb3M5YlBBSFpRblI4ZTRPSEVDM2dJTjRJR3RPTHB2N0JiZ19VT3JONFoxeEo4TVcxY0FoZ2c?oc=5",
@@ -582,13 +657,28 @@
     {
      "title": "US NSA, India's CERT-In warn of critical PHP flaws that could let hackers take over servers",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbDhvY1psemN3UGJPcjN1U2VvdlFBSnRnUl9UTW01V1Y2NURUVjRkUUtuYkdFZjBLTTRoVWFvejQxYjV2QkN5cDdZcl9vakZKUEZYWDdlTVc4THE5U1NtNmh3c1R0X0g0RVBkVllYb0NJX2xlc0hjOHI3dVB2VmFTcmpzejRkN1hmNlVoVFRQcWhtZFZHbEdsVXR6RWJybU5XbnViUDZJal9ZVWlaTVJtSHFRTE14U2YyMThwRHFXU2JmbFR1SHBPc2ptejB5UlEyd05xNw?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbDhvY1psemN3UGJPcjN1U2VvdlFBSnRnUl9UTW01V1Y2NURUVjRkUUtuYkdFZjBLTTRoVWFvejQxYjV2QkN5cDdZcl9vakZKUEZYWDdlTVc4THE5U1NtNmh3c1R0X0g0RVBkVllYb0NJX2xlc0hjOHI3dVB2VmFTcmpzejRkN1hmNlVoVFRQcWhtZFZHbEdsVXR6RWJybU5XbnViUDZJal9ZVWlaTVJtSHFRTE14U2YyMThwRHFXU2JmbFR1SHBPc2ptejB5UlEyd05xN9IB2gFBVV95cUxOR2VpMVdDOTJxd2tFS2FMeGRYcVFJQjh5YXc1S1RJelJmc29ldURrYWh0S2E1N29kcEk3YzJXaDFRRHBpeXpiM29yNlQ2WGVfc21pQUExT25Gek01cFpRdWlLWWZkWEJMa3gtUF9HelBwT0JTUW1BTnhaamdhb2RBQjlkQ0V3MzBOb1F0ci1RNTc5eXdGa2VwLVZ6NTR2MEpJYWM2OTBLd1pLQnppbTJtdEU1YVVkRzVUcFI2dm93R19IVDBKRVc1OGZlejdkTHlvR084ZHExY2xtQQ?oc=5",
      "source": "CNBC TV18",
      "published": "2026-10-22T03:04:14+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
      "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "India’s SBI data breach: Personal details in 3,897 customer records exposed on dark web, probe launched",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMWpRRGtZNlBUaVR6QzdjZHNabXRwN0tEU2RaOTBQVFdQNnVPRlRrWTNtRkJxWFFSNDBJTGJQVm1tTF9YYXVfMVNFYkhPUE5uLUM0TmR1RzVsOGk3ckFOcnFDUzRHSXRZM2JidGxwcTJCU3c2X1hwNUZtaktlNTNoa1JxRWcxS0ltajN4NmE2TnVtdzlyc2RUQnJETnNWaXNfOERISTkwR3RDN3NWRV9jS2taQ0RDUGpXYk8tTXRuSmtVNVk?oc=5",
+     "source": "Asia News Network",
+     "published": "2026-10-22T01:19:18+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
       "APAC"
      ],
      "also": []
@@ -623,40 +713,20 @@
      "also": []
     },
     {
-     "title": "State Bank of India reports cyberattack — thousands of customer records affected, here's what we know",
+     "title": "State Bank of India reports cyberattack involving nearly 3,900 customer records",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNZjJhZ0o4NEk0S181RDgwczZzMjZpYnhlQmlEZHFZNHJGR0djWGNELVdQZTYtYU9BSV9hc3llUEtnSl9QZm9PYVBmbUl6dHlIWVhFTzczZFdJcjBCRldkU3BwUmJXekc1cGJEbE41WGw2ZHR0M1hSQWY0MDNHMDJ2OWZXS0sxbzF5eUNZSDZNN0d1aGw3aVhCWW91eU53cGdoemhRNnR1bnNCUDV0SW5CbEtOYmRneHBreV9WRlhVRjVJYVdCVVRxd2RMUWYzQUVObnc?oc=5",
-     "source": "TechRadar",
-     "published": "2026-10-21T14:16:20+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOdFFQMi15Mi01b3g3aTYwcV9OalBqRjZmZ0hHOGZYcHJYNTBmUXk5c1IxNnJfb1daS1NvU1BMMnpyUGY1aUJnWTJXUmpWbmk1Q2xIeWYwNGV2Q2lUTzgyN29JUTFVSDlIa3RKOUtXdDJJV042VjFtbjhMWTk3TWlybExkVGUtUi1uaUwzQkRXZ3g4R2lFWHRNLWJYMzkxajZGQVNRQ09lVnpJTlN1UFBjTURWQkxOb2hqVlQ1VkhEdExMQktoY1d6encyTG1NdklzWlJNNHZzYVBCZy1CejhBcnFNYVA1cjNuQTRDekZUc1BFcklWUWhEVWZoeGRQazYxdFNlRmcwX3VwZw?oc=5",
+     "source": "Central Oregon Daily",
+     "published": "2026-10-21T20:54:15+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
      "tags": [
-      "APAC",
-      "Breach"
-     ],
-     "also": [
-      "Business Recorder",
-      "TechNadu",
-      "KSL",
-      "The Star",
-      "Daily Bonik Barta"
-     ]
-    },
-    {
-     "title": "Data breach threatens to expose 125,000 staff records across Japan’s police forces",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYlpqUGdEQVNqSWd2Vm5YQ2RIMmFMaFhicFZhYzlibEJLTHFtOEdYSm1Yc21lSVRRanlvOUp5U29tbXFRZ3JQQ2Qza0I4NTk1UkhUMWhYczFoTDVUeHdrN2pDQnVFcWgwN1VsbGw4UlA5SURBRFlTeUJlOTZLNURuT2NENkZ0c2xQcXJRSlptbzl0NUpoVEtXWXRLYTZuaXU0TTh0MGZzODNOQWJ1OHkwc3dBQmFxa1pXVXZrTVk1SC1iUQ?oc=5",
-     "source": "The Straits Times",
-     "published": "2026-10-21T09:13:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
       "APAC"
      ],
-     "also": []
+     "also": [
+      "TechRadar"
+     ]
     }
    ]
   },
@@ -903,6 +973,20 @@
      "summary": "",
      "extra": "",
      "tags": [],
+     "also": []
+    },
+    {
+     "title": "[Security Blog] HKCERT Warns of Critical “PHP2Shell” Vulnerabilities: Businesses Must Immediately Review and Patch PHP Systems AI Accelerates Cyber Attacks and Defence, Further Shortening the Response Window Between Vulnerability Disclosure and Exploitation",
+     "subtitle": "",
+     "link": "https://www.hkcert.org/blog/hkcert-warns-of-critical-php2shell-vulnerabilities-businesses-must-immediately-review-and-patch-php-systems-ai-accelerates-cyber-attacks-and-defence-further-shortening-the-response-window-between-vulnerability-disclosure-and-exploitation",
+     "source": "HKCERT",
+     "published": "2026-10-21T16:00:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
      "also": []
     },
     {
