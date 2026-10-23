@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T18:29:13+00:00",
+ "generated": "2026-10-23T22:21:43+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -19,6 +19,23 @@
      "vendor": "Arista",
      "product": "VeloCloud Orchestrator",
      "cve": "CVE-2026-114625",
+     "also": []
+    },
+    {
+     "title": "CVE-2026-110447: Collabora Collabora Online – Built-in CODE Server",
+     "subtitle": "Collabora Online – Built-in CODE Server OS Command Injection Vulnerability",
+     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-110447",
+     "source": "CISA KEV",
+     "published": "2026-10-23T00:00:00+00:00",
+     "date_only": true,
+     "summary": "Collabora Collabora Online – Built-in CODE Server when used within the NextCloud platform contains an OS command injection vulnerability that allows for remote code execution when the CODE server isn't running.",
+     "extra": "US federal patch deadline 26 Oct",
+     "tags": [
+      "Exploited"
+     ],
+     "vendor": "Collabora",
+     "product": "Collabora Online – Built-in CODE Server",
+     "cve": "CVE-2026-110447",
      "also": []
     },
     {
@@ -162,6 +179,72 @@
   {
    "name": "Breaking Threats",
    "stories": [
+    {
+     "title": "Trust Is Not What It Seems — And Fraudsters Are Counting on It",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it",
+     "source": "Dark Reading",
+     "published": "2026-10-23T20:57:56+00:00",
+     "date_only": false,
+     "summary": "Threat actors don't need to rely on malware to breach organizations anymore. They're simply calling help desks and politely asking for access, with a little help from artificial intelligence.",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "Abandoned Popcorn Time app exposed millions of devices to RCE attacks",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/abandoned-popcorn-time-app-exposed-millions-of-device-to-rce-attacks/",
+     "source": "BleepingComputer",
+     "published": "2026-10-23T20:55:05+00:00",
+     "date_only": false,
+     "summary": "Researchers remotely disabled a vulnerable updater in the abandoned Time4Popcorn app, a fork of the Popcorn Time BitTorrent client, closing a security flaw that could have allowed attackers to execute malicious code with elevated…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Exposed to PHP2Shell? Cyber Experts Weigh in With Advice",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/application-security/exposed-php2shell-cyber-experts-advice",
+     "source": "Dark Reading",
+     "published": "2026-10-23T19:41:23+00:00",
+     "date_only": false,
+     "summary": "Fixing the critical PHP flaws is not as simple as clicking \"Update.\" Here's how to assess your risk, and what you can do to protect yourself.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Microsoft Teams to get AI-powered, context-aware phishing detection",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-to-get-ai-powered-context-aware-phishing-detection/",
+     "source": "BleepingComputer",
+     "published": "2026-10-23T18:54:41+00:00",
+     "date_only": false,
+     "summary": "Microsoft has announced plans to add AI-powered phishing detection to Teams messages starting in early November 2026. [...]",
+     "extra": "",
+     "tags": [
+      "AI",
+      "Phishing"
+     ],
+     "also": []
+    },
+    {
+     "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
+     "source": "The Hacker News",
+     "published": "2026-10-23T18:50:13+00:00",
+     "date_only": false,
+     "summary": "Diplomatic organizations in Central Asia have been targeted by a sophisticated new Unified Extensible Firmware Interface (UEFI) bootkit called BlackX. The activity, which singled out diplomatic entities in Tajikistan, Uzbekistan, and…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
     {
      "title": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws",
      "subtitle": "",
@@ -383,7 +466,7 @@
      "source": "Dark Reading",
      "published": "2026-10-23T11:38:28+00:00",
      "date_only": false,
-     "summary": "Microsoft's Project Perception adds Guardian Agents to monitor and contain anomalous AI agents, but experts warn that policing unpredictable agents with other agents may multiply — not contain — the risk.",
+     "summary": "Microsoft's Project Perception adds Guardian Agents to monitor and contain anomalous AI agents, but experts warn that policing unpredictable agents with other agents may compound — not contain — the risk.",
      "extra": "",
      "tags": [
       "AI"
@@ -430,74 +513,6 @@
       "AI"
      ],
      "also": []
-    },
-    {
-     "title": "Attackers Exploit Third Arista VCO Zero-Day in Four Months",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/attackers-exploit-third-velocloud-orchestrator-zero-day-in-four-months/",
-     "source": "SecurityWeek",
-     "published": "2026-10-23T09:58:34+00:00",
-     "date_only": false,
-     "summary": "The critical-severity SQL injection flaw allows attackers to access privileged internal functionality and gain operator privileges. The post Attackers Exploit Third Arista VCO Zero-Day in Four Months appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [
-      "Zero-day"
-     ],
-     "also": []
-    },
-    {
-     "title": "Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
-     "source": "The Hacker News",
-     "published": "2026-10-23T09:36:00+00:00",
-     "date_only": false,
-     "summary": "Pillow, the most widely used image library for Python, can be made to run operating system commands on a server by specifying the name of a file it is told to open. The flaw, CVE-2026-112900, is in the way Pillow handles EPS images, which…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
-     "source": "The Hacker News",
-     "published": "2026-10-23T08:40:43+00:00",
-     "date_only": false,
-     "summary": "Malicious Brotli data can make an application on an official build of Node.js run attacker-supplied code, security researchers at Imperva have demonstrated. Their \"Node2Shell\" proof of concept ran code on the official Node.js 24.22.0 image…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents’ Token Balances",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html",
-     "source": "The Hacker News",
-     "published": "2026-10-23T08:35:45+00:00",
-     "date_only": false,
-     "summary": "AI agents paying for API calls with the x402 SDKs could sign a payment for their full balance of a supported token if a malicious API asked for it, security firm V12 said on October 22. The cause was the SDKs' default client, which set no…",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "11 Million Impacted by Capcom Data Breach",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/11-million-impacted-by-capcom-data-breach/",
-     "source": "SecurityWeek",
-     "published": "2026-10-23T08:34:14+00:00",
-     "date_only": false,
-     "summary": "The hackers stole 11 million email addresses from CAPCOM ID and changed the login passwords for 196 accounts. The post 11 Million Impacted by Capcom Data Breach appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [
-      "Breach"
-     ],
-     "also": [
-      "BleepingComputer"
-     ]
     }
    ]
   },
@@ -505,15 +520,17 @@
    "name": "APAC Watch",
    "stories": [
     {
-     "title": "Cyberattack on Japan's Iwai Cosmo Securities expands to 12 stocks, 1.25 million shares in unauthorized trades",
+     "title": "SBI data breach exposed 3,897 customers amid India AI regulations",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5BdlFLcnhiNmJwcVFLUGVDSU5tcGpfVUFkOXUwZVA3RVpzS0N2cUVZbm1WbWNraU5mX0JCZ2FSaExKTHRoSUx5bXVTNEZnUGZVM2pETHFvaTBXYXgyRUFhRV85UjEtY3hOV29xMzRoRWpyWXlRblE?oc=5",
-     "source": "BigGo Finance",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWGw3eTJ3MVdVUVFqNzdtT1FLSDZvRWxpZmdJbElWNk5ZQmpucGlXNjFBMnYteU5oaGZvdTgzZDNQR1hiUFBicUFPUW1PSzZONk9DbV9oYnZfNlZaTjR1WHJXZVFoNm9uU09zMDJZb24xZGRSb3dQbEJFNmY1OHlseWdJSlBHYnBTMjhZOWVVdllSYzRxTUN5aE1pN0ZnbGI5aDYyTlRvczlTMlhtdVlzOA?oc=5",
+     "source": "NewsBytes",
      "published": "2026-10-23T15:55:00+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
      "tags": [
+      "Breach",
+      "AI",
       "APAC"
      ],
      "also": []
@@ -534,24 +551,9 @@
      "also": [
       "Analytics Insight",
       "The Cyber Express",
-      "StratNews Global"
+      "StratNews Global",
+      "Mezha.net"
      ]
-    },
-    {
-     "title": "SBI data breach exposed 3,897 customers amid India AI regulations",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWGw3eTJ3MVdVUVFqNzdtT1FLSDZvRWxpZmdJbElWNk5ZQmpucGlXNjFBMnYteU5oaGZvdTgzZDNQR1hiUFBicUFPUW1PSzZONk9DbV9oYnZfNlZaTjR1WHJXZVFoNm9uU09zMDJZb24xZGRSb3dQbEJFNmY1OHlseWdJSlBHYnBTMjhZOWVVdllSYzRxTUN5aE1pN0ZnbGI5aDYyTlRvczlTMlhtdVlzOA?oc=5",
-     "source": "NewsBytes",
-     "published": "2026-10-23T15:26:28+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "AI",
-      "APAC"
-     ],
-     "also": []
     },
     {
      "title": "Japan car-sharing operator to offer users $19 each after data breach",
@@ -572,7 +574,7 @@
      "title": "Cyberattack hits India’s top lender State Bank of India",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOUnA5UHV3SXJkaWItQ0VxRTVMSkZzWlRCRUNJSjI2Y2l4anZaNVFqOTM2aWRXMEQ4bVh5a21rRk13cko0Z094LTE5c2xjdkRkLVZiTDczQTI1LUs0cVhRRVF1TVI2SXFKbldDZEJoWjQycGZzZFMteDk0eFhGU0drWlRRMmhWb1h1Q3BEX1pTUklaeDJ3YzdOZ0pn?oc=5",
-     "source": "www.daily-sun.com",
+     "source": "Daily Sun",
      "published": "2026-10-23T14:38:27+00:00",
      "date_only": false,
      "summary": "",
@@ -593,20 +595,6 @@
      "extra": "",
      "tags": [
       "AI",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "GMO: User data accessed in cyberattack | NHK WORLD-JAPAN News",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8tLU8xTVU5R0hjVC13cTQ1eFBRRnJLZzR0c1lpZnhQTXVrOFN1NUt5NXYxUkh2UHAxVkVSR3ZEM3Q1b3lJOE9zdG1IWEt0UGNaeWF3TndWYVJ6WVVzenNDUF90Zw?oc=5",
-     "source": "NHKニュース",
-     "published": "2026-10-23T13:52:45+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
       "APAC"
      ],
      "also": []
@@ -665,6 +653,35 @@
      "extra": "",
      "tags": [
       "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "GMO: User data accessed in cyberattack | NHK WORLD-JAPAN News",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8tLU8xTVU5R0hjVC13cTQ1eFBRRnJLZzR0c1lpZnhQTXVrOFN1NUt5NXYxUkh2UHAxVkVSR3ZEM3Q1b3lJOE9zdG1IWEt0UGNaeWF3TndWYVJ6WVVzenNDUF90Zw?oc=5",
+     "source": "NHKニュース",
+     "published": "2026-10-23T08:53:45+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Qilin and Japan: Attackers Probing Japanese Networks",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1DNlNpN19rZ1Y0ejNveTJGUnJsSThYdk9QaVNpMFdPNmtaRTJJWmo3azZGUXRwdEJfZFpwdHZwSjI5al9zc3V0bWdaejFxaUVFNEt6MURLTlJlcU5HeTV6elE0YlcyYkNWWkg2NER5WEZRTzNvNmsw?oc=5",
+     "source": "KELA Cyber",
+     "published": "2026-10-23T08:46:52+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Ransomware",
       "APAC"
      ],
      "also": []
@@ -732,6 +749,18 @@
   {
    "name": "Threat Research",
    "stories": [
+    {
+     "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 23)",
+     "subtitle": "",
+     "link": "https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/",
+     "source": "Unit 42",
+     "published": "2026-10-23T19:00:34+00:00",
+     "date_only": false,
+     "summary": "CVE-2026-109618 and CVE-2026-109619 are Critical vulnerabilities in PHP, a scripting language used globally for web servers and CMS systems. The post Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
     {
      "title": "Infostealer riding the AI Train",
      "subtitle": "",
@@ -815,18 +844,6 @@
      "also": []
     },
     {
-     "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619",
-     "subtitle": "",
-     "link": "https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/",
-     "source": "Unit 42",
-     "published": "2026-10-21T16:30:34+00:00",
-     "date_only": false,
-     "summary": "CVE-2026-109618 and CVE-2026-109619 are Critical vulnerabilities in PHP, a scripting language used globally for web servers and CMS systems. The post Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 appeared…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
      "title": "Two critical RCEs in PHP core",
      "subtitle": "",
      "link": "https://blog.talosintelligence.com/two-critical-rces-in-php-core/",
@@ -866,13 +883,13 @@
      "also": []
     },
     {
-     "title": "Threat Brief: Active Exploitation of May 2026 PAN-OS CVE-2026-0257 (Updated October 20)",
+     "title": "Active Exploitation of May 2026 PAN-OS CVE-2026-0257 (Updated October 20)",
      "subtitle": "",
      "link": "https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/",
      "source": "Unit 42",
      "published": "2026-10-20T20:30:42+00:00",
      "date_only": false,
-     "summary": "Ransomware operators including Spikey Scorpius (aka Qilin) and Tarnished Scorpius (aka Inc) are exploiting PAN-OS vulnerability CVE-2026-0257. The post Threat Brief: Active Exploitation of May 2026 PAN-OS CVE-2026-0257 (Updated October 20)…",
+     "summary": "Ransomware operators including Spikey Scorpius (aka Qilin) and Tarnished Scorpius (aka Inc) are exploiting PAN-OS vulnerability CVE-2026-0257. The post Active Exploitation of May 2026 PAN-OS CVE-2026-0257 (Updated October 20) appeared…",
      "extra": "",
      "tags": [
       "Exploited",
