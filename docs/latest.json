@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-22T22:28:47+00:00",
+ "generated": "2026-10-23T01:38:19+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -138,23 +138,6 @@
      "vendor": "Fortinet",
      "product": "Multiple Products",
      "cve": "CVE-2025-61624",
-     "also": []
-    },
-    {
-     "title": "CVE-2026-21589: Atlassian Multiple Products",
-     "subtitle": "Atlassian Multiple Products Files or Directories Accessible to External Parties Vulnerability",
-     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-21589",
-     "source": "CISA KEV",
-     "published": "2026-10-15T00:00:00+00:00",
-     "date_only": true,
-     "summary": "Multiple Atlassian products (Bitbucket Data Center ,Confluence Data Center, Jira Service Management Data Center, Jira Software Data Center, Bamboo Data Center, Crowd Data Center, Crucible and Fisheye) contain a files or directories…",
-     "extra": "US federal patch deadline 18 Oct",
-     "tags": [
-      "Exploited"
-     ],
-     "vendor": "Atlassian",
-     "product": "Multiple Products",
-     "cve": "CVE-2026-21589",
      "also": []
     }
    ]
@@ -525,16 +508,14 @@
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5fakdPbUVSMFlnQ1lHSjNxSE90a2dCWklYcGRwb1A5d1FsaEZGa1dDUHlidzVoUkZqU3l4RE9GcnhVb1kteEVGa0REUkthNHotakl5RlI5bw?oc=5",
      "source": "Asia Insurance Post",
-     "published": "2026-10-22T18:32:23+00:00",
+     "published": "2026-10-22T20:32:02+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
      "tags": [
       "APAC"
      ],
-     "also": [
-      "The Financial Express"
-     ]
+     "also": []
     },
     {
      "title": "Hackers Planted Malware on Japanese Cloud Servers, Forcing the Provider to Shut Down Its Service",
@@ -565,6 +546,18 @@
      "tags": [
       "APAC"
      ],
+     "also": []
+    },
+    {
+     "title": "Vietnamese researchers decode complex 9-stage cyber threat at premier global conference",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVzg0NmMtU1Izekh0YVRJMmJCYlhzeC11bTJKM2NNUFdUTE94bkZzMjVQMHJTS0Z0dUFvdXVGdHpjYXNGN0lUSnJybl91RThrUjBhSHRnQzdvZnBXZm9rOFMxMTdZODJPZXU5YWlSRGN6ZEJYVlRrUkdWdGJ5Wm1taFVjbmM5eHd1bzgyLVk5dWJybkc5TXZCRGJFdk5RMElJR2N0M2VHMjFySmFSREc4LTFCOXdSQ1pud0dxYVRWcUY1bWpnOVNEaWlWXzBPQ00?oc=5",
+     "source": "Tuoi Tre News | The News Gateway to Vietnam",
+     "published": "2026-10-22T13:44:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
      "also": []
     },
     {
@@ -603,6 +596,21 @@
      "summary": "",
      "extra": "",
      "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Data leak in Vietnam exposes 9 years of Korean airline passenger records",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUWhETFlTU3BtOXl6dTdoTnMzcXNVS2ozNGVHa2dQVnlUdVRQSFJZTkc3Tm45ZGhPNzFrbnNNOWYyM1htbVJvZHl5OV9QTjdhOHVvQ1dwNmFLT2ZscnJiVEU2RzlWZWFKQjhXVUZiY0ZqSjdOU2xqUWlVZm5JSUYtMzJ3?oc=5",
+     "source": "Hankyoreh : English Edition",
+     "published": "2026-10-22T08:32:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
       "APAC"
      ],
      "also": []
@@ -693,35 +701,6 @@
      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaTBvdThYanc4VFlhZ0IzaTFjeGYxR19fQzZzdDAyWEIwakVNdWdiYmhJRjBYUDE0R1Z3SUhvbjFEWTBWVlBKVXhhRjVKSmt0Qll2QjVJakdTZ3hwR3lDZUhvZ3dBb0dLZ2JZUkhfTnlzZVY2cEhCb3M5YlBBSFpRblI4ZTRPSEVDM2dJTjRJR3RPTHB2N0JiZ19VT3JONFoxeEo4TVcxY0FoZ2c?oc=5",
      "source": "Escudo Digital",
      "published": "2026-10-22T03:45:01+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "US NSA, India's CERT-In warn of critical PHP flaws that could let hackers take over servers",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNbDhvY1psemN3UGJPcjN1U2VvdlFBSnRnUl9UTW01V1Y2NURUVjRkUUtuYkdFZjBLTTRoVWFvejQxYjV2QkN5cDdZcl9vakZKUEZYWDdlTVc4THE5U1NtNmh3c1R0X0g0RVBkVllYb0NJX2xlc0hjOHI3dVB2VmFTcmpzejRkN1hmNlVoVFRQcWhtZFZHbEdsVXR6RWJybU5XbnViUDZJal9ZVWlaTVJtSHFRTE14U2YyMThwRHFXU2JmbFR1SHBPc2ptejB5UlEyd05xN9IB2gFBVV95cUxOR2VpMVdDOTJxd2tFS2FMeGRYcVFJQjh5YXc1S1RJelJmc29ldURrYWh0S2E1N29kcEk3YzJXaDFRRHBpeXpiM29yNlQ2WGVfc21pQUExT25Gek01cFpRdWlLWWZkWEJMa3gtUF9HelBwT0JTUW1BTnhaamdhb2RBQjlkQ0V3MzBOb1F0ci1RNTc5eXdGa2VwLVZ6NTR2MEpJYWM2OTBLd1pLQnppbTJtdEU1YVVkRzVUcFI2dm93R19IVDBKRVc1OGZlejdkTHlvR084ZHExY2xtQQ?oc=5",
-     "source": "CNBC TV18",
-     "published": "2026-10-22T03:04:14+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "India’s SBI data breach: Personal details in 3,897 customer records exposed on dark web, probe launched",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMWpRRGtZNlBUaVR6QzdjZHNabXRwN0tEU2RaOTBQVFdQNnVPRlRrWTNtRkJxWFFSNDBJTGJQVm1tTF9YYXVfMVNFYkhPUE5uLUM0TmR1RzVsOGk3ckFOcnFDUzRHSXRZM2JidGxwcTJCU3c2X1hwNUZtaktlNTNoa1JxRWcxS0ltajN4NmE2TnVtdzlyc2RUQnJETnNWaXNfOERISTkwR3RDN3NWRV9jS2taQ0RDUGpXYk8tTXRuSmtVNVk?oc=5",
-     "source": "Asia News Network",
-     "published": "2026-10-22T01:19:18+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -1020,30 +999,6 @@
      "link": "https://www.hkcert.org/security-bulletin/fortinet-products-elevation-of-privilege-vulnerability_20261020",
      "source": "HKCERT",
      "published": "2026-10-20T03:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "BeyondTrust Remote Support Security Restriction Bypass Vulnerability",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/beyondtrust-remote-support-security-restriction-bypass-vulnerability_20261020",
-     "source": "HKCERT",
-     "published": "2026-10-20T01:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Microsoft Edge Multiple Vulnerabilities",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20261020",
-     "source": "HKCERT",
-     "published": "2026-10-20T01:00:00+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
