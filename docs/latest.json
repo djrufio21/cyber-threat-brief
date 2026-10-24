@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-23T22:21:43+00:00",
+ "generated": "2026-10-24T00:51:14+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -138,40 +138,6 @@
      "vendor": "Siemens",
      "product": "Software Center",
      "cve": "CVE-2026-110936",
-     "also": []
-    },
-    {
-     "title": "CVE-2026-102764: BeyondTrust Remote Support",
-     "subtitle": "BeyondTrust Remote Support Authentication Bypass by Spoofing Vulnerability",
-     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-102764",
-     "source": "CISA KEV",
-     "published": "2026-10-16T00:00:00+00:00",
-     "date_only": true,
-     "summary": "BeyondTrust Remote Support contains an authentication bypass by spoofing vulnerability that could allow a remote attacker to perform file operations on the appliance.",
-     "extra": "US federal patch deadline 19 Oct",
-     "tags": [
-      "Exploited"
-     ],
-     "vendor": "BeyondTrust",
-     "product": "Remote Support",
-     "cve": "CVE-2026-102764",
-     "also": []
-    },
-    {
-     "title": "CVE-2025-61624: Fortinet Multiple Products",
-     "subtitle": "Fortinet Multiple Products Path Traversal Vulnerability",
-     "link": "https://nvd.nist.gov/vuln/detail/CVE-2025-61624",
-     "source": "CISA KEV",
-     "published": "2026-10-16T00:00:00+00:00",
-     "date_only": true,
-     "summary": "FortiOS, FortiPAM, FortiProxy, and FortiSwitchManager contain a path traversal vulnerability that may allow an authenticated attacker with admin profile and at least read-write permissions to write or delete arbitrary files via specific…",
-     "extra": "US federal patch deadline 19 Oct",
-     "tags": [
-      "Exploited"
-     ],
-     "vendor": "Fortinet",
-     "product": "Multiple Products",
-     "cve": "CVE-2025-61624",
      "also": []
     }
    ]
@@ -658,20 +624,6 @@
      "also": []
     },
     {
-     "title": "GMO: User data accessed in cyberattack | NHK WORLD-JAPAN News",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8tLU8xTVU5R0hjVC13cTQ1eFBRRnJLZzR0c1lpZnhQTXVrOFN1NUt5NXYxUkh2UHAxVkVSR3ZEM3Q1b3lJOE9zdG1IWEt0UGNaeWF3TndWYVJ6WVVzenNDUF90Zw?oc=5",
-     "source": "NHKニュース",
-     "published": "2026-10-23T08:53:45+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
      "title": "Qilin and Japan: Attackers Probing Japanese Networks",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1DNlNpN19rZ1Y0ejNveTJGUnJsSThYdk9QaVNpMFdPNmtaRTJJWmo3azZGUXRwdEJfZFpwdHZwSjI5al9zc3V0bWdaejFxaUVFNEt6MURLTlJlcU5HeTV6elE0YlcyYkNWWkg2NER5WEZRTzNvNmsw?oc=5",
@@ -740,6 +692,20 @@
      "extra": "",
      "tags": [
       "AI",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Hackers probe PHP flaw as South Korea braces for delayed exploitation - CHOSUNBIZ",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa0VjTGNsOVNUVGZpRXN5SnlFQlJZMzZoNTBNVUktUXFDMnYzbVNnRjRpd0d6WWNvOWhtcjlIc3o3Y05GM1FrWmpQVGhrbDgtS0hjNlk5cUlxWTBKb3djS1lCclNEM0dUWWpTSE5pczBTVW5abjlkS29YQzZ6d0hpcGZYaHN2eThmdHVNeWRB0gGOAUFVX3lxTE5rRWNMY2w5U1RUZmlFc3lKeUVCUlkzNmg1ME1VSS1RcUMydjNtU2dGNGl3R3pZY285aG1yOUhzejdjTkYzUWtaalBUaGtsOC1LSGM2WTlxSXFZMEpvd2NLWUJyU0QzR1RZalNITmlzMFNVblpuOWRLb1hDNnp3SGlwZlhoc3Z5OGZ0dU15ZEE?oc=5",
+     "source": "Chosunbiz",
+     "published": "2026-10-23T05:51:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
       "APAC"
      ],
      "also": []
