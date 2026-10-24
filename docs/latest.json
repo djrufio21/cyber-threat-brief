@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T00:51:14+00:00",
+ "generated": "2026-10-24T06:00:25+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -486,6 +486,34 @@
    "name": "APAC Watch",
    "stories": [
     {
+     "title": "Suspected North Korea-linked hackers target Korean banks, government",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oTmVZUVJwZkp3WWl4d1JpS01tWWhFbnZabUJTOUhDdHFBMnBoYV9iSEt1Tkxra2g1aUFUOGpaci1LQWNXXzRGRjlvZ1BGM3BxYk1hVENndzdhWXPSAVdBVV95cUxNQ29NZXdtWjNCNTZ1UWxsWWhfMnBpRDVGdWl0WGM0VVM5TDJEX2dzNzVqTHZwRjdlc3d3WHFpRTJOQW1vaGN2OGZlMDFpdWlTcER6dVZ0QWM?oc=5",
+     "source": "Aju Press",
+     "published": "2026-10-24T03:26:39+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Japan Threat Hunting Plan Targets Critical Infrastructure",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA3V0trYmFNOTdmRzcwTXNxXzhKV3Z6ME4tVURUX0hhVzdOZFpFT3RsMHE2ZU1URjhITXR0ZHltYVZhMnMxeGUtMVFKLVhINHJKZnZYTVhacWhsLUJnVWF2R3NaQ3LSAWRBVV95cUxQN1dLa2JhTTk3Zkc3ME1zcV84Sld2ejBOLVVEVF9IYVc3TmRaRU90bDBxNmVNVEY4SE10dGR5bWFWYTJzMXhlLTFRSi1YSDRySmZ2WE1YWnFobC1CZ1VhdkdzWkNy?oc=5",
+     "source": "The Cyber Express",
+     "published": "2026-10-23T16:04:10+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
      "title": "SBI data breach exposed 3,897 customers amid India AI regulations",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWGw3eTJ3MVdVUVFqNzdtT1FLSDZvRWxpZmdJbElWNk5ZQmpucGlXNjFBMnYteU5oaGZvdTgzZDNQR1hiUFBicUFPUW1PSzZONk9DbV9oYnZfNlZaTjR1WHJXZVFoNm9uU09zMDJZb24xZGRSb3dQbEJFNmY1OHlseWdJSlBHYnBTMjhZOWVVdllSYzRxTUN5aE1pN0ZnbGI5aDYyTlRvczlTMlhtdVlzOA?oc=5",
@@ -517,8 +545,7 @@
      "also": [
       "Analytics Insight",
       "The Cyber Express",
-      "StratNews Global",
-      "Mezha.net"
+      "Telegraph India"
      ]
     },
     {
@@ -581,6 +608,20 @@
      "also": []
     },
     {
+     "title": "SBI data exposure puts India’s cybersecurity ecosystem under scrutiny",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPR21RbTIyc0NVWjlPSEY3SHV0bzVtQlRZNnp2TTBjZVltejZtTnF2LUh6cjQzeWNTamI4bWtYQTdGRG82NHBGMWdfR0xMZDB1QWdydG12YS1jLVFSNmU3TV9vUVE3SjJDb0pYcGhYRUVNOEoxbEpLVTRmamdWSWZMeVRETm82TmFIckI4bG9NMWNSeUZmNEFhdDdNMGtlXzg0Z1lxQjVxcGw5bFJnWXVRakhLMldJbjBoRHVkbHlkTXdBcnRRRWxkcDFmR3hlUVBqZGtTMnZwa1lkdUJz0gHiAUFVX3lxTE5obVRjVUV6OG1BMmJ6T1dheHNrRkRZV0VMS1VYV092VmRMOERRZnVFcFdLZk54M3M4VnhoSEE4YmZKRVlsWmd4Y0tSaDMtdThMclY2VGU0UDVteTQzalVkTGhhU1VVdG9aQkF6TktvajdCOFMzTF8tZVhZelNtXy02Nzh6eTFYV0lFVFVpNTBRb055MGZiME04ZERsakZBMnNwZy04YlpNV1hXdFpwOUtzSU5NdkM5M3YtQlBDMExRZFRmVGN6RWxPeTdxTWVDd3hlRzVObnVCNVUzR2d5RHBRZ1E?oc=5",
+     "source": "ET Entrepreneur",
+     "published": "2026-10-23T11:26:15+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
      "title": "AvaTrade Japan Confirms Unauthorized Trades After VPS Hack",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMEtFQmNyS0dENFMwNmRadGl2bmhkT3RuV1p3TWR6Y3VNVUJ5MGVFU2c1OXIwTDVFNUdSZFctcGRHZG5CQTVqUEtCa05naHRqZkdvSTlObDdhMDYzRjB3cGJEVndyQ0N1QTlQZW0yVW1meElrZmllb21CY3YzeUZIV0JVaW44Z1hJUGVDOW1ETEE0WlNJcXVuckJMcjVfSi1UNkl0aWpwbzhUZWVjWGdTdG1lalg?oc=5",
@@ -590,50 +631,6 @@
      "summary": "",
      "extra": "",
      "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "SBI data exposure puts India’s cybersecurity ecosystem under scrutiny",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPR21RbTIyc0NVWjlPSEY3SHV0bzVtQlRZNnp2TTBjZVltejZtTnF2LUh6cjQzeWNTamI4bWtYQTdGRG82NHBGMWdfR0xMZDB1QWdydG12YS1jLVFSNmU3TV9vUVE3SjJDb0pYcGhYRUVNOEoxbEpLVTRmamdWSWZMeVRETm82TmFIckI4bG9NMWNSeUZmNEFhdDdNMGtlXzg0Z1lxQjVxcGw5bFJnWXVRakhLMldJbjBoRHVkbHlkTXdBcnRRRWxkcDFmR3hlUVBqZGtTMnZwa1lkdUJz0gHiAUFVX3lxTE5obVRjVUV6OG1BMmJ6T1dheHNrRkRZV0VMS1VYV092VmRMOERRZnVFcFdLZk54M3M4VnhoSEE4YmZKRVlsWmd4Y0tSaDMtdThMclY2VGU0UDVteTQzalVkTGhhU1VVdG9aQkF6TktvajdCOFMzTF8tZVhZelNtXy02Nzh6eTFYV0lFVFVpNTBRb055MGZiME04ZERsakZBMnNwZy04YlpNV1hXdFpwOUtzSU5NdkM5M3YtQlBDMExRZFRmVGN6RWxPeTdxTWVDd3hlRzVObnVCNVUzR2d5RHBRZ1E?oc=5",
-     "source": "ET Entrepreneur",
-     "published": "2026-10-23T10:14:43+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "India’s SBI alerts cyber insurer over suspected data breach — report",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX1pwTnNWMmtOeUh5REphZTFLUHRTVlRMUXFKZm91U2tFLW51WTI3c05xQmZnc2ZtN2QyMzNHWWYyWDg2bWQzOXFGaUdaaDhLejJtaFk2WWtlX1NPNWlHWTY2aVVlV2NpR3hHNzlSUVdzWlVnZ1lEYy1iUTlhUWVOczRuRkp1dUVsNEc2Nzdfblg?oc=5",
-     "source": "(Re)in Asia",
-     "published": "2026-10-23T09:12:45+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Qilin and Japan: Attackers Probing Japanese Networks",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1DNlNpN19rZ1Y0ejNveTJGUnJsSThYdk9QaVNpMFdPNmtaRTJJWmo3azZGUXRwdEJfZFpwdHZwSjI5al9zc3V0bWdaejFxaUVFNEt6MURLTlJlcU5HeTV6elE0YlcyYkNWWkg2NER5WEZRTzNvNmsw?oc=5",
-     "source": "KELA Cyber",
-     "published": "2026-10-23T08:46:52+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Ransomware",
       "APAC"
      ],
      "also": []
@@ -650,6 +647,18 @@
      "tags": [
       "APAC"
      ],
+     "also": []
+    },
+    {
+     "title": "North Korean internet hit by cyberattack: network monitoring firm",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYmhjVjRidnduR2xBWms5MVg1OVExUFRKZE5aanQxa2tkb3FKcjhwTEJBaTVkdDZqdDJsUjVrM3lVdk9IOE15Wk5KTkZVZ0VScTFwMFh2RzR4Ym45WFNteTFxWlNjM2tnS1Rjek1ZWk9kU3ZvcjBsM3dXX0xiYXBSMUN4dlViQXVWNTNuUzVZS1ZHbHZxd29yTUV3bWsxNllLRGVhaXQzS2psNWJ5aWhCc1hoZG5RY1NyQ3c?oc=5",
+     "source": "TimesLIVE",
+     "published": "2026-10-23T07:30:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
      "also": []
     },
     {
@@ -677,35 +686,6 @@
      "extra": "",
      "tags": [
       "AI",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Japan turns to AI to combat wave of cyberattacks",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdUkyd3NlZ2l5LWFPVkMydTZjTFNSLXV2ZjNZN05ISUlSaG53N2lJX1lrYm1YbWlqTlRtUU9DUVpKWURQWVVjUGFEZ2FGLXFsNkhlc2VSel82a2xGMFBWZldqc1Juc1c4M29SRUpVa3MwR0E5SDNoMl9nMk5mbDRTT25aY3R0Mks1UjNv?oc=5",
-     "source": "Cyprus Mail",
-     "published": "2026-10-23T05:57:06+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "AI",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Hackers probe PHP flaw as South Korea braces for delayed exploitation - CHOSUNBIZ",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOa0VjTGNsOVNUVGZpRXN5SnlFQlJZMzZoNTBNVUktUXFDMnYzbVNnRjRpd0d6WWNvOWhtcjlIc3o3Y05GM1FrWmpQVGhrbDgtS0hjNlk5cUlxWTBKb3djS1lCclNEM0dUWWpTSE5pczBTVW5abjlkS29YQzZ6d0hpcGZYaHN2eThmdHVNeWRB0gGOAUFVX3lxTE5rRWNMY2w5U1RUZmlFc3lKeUVCUlkzNmg1ME1VSS1RcUMydjNtU2dGNGl3R3pZY285aG1yOUhzejdjTkYzUWtaalBUaGtsOC1LSGM2WTlxSXFZMEpvd2NLWUJyU0QzR1RZalNITmlzMFNVblpuOWRLb1hDNnp3SGlwZlhoc3Z5OGZ0dU15ZEE?oc=5",
-     "source": "Chosunbiz",
-     "published": "2026-10-23T05:51:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
       "APAC"
      ],
      "also": []
@@ -980,30 +960,6 @@
      "tags": [
       "AI"
      ],
-     "also": []
-    },
-    {
-     "title": "Critical vulnerabilities in PHP",
-     "subtitle": "",
-     "link": "https://www.cyber.gov.au/alert/critical-vulnerabilities-in-php",
-     "source": "ACSC Australia",
-     "published": "2026-10-21T03:01:26+00:00",
-     "date_only": false,
-     "summary": "A security release for two critical PHP vulnerabilities is set for public disclosure on 22 October 2026. PHP is widely used to power web applications.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Google Chrome Multiple Vulnerabilities",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20261021",
-     "source": "HKCERT",
-     "published": "2026-10-21T03:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
      "also": []
     }
    ]
