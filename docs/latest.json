@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T06:00:25+00:00",
+ "generated": "2026-10-24T11:16:32+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -146,6 +146,44 @@
    "name": "Breaking Threats",
    "stories": [
     {
+     "title": "Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html",
+     "source": "The Hacker News",
+     "published": "2026-10-24T09:04:24+00:00",
+     "date_only": false,
+     "summary": "Between November 2025 and March 2026, the Dutch security firm Eye Security pushed more than 2 million updates to computers it did not own to switch off a background updater that it said could have allowed an outsider to take over the…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
+     "source": "The Hacker News",
+     "published": "2026-10-24T08:45:56+00:00",
+     "date_only": false,
+     "summary": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python Brotli and brotlicffi packages, and Envoy proxies set up to decompress Brotli. Tracked as…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
+     "source": "The Hacker News",
+     "published": "2026-10-24T06:25:57+00:00",
+     "date_only": false,
+     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two vulnerabilities impacting Collabora Online Built-in CODE Server and Arista VeloCloud Orchestrator (VCO) to its Known Exploited Vulnerabilities (KEV)…",
+     "extra": "",
+     "tags": [
+      "Exploited"
+     ],
+     "also": []
+    },
+    {
      "title": "Trust Is Not What It Seems — And Fraudsters Are Counting on It",
      "subtitle": "",
      "link": "https://www.darkreading.com/cyber-risk/trust-is-not-what-it-seems-and-fraudsters-are-counting-on-it",
@@ -288,9 +326,7 @@
      "tags": [
       "Breach"
      ],
-     "also": [
-      "SecurityWeek"
-     ]
+     "also": []
     },
     {
      "title": "PHP shares mitigation for new RCE vulnerability with no patch",
@@ -438,53 +474,72 @@
       "AI"
      ],
      "also": []
-    },
-    {
-     "title": "PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
-     "source": "The Hacker News",
-     "published": "2026-10-23T11:25:43+00:00",
-     "date_only": false,
-     "summary": "PHP has warned of another way an attacker could run code on a web server, two days after it shipped emergency fixes for the critical PHP2Shell flaws. The new issue, assigned CVE-2026-115560, affects only web applications configured in an…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
-     "source": "The Hacker News",
-     "published": "2026-10-23T11:11:23+00:00",
-     "date_only": false,
-     "summary": "The Russian state-sponsored hacking group Sandworm teamed up with another threat actor to carry out a destructive wiping attack targeting a Ukrainian logistics company last year. According to ESET, the attack involved UAC-0099 (aka Earth…",
-     "extra": "",
-     "tags": [
-      "Nation-state"
-     ],
-     "also": []
-    },
-    {
-     "title": "China APT Uses AI Pentest Tool Artex in ConnectWise Attacks",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/china-apt-uses-ai-pentest-tool-artex-in-connectwise-attacks/",
-     "source": "SecurityWeek",
-     "published": "2026-10-23T10:31:16+00:00",
-     "date_only": false,
-     "summary": "The state-sponsored hackers targeted hundreds of organizations and gained privileged access to some environments. The post China APT Uses AI Pentest Tool Artex in ConnectWise Attacks appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [
-      "Nation-state",
-      "AI"
-     ],
-     "also": []
     }
    ]
   },
   {
    "name": "APAC Watch",
    "stories": [
+    {
+     "title": "Japan Plans Ethical Hacking Unit to Strengthen National Cybersecurity",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1JNUk0TlRXSklzcVgzOG9hNWFISjJzSWY5dFhvTVRTb2VSc2NYUlBZSXhNdTdjS0FaWWRyRnQyY014bGx0b1VTNEk5OS1Ga0FWbWxDdXJjVU1Xbjcxc0xLWGU3MmNwOUhTNnRsSE1sVzFGSnJvRGdqVG9xdGQ?oc=5",
+     "source": "The420.in",
+     "published": "2026-10-24T08:32:48+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Japan net provider GMO seeks 'active cyber defense' from government",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSEZVaHpEZHFudVhUeEFyLVJqR3lvZVhLSUQ2bjlGc2Q4Y0RFUTBtaXhRWl9BYW1TT1lQQmxRbGcwNlQyVmZtVU00WUx4NHV2V0hqRVJEbjctaXNOWUJaQjZnb0dqVGh1RzdDcGhDMGhuZmFaZzd1NGZQdzFvX2lScnVYeWVGNldQMXRQMEh6aEZIMDhPTTNrTHNfUzhpdjRvTGJRVlhKNjZxR0VTVW5UM2NVOA?oc=5",
+     "source": "Nikkei Asia",
+     "published": "2026-10-24T07:38:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Japan to launch team of white-hat hackers to counter waves of cyberattacks",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQX3JsOVl2R05wYkZaZG1vMnhadzIxVU50aGZSQUE5dWF6bVdDclRCenU3OGFQQlAtclNDUXZSWWVNSXhqQy1sQjRJb2hMdGRkYXZxRncyZUoyTkVYekhuUUczVUZvcC1QcDMySUxJcWZ4ZlUydlhxZlF5ekRtRHJ1Vm1SVFNvZC1KTWN5MEIxXy1qQzhrYmJjRmZCNEl1Zy1yTW81QjNGeHpqTmFrWDJPNg?oc=5",
+     "source": "Japan Today",
+     "published": "2026-10-24T06:42:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "SBI Data Breach: State Bank of India Customers Have No DPDP Act Remedy",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE50WGx5RnpKZkpHdUZib01zSkZ1U2RINnE0clY0T09YOGUzaXVvOTdnQmM4RmgzaFNING9hdkRYZF94dHNDUlVNTVpLSjF3VDFvR190VVRPdW12QUl2ZmxHa282ZnVLVERQRmU4cGlWemVRR3k4VGNhWkh5Z9IBe0FVX3lxTE50WGx5RnpKZkpHdUZib01zSkZ1U2RINnE0clY0T09YOGUzaXVvOTdnQmM4RmgzaFNING9hdkRYZF94dHNDUlVNTVpLSjF3VDFvR190VVRPdW12QUl2ZmxHa282ZnVLVERQRmU4cGlWemVRR3k4VGNhWkh5Zw?oc=5",
+     "source": "The Probe",
+     "published": "2026-10-24T03:30:37+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC",
+      "AI"
+     ],
+     "also": [
+      "NewsBytes"
+     ]
+    },
     {
      "title": "Suspected North Korea-linked hackers target Korean banks, government",
      "subtitle": "",
@@ -495,6 +550,21 @@
      "summary": "",
      "extra": "",
      "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Signs Detected of Global Cyberattack Preparations by North Korea's Lazarus Group",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBmS0k5QnlwbFRlalA5bmJYZkJmZ1VRU0VzeEJQdVlnUVJITE1NR3ptNEFQMTM2RXN3WVU3cllkZkZadkloUEdQZzg3Z0VYLXROZVp6VXlaSHBoQnFWclluY1JkUlA?oc=5",
+     "source": "아시아경제",
+     "published": "2026-10-24T01:36:07+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Nation-state",
       "APAC"
      ],
      "also": []
@@ -514,22 +584,6 @@
      "also": []
     },
     {
-     "title": "SBI data breach exposed 3,897 customers amid India AI regulations",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNWGw3eTJ3MVdVUVFqNzdtT1FLSDZvRWxpZmdJbElWNk5ZQmpucGlXNjFBMnYteU5oaGZvdTgzZDNQR1hiUFBicUFPUW1PSzZONk9DbV9oYnZfNlZaTjR1WHJXZVFoNm9uU09zMDJZb24xZGRSb3dQbEJFNmY1OHlseWdJSlBHYnBTMjhZOWVVdllSYzRxTUN5aE1pN0ZnbGI5aDYyTlRvczlTMlhtdVlzOA?oc=5",
-     "source": "NewsBytes",
-     "published": "2026-10-23T15:55:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "AI",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
      "title": "Japan to Deploy AI Cyberattack Simulations as PHP Flaws Disrupt Global Websites",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBueHJNRG9scHVhZmppMTlfUUZ4bnZVUjJPUzAyNWx2MFh6REtnZmpmWW1rR3AtdExhY1ZaWTlsc1NPNmhER1hiMEFMS24ycm1MdzJuZkhJTGRBUnlsOTRDdDB0SXFZVVo0V01sX2o0T3NIejRRVm96VDZHeEhQUVE?oc=5",
@@ -543,9 +597,7 @@
       "APAC"
      ],
      "also": [
-      "Analytics Insight",
-      "The Cyber Express",
-      "Telegraph India"
+      "Analytics Insight"
      ]
     },
     {
@@ -593,6 +645,21 @@
      "also": []
     },
     {
+     "title": "'Threat Is Very Real To India': Microsoft AI Expert Nicholas Butts At NDTV World Summit",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPbmEzYjIxRm9Eb0hPR0kwc0dBV0FvZzNiaHNhcU9nRTFCT0FNQkk3UG9zck41WU5oTWZTQmZEQlhmVWc1cTlWSkQtb2paOEh6enhGdzhaY1U2THZRMEpaVmRMa0p3QmZpV2ZQSUg4Wld5UHpSTlU5VDZ4OW56SUMyeTRrNUpGN0lQUzhlSVNkd3NCeFJYbDFxN2FyS3FNcDFjdDRNcFJzVnRWd2ZoZy1FWUM2NVlrRGRSc0FCTnVDNzJNVngzcHpXNnNlTmkzUXotZXRNN2lpZ1FhSk1xZm1nODVqUkRrdlVoZVFUMldWc08?oc=5",
+     "source": "NDTV",
+     "published": "2026-10-23T11:57:46+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "AI",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
      "title": "Japan considers the data leak and cyberattack a \"serious crisis.\"",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQR0VBQlNOU2JPZW55VDdqQkRRS296TGhnRU1tcVB6blFmbGJ3aGJBR1dIQ19lOGE2MEwxZngwQWlJTk5SbEpoeUJuWTlmdGtteUtzQ25Ed3k2S2h6VHltZnBma05FT1ZNemRDTEE3TUFpdjVSa1BwMDVPTnZ3ZjZ3OE1EOXVTSWlCR2J0OFViWHJodXJzUVo2NllOeFlKRVBfRkl3?oc=5",
@@ -622,70 +689,16 @@
      "also": []
     },
     {
-     "title": "AvaTrade Japan Confirms Unauthorized Trades After VPS Hack",
+     "title": "Banking Under Cyber Threat: SBI Leak Highlights India’s Data Security Risks",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMEtFQmNyS0dENFMwNmRadGl2bmhkT3RuV1p3TWR6Y3VNVUJ5MGVFU2c1OXIwTDVFNUdSZFctcGRHZG5CQTVqUEtCa05naHRqZkdvSTlObDdhMDYzRjB3cGJEVndyQ0N1QTlQZW0yVW1meElrZmllb21CY3YzeUZIV0JVaW44Z1hJUGVDOW1ETEE0WlNJcXVuckJMcjVfSi1UNkl0aWpwbzhUZWVjWGdTdG1lalg?oc=5",
-     "source": "FinanceFeeds",
-     "published": "2026-10-23T10:37:59+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbk1ITGVXOS1Ielo4S2M5ZjNzQm5USE9HakpuRUhnWWsxNEdtOTkzRGczRGZhcVFrZ2pmNEJETi1NRWZITnc4cjdQSGRaeFlqVTZScU5rc3VobnQzdEY0cmpLME5ETlZOMmN3Rm1mRHpRTUxWQlVzSlZJN01KT09uaEM2VFAwQkE5c1NtLWNwY3NwcU50TDFaM2RXeER4NHozWnVicU1iei11VTNaeEQ0VXM3dw?oc=5",
+     "source": "Thekanal",
+     "published": "2026-10-23T11:18:52+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
      "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Japan to launch team of white-hat hackers to counter waves of cyberattacks",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9mRW5Ma255U2F3cWdMcEFYQy1RQWtZNlVyVWRxWmtRZk5aUXIwS3FFaTk4Z0pkeFR2TF9iMmZZY2JQUWZrTHloSlJqSGFhSGZscm5HVDh1bU00aHZlR0RIM0UzSGVVclktMk1iQ2lOVjA5Sms?oc=5",
-     "source": "毎日新聞",
-     "published": "2026-10-23T08:02:09+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "North Korean internet hit by cyberattack: network monitoring firm",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNYmhjVjRidnduR2xBWms5MVg1OVExUFRKZE5aanQxa2tkb3FKcjhwTEJBaTVkdDZqdDJsUjVrM3lVdk9IOE15Wk5KTkZVZ0VScTFwMFh2RzR4Ym45WFNteTFxWlNjM2tnS1Rjek1ZWk9kU3ZvcjBsM3dXX0xiYXBSMUN4dlViQXVWNTNuUzVZS1ZHbHZxd29yTUV3bWsxNllLRGVhaXQzS2psNWJ5aWhCc1hoZG5RY1NyQ3c?oc=5",
-     "source": "TimesLIVE",
-     "published": "2026-10-23T07:30:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Japan plans cyberattack simulation as PHP vulnerabilities raise security concerns",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOU2V6WWJSUC13U29Sbnllc08xZWZaSFlXMEJsbnFvYW5XN1lsTGt5YU5OWkd0WXQxYUpaUXdzYlM1eG5kOTlVbmJteGpEcWVRamF5T0dTRFpXdjhvUjUyZkZzd0t1M2pOV0JDMFVzdkI4NDVPZFF3bVpNT18zNXFYMHVtNE5pSzU0NnFCYl9OMjA5UjNOZnA2Zzl3a3VuUWxUcXZNbWo5bTRONnlQUHNUdlUwRXcxa2pkQmhLdENpTXrSAbwBQVVfeXFMT3lHbmNFamZQZzJZZWJ0b2JvNDhNd1pBNUp2eXFhOFJqUFBZcWJDUTRlbGFjRHRzWVVrUVBDUHdWMndDYlhlaWwxUFJRbC1CQ3FQS2JCaVRHTTlycnI4TWxWakM0dDBNRHI2YU9UVHZjVWhkaURhUF91ZUY2MDJjdjdhREFvd21hSmNjTFBQWUxiS0VNMzNfczUzR1BtV0NESEFVa25wYnhqcEdlQ0p5TVFEMzZVUXc4N1BjRkI?oc=5",
-     "source": "The News International",
-     "published": "2026-10-23T07:19:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Japan to create team to simulate AI cyberattacks — Channel NewsAsia",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZU9CR1hqU280am9xZVExb1hfMElsaFdxeEM5bFBWMmdkd0YyWUNLVmI1Tl9ZbUx0aHA5bmtuQVpKMFNLRHVlU1VzOElSeFE2M3puTktBN1JNZzR0b2xwdC0wT3FybHBNOWM4TkFCb29WaWRiYTFjTGJWcGJJbWVjVFhibklabDk3MTVOa3J1VDRGZllqVS0yRGdKQmhKclVQdEVnc3phOWlOUQ?oc=5",
-     "source": "UA.NEWS",
-     "published": "2026-10-23T06:13:03+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "AI",
+      "Breach",
       "APAC"
      ],
      "also": []
