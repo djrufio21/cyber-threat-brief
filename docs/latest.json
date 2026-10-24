@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T20:58:27+00:00",
+ "generated": "2026-10-24T23:23:14+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -231,6 +231,36 @@
    "name": "APAC Watch",
    "stories": [
     {
+     "title": "Pizza Hut Japan suffers data breach exposing customer information",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBYRmM5Q0RLaEU3ck5XQzdud1NvSzdNbms4NmVreE9VSWl4clk0WHlsM2V5VEtqdFNTWnhLbm40NnMtQXN6UUhYeHY3dFVGa3NuWGRTU3Q1X3VfSlV6WHRCZnZPdw?oc=5",
+     "source": "CyberInsider",
+     "published": "2026-10-24T22:09:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "AI is changing the cyber threat landscape. Is India ready?",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWW9RTzJXNzE5ZlhBdkQwc2RiWEp3cVZYN2RMYUR4ZUUzMUpIY1NTRWppQjlCMDJOZGpZS3A5dHZmZC1FbjRnNS1HdTZLSzhmZDVOMFBWY2sybUc4WHNPdzFobXVqY0hBbW5ubHZIb0tXVzFNOExnQ29ZX2pWbkZoT1AxdkRkLW5lYWJrRzBXZ1hCNGlFbVM3cHA1d2tyS0tyTW1nWVhJMHc1bFFhU1ptMnJvbVZkeDTSAbcBQVVfeXFMTVlvUU8yVzcxOWZYQXZEMHNkYlhKd3FWWDdkTGFEeGVFMzFKSGNTU0VqaUI5QjAyTmRqWUtwOXR2ZmQtRW40ZzUtR3U2S0s4ZmQ1TjBQVmNrMm1HOFhzT3cxaG11amNIQW1ubmx2SG9LV1cxTThMZ0NvWV9qVm5GaE9QMXZEZC1uZWFia0cwV2dYQjRpRW1TN3BwNXdrcktLck1tZ1lYSTB3NWxRYVNabTJyb21WZHg0?oc=5",
+     "source": "Deccan Herald",
+     "published": "2026-10-24T19:27:53+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "AI",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
      "title": "Japanese firm GMO seeks 'Active Cyber Defense' by govt.",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBPWFBoVldEcGZvYVlWVG4xZTY3VHBvbkdFa0tlMm0wZEhRblBXVk02TXNORlh6N0sxVHo2bm5vZmo2YWcxZWpBb05uTUJVUnIyT2hEa3FadkUxM3BOaV9DUWNjYw?oc=5",
@@ -333,6 +363,20 @@
      "also": []
     },
     {
+     "title": "Suspected North Korea-Linked Hacking Group Targets Government and Financial Networks Worldwide via PHP Flaw",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5MQ2pubHZSS1hVVGZUN0VEeGNNWHR4M3B2UTA4ZmVEVlJnRC1vejRkbkdRbjVIczBGUFcyWm9zcGlxY3kyVDVyQkJUWHlVVS11Y0ZzY2NCVjFEOGJwSzRaaGRQalFJcnZOcDJWMHNGOWtMQy1remc?oc=5",
+     "source": "BigGo Finance",
+     "published": "2026-10-24T02:25:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
      "title": "Signs Detected of Global Cyberattack Preparations by North Korea's Lazarus Group",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBmS0k5QnlwbFRlalA5bmJYZkJmZ1VRU0VzeEJQdVlnUVJITE1NR3ptNEFQMTM2RXN3WVU3cllkZkZadkloUEdQZzg3Z0VYLXROZVp6VXlaSHBoQnFWclluY1JkUlA?oc=5",
@@ -353,20 +397,6 @@
      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZVZrd1R3YzlWbERMcGRQOWl3SnVsbkctaV9SVE5BVExGR1pVUjNxcUdxbU9YaWt2d2tUb3RfV0d4QVZiTUFETjVyLWx3MHpyQlhnc04wdUkzbHg5Z1FhbElLN0tTcVBkWHZVSVdvRU96OTI3bE9sZmx5TTRwTTRWT1JBU1M5WHNja0Y1TXBaeTAwLWRsaDlZaGpvTUVmMTlrbWl2emtnNDhMX3Q5QjFXVjU2TjZndTRSMXJ4cTU5a196WDJlX3hnRF9acXRsT1NvckQw?oc=5",
      "source": "The Straits Times",
      "published": "2026-10-24T00:53:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "India seventh most targeted by cyberattacks: MS executive Nicholas Butts",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZkxlbkYzR2lPOHVlOVpFODRWWEVheGpLUmtKQ2h5SnQ3bGVFVlVta1RPS2MwWVB1dVc0OGtkVGZOQVlzYjhrNV9sMjdvWC1kcmpYNUFjem1jUUswYk5iYjgwNC1hT1F1bEtROVBRRGI4eVktYTBybERMci1uWlZZNjlkVV9scFUxMk1jdkNEM1FBbGVEQjcwaGRYVWpQd25nbU5MZFUyblFveFhMdVk4MXctQU80Z1pzWnhzMHZfbUtSaEFVcURvMjlLUk96SnlSR21XUFFDay0wQVBOVXhuT0RsZElPMEJ6Y3N5RVB30gHzAUFVX3lxTE1TSEFfeS1zYmh6bldNUU9rZ1RsWDU5ZndOb2h3OGFzR2NPVnBPaGhOSXRkVlNpM3pQQnR6M3FNbk9RVjFGNXgxSTQxX3oyVmxna19KbkRPbjIyTld4ODk3Y0xUaGRhVGg1dHVDNjFhS01JVzVFM1lHUHpPZUlLaEU3VlJYYlNhLUQ0SEs1LVBNLUthUmQtTEY3NUhmQnZBMTBzWDZRTDRmUUdkaDhSTkIyc0h3NnBsZXZXUE5VRW5JUVVPai1uVElIMm0tVG9QVzhUMW4tdG1JdENUMV9lNmRVMllnVDZfOEE4Z3U0OWNfcjJLMA?oc=5",
-     "source": "The Times of India",
-     "published": "2026-10-23T21:02:00+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
