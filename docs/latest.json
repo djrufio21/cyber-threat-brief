@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T14:39:38+00:00",
+ "generated": "2026-10-24T18:14:16+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -280,97 +280,6 @@
       "Phishing"
      ],
      "also": []
-    },
-    {
-     "title": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
-     "source": "The Hacker News",
-     "published": "2026-10-23T17:54:08+00:00",
-     "date_only": false,
-     "summary": "Ruby has released versions 4.0.9, 3.4.12, and 3.3.13 to fix three bugs in Onigmo, the regular expression engine built into the language. The bugs lie behind four critical security flaws that GitLab patched over the past month. GitLab found…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
-     "source": "The Hacker News",
-     "published": "2026-10-23T17:50:47+00:00",
-     "date_only": false,
-     "summary": "Cybersecurity researchers have discovered an artificial intelligence (AI)-driven intrusion ecosystem run by affiliates of the INC and The Gentlemen ransomware groups. Central to the operation is an \"Autonomous Red Team Kill Chain…",
-     "extra": "",
-     "tags": [
-      "Ransomware",
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "FCC bans two devices with surveillance chips linked to Huawei",
-     "subtitle": "",
-     "link": "https://therecord.media/fcc-bans-devices-huawei-surveillance-chips",
-     "source": "The Record",
-     "published": "2026-10-23T17:28:00+00:00",
-     "date_only": false,
-     "summary": "The banned items — a wireless video transmitter and dashboard camera — are made with chips manufactured by Huawei subsidiary HiSilicon, which markets its products as “designed for the surveillance market.”",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "AI Tools Are Generating Massive Attacks for Little Cost",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/cybersecurity-operations/ai-tools-massive-attacks-little-cost",
-     "source": "Dark Reading",
-     "published": "2026-10-23T17:26:59+00:00",
-     "date_only": false,
-     "summary": "One campaign targets 105 sites using open-weight models; in another, public models gained full domain control for $12. Cyber-defense will have to change.",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Microsoft: Windows Server 2016 reaches end of support in January",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2016-reaches-end-of-support-in-january/",
-     "source": "BleepingComputer",
-     "published": "2026-10-23T17:05:07+00:00",
-     "date_only": false,
-     "summary": "Microsoft says Windows Server 2016 will stop receiving security updates after it reaches the end of support in January 2027. [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Quest Diagnostics confirms data breach exposed patient records",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/quest-diagnostics-confirms-data-breach-exposed-patient-records/",
-     "source": "BleepingComputer",
-     "published": "2026-10-23T16:40:07+00:00",
-     "date_only": false,
-     "summary": "American clinical laboratory company Quest Diagnostics disclosed that patient records have been exposed after a threat actor gained unauthorized access to its Quanum LSM system. [...]",
-     "extra": "",
-     "tags": [
-      "Breach"
-     ],
-     "also": []
-    },
-    {
-     "title": "PHP shares mitigation for new RCE vulnerability with no patch",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/php-shares-mitigation-for-new-and-unpatched-rce-vulnerability/",
-     "source": "BleepingComputer",
-     "published": "2026-10-23T15:38:05+00:00",
-     "date_only": false,
-     "summary": "The PHP security team has shared mitigation measures for a new remote code execution vulnerability that affects systems with non-default configurations and has no patch. [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
     }
    ]
   },
@@ -378,27 +287,11 @@
    "name": "APAC Watch",
    "stories": [
     {
-     "title": "Japanese firm GMO seeks 'Active Cyber Defense\" by govt.",
+     "title": "Japan Plans Ethical Hacking Unit to Strengthen National Cybersecurity",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBPWFBoVldEcGZvYVlWVG4xZTY3VHBvbkdFa0tlMm0wZEhRblBXVk02TXNORlh6N0sxVHo2bm5vZmo2YWcxZWpBb05uTUJVUnIyT2hEa3FadkUxM3BOaV9DUWNjYw?oc=5",
-     "source": "NHKニュース",
-     "published": "2026-10-24T10:39:46+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": [
-      "Nikkei Asia"
-     ]
-    },
-    {
-     "title": "GMO asks Japan to use new cyber defence powers after hack",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN0Nla0VtT3Bad3g1RVBZWVdQS0ZJR0lqZkE0Q3VwQktud0g4RWNPU0FkYTNMZkwxRDJNSjdXQ2NMOWRwbTlIS19PZE9iZHg2YzkxcmhNQkg5OXJEOVVqaVB6aWctX0ZiRXJMYXJfX2xlTmRWSWtMa2FBTGg1TUN3bEZYZWJRY1FnMFY1LUpR?oc=5",
-     "source": "The Next Web",
-     "published": "2026-10-24T10:13:23+00:00",
+     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1JNUk0TlRXSklzcVgzOG9hNWFISjJzSWY5dFhvTVRTb2VSc2NYUlBZSXhNdTdjS0FaWWRyRnQyY014bGx0b1VTNEk5OS1Ga0FWbWxDdXJjVU1Xbjcxc0xLWGU3MmNwOUhTNnRsSE1sVzFGSnJvRGdqVG9xdGQ?oc=5",
+     "source": "The420.in",
+     "published": "2026-10-24T08:32:48+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -408,11 +301,11 @@
      "also": []
     },
     {
-     "title": "Japan Plans Ethical Hacking Unit to Strengthen National Cybersecurity",
+     "title": "Japan net provider GMO seeks 'active cyber defense' from government",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1JNUk0TlRXSklzcVgzOG9hNWFISjJzSWY5dFhvTVRTb2VSc2NYUlBZSXhNdTdjS0FaWWRyRnQyY014bGx0b1VTNEk5OS1Ga0FWbWxDdXJjVU1Xbjcxc0xLWGU3MmNwOUhTNnRsSE1sVzFGSnJvRGdqVG9xdGQ?oc=5",
-     "source": "The420.in",
-     "published": "2026-10-24T08:32:48+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSEZVaHpEZHFudVhUeEFyLVJqR3lvZVhLSUQ2bjlGc2Q4Y0RFUTBtaXhRWl9BYW1TT1lQQmxRbGcwNlQyVmZtVU00WUx4NHV2V0hqRVJEbjctaXNOWUJaQjZnb0dqVGh1RzdDcGhDMGhuZmFaZzd1NGZQdzFvX2lScnVYeWVGNldQMXRQMEh6aEZIMDhPTTNrTHNfUzhpdjRvTGJRVlhKNjZxR0VTVW5UM2NVOA?oc=5",
+     "source": "Nikkei Asia",
+     "published": "2026-10-24T07:38:00+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -436,130 +329,11 @@
      "also": []
     },
     {
-     "title": "North Korea-Linked Lazarus Prepares Cyberattack Targeting South Korean Government, Financial Institutions, CYFIRMA Says",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFA4Z0pzWndYUDE4WnJFakJFdndmMlJBQlFFRmtWclRDbkF5SjdSTDVLUkFscG9EcnN4VzM5cWNsRzNHRi0ybGNaS3FzQ2ZQZzJaNmpneA?oc=5",
-     "source": "bloomingbit",
-     "published": "2026-10-24T06:35:22+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Nation-state",
-      "APAC"
-     ],
-     "also": [
-      "Aju Press"
-     ]
-    },
-    {
-     "title": "Hackers used Korean to coordinate potential PHP attack targeting banks, government, logistics: Report",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNcnV1QzFrVExxY24zcUVsNEVGQ0QxNWk5Z2EwN19JU01TUTRJV095OGVucnd2MUplVl9HeDlLMTZNQkFqYm5oOFdBSFVsT3F0MDJUVzdoYkZiZVYyU1JIakFQamZlZG9rYTNKMFduQ2dtdnE1djdLenZzLXZuSk5GQjhRajNybE9ON2VveF9USUsyU0FUU3kzcVpyZHRyOHpXMU5YREQyY2p4VHhxenByODY5OC0wNVR0c19NdGRjcmFaMC1lZGdtUDd4ZXFyMjdleVR6TjV4bmU1eV9QOFpmQjUtN1cyUQ?oc=5",
-     "source": "Korea JoongAng Daily",
-     "published": "2026-10-24T05:35:52+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
      "title": "SBI Data Breach: State Bank of India Customers Have No DPDP Act Remedy",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE50WGx5RnpKZkpHdUZib01zSkZ1U2RINnE0clY0T09YOGUzaXVvOTdnQmM4RmgzaFNING9hdkRYZF94dHNDUlVNTVpLSjF3VDFvR190VVRPdW12QUl2ZmxHa282ZnVLVERQRmU4cGlWemVRR3k4VGNhWkh5Z9IBe0FVX3lxTE50WGx5RnpKZkpHdUZib01zSkZ1U2RINnE0clY0T09YOGUzaXVvOTdnQmM4RmgzaFNING9hdkRYZF94dHNDUlVNTVpLSjF3VDFvR190VVRPdW12QUl2ZmxHa282ZnVLVERQRmU4cGlWemVRR3k4VGNhWkh5Zw?oc=5",
      "source": "The Probe",
      "published": "2026-10-24T03:30:37+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC",
-      "AI"
-     ],
-     "also": [
-      "NewsBytes"
-     ]
-    },
-    {
-     "title": "Signs Detected of Global Cyberattack Preparations by North Korea's Lazarus Group",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBmS0k5QnlwbFRlalA5bmJYZkJmZ1VRU0VzeEJQdVlnUVJITE1NR3ptNEFQMTM2RXN3WVU3cllkZkZadkloUEdQZzg3Z0VYLXROZVp6VXlaSHBoQnFWclluY1JkUlA?oc=5",
-     "source": "아시아경제",
-     "published": "2026-10-24T01:36:07+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Nation-state",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Vulnerability in apps behind recent spate of cyberattacks on Japan firms",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZVZrd1R3YzlWbERMcGRQOWl3SnVsbkctaV9SVE5BVExGR1pVUjNxcUdxbU9YaWt2d2tUb3RfV0d4QVZiTUFETjVyLWx3MHpyQlhnc04wdUkzbHg5Z1FhbElLN0tTcVBkWHZVSVdvRU96OTI3bE9sZmx5TTRwTTRWT1JBU1M5WHNja0Y1TXBaeTAwLWRsaDlZaGpvTUVmMTlrbWl2emtnNDhMX3Q5QjFXVjU2TjZndTRSMXJ4cTU5a196WDJlX3hnRF9acXRsT1NvckQw?oc=5",
-     "source": "The Straits Times",
-     "published": "2026-10-24T00:53:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "India seventh most targeted by cyberattacks: MS executive Nicholas Butts",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPZkxlbkYzR2lPOHVlOVpFODRWWEVheGpLUmtKQ2h5SnQ3bGVFVlVta1RPS2MwWVB1dVc0OGtkVGZOQVlzYjhrNV9sMjdvWC1kcmpYNUFjem1jUUswYk5iYjgwNC1hT1F1bEtROVBRRGI4eVktYTBybERMci1uWlZZNjlkVV9scFUxMk1jdkNEM1FBbGVEQjcwaGRYVWpQd25nbU5MZFUyblFveFhMdVk4MXctQU80Z1pzWnhzMHZfbUtSaEFVcURvMjlLUk96SnlSR21XUFFDay0wQVBOVXhuT0RsZElPMEJ6Y3N5RVB30gHzAUFVX3lxTE1TSEFfeS1zYmh6bldNUU9rZ1RsWDU5ZndOb2h3OGFzR2NPVnBPaGhOSXRkVlNpM3pQQnR6M3FNbk9RVjFGNXgxSTQxX3oyVmxna19KbkRPbjIyTld4ODk3Y0xUaGRhVGg1dHVDNjFhS01JVzVFM1lHUHpPZUlLaEU3VlJYYlNhLUQ0SEs1LVBNLUthUmQtTEY3NUhmQnZBMTBzWDZRTDRmUUdkaDhSTkIyc0h3NnBsZXZXUE5VRW5JUVVPai1uVElIMm0tVG9QVzhUMW4tdG1JdENUMV9lNmRVMllnVDZfOEE4Z3U0OWNfcjJLMA?oc=5",
-     "source": "The Times of India",
-     "published": "2026-10-23T21:02:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Japan Threat Hunting Plan Targets Critical Infrastructure",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA3V0trYmFNOTdmRzcwTXNxXzhKV3Z6ME4tVURUX0hhVzdOZFpFT3RsMHE2ZU1URjhITXR0ZHltYVZhMnMxeGUtMVFKLVhINHJKZnZYTVhacWhsLUJnVWF2R3NaQ3LSAWRBVV95cUxQN1dLa2JhTTk3Zkc3ME1zcV84Sld2ejBOLVVEVF9IYVc3TmRaRU90bDBxNmVNVEY4SE10dGR5bWFWYTJzMXhlLTFRSi1YSDRySmZ2WE1YWnFobC1CZ1VhdkdzWkNy?oc=5",
-     "source": "The Cyber Express",
-     "published": "2026-10-23T16:04:10+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Japan to Deploy AI Cyberattack Simulations as PHP Flaws Disrupt Global Websites",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBueHJNRG9scHVhZmppMTlfUUZ4bnZVUjJPUzAyNWx2MFh6REtnZmpmWW1rR3AtdExhY1ZaWTlsc1NPNmhER1hiMEFMS24ycm1MdzJuZkhJTGRBUnlsOTRDdDB0SXFZVVo0V01sX2o0T3NIejRRVm96VDZHeEhQUVE?oc=5",
-     "source": "Brand Icon Image",
-     "published": "2026-10-23T15:30:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "AI",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Japan car-sharing operator to offer users $19 each after data breach",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdGd1TG9tTWZEb2NSSmtQZWZ6MlM4TkdxeUNseHE5TWgyTk55RGtEVGtrMzltNlVxWlFDYVZRNmJoRXRSRTJuOHVMdVlJTTEwZkpfV3RBZFNfQ2ZlZkRrSkd1cmk4Z3JGcElnelhCRnNjNThCalktU0N5RmduZ1ZTSXk5UkpFMEVnamxuWU4tX19YSGRtRDdESTZQU2R6MHQwNFdlOGE3aDd1NXJHbm54bXN5ZHkxdw?oc=5",
-     "source": "Nikkei Asia",
-     "published": "2026-10-23T15:24:00+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -825,20 +599,6 @@
      "summary": "",
      "extra": "",
      "tags": [],
-     "also": []
-    },
-    {
-     "title": "[Security Blog] HKCERT Warns of Critical “PHP2Shell” Vulnerabilities: Businesses Must Immediately Review and Patch PHP Systems AI Accelerates Cyber Attacks and Defence, Further Shortening the Response Window Between Vulnerability Disclosure and Exploitation",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/blog/hkcert-warns-of-critical-php2shell-vulnerabilities-businesses-must-immediately-review-and-patch-php-systems-ai-accelerates-cyber-attacks-and-defence-further-shortening-the-response-window-between-vulnerability-disclosure-and-exploitation",
-     "source": "HKCERT",
-     "published": "2026-10-21T16:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
      "also": []
     }
    ]
