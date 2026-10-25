@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T09:54:54+00:00",
+ "generated": "2026-10-25T14:27:00+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -146,6 +146,20 @@
    "name": "Breaking Threats",
    "stories": [
     {
+     "title": "Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/",
+     "source": "SecurityWeek",
+     "published": "2026-10-25T11:00:00+00:00",
+     "date_only": false,
+     "summary": "Founded in 2025 by Unit 8200 alumni, Tel Aviv-based Mave uses AI agents to investigate alerts across existing security stacks. The post Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave appeared first on…",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
      "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
      "subtitle": "",
      "link": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
@@ -158,60 +172,6 @@
       "AI"
      ],
      "also": []
-    },
-    {
-     "title": "BlackX UEFI bootkit exploits Baton Drop flaw to bypass Secure Boot",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/blackx-uefi-bootkit-exploits-baton-drop-flaw-to-bypass-secure-boot/",
-     "source": "BleepingComputer",
-     "published": "2026-10-24T14:17:32+00:00",
-     "date_only": false,
-     "summary": "A new UEFI bootkit named BlackX, deployed in an espionage campaign in early 2026, exploited the old Baton Drop vulnerability to bypass Secure Boot and load a malicious driver designed to interfere with security solutions from Kaspersky and…",
-     "extra": "",
-     "tags": [
-      "Nation-state"
-     ],
-     "also": []
-    },
-    {
-     "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
-     "source": "The Hacker News",
-     "published": "2026-10-24T11:09:29+00:00",
-     "date_only": false,
-     "summary": "A memory-corruption flaw in Google's Brotli decoder sits in many programs that unpack Brotli-compressed data, among them Bun, the Python Brotli and brotlicffi packages, and Envoy proxies set up to decompress Brotli. Tracked as…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
-     "source": "The Hacker News",
-     "published": "2026-10-24T11:03:33+00:00",
-     "date_only": false,
-     "summary": "LiteLLM on Friday revealed that an Agent Platform master key accidentally published to a public GitHub repository in late May 2026 ultimately allowed the threat actor to push a malicious version of the popular Python package. \"On May 27…",
-     "extra": "",
-     "tags": [
-      "Breach"
-     ],
-     "also": []
-    },
-    {
-     "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
-     "source": "The Hacker News",
-     "published": "2026-10-24T10:36:33+00:00",
-     "date_only": false,
-     "summary": "Google has updated its privacy policy to spell out that using personalized artificial intelligence (AI) features in Search or Gemini could allow the company to serve targeted ads to users based on their activity on other connected Google…",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
     }
    ]
   },
@@ -219,9 +179,50 @@
    "name": "APAC Watch",
    "stories": [
     {
-     "title": "Lotte Giftiel hack leaks refund applicants’ data in South Korea - CHOSUNBIZ",
+     "title": "Chinese AI Tool Linked to Hacks in Japan",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRkFlT2pfbmFseFBNTGd2UnM5TkNWNFBmdXJoUWRqOXN1TFVyUHozbTF0YmJlSkdta0VWLTQzS0EwbUZpd2NuN1g0MHUwZUxXWUhmbTR6c0ZFUmdYQzh0T3BDcm5ObUtNWVpTYWdtT21XcldPLU10YW1aV2J4RDZqOXpCWmxCcVlvWVI2MU1CcUg4dWfSAZMBQVVfeXFMUEZBZU9qX25hbHhQTUxndlJzOU5DVjRQZnVyaFFkajlzdUxVclB6M20xdGJiZUpHbWtFVi00M0tBMG1GaXdjbjdYNDB1MGVMV1lIZm00enNGRVJnWEM4dE9wQ3JuTm1LTVlaU2FnbU9tV3JXTy1NdGFtWldieEQ2ajl6QlpsQnFZb1lSNjFNQnFIOHVn?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPXzI3bFVJdEgwYUUwTWxUY2UyZlVFYmI3QlBWU3BMMG1hWjhHZVQ1UHZFaUlBdGwwc2pPdXJxYTgtWVlxdXh1QktTOW55dW9QU2ZZYldSNGM2WklORTNpZWJBZ2NMZEQ5cE9aSl9SaHBnTmpDZ0VmdkJVSkt6OFJSZzZWa0NkLVU?oc=5",
+     "source": "WSJ",
+     "published": "2026-10-25T13:32:09+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "AI",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Hacking Attempts on Korean Agri-Food Agencies Near 40 Million",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQS2xSdC1EUnBEMVAzZVdIbXBxYVhJaVIwMGRJTGtiaWtMY2tvdGplWWFOd3Z6RDFQVVp5Ym5tc0YtTWxVN3ZqNEpmbkFlWmtTZ0E1NU91bUhrRzZsbUxIMGtCUUlnRWlTNjJoYW9CQS1reHFSNzQ0RzJBdTgwSVpYNnFad04zZWJkYVA3elpqVlcyMGdhLXRKYkpUZUY?oc=5",
+     "source": "Seoul Economic Daily",
+     "published": "2026-10-25T13:20:20+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Cyber Alert: Today’s Biggest Cyber Crime Stories Shaking India – 25th October",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM25saEdlVGRnX1FlSFprbl9YUWtuSVU0V0xWN2tPWktCVDVOSUxabHdCeWNMUDNDTGQ1bWhybGUtQ1cyTTdteDRnTm9NTHVRZy1JcjFmUFhoZDlRaWV3c2hrdGJYSXo0YkxMamRQQ0dSZ3pIZkthaEg4dkVwalZLWW15Zzh6eklGcXc?oc=5",
+     "source": "The420.in",
+     "published": "2026-10-25T12:10:58+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Hackers leak GiftiL refund applicants’ data in South Korea - CHOSUNBIZ",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3NzVmZ2tqYUxPcXEyYmlNbl9nclVrcXBENlFyV2tMMjVQWTZBVUhWMGFtd0lFbFh0b3dpSUpmRHNKcnlycmxKTTV5UjBsdUNUNzBMeFhJNWtWVlJJak5aUmNPTGx5c2hCSi1IdV9qampkWEZoN29kV1FKX1pOZDTSAZMBQVVfeXFMUEZBZU9qX25hbHhQTUxndlJzOU5DVjRQZnVyaFFkajlzdUxVclB6M20xdGJiZUpHbWtFVi00M0tBMG1GaXdjbjdYNDB1MGVMV1lIZm00enNGRVJnWEM4dE9wQ3JuTm1LTVlaU2FnbU9tV3JXTy1NdGFtWldieEQ2ajl6QlpsQnFZb1lSNjFNQnFIOHVn?oc=5",
      "source": "Chosunbiz",
      "published": "2026-10-25T04:42:00+00:00",
      "date_only": false,
@@ -303,20 +304,6 @@
      "extra": "",
      "tags": [
       "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "GMO asks Japan to use new cyber defence powers after hack",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN0Nla0VtT3Bad3g1RVBZWVdQS0ZJR0lqZkE0Q3VwQktud0g4RWNPU0FkYTNMZkwxRDJNSjdXQ2NMOWRwbTlIS19PZE9iZHg2YzkxcmhNQkg5OXJEOVVqaVB6aWctX0ZiRXJMYXJfX2xlTmRWSWtMa2FBTGg1TUN3bEZYZWJRY1FnMFY1LUpR?oc=5",
-     "source": "The Next Web",
-     "published": "2026-10-24T10:13:23+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
       "APAC"
      ],
      "also": []
