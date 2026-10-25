@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-24T23:23:14+00:00",
+ "generated": "2026-10-25T04:56:26+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -231,11 +231,55 @@
    "name": "APAC Watch",
    "stories": [
     {
+     "title": "Singapore insurance customers among 110,000 hit by Alliance Medinet data breach",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTjJ5aDA3dVB1NUNZMjlQM1drMnYwTm50amVzUEh6NGJKRmxnSkt3eEhhV19obXhjaExsWDlEZ0praGkyV0pzWjlmYUk1aE1mMGt6M3lpelo3V3AtTHJsUWtRVC0tZ3d4SVlZSFhtWnYwa0hDcU1sdVFEdGZnZWxtSklySEJqTmFudzVUWm9pTXl2Y1AxdVBXSS10R1lhbkJKaG9wczFJb0wyWEU5VG5tOFh0UENJYkFh?oc=5",
+     "source": "CNA",
+     "published": "2026-10-25T04:24:24+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "AhnLab Participates in Japan's Largest Cybersecurity Exhibition… Full-Scale Market Push Begins",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iZWVfS21IZHpjMWpJNzZ1NUliZ1hZNTZxU2lVZnEwNWY0SVpJWm5UZ3llRl9xT2JvRGlkVkVqSk5ZOTFBaU9keTc4cER1MjFrT1VlS256SVRUQW1aTVh3NXN2VEpOd0tlcndJ?oc=5",
+     "source": "머니투데이",
+     "published": "2026-10-25T01:45:44+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Over Half of Ransomware Cases in Korea Suspended, No Arrests This Year",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMkVzMFU5b2R2QWEwVlMwU0xTZDFnd1gtYVU4cFZibXNFTExzT0lndXJrNVJadGFoQ3k5RGgtcG9JZUJ3TmdsTm5oUlVKMHYtU1pUYnNFZGFZckNybjRKcmFUZGRmVlFWNGhsbk84ZGdxUVpmWVp4VUE0ZDRLaG1VN1JUMkU5VW9rTDZ5d3Vnd1hFdWt1dHF6bTNiaWkzZkNwemdN?oc=5",
+     "source": "Seoul Economic Daily",
+     "published": "2026-10-25T01:44:26+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Ransomware",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
      "title": "Pizza Hut Japan suffers data breach exposing customer information",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBYRmM5Q0RLaEU3ck5XQzdud1NvSzdNbms4NmVreE9VSWl4clk0WHlsM2V5VEtqdFNTWnhLbm40NnMtQXN6UUhYeHY3dFVGa3NuWGRTU3Q1X3VfSlV6WHRCZnZPdw?oc=5",
      "source": "CyberInsider",
-     "published": "2026-10-24T22:09:00+00:00",
+     "published": "2026-10-24T22:13:17+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -261,22 +305,6 @@
      "also": []
     },
     {
-     "title": "Japanese firm GMO seeks 'Active Cyber Defense' by govt.",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBPWFBoVldEcGZvYVlWVG4xZTY3VHBvbkdFa0tlMm0wZEhRblBXVk02TXNORlh6N0sxVHo2bm5vZmo2YWcxZWpBb05uTUJVUnIyT2hEa3FadkUxM3BOaV9DUWNjYw?oc=5",
-     "source": "NHKニュース",
-     "published": "2026-10-24T13:17:31+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": [
-      "Nikkei Asia"
-     ]
-    },
-    {
      "title": "GMO asks Japan to use new cyber defence powers after hack",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPN0Nla0VtT3Bad3g1RVBZWVdQS0ZJR0lqZkE0Q3VwQktud0g4RWNPU0FkYTNMZkwxRDJNSjdXQ2NMOWRwbTlIS19PZE9iZHg2YzkxcmhNQkg5OXJEOVVqaVB6aWctX0ZiRXJMYXJfX2xlTmRWSWtMa2FBTGg1TUN3bEZYZWJRY1FnMFY1LUpR?oc=5",
@@ -296,6 +324,20 @@
      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1JNUk0TlRXSklzcVgzOG9hNWFISjJzSWY5dFhvTVRTb2VSc2NYUlBZSXhNdTdjS0FaWWRyRnQyY014bGx0b1VTNEk5OS1Ga0FWbWxDdXJjVU1Xbjcxc0xLWGU3MmNwOUhTNnRsSE1sVzFGSnJvRGdqVG9xdGQ?oc=5",
      "source": "The420.in",
      "published": "2026-10-24T08:32:48+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Japan net provider GMO seeks 'active cyber defense' from government",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSEZVaHpEZHFudVhUeEFyLVJqR3lvZVhLSUQ2bjlGc2Q4Y0RFUTBtaXhRWl9BYW1TT1lQQmxRbGcwNlQyVmZtVU00WUx4NHV2V0hqRVJEbjctaXNOWUJaQjZnb0dqVGh1RzdDcGhDMGhuZmFaZzd1NGZQdzFvX2lScnVYeWVGNldQMXRQMEh6aEZIMDhPTTNrTHNfUzhpdjRvTGJRVlhKNjZxR0VTVW5UM2NVOA?oc=5",
+     "source": "Nikkei Asia",
+     "published": "2026-10-24T07:38:00+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -331,9 +373,21 @@
       "Nation-state",
       "APAC"
      ],
-     "also": [
-      "Aju Press"
-     ]
+     "also": []
+    },
+    {
+     "title": "Vulnerability in apps behind recent spate of cyberattacks on Japan firms",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE11WkotT3NOcmxBaWRXY1V5LThNb2FhNkJzLUwzYzhhUzhzcU5IQUpYQ0U0aEoyY1lHdjRpYTlpbFVySGE1bDNJalZWQ2kxcFpZY05oNldZdEVwdXVRNF9DRF93WWZxRU5VVXNHWmNOWFdVTjg?oc=5",
+     "source": "毎日新聞",
+     "published": "2026-10-24T06:05:19+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
     },
     {
      "title": "Hackers used Korean to coordinate potential PHP attack targeting banks, government, logistics: Report",
@@ -345,64 +399,6 @@
      "summary": "",
      "extra": "",
      "tags": [],
-     "also": []
-    },
-    {
-     "title": "SBI Data Breach: State Bank of India Customers Have No DPDP Act Remedy",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE50WGx5RnpKZkpHdUZib01zSkZ1U2RINnE0clY0T09YOGUzaXVvOTdnQmM4RmgzaFNING9hdkRYZF94dHNDUlVNTVpLSjF3VDFvR190VVRPdW12QUl2ZmxHa282ZnVLVERQRmU4cGlWemVRR3k4VGNhWkh5Z9IBe0FVX3lxTE50WGx5RnpKZkpHdUZib01zSkZ1U2RINnE0clY0T09YOGUzaXVvOTdnQmM4RmgzaFNING9hdkRYZF94dHNDUlVNTVpLSjF3VDFvR190VVRPdW12QUl2ZmxHa282ZnVLVERQRmU4cGlWemVRR3k4VGNhWkh5Zw?oc=5",
-     "source": "The Probe",
-     "published": "2026-10-24T03:30:37+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Suspected North Korea-Linked Hacking Group Targets Government and Financial Networks Worldwide via PHP Flaw",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5MQ2pubHZSS1hVVGZUN0VEeGNNWHR4M3B2UTA4ZmVEVlJnRC1vejRkbkdRbjVIczBGUFcyWm9zcGlxY3kyVDVyQkJUWHlVVS11Y0ZzY2NCVjFEOGJwSzRaaGRQalFJcnZOcDJWMHNGOWtMQy1remc?oc=5",
-     "source": "BigGo Finance",
-     "published": "2026-10-24T02:25:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Signs Detected of Global Cyberattack Preparations by North Korea's Lazarus Group",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBmS0k5QnlwbFRlalA5bmJYZkJmZ1VRU0VzeEJQdVlnUVJITE1NR3ptNEFQMTM2RXN3WVU3cllkZkZadkloUEdQZzg3Z0VYLXROZVp6VXlaSHBoQnFWclluY1JkUlA?oc=5",
-     "source": "아시아경제",
-     "published": "2026-10-24T01:36:07+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Nation-state",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Vulnerability in apps behind recent spate of cyberattacks on Japan firms",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZVZrd1R3YzlWbERMcGRQOWl3SnVsbkctaV9SVE5BVExGR1pVUjNxcUdxbU9YaWt2d2tUb3RfV0d4QVZiTUFETjVyLWx3MHpyQlhnc04wdUkzbHg5Z1FhbElLN0tTcVBkWHZVSVdvRU96OTI3bE9sZmx5TTRwTTRWT1JBU1M5WHNja0Y1TXBaeTAwLWRsaDlZaGpvTUVmMTlrbWl2emtnNDhMX3Q5QjFXVjU2TjZndTRSMXJ4cTU5a196WDJlX3hnRF9acXRsT1NvckQw?oc=5",
-     "source": "The Straits Times",
-     "published": "2026-10-24T00:53:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
      "also": []
     }
    ]
@@ -645,18 +641,6 @@
      "link": "https://www.hkcert.org/security-bulletin/isc-bind-multiple-vulnerabilities_20261023",
      "source": "HKCERT",
      "published": "2026-10-23T01:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Oracle Java Security Restriction Bypass Vulnerability",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/oracle-java-security-restriction-bypass-vulnerability_20261022",
-     "source": "HKCERT",
-     "published": "2026-10-22T03:00:00+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
