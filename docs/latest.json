@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T14:27:00+00:00",
+ "generated": "2026-10-25T18:27:23+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -146,6 +146,47 @@
    "name": "Breaking Threats",
    "stories": [
     {
+     "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
+     "source": "The Hacker News",
+     "published": "2026-10-25T17:44:09+00:00",
+     "date_only": false,
+     "summary": "A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week. The attack requires two things: Tailscale SSH set up to…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
+     "source": "The Hacker News",
+     "published": "2026-10-25T17:19:46+00:00",
+     "date_only": false,
+     "summary": "Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-109618 and CVE-2026-109619. \"In one case, the…",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
+     "source": "BleepingComputer",
+     "published": "2026-10-25T15:49:38+00:00",
+     "date_only": false,
+     "summary": "Researchers found a malicious AGENTS markdown instruction file in a customer's Downloads folder that tricked an AI coding agent into installing a rogue npm package. [...]",
+     "extra": "",
+     "tags": [
+      "Supply chain",
+      "AI"
+     ],
+     "also": []
+    },
+    {
      "title": "Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave",
      "subtitle": "",
      "link": "https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/",
@@ -179,16 +220,30 @@
    "name": "APAC Watch",
    "stories": [
     {
-     "title": "Chinese AI Tool Linked to Hacks in Japan",
+     "title": "The Internet Is Breaking Down, Says Japan's GMO Internet Group CEO After Hackers Hijack Its Cloud Servers To Run Unauthorized FX Trades",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPXzI3bFVJdEgwYUUwTWxUY2UyZlVFYmI3QlBWU3BMMG1hWjhHZVQ1UHZFaUlBdGwwc2pPdXJxYTgtWVlxdXh1QktTOW55dW9QU2ZZYldSNGM2WklORTNpZWJBZ2NMZEQ5cE9aSl9SaHBnTmpDZ0VmdkJVSkt6OFJSZzZWa0NkLVU?oc=5",
-     "source": "WSJ",
-     "published": "2026-10-25T13:32:09+00:00",
+     "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZFdpN3otMW42M1EtbDJFbURWS3BOdFpIN213NlNNUHVOX2Q2dmd6VDV0WFB6dWpiV3VVbDd1RTZDRFpEdklNa2FaOUdwUlVYeUF6ZXNKY21mT245emNXYjR3cS1qLWprZzh1YS1GaWZaOE5kZHNraTJpNzNXaUFoWkhsUGJXNUtOTnQ2di1QQTNVRzF5NHJLQU5KZWZvQkdMOEVUdlp0bHNiZ0p4ZzJGWjNjaEJjSWw3R3hObHpBYTZoZ0hHZmJ5REZzT1p3N3ZfdHppVGdaRU1Za3ZEczdzNlh4Sm9oNFNza0xmSzU2aXFJV1oxUTVlMA?oc=5",
+     "source": "OfficeChai",
+     "published": "2026-10-25T17:36:20+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
      "tags": [
-      "AI",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Central Bank of India Fraud: Was the RBI’s Payment Backbone Breached?",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMV9aZlVrNnBYb2xCVFBvWWVDcXgzd09oVFRMRDVpdld3TlAwZURMSmpJbngwX2pMLWg1OTA4bHBjVVZCcTRkN0lZUllONVF1Q2kyQUtKM0pfTjY1ZFN5SWlfX1o0Wk5ISG8tODZhc000TWdGWDV1TDdGMmVoclJMc1RoUTd4RzjSAYcBQVVfeXFMTTFfWmZVazZwWG9sQlRQb1llQ3F4M3dPaFRUTEQ1aXZXd05QMGVETEpqSW54MF9qTC1oNTkwOGxwY1VWQnE0ZDdJWVJZTjVRdUNpMkFLSjNKX042NWRTeUlpX19aNFpOSEhvLTg2YXNNNE1nRlg1dUw3RjJlaHJSTHNUaFE3eEc4?oc=5",
+     "source": "The Probe",
+     "published": "2026-10-25T16:59:59+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
       "APAC"
      ],
      "also": []
@@ -289,21 +344,6 @@
      "extra": "",
      "tags": [
       "AI",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Singapore insurance customers among 110,000 hit by Alliance Medinet data breach",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTjJ5aDA3dVB1NUNZMjlQM1drMnYwTm50amVzUEh6NGJKRmxnSkt3eEhhV19obXhjaExsWDlEZ0praGkyV0pzWjlmYUk1aE1mMGt6M3lpelo3V3AtTHJsUWtRVC0tZ3d4SVlZSFhtWnYwa0hDcU1sdVFEdGZnZWxtSklySEJqTmFudzVUWm9pTXl2Y1AxdVBXSS10R1lhbkJKaG9wczFJb0wyWEU5VG5tOFh0UENJYkFh?oc=5",
-     "source": "CNA",
-     "published": "2026-10-24T15:04:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
       "APAC"
      ],
      "also": []
