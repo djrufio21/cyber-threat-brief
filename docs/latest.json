@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-25T18:27:23+00:00",
+ "generated": "2026-10-25T21:54:09+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -220,6 +220,35 @@
    "name": "APAC Watch",
    "stories": [
     {
+     "title": "Japan to simulate cyberattacks as PHP flaws roil global internet",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUjNKUVJFaWpHTEdNOVRRSy1XOHNxX0hta1VHT3JNWkZHU0l4ckZGNWU0R2FsZU9aZG5qRlAxTUg4RGlVNTF4V1dFYTdtTnU1d1VGQ0FUb0NOQU45ZjNxMHZzd3NvbHlNbEFsVGcxdnZfZ2h2bFpqbGp4SERiRnlqbjBwQ3JodlIxNWtKVWhPR1Q0Ykx3TjZabnlfd1Q3V2pWVnZB?oc=5",
+     "source": "The Express Tribune",
+     "published": "2026-10-25T19:03:57+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Japan Forms AI Cyber Unit as PHP Flaws Disrupt Transport and Banks",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNN2RXLVQ0QW9TelRieHUxSklqRHZtRmpiVk1jeTZXaW50bUpzTXJTZHVXRFFrUVRac01OMjhzaFU5RWRFX2pnMGJrY2h2cWRudEFlM1Y4d09xSlFwUW82czhyQjFtdjdsTDQ1dVNtdDRBeXhYTFoxUWxDclpWdzh6MGlITnh2clNKa0VXdzN3cEdRM2dUalNDRXlB?oc=5",
+     "source": "Retail News Asia",
+     "published": "2026-10-25T18:32:58+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "AI",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
      "title": "The Internet Is Breaking Down, Says Japan's GMO Internet Group CEO After Hackers Hijack Its Cloud Servers To Run Unauthorized FX Trades",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZFdpN3otMW42M1EtbDJFbURWS3BOdFpIN213NlNNUHVOX2Q2dmd6VDV0WFB6dWpiV3VVbDd1RTZDRFpEdklNa2FaOUdwUlVYeUF6ZXNKY21mT245emNXYjR3cS1qLWprZzh1YS1GaWZaOE5kZHNraTJpNzNXaUFoWkhsUGJXNUtOTnQ2di1QQTNVRzF5NHJLQU5KZWZvQkdMOEVUdlp0bHNiZ0p4ZzJGWjNjaEJjSWw3R3hObHpBYTZoZ0hHZmJ5REZzT1p3N3ZfdHppVGdaRU1Za3ZEczdzNlh4Sm9oNFNza0xmSzU2aXFJV1oxUTVlMA?oc=5",
@@ -290,6 +319,18 @@
      "also": []
     },
     {
+     "title": "“Lost 20 million won in just 84 seconds”: Japanese company hit by hackers sends SOS to government",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3bFJLb3gwUkhUZ3g5Zmxrd1lDQVJaNW1xTnQ0TVdlZlV3TlNYR252N2lkbm1Nd1JuSzg0OG5jeFplTXZhdEZ6TkJYT19hUTI1U0xPRERQLS0?oc=5",
+     "source": "파이낸셜뉴스",
+     "published": "2026-10-25T02:23:42+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
      "title": "AhnLab Participates in Japan's Largest Cybersecurity Exhibition… Full-Scale Market Push Begins",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iZWVfS21IZHpjMWpJNzZ1NUliZ1hZNTZxU2lVZnEwNWY0SVpJWm5UZ3llRl9xT2JvRGlkVkVqSk5ZOTFBaU9keTc4cER1MjFrT1VlS256SVRUQW1aTVh3NXN2VEpOd0tlcndJ?oc=5",
@@ -332,21 +373,6 @@
       "APAC"
      ],
      "also": []
-    },
-    {
-     "title": "AI is changing the cyber threat landscape. Is India ready?",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWW9RTzJXNzE5ZlhBdkQwc2RiWEp3cVZYN2RMYUR4ZUUzMUpIY1NTRWppQjlCMDJOZGpZS3A5dHZmZC1FbjRnNS1HdTZLSzhmZDVOMFBWY2sybUc4WHNPdzFobXVqY0hBbW5ubHZIb0tXVzFNOExnQ29ZX2pWbkZoT1AxdkRkLW5lYWJrRzBXZ1hCNGlFbVM3cHA1d2tyS0tyTW1nWVhJMHc1bFFhU1ptMnJvbVZkeDTSAbcBQVVfeXFMTVlvUU8yVzcxOWZYQXZEMHNkYlhKd3FWWDdkTGFEeGVFMzFKSGNTU0VqaUI5QjAyTmRqWUtwOXR2ZmQtRW40ZzUtR3U2S0s4ZmQ1TjBQVmNrMm1HOFhzT3cxaG11amNIQW1ubmx2SG9LV1cxTThMZ0NvWV9qVm5GaE9QMXZEZC1uZWFia0cwV2dYQjRpRW1TN3BwNXdrcktLck1tZ1lYSTB3NWxRYVNabTJyb21WZHg0?oc=5",
-     "source": "Deccan Herald",
-     "published": "2026-10-24T19:27:53+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "AI",
-      "APAC"
-     ],
-     "also": []
     }
    ]
   },
@@ -354,7 +380,7 @@
    "name": "Threat Research",
    "stories": [
     {
-     "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 23)",
+     "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 25)",
      "subtitle": "",
      "link": "https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/",
      "source": "Unit 42",
