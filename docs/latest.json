@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T00:28:08+00:00",
+ "generated": "2026-10-26T06:25:22+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -158,16 +158,16 @@
      "also": []
     },
     {
-     "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
+     "title": "PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity",
      "subtitle": "",
      "link": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
      "source": "The Hacker News",
      "published": "2026-10-25T17:19:46+00:00",
      "date_only": false,
-     "summary": "Threat actors have been observed using agentic artificial intelligence (AI) platforms for post-exploitation activity following the abuse of the PHP2Shell vulnerabilities tracked as CVE-2026-109618 and CVE-2026-109619. \"In one case, the…",
+     "summary": "In an update, Palo Alto Networks Unit 42 said it's retracting its earlier assessment that the post-compromise activity targeting the European government agency involved the exploitation of the PHP2Shell flaws. \"What researchers saw was an…",
      "extra": "",
      "tags": [
-      "AI"
+      "APAC"
      ],
      "also": []
     },
@@ -220,16 +220,102 @@
    "name": "APAC Watch",
    "stories": [
     {
-     "title": "Chinese AI Tool Linked to Hacks in Japan",
+     "title": "Cyber Alert: Today’s Biggest Cyber Crime Stories Shaking India – 26th October",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPXzI3bFVJdEgwYUUwTWxUY2UyZlVFYmI3QlBWU3BMMG1hWjhHZVQ1UHZFaUlBdGwwc2pPdXJxYTgtWVlxdXh1QktTOW55dW9QU2ZZYldSNGM2WklORTNpZWJBZ2NMZEQ5cE9aSl9SaHBnTmpDZ0VmdkJVSkt6OFJSZzZWa0NkLVU?oc=5",
-     "source": "WSJ",
-     "published": "2026-10-26T00:02:11+00:00",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNci1tVkxlRk9KQ1NFaXdibGRiR2hYSm4xSzc2LXJGV0RSdkJHM2VwOUlaSmlOeFIzc2dDNHVmTmJrU04wU2tiNHlqZWNXTHE0LV9CaUtKTEEyTWhRd3ZVVjRhNi1WanRyME9GTFN5M1lFWUhPdnBWVnhNeE9uOTFQZ3huaVVPMFN1akM5LXUzak4?oc=5",
+     "source": "The420.in",
+     "published": "2026-10-26T04:50:26+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
      "tags": [
-      "AI",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Cyberattack Rocks Japan: GMO to Pay Compensation as Shares Plummet Nearly 14 Percent",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbnZIVkNsUTJhRXFUM1lpQk42cEN2TF9VOEU1cFNwR3poUkstdFhRbHVyWWlScElLTVhvUTNyNTV6LWZpMDNCdnZOOHk4LWduRFMzcFJVdDFPLTU4TlpYSUFYNkZLM043bnhXMFRkbDVsQjRzQlhXM2xHeTVYcDBHclhwRFVyLU00OUw1ejNwcXlZdGxxQ085UkxNWWlidllPRmpSaEtBQnN5T2dfc3lSb24yQnJDRm5zWlE?oc=5",
+     "source": "Aktualita.co",
+     "published": "2026-10-26T04:36:25+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Japanese companies compensate users as cyberattacks buffet economy",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNDQwVmRvUnU5MkNpalZSLW05Y2JocVMzLUpmNTRwbGJabnZtalk4Y1d6QjlxUFpUSjltcmtqNkVXRElWd19nVUVweGpkZzhRTFAwUkozd2w1U3VJQUtpV1pXQzlldFl5ZGVWalNTQzJVSHlCMmVoOUlJb0VlNVRWYjlrS0ZCYUtCSEJlRU1nc25Gd2pOTUpZZEg2NE1NZEFZQWR0R0trb1F1S2lPSVBaRlVpNFkzUWFPUTBIM0tmQnRHSS1vNFhhdzVEWFYta0E4VlHSAdcBQVVfeXFMT2NxTjU4X1N3YUYwR3UzRU5JOHBXOXdkNE9fcWt3ZlhwdWR3Sl9TZ0w4YWwtZ1g0NV84eTZxS0pTaDA3b2lkSk13REN3T0JNQXNKX2VZTk9IVDgwUWt3QmlHZ2R5TGpiMzhlRUc3UjVKajBycGQ4Mnp2eUpvTW8wSHlyd1BLeHhTT09Td1F3Zi1TeDd2Q3k1d1otazdWb0NFUVFzTHZMblVNM0l4ZFQ5WnlTR0RpQmFvWXR3cDltN3I3OGlWWDFUb3NDdUY1WDY0STlzOWF4RXc?oc=5",
+     "source": "The Economic Times",
+     "published": "2026-10-26T04:06:23+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": [
+      "The Straits Times",
+      "Reuters"
+     ]
+    },
+    {
+     "title": "Japan Government to Hold Ministerial Meeting on Cyberattack Response Tonight; PM Takaichi to Order Emergency Measures",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QOUZvLVZJc213ekNkY045eFlQRGdOay1WTHlyczBWZUxxaDRpTFhCMWhzbmozQ1BxMTFBYjVfVUV5MGQtWDBDUHVQQ0ppYlQtZzcweFdReGNGZ3NnMFNjNWdpdS03b1JWX3JUSDF2U3NCMkw4NXc?oc=5",
+     "source": "BigGo Finance",
+     "published": "2026-10-26T03:55:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Cyberattacks Surge in Japan as Companies Begin Paying Victims",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBXYk1rTDlpb0ZZd2xNM1dnYjhmb29CV2otcnZuaDgtM0pEbUZucE1IWUlpNGlPRkdJZFZSRjZ0czhEV0ZFVmd5bWhGaUN1SVE1M1h3YTRMZ2JmblMxTGx5cjh6eGJkXzU0YmRLU0I2NnpydmxJS0tRa3ZkY3pYUQ?oc=5",
+     "source": "The420.in",
+     "published": "2026-10-26T03:41:08+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Japan companies to compensate customers after major cyberattacks",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTmFfWXlaaGdEbUd1TGdqeTFZeWRPYUZfU3ZndktYOEhXR0ROQkNuSm5lWjdLaDY5bXE5NTBrWWtncjR6VHN4QlQ3eFM1V1A1enlPZ2xXbndJbTRtM09IM3V4bU9FSkhqWkY5SjZDUl9kcmt4NnJfZkRQbFlUWlp1MFRZdFVtb1RMWElXdFRMdFdxb1huM1lPT2NGaXQzTkN3aHc0VUtPWG9IM1ppTlhWdUxnTXdFRUFQR2fSAboBQVVfeXFMUHN2ZXZOMEg1amx4NGZBUXdmZEpoMVp3ZnFQQU9rb215ZEV2UXhRS0M2WVNpTXJySm8yeUxQT2w4a0dkc0dGUGVBRGNmNjdGaTZjRzVyVUlWM3hrZGlhUVhZb0xVa09pcDdWT3UyRURQMkJEanRZUzVtc2MzM20wSDlVeUpTVEJKUDRhY0hkLTEtbUxUUjlFQ0lRcEpjYy1NczlLTGZhaFhwSFpHdFdUVi1WS1A1LVExOVJR?oc=5",
+     "source": "South China Morning Post",
+     "published": "2026-10-26T02:37:04+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "French Supermarket Chain Cyberattack Raises Alarm Over Cold Chain Security Risks In Asia-Pacific",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOejZvcC15elZKNE04T2VhaE1WVkhtd054RkhoaHprWGs2bnBZdUR1d2daOU5WdDdoOWhMZ2VHaWRQeXUxUFBfX0pMY1Bwc2FGZVdkVlhuM0hVWFNTNjZwTTd4NEJrYTZ2WERuOXdKSUU3MEN2X0RiTHFDOEE1eGh4YnVJR2J3aW5kQzFFMTUxcVI1U0ZROVFNNFBOR1ZUM3VLd2gzYWlsRC02c05YZWdyNnU1Q1RjckpJbjhlR3J2cnhic2ktVzJKN2lFYUtlVm42bTJYaGVDV3I?oc=5",
+     "source": "BusinessToday Malaysia",
+     "published": "2026-10-26T02:28:59+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
       "APAC"
      ],
      "also": []
@@ -249,21 +335,6 @@
      "also": []
     },
     {
-     "title": "Japan Forms AI Cyber Unit as PHP Flaws Disrupt Transport and Banks",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNN2RXLVQ0QW9TelRieHUxSklqRHZtRmpiVk1jeTZXaW50bUpzTXJTZHVXRFFrUVRac01OMjhzaFU5RWRFX2pnMGJrY2h2cWRudEFlM1Y4d09xSlFwUW82czhyQjFtdjdsTDQ1dVNtdDRBeXhYTFoxUWxDclpWdzh6MGlITnh2clNKa0VXdzN3cEdRM2dUalNDRXlB?oc=5",
-     "source": "Retail News Asia",
-     "published": "2026-10-25T18:32:58+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "AI",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
      "title": "The Internet Is Breaking Down, Says Japan's GMO Internet Group CEO After Hackers Hijack Its Cloud Servers To Run Unauthorized FX Trades",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZFdpN3otMW42M1EtbDJFbURWS3BOdFpIN213NlNNUHVOX2Q2dmd6VDV0WFB6dWpiV3VVbDd1RTZDRFpEdklNa2FaOUdwUlVYeUF6ZXNKY21mT245emNXYjR3cS1qLWprZzh1YS1GaWZaOE5kZHNraTJpNzNXaUFoWkhsUGJXNUtOTnQ2di1QQTNVRzF5NHJLQU5KZWZvQkdMOEVUdlp0bHNiZ0p4ZzJGWjNjaEJjSWw3R3hObHpBYTZoZ0hHZmJ5REZzT1p3N3ZfdHppVGdaRU1Za3ZEczdzNlh4Sm9oNFNza0xmSzU2aXFJV1oxUTVlMA?oc=5",
@@ -273,103 +344,6 @@
      "summary": "",
      "extra": "",
      "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Central Bank of India Fraud: Was the RBI’s Payment Backbone Breached?",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMV9aZlVrNnBYb2xCVFBvWWVDcXgzd09oVFRMRDVpdld3TlAwZURMSmpJbngwX2pMLWg1OTA4bHBjVVZCcTRkN0lZUllONVF1Q2kyQUtKM0pfTjY1ZFN5SWlfX1o0Wk5ISG8tODZhc000TWdGWDV1TDdGMmVoclJMc1RoUTd4RzjSAYcBQVVfeXFMTTFfWmZVazZwWG9sQlRQb1llQ3F4M3dPaFRUTEQ1aXZXd05QMGVETEpqSW54MF9qTC1oNTkwOGxwY1VWQnE0ZDdJWVJZTjVRdUNpMkFLSjNKX042NWRTeUlpX19aNFpOSEhvLTg2YXNNNE1nRlg1dUw3RjJlaHJSTHNUaFE3eEc4?oc=5",
-     "source": "The Probe",
-     "published": "2026-10-25T16:59:59+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Hacking Attempts on Korean Agri-Food Agencies Near 40 Million",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQS2xSdC1EUnBEMVAzZVdIbXBxYVhJaVIwMGRJTGtiaWtMY2tvdGplWWFOd3Z6RDFQVVp5Ym5tc0YtTWxVN3ZqNEpmbkFlWmtTZ0E1NU91bUhrRzZsbUxIMGtCUUlnRWlTNjJoYW9CQS1reHFSNzQ0RzJBdTgwSVpYNnFad04zZWJkYVA3elpqVlcyMGdhLXRKYkpUZUY?oc=5",
-     "source": "Seoul Economic Daily",
-     "published": "2026-10-25T13:20:20+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Cyber Alert: Today’s Biggest Cyber Crime Stories Shaking India – 25th October",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOM25saEdlVGRnX1FlSFprbl9YUWtuSVU0V0xWN2tPWktCVDVOSUxabHdCeWNMUDNDTGQ1bWhybGUtQ1cyTTdteDRnTm9NTHVRZy1JcjFmUFhoZDlRaWV3c2hrdGJYSXo0YkxMamRQQ0dSZ3pIZkthaEg4dkVwalZLWW15Zzh6eklGcXc?oc=5",
-     "source": "The420.in",
-     "published": "2026-10-25T12:10:58+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Hackers leak GiftiL refund applicants’ data in South Korea - CHOSUNBIZ",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB3NzVmZ2tqYUxPcXEyYmlNbl9nclVrcXBENlFyV2tMMjVQWTZBVUhWMGFtd0lFbFh0b3dpSUpmRHNKcnlycmxKTTV5UjBsdUNUNzBMeFhJNWtWVlJJak5aUmNPTGx5c2hCSi1IdV9qampkWEZoN29kV1FKX1pOZDTSAZMBQVVfeXFMUEZBZU9qX25hbHhQTUxndlJzOU5DVjRQZnVyaFFkajlzdUxVclB6M20xdGJiZUpHbWtFVi00M0tBMG1GaXdjbjdYNDB1MGVMV1lIZm00enNGRVJnWEM4dE9wQ3JuTm1LTVlaU2FnbU9tV3JXTy1NdGFtWldieEQ2ajl6QlpsQnFZb1lSNjFNQnFIOHVn?oc=5",
-     "source": "Chosunbiz",
-     "published": "2026-10-25T04:42:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "“Lost 20 million won in just 84 seconds”: Japanese company hit by hackers sends SOS to government",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB3bFJLb3gwUkhUZ3g5Zmxrd1lDQVJaNW1xTnQ0TVdlZlV3TlNYR252N2lkbm1Nd1JuSzg0OG5jeFplTXZhdEZ6TkJYT19hUTI1U0xPRERQLS0?oc=5",
-     "source": "파이낸셜뉴스",
-     "published": "2026-10-25T02:23:42+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "AhnLab Participates in Japan's Largest Cybersecurity Exhibition… Full-Scale Market Push Begins",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9iZWVfS21IZHpjMWpJNzZ1NUliZ1hZNTZxU2lVZnEwNWY0SVpJWm5UZ3llRl9xT2JvRGlkVkVqSk5ZOTFBaU9keTc4cER1MjFrT1VlS256SVRUQW1aTVh3NXN2VEpOd0tlcndJ?oc=5",
-     "source": "머니투데이",
-     "published": "2026-10-25T01:45:44+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Over Half of Ransomware Cases in Korea Suspended, No Arrests This Year",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMkVzMFU5b2R2QWEwVlMwU0xTZDFnd1gtYVU4cFZibXNFTExzT0lndXJrNVJadGFoQ3k5RGgtcG9JZUJ3TmdsTm5oUlVKMHYtU1pUYnNFZGFZckNybjRKcmFUZGRmVlFWNGhsbk84ZGdxUVpmWVp4VUE0ZDRLaG1VN1JUMkU5VW9rTDZ5d3Vnd1hFdWt1dHF6bTNiaWkzZkNwemdN?oc=5",
-     "source": "Seoul Economic Daily",
-     "published": "2026-10-25T01:44:26+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Ransomware",
       "APAC"
      ],
      "also": []
@@ -585,35 +559,11 @@
    "name": "Government Advisories",
    "stories": [
     {
-     "title": "Critical vulnerabilities in Fortinet products",
+     "title": "Aruba Products Multiple Vulnerabilities",
      "subtitle": "",
-     "link": "https://www.cyber.gov.au/alert/critical-vulnerabilities-in-fortinet-products",
-     "source": "ACSC Australia",
-     "published": "2026-10-23T05:11:47+00:00",
-     "date_only": false,
-     "summary": "Fortinet have announced critical vulnerabilities in Fortinet products, and are releasing security updates which customers should implement as a priority.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Fortinet Products Multiple Vulnerabilities",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20261023",
+     "link": "https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20261026",
      "source": "HKCERT",
-     "published": "2026-10-23T01:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "ISC BIND Multiple Vulnerabilities",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/isc-bind-multiple-vulnerabilities_20261023",
-     "source": "HKCERT",
-     "published": "2026-10-23T01:00:00+00:00",
+     "published": "2026-10-26T03:00:00+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
