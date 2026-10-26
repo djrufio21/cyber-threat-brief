@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T06:25:22+00:00",
+ "generated": "2026-10-26T14:23:54+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -146,6 +146,222 @@
    "name": "Breaking Threats",
    "stories": [
     {
+     "title": "When an AI Agent Is the Incident, the Identity Record Is the Evidence",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/",
+     "source": "BleepingComputer",
+     "published": "2026-10-26T14:00:10+00:00",
+     "date_only": false,
+     "summary": "A new NIST, CISA, and NSA guide treats runaway agents as incidents to be rehearsed. The hard part of the response is answering whose authority the agent used, and that answer has to exist before the incident does. [...]",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "10 Software Security Practices Built for the Next 250 Years",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/cyberattacks-data-breaches/10-software-security-practices-built-250-years",
+     "source": "Dark Reading",
+     "published": "2026-10-26T14:00:00+00:00",
+     "date_only": false,
+     "summary": "This Cybersecurity Awareness Month's theme, \"Securing the Next 250,\" asks us to look beyond vulnerabilities and consider what will make our digital systems resilient for generations.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Chinese man extradited for role in $36 million cryptocurrency scam",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam/",
+     "source": "BleepingComputer",
+     "published": "2026-10-26T13:56:44+00:00",
+     "date_only": false,
+     "summary": "A Chinese national was arraigned in California after being extradited from the Netherlands for his alleged involvement in a cryptocurrency investment scam that stole nearly $37 million from 174 victims in the United States. [...]",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "PHP2Shell Exploitation Moves From Probes to Working Shells",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/php2shell-exploitation-moves-from-probes-to-working-shells/",
+     "source": "SecurityWeek",
+     "published": "2026-10-26T13:30:10+00:00",
+     "date_only": false,
+     "summary": "Attackers successfully exploited the PHP2Shell flaws against honeypots, launching 35 shells from two IP addresses on October 24. The post PHP2Shell Exploitation Moves From Probes to Working Shells appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "953 Online Stores Infected in Long-Lasting Malware Campaign",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/953-online-stores-infected-in-long-lasting-malware-campaign/",
+     "source": "SecurityWeek",
+     "published": "2026-10-26T12:46:44+00:00",
+     "date_only": false,
+     "summary": "Small loader code injected into the stores served a payload to visitors or did nothing to avoid detection. The post 953 Online Stores Infected in Long-Lasting Malware Campaign appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Popular AI tool LiteLLM says unrevoked key allowed hackers to target users",
+     "subtitle": "",
+     "link": "https://therecord.media/litellm-hackers-ai-malware",
+     "source": "The Record",
+     "published": "2026-10-26T12:00:00+00:00",
+     "date_only": false,
+     "summary": "LiteLLM, an open-source tool widely used by artificial intelligence developers, said a key accidentally exposed in May was behind a supply-chain attack that is believed to have hit tens of thousands of users last week.",
+     "extra": "",
+     "tags": [
+      "Supply chain",
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html",
+     "source": "The Hacker News",
+     "published": "2026-10-26T11:52:41+00:00",
+     "date_only": false,
+     "summary": "Two critical flaws in Wasmtime, a WebAssembly runtime that can be built into other software, could allow a malicious WebAssembly module to escape the sandbox intended to contain it, the project's maintainers say. An attacker would first…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Dutch Police Arrest Two Over NFC Relay Attacks That Drained $400,000+ From Bank Accounts",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/dutch-police-arrest-two-over-nfc-relay-attacks-that-drained-400000/",
+     "source": "SecurityWeek",
+     "published": "2026-10-26T11:47:52+00:00",
+     "date_only": false,
+     "summary": "The individuals called victims and persuaded them to install an app and scan their credit cards to loot their bank accounts. The post Dutch Police Arrest Two Over NFC Relay Attacks That Drained $400,000+ From Bank Accounts appeared first…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html",
+     "source": "The Hacker News",
+     "published": "2026-10-26T11:23:56+00:00",
+     "date_only": false,
+     "summary": "Every SOC struggles with a pile of alerts. Very few of those alerts explain how an attack started or how it progressed. Network data, like that from a network detection and response (NDR) platform, connects individual alerts into one…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Kali Linux 2026.3 released with 6 new tools, desktop updates",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/",
+     "source": "BleepingComputer",
+     "published": "2026-10-26T10:26:52+00:00",
+     "date_only": false,
+     "summary": "Kali Linux has released version 2026.3, its third release this year, featuring six new hacking tools, desktop environment improvements, refreshed build scripts, and more. [...]",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Node2Shell: Brotli Flaw Triggers Patching Across Microsoft, Node.js, Python Packages",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/node2shell-brotli-flaw-triggers-patching-across-microsoft-node-js-python-packages/",
+     "source": "SecurityWeek",
+     "published": "2026-10-26T10:21:57+00:00",
+     "date_only": false,
+     "summary": "An out-of-bounds write in Google’s Brotli decoder affects Node.js, .NET, PowerShell, and Python packages, and can lead to code execution. The post Node2Shell: Brotli Flaw Triggers Patching Across Microsoft, Node.js, Python Packages…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
+     "source": "The Hacker News",
+     "published": "2026-10-26T09:54:02+00:00",
+     "date_only": false,
+     "summary": "A rentable Android spyware kit called uCreator takes over Telegram and WeChat accounts by hiding its code inside working copies of the two apps, researcher Ovi found. It only reaches people who install one of these tampered copies, spread…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
+     "source": "BleepingComputer",
+     "published": "2026-10-26T09:19:57+00:00",
+     "date_only": false,
+     "summary": "Two critical RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619), collectively tracked as PHP2Shell, have been successfully exploited in the wild. [...]",
+     "extra": "",
+     "tags": [
+      "Exploited"
+     ],
+     "also": []
+    },
+    {
+     "title": "Mythos 5 Ignored Real-World Harm in July Attack",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/mythos-5-ignored-real-world-harm-in-july-attack/",
+     "source": "SecurityWeek",
+     "published": "2026-10-26T09:10:03+00:00",
+     "date_only": false,
+     "summary": "The model engaged in severe overreach and dishonesty, creating fake identities and submitting malicious code on GitHub. The post Mythos 5 Ignored Real-World Harm in July Attack appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html",
+     "source": "The Hacker News",
+     "published": "2026-10-26T08:35:51+00:00",
+     "date_only": false,
+     "summary": "Cybersecurity researchers have disclosed a Microsoft 365 campaign that has been observed leveraging an adversary-in-the-middle (AitM) relay to capture sign-in sessions and then replay the stolen tokens to break into email accounts at 79…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
+     "source": "The Hacker News",
+     "published": "2026-10-26T07:49:46+00:00",
+     "date_only": false,
+     "summary": "An automated campaign is using stolen GitHub tokens to plant workflows that print a repository's secrets into its GitHub Actions logs, which the attackers then download before deleting the runs. The attacks have succeeded in private…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
+     "source": "The Hacker News",
+     "published": "2026-10-26T06:03:48+00:00",
+     "date_only": false,
+     "summary": "A malicious instruction file sitting in a developer's Downloads folder tried to make their AI coding agent install a known-malicious npm package, security firm Forever Security said in a report published last week. The company caught the…",
+     "extra": "",
+     "tags": [
+      "Supply chain",
+      "AI"
+     ],
+     "also": [
+      "BleepingComputer"
+     ]
+    },
+    {
      "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
      "subtitle": "",
      "link": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
@@ -170,55 +386,192 @@
       "APAC"
      ],
      "also": []
-    },
-    {
-     "title": "AI coding agents hijacked using AGENTS.md file in Downloads folder",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/ai-coding-agents-hijacked-using-agentsmd-file-in-downloads-folder/",
-     "source": "BleepingComputer",
-     "published": "2026-10-25T15:49:38+00:00",
-     "date_only": false,
-     "summary": "Researchers found a malicious AGENTS markdown instruction file in a customer's Downloads folder that tricked an AI coding agent into installing a rogue npm package. [...]",
-     "extra": "",
-     "tags": [
-      "Supply chain",
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/former-unit-8200-officers-raise-34-million-for-agentic-secops-startup-mave/",
-     "source": "SecurityWeek",
-     "published": "2026-10-25T11:00:00+00:00",
-     "date_only": false,
-     "summary": "Founded in 2025 by Unit 8200 alumni, Tel Aviv-based Mave uses AI agents to investigate alerts across existing security stacks. The post Former Unit 8200 Officers Raise $34 Million for Agentic SecOps Startup Mave appeared first on…",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
-     "source": "The Hacker News",
-     "published": "2026-10-25T06:54:29+00:00",
-     "date_only": false,
-     "summary": "OpenAI has announced plans to conduct frontier model training with no live internet access, as it resumes reinforcement learning (RL) training and internal inference of its most advanced AI models. \"Based on the current state of alignment…",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
     }
    ]
   },
   {
    "name": "APAC Watch",
    "stories": [
+    {
+     "title": "[On-site video] Kim Min-soo: “North Korean hackers’ infiltration of South Korean companies becomes a reality”",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41eWpTQnFJb1l4cmhhM2ZEcDdUcWFTX2xwRi1kVDFvc1YwSzFDT2FfdkIzSTVMUjZyY1F2X09QQnhnZVJSRmJ3Q2hWQV9YTUdYTUlpY0RhYjY?oc=5",
+     "source": "파이낸셜뉴스",
+     "published": "2026-10-26T13:36:02+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Japan’s GMO refuses hackers’ $50 million demand",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE42Z2F0MHAtNmxVNG9FM3N5V29LYXFOUFRzaTZEVjJ0dzJDa1c4d004Y3RleHp3TkxpRFFCd0Fod3llNkgyNVFJQ19seVZpWEp4a3FaZnBoOUFUdVNjdUx0TkhzVlQxb1dxS0RlaUN6S2U3ZmlzZFo0?oc=5",
+     "source": "Cryptopolitan",
+     "published": "2026-10-26T12:52:44+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Japanese company to compensate users hit by cyberattack",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMFpUWXVRX2tFbEI3dEJQVFN4THM3RXJQQTBtc25uWHFZd0Z5dE5GMk9sVHI3R1h3c3V2dDVDU3JVNk91dlMzcDBCNDdQUHFrYkNHU1JnNThzWUxSc1hlOHhwTERLVVFhQTVuN0k5UUQ2cUIyUjY3TDFyOG5fY3dPbnAxZzA?oc=5",
+     "source": "Yahoo News Singapore",
+     "published": "2026-10-26T11:52:50+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Australia’s cyber threat just got worse with AI",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQS05tWmF6MVQzcWxHeEhMamVnQm1vaDYyTy1jUEE5ZURBTHJqRlRZTllPTkVkaWdYRmZGYUxQaXFsQ0MyQllTaW1md2RCcGI5LVhodGhEN2lDS3ZvaWN4ZzJnUzUzVThQc2x2TmRMQ2Rram1vLWc5UDFvcTlKcHRpaEFleEx5T0lzV19uMFVUNk5vMXlZV3lTWHhWRmNFNzRlc2hHZGlRQk44VHVjcENoNDV2OUdoNTl5bVZWZ0VrUV9WdnFFck5Gc3RsbzVxZ2F1WkNaekUyRWlVeE9NTldYYjc4Wm8xVlBvTkZVb3dpcVZxUy1FSG1RdTBEbFNCSWYyQjktdFlB?oc=5",
+     "source": "The Daily Telegraph",
+     "published": "2026-10-26T11:33:22+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "AI",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "INDIA HEALTHCARE (PHARMA) INDUSTRY THREAT LANDSCAPE REPORT 2026",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZUo5LVowdlRjYUNySG9KcHUycUdsQXdDS2NrUlg2QTM3aXJwRDZmRGZCVEtQWnE2WUFxQlB3SHZiZHVibVN4NFdmM3U4NlcxT01DQ0Z1QzY4TV9kWDJEX0xScEV4YUNZR1V5MnhXdk9kMFpvT1FqWGRqQ3lZYzkwVS12R2w0d3JMMDIzdk15Y3E3b0EzYkRQR3NpYw?oc=5",
+     "source": "Cyfirma",
+     "published": "2026-10-26T11:15:11+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "GMO Internet, Japanese Companies Pay Users After Cyberattack",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FQmVtcUJzN0tYQ3JXaTRaU3NfTFBLdEV0RFJfSEdxSF9EblQ4MXRpUVJNQzFoXzhublY2OVF0WFVsdTFSQW9uRy00SjRPNXpRZGFIOXlXWTRBN1VzeWh1VG1DSUZCUTlXY1VzNdIBbEFVX3lxTE9FQmVtcUJzN0tYQ3JXaTRaU3NfTFBLdEV0RFJfSEdxSF9EblQ4MXRpUVJNQzFoXzhublY2OVF0WFVsdTFSQW9uRy00SjRPNXpRZGFIOXlXWTRBN1VzeWh1VG1DSUZCUTlXY1VzNQ?oc=5",
+     "source": "The Cyber Express",
+     "published": "2026-10-26T10:36:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Mega breaches nearly triple as health sector tops Australia’s data breach count",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeGUwZEZhMjVkVzJGelBuVUpyclEtT3FqN1FQaXVFeTk1VEs1SXkxbGloNW9zcGR5clZoSDhrcnIxNFVxYjNNdlNkX3FubXh0N2otNk9GZXB1RXZqMVBlTGtTZFJkWUdHdnpEM1ZVME11R3FGQlZRUl9sRlVmYTBFdThXOWtwTk11N1AyWl9SbEJ6dFBBQURLYkwtZXhiYVgwQ3lWQk5tQ282Q0VwcnMwcTBNU1M5LVJfOVZLQ0l4XzN4M19xMmR0bk9zb1hyUnVCa2ExU2M3TkY?oc=5",
+     "source": "Insurance Business",
+     "published": "2026-10-26T09:49:46+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Central Bank of India alleges hackers siphoned off Rs 13.97 crore through financial messaging system",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbkVzTVBUSWozREpIVF93aFNHd3lnX3YzWjJGaE5BaW80QjJXNXdyU0M3VEJIaDNUVnF3QUtqVnJWUjI4VzRzN0NrT1I4Ry1qcGVPX0xpemVsNzBuMzlsTUhPUnM5bWNFeW5TR3JPTU45Z3d5OVZ4RnBkeHdmcFYxZnRBclMweXRt?oc=5",
+     "source": "MediaNama",
+     "published": "2026-10-26T09:48:32+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Japan weighs cyber defense measures after attack hits GMO",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LU0ZYWmVBbWJSVlpJVU9vbEY3WGJ6c094X3RzRThWUmpSYVM1ZXdwbEFnR0U5QlFrb3lvaFJjUW1teEJWNVlVTWJ2SmplbnVPNEF6bWJB?oc=5",
+     "source": "朝日新聞",
+     "published": "2026-10-26T08:02:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Five Japanese FX Brokers Confirm Hackers Placed Trades After Server Host Breach",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQS1KOTV6UmRqSGNnUnl2TWdzMk14QzBsZVluS1pLZlQ3NVNBT2MtMTk2ZjR5YjVFeTVqd0sydC1tSW13eExlVzBEMFpyQ0piMXd4cW5XNHZ3ell6cTVZdXJ3MkFqcG9mNFVwUnU5cXF5OGw0bklwSFg5MFFEWHpwRTZRSVA1UVdTN25KbmxJV1JRdVVPMEhOazZDRFFEdG1GQVNKZ3VoT2dzbG5ReExLUmhMc3RBWTFHd1FYN0RBZnJlS3Bu?oc=5",
+     "source": "Finance Magnates",
+     "published": "2026-10-26T07:11:47+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": []
+    },
+    {
+     "title": "South Korea's Nol Universe Reports Data Breach Affecting Domestic Hotel Bookings, Employee Records",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01eExHVG1DMHNYT19takRHd1kwVm5UMkE2a0QxamU1Q1hlWXY3THdiTXVGaGhuaXVtZzdiSWxiaGI5ZmJkN1RmaklidVdyaWZYZnlxTkVNbkhGUi1vckhYWFp6WmVaRDl6N1NUSmVIQXlnVnhwbnc?oc=5",
+     "source": "BigGo Finance",
+     "published": "2026-10-26T07:06:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Award-Winning Cyber Security Leader Texial Opens Enterprise-Grade Cyber Warfare, Digital Forensics, and SOC Labs to Train India's Security Workforce",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQc3Bob2xKRGVNZHJSdjZiQTR0Rnp5T25lOHNJa3FxcXU1Z2ZvUHU3SlQ3WnJYYk9Dek5Ia1cyNmRtVmxmQVF4ckM0NzhwVm1ESUpVU2RBamNweWV1WThia0JKZ2cxZmdqa3gtN3c2aGZuN1ptQ2hkTjhNdlBSOFpudzFnQVhvOGtNY19hN0I0Q3E5OGQ2RTdZaExNMkl1eExBdXR0ZGU2ZG1rdy1BOUYtUmRtS1R4UF9EZmtPa2xMYzRFSFRGakR5QnVVM3FRQWwyTk1GYWZuelFUS1F5cWc5R1R3dUtTd3VLaTF5OWMzWlA2MnB1VEhvRlRSemRwTDNjeWxPSnlJYXN6c21VTjVrMXRCTTQ2Tk5zbHJFejdtSTVEVE15dzRlRGhTYTFTVjhwX2ZyelVuTjVQb18wRzVxek9GV2tSZGNFSEZMaDctLS1oRmE3SUdoX194d9IB2wJBVV95cUxQc3Bob2xKRGVNZHJSdjZiQTR0Rnp5T25lOHNJa3FxcXU1Z2ZvUHU3SlQ3WnJYYk9Dek5Ia1cyNmRtVmxmQVF4ckM0NzhwVm1ESUpVU2RBamNweWV1WThia0JKZ2cxZmdqa3gtN3c2aGZuN1ptQ2hkTjhNdlBSOFpudzFnQVhvOGtNY19hN0I0Q3E5OGQ2RTdZaExNMkl1eExBdXR0ZGU2ZG1rdy1BOUYtUmRtS1R4UF9EZmtPa2xMYzRFSFRGakR5QnVVM3FRQWwyTk1GYWZuelFUS1F5cWc5R1R3dUtTd3VLaTF5OWMzWlA2MnB1VEhvRlRSemRwTDNjeWxPSnlJYXN6c21VTjVrMXRCTTQ2Tk5zbHJFejdtSTVEVE15dzRlRGhTYTFTVjhwX2ZyelVuTjVQb18wRzVxek9GV2tSZGNFSEZMaDctLS1oRmE3SUdoX194dw?oc=5",
+     "source": "Business Standard",
+     "published": "2026-10-26T06:30:07+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "India's Film Sensor Board Data Breach - Unreleased Scripts, 500+ Film Titles Exposed",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8zLWx4S0VpZzFsS0pta2dQMVIxekhodVloR2RhQ29UU1p4cE1DdVFuc3NVWktibkNCcWdFZUJXekRBUDZMS0N0WWYxaGpXYkp1S0ZoMFBaUmJzb0tYWW5icnFXWFZGYW9IVDloSl9XbGc0emZIWnfSAXtBVV95cUxPTG9PR1BzZGRuVVk5TDhmTXhNM2ZwM2lRbnUwNi01bGF1WlQ0cE1Kd0N0RDZGZWJwNjlGb1QyaG9tMWhFQUxwZnN1SjBHaGc3M3UtdEVDX1hxRGYxRkVYY3o5ZERZV3d3c3FUSnhjLXVISklpTFE2RjBadkU?oc=5",
+     "source": "CyberSecurityNews",
+     "published": "2026-10-26T06:17:06+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
     {
      "title": "Cyber Alert: Today’s Biggest Cyber Crime Stories Shaking India – 26th October",
      "subtitle": "",
@@ -239,107 +592,6 @@
      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbnZIVkNsUTJhRXFUM1lpQk42cEN2TF9VOEU1cFNwR3poUkstdFhRbHVyWWlScElLTVhvUTNyNTV6LWZpMDNCdnZOOHk4LWduRFMzcFJVdDFPLTU4TlpYSUFYNkZLM043bnhXMFRkbDVsQjRzQlhXM2xHeTVYcDBHclhwRFVyLU00OUw1ejNwcXlZdGxxQ085UkxNWWlidllPRmpSaEtBQnN5T2dfc3lSb24yQnJDRm5zWlE?oc=5",
      "source": "Aktualita.co",
      "published": "2026-10-26T04:36:25+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Japanese companies compensate users as cyberattacks buffet economy",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNDQwVmRvUnU5MkNpalZSLW05Y2JocVMzLUpmNTRwbGJabnZtalk4Y1d6QjlxUFpUSjltcmtqNkVXRElWd19nVUVweGpkZzhRTFAwUkozd2w1U3VJQUtpV1pXQzlldFl5ZGVWalNTQzJVSHlCMmVoOUlJb0VlNVRWYjlrS0ZCYUtCSEJlRU1nc25Gd2pOTUpZZEg2NE1NZEFZQWR0R0trb1F1S2lPSVBaRlVpNFkzUWFPUTBIM0tmQnRHSS1vNFhhdzVEWFYta0E4VlHSAdcBQVVfeXFMT2NxTjU4X1N3YUYwR3UzRU5JOHBXOXdkNE9fcWt3ZlhwdWR3Sl9TZ0w4YWwtZ1g0NV84eTZxS0pTaDA3b2lkSk13REN3T0JNQXNKX2VZTk9IVDgwUWt3QmlHZ2R5TGpiMzhlRUc3UjVKajBycGQ4Mnp2eUpvTW8wSHlyd1BLeHhTT09Td1F3Zi1TeDd2Q3k1d1otazdWb0NFUVFzTHZMblVNM0l4ZFQ5WnlTR0RpQmFvWXR3cDltN3I3OGlWWDFUb3NDdUY1WDY0STlzOWF4RXc?oc=5",
-     "source": "The Economic Times",
-     "published": "2026-10-26T04:06:23+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": [
-      "The Straits Times",
-      "Reuters"
-     ]
-    },
-    {
-     "title": "Japan Government to Hold Ministerial Meeting on Cyberattack Response Tonight; PM Takaichi to Order Emergency Measures",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QOUZvLVZJc213ekNkY045eFlQRGdOay1WTHlyczBWZUxxaDRpTFhCMWhzbmozQ1BxMTFBYjVfVUV5MGQtWDBDUHVQQ0ppYlQtZzcweFdReGNGZ3NnMFNjNWdpdS03b1JWX3JUSDF2U3NCMkw4NXc?oc=5",
-     "source": "BigGo Finance",
-     "published": "2026-10-26T03:55:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Cyberattacks Surge in Japan as Companies Begin Paying Victims",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBXYk1rTDlpb0ZZd2xNM1dnYjhmb29CV2otcnZuaDgtM0pEbUZucE1IWUlpNGlPRkdJZFZSRjZ0czhEV0ZFVmd5bWhGaUN1SVE1M1h3YTRMZ2JmblMxTGx5cjh6eGJkXzU0YmRLU0I2NnpydmxJS0tRa3ZkY3pYUQ?oc=5",
-     "source": "The420.in",
-     "published": "2026-10-26T03:41:08+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Japan companies to compensate customers after major cyberattacks",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTmFfWXlaaGdEbUd1TGdqeTFZeWRPYUZfU3ZndktYOEhXR0ROQkNuSm5lWjdLaDY5bXE5NTBrWWtncjR6VHN4QlQ3eFM1V1A1enlPZ2xXbndJbTRtM09IM3V4bU9FSkhqWkY5SjZDUl9kcmt4NnJfZkRQbFlUWlp1MFRZdFVtb1RMWElXdFRMdFdxb1huM1lPT2NGaXQzTkN3aHc0VUtPWG9IM1ppTlhWdUxnTXdFRUFQR2fSAboBQVVfeXFMUHN2ZXZOMEg1amx4NGZBUXdmZEpoMVp3ZnFQQU9rb215ZEV2UXhRS0M2WVNpTXJySm8yeUxQT2w4a0dkc0dGUGVBRGNmNjdGaTZjRzVyVUlWM3hrZGlhUVhZb0xVa09pcDdWT3UyRURQMkJEanRZUzVtc2MzM20wSDlVeUpTVEJKUDRhY0hkLTEtbUxUUjlFQ0lRcEpjYy1NczlLTGZhaFhwSFpHdFdUVi1WS1A1LVExOVJR?oc=5",
-     "source": "South China Morning Post",
-     "published": "2026-10-26T02:37:04+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "French Supermarket Chain Cyberattack Raises Alarm Over Cold Chain Security Risks In Asia-Pacific",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOejZvcC15elZKNE04T2VhaE1WVkhtd054RkhoaHprWGs2bnBZdUR1d2daOU5WdDdoOWhMZ2VHaWRQeXUxUFBfX0pMY1Bwc2FGZVdkVlhuM0hVWFNTNjZwTTd4NEJrYTZ2WERuOXdKSUU3MEN2X0RiTHFDOEE1eGh4YnVJR2J3aW5kQzFFMTUxcVI1U0ZROVFNNFBOR1ZUM3VLd2gzYWlsRC02c05YZWdyNnU1Q1RjckpJbjhlR3J2cnhic2ktVzJKN2lFYUtlVm42bTJYaGVDV3I?oc=5",
-     "source": "BusinessToday Malaysia",
-     "published": "2026-10-26T02:28:59+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Japan to simulate cyberattacks as PHP flaws roil global internet",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUjNKUVJFaWpHTEdNOVRRSy1XOHNxX0hta1VHT3JNWkZHU0l4ckZGNWU0R2FsZU9aZG5qRlAxTUg4RGlVNTF4V1dFYTdtTnU1d1VGQ0FUb0NOQU45ZjNxMHZzd3NvbHlNbEFsVGcxdnZfZ2h2bFpqbGp4SERiRnlqbjBwQ3JodlIxNWtKVWhPR1Q0Ykx3TjZabnlfd1Q3V2pWVnZB?oc=5",
-     "source": "The Express Tribune",
-     "published": "2026-10-25T19:03:57+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "The Internet Is Breaking Down, Says Japan's GMO Internet Group CEO After Hackers Hijack Its Cloud Servers To Run Unauthorized FX Trades",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOZFdpN3otMW42M1EtbDJFbURWS3BOdFpIN213NlNNUHVOX2Q2dmd6VDV0WFB6dWpiV3VVbDd1RTZDRFpEdklNa2FaOUdwUlVYeUF6ZXNKY21mT245emNXYjR3cS1qLWprZzh1YS1GaWZaOE5kZHNraTJpNzNXaUFoWkhsUGJXNUtOTnQ2di1QQTNVRzF5NHJLQU5KZWZvQkdMOEVUdlp0bHNiZ0p4ZzJGWjNjaEJjSWw3R3hObHpBYTZoZ0hHZmJ5REZzT1p3N3ZfdHppVGdaRU1Za3ZEczdzNlh4Sm9oNFNza0xmSzU2aXFJV1oxUTVlMA?oc=5",
-     "source": "OfficeChai",
-     "published": "2026-10-25T17:36:20+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
