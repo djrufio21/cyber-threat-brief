@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T14:23:54+00:00",
+ "generated": "2026-10-26T20:36:38+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -146,6 +146,211 @@
    "name": "Breaking Threats",
    "stories": [
     {
+     "title": "Anthropic Files for Potentially the Biggest IPO Ever as CEO Warns of Risk to Humanity From AI",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/anthropic-files-for-potentially-the-biggest-ipo-ever-as-ceo-warns-of-risk-to-humanity-from-ai/",
+     "source": "SecurityWeek",
+     "published": "2026-10-26T20:20:56+00:00",
+     "date_only": false,
+     "summary": "A string of hacking incidents by rogue AI agents also has raised fears the technology will slip free of human control to carry out harmful, life-threatening tasks. The post Anthropic Files for Potentially the Biggest IPO Ever as CEO Warns…",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "DreamHost forces password resets in ongoing \"incident\"",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/dreamhost-forces-email-ftp-sftp-password-resets-in-ongoing-incident/",
+     "source": "BleepingComputer",
+     "published": "2026-10-26T19:26:20+00:00",
+     "date_only": false,
+     "summary": "DreamHost has forced password resets for email and FTP/SFTP users following an incident that disrupted connections to the File Manager interface. [...]",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html",
+     "source": "The Hacker News",
+     "published": "2026-10-26T18:12:22+00:00",
+     "date_only": false,
+     "summary": "An unknown threat actor has infected 953 online stores, most of them running Magento, as part of a long-running campaign active since July 2025. According to Dutch e-commerce security company Sansec, the activity is designed to add a small…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "'Gheist' Weaponizes GitHub Tokens to Steal Cloud Secrets",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/cyberattacks-data-breaches/gheist-stolen-github-tokens-cloud-secrets",
+     "source": "Dark Reading",
+     "published": "2026-10-26T18:01:40+00:00",
+     "date_only": false,
+     "summary": "An ongoing supply chain attack is harvesting credentials and sensitive data from thousands of developer repositories.",
+     "extra": "",
+     "tags": [
+      "Supply chain"
+     ],
+     "also": [
+      "The Hacker News"
+     ]
+    },
+    {
+     "title": "PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/php-issues-second-windows-security.html",
+     "source": "The Hacker News",
+     "published": "2026-10-26T17:45:57+00:00",
+     "date_only": false,
+     "summary": "PHP has rebuilt its official Windows packages for PHP 8.2 through 8.5 to fix CVE-2026-111497, a flaw in the Brotli compression library that the packages include. The flaw can let an attacker corrupt memory and potentially run code. PHP…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Serbian autocrat loses election following widespread reports of digital repression",
+     "subtitle": "",
+     "link": "https://therecord.media/serbia-election-spyware-vucic",
+     "source": "The Record",
+     "published": "2026-10-26T17:30:00+00:00",
+     "date_only": false,
+     "summary": "Serbian strongman leader Aleksandar Vučić on Sunday admitted defeat in his race for prime minister, a loss that follows a series of incidents of digital repression that galvanized the opposition.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Ukraine disputes Musk's claims of Starlink misuse as military connectivity restored",
+     "subtitle": "",
+     "link": "https://therecord.media/ukraine-disputes-musk-claims-of-starlink-misuse",
+     "source": "The Record",
+     "published": "2026-10-26T16:40:00+00:00",
+     "date_only": false,
+     "summary": "Ukrainian Defense Minister Yevhen Khmara said Saturday that Starlink and Starshield connectivity had been restored.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Dutch police extradite Chinese national accused of laundering Cambodian investment scam funds",
+     "subtitle": "",
+     "link": "https://therecord.media/dutch-police-extradite-chinese-national-money-laundering-scams",
+     "source": "The Record",
+     "published": "2026-10-26T16:37:00+00:00",
+     "date_only": false,
+     "summary": "44-year-old Zheng Zhao was allegedly a key money-launderer working with a group of scammers who called U.S.-based victims and urged them to invest in fictitious businesses.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Critical 'HTTP2Shell' Brotli vulnerability triggers emergency patches",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/critical-http2shell-brotli-vulnerability-triggers-emergency-patches/",
+     "source": "BleepingComputer",
+     "published": "2026-10-26T16:27:57+00:00",
+     "date_only": false,
+     "summary": "A critical flaw dubbed 'HTTP2Shell' in Brotli, the C decoder library built into Node.js, could allow attackers to corrupt memory and access sensitive data. [...]",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html",
+     "source": "The Hacker News",
+     "published": "2026-10-26T15:52:40+00:00",
+     "date_only": false,
+     "summary": "Cybersecurity researchers are calling attention to what they say is a \"recurring social engineering pattern\" across hundreds of cases in which threat actors use Microsoft Teams' external chat creation feature to conduct impersonation scams…",
+     "extra": "",
+     "tags": [
+      "Ransomware"
+     ],
+     "also": []
+    },
+    {
+     "title": "Microsoft releases emergency .NET patches for critical Brotli flaw",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-net-patches-for-critical-brotli-flaw/",
+     "source": "BleepingComputer",
+     "published": "2026-10-26T15:38:24+00:00",
+     "date_only": false,
+     "summary": "Microsoft released emergency .NET security updates to patch a critical vulnerability known as Broccoli2Shell, also tracked as Node2Shell and HTTP2Shell. [...]",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Industrial Vendors Check Products for PHP2Shell Vulnerabilities",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/industrial-vendors-check-products-for-php2shell-vulnerabilities/",
+     "source": "SecurityWeek",
+     "published": "2026-10-26T14:52:14+00:00",
+     "date_only": false,
+     "summary": "Siemens, Schneider Electric, ABB and others have confirmed that some of their products are affected by the PHP2Shell vulnerabilities. The post Industrial Vendors Check Products for PHP2Shell Vulnerabilities appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Genesys Hack Exposes Customer Data From Internal Systems",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/genesys-hack-exposes-customer-data-from-internal-systems/",
+     "source": "SecurityWeek",
+     "published": "2026-10-26T14:40:48+00:00",
+     "date_only": false,
+     "summary": "The Genesys Cloud, Genesys Engage, and Genesys Engage Cloud platforms were not affected. The post Genesys Hack Exposes Customer Data From Internal Systems appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Stolen AI Reasoning Could Help China Build Cheaper Rivals",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/stolen-ai-reasoning-could-help-china-build-cheaper-rivals/",
+     "source": "SecurityWeek",
+     "published": "2026-10-26T14:30:09+00:00",
+     "date_only": false,
+     "summary": "Xint says a flaw in OpenAI’s compaction process let researchers move reasoning traces between models, potentially making it cheaper to distill a rival AI. The post Stolen AI Reasoning Could Help China Build Cheaper Rivals appeared first on…",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "Ukraine warns hackers are exploiting Chinese-made Dahua surveillance cameras",
+     "subtitle": "",
+     "link": "https://therecord.media/ukraine-cert-ua-warning-chinese-dahua-cameras-hacked",
+     "source": "The Record",
+     "published": "2026-10-26T14:21:00+00:00",
+     "date_only": false,
+     "summary": "CERT-UA says it has identified cases in which hackers compromised Dahua internet-connected cameras and video recorders, changed their settings and created unauthorized user accounts.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html",
+     "source": "The Hacker News",
+     "published": "2026-10-26T14:06:13+00:00",
+     "date_only": false,
+     "summary": "This2Shell, That2Shell, Everything2Shell. That's pretty much how the last week went. Critical bugs that let attackers run code remotely are showing up everywhere. Hackers are scanning for targets, some flaws are already being used in…",
+     "extra": "",
+     "tags": [
+      "Supply chain",
+      "AI"
+     ],
+     "also": []
+    },
+    {
      "title": "When an AI Agent Is the Incident, the Identity Record Is the Evidence",
      "subtitle": "",
      "link": "https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/",
@@ -257,141 +462,83 @@
      "extra": "",
      "tags": [],
      "also": []
-    },
-    {
-     "title": "Kali Linux 2026.3 released with 6 new tools, desktop updates",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/linux/kali-linux-20263-released-with-6-new-tools-desktop-updates/",
-     "source": "BleepingComputer",
-     "published": "2026-10-26T10:26:52+00:00",
-     "date_only": false,
-     "summary": "Kali Linux has released version 2026.3, its third release this year, featuring six new hacking tools, desktop environment improvements, refreshed build scripts, and more. [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Node2Shell: Brotli Flaw Triggers Patching Across Microsoft, Node.js, Python Packages",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/node2shell-brotli-flaw-triggers-patching-across-microsoft-node-js-python-packages/",
-     "source": "SecurityWeek",
-     "published": "2026-10-26T10:21:57+00:00",
-     "date_only": false,
-     "summary": "An out-of-bounds write in Google’s Brotli decoder affects Node.js, .NET, PowerShell, and Python packages, and can lead to code execution. The post Node2Shell: Brotli Flaw Triggers Patching Across Microsoft, Node.js, Python Packages…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
-     "source": "The Hacker News",
-     "published": "2026-10-26T09:54:02+00:00",
-     "date_only": false,
-     "summary": "A rentable Android spyware kit called uCreator takes over Telegram and WeChat accounts by hiding its code inside working copies of the two apps, researcher Ovi found. It only reaches people who install one of these tampered copies, spread…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "PHP2Shell security flaws now sucessfully exploited in the wild",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/php2shell-security-flaws-now-sucessfully-exploited-in-the-wild/",
-     "source": "BleepingComputer",
-     "published": "2026-10-26T09:19:57+00:00",
-     "date_only": false,
-     "summary": "Two critical RCE vulnerabilities (CVE-2026-109618 and CVE-2026-109619), collectively tracked as PHP2Shell, have been successfully exploited in the wild. [...]",
-     "extra": "",
-     "tags": [
-      "Exploited"
-     ],
-     "also": []
-    },
-    {
-     "title": "Mythos 5 Ignored Real-World Harm in July Attack",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/mythos-5-ignored-real-world-harm-in-july-attack/",
-     "source": "SecurityWeek",
-     "published": "2026-10-26T09:10:03+00:00",
-     "date_only": false,
-     "summary": "The model engaged in severe overreach and dishonesty, creating fake identities and submitting malicious code on GitHub. The post Mythos 5 Ignored Real-World Harm in July Attack appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html",
-     "source": "The Hacker News",
-     "published": "2026-10-26T08:35:51+00:00",
-     "date_only": false,
-     "summary": "Cybersecurity researchers have disclosed a Microsoft 365 campaign that has been observed leveraging an adversary-in-the-middle (AitM) relay to capture sign-in sessions and then replay the stolen tokens to break into email accounts at 79…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
-     "source": "The Hacker News",
-     "published": "2026-10-26T07:49:46+00:00",
-     "date_only": false,
-     "summary": "An automated campaign is using stolen GitHub tokens to plant workflows that print a repository's secrets into its GitHub Actions logs, which the attackers then download before deleting the runs. The attacks have succeeded in private…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
-     "source": "The Hacker News",
-     "published": "2026-10-26T06:03:48+00:00",
-     "date_only": false,
-     "summary": "A malicious instruction file sitting in a developer's Downloads folder tried to make their AI coding agent install a known-malicious npm package, security firm Forever Security said in a report published last week. The company caught the…",
-     "extra": "",
-     "tags": [
-      "Supply chain",
-      "AI"
-     ],
-     "also": [
-      "BleepingComputer"
-     ]
-    },
-    {
-     "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
-     "source": "The Hacker News",
-     "published": "2026-10-25T17:44:09+00:00",
-     "date_only": false,
-     "summary": "A single hacked device on a Tailscale network can be used to gain root access to other servers it can reach, according to a security researcher who published the findings this week. The attack requires two things: Tailscale SSH set up to…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
-     "source": "The Hacker News",
-     "published": "2026-10-25T17:19:46+00:00",
-     "date_only": false,
-     "summary": "In an update, Palo Alto Networks Unit 42 said it's retracting its earlier assessment that the post-compromise activity targeting the European government agency involved the exploitation of the PHP2Shell flaws. \"What researchers saw was an…",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
     }
    ]
   },
   {
    "name": "APAC Watch",
    "stories": [
+    {
+     "title": "Cyberattack on Japan internet provider GMO threatens customer computers",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMjZrSm9yYW5OT2E0dUczb2huaXFTbE9pRkhpOXhSUHdrckwxT0dFRk1ERWhkeG9zMEx0aVA3WmxtdW9sdHNiSHBFV3JWYi1yd2Q5Q3g4RmJuMk5pQjhMUWtaczNPM3oyVVdHQnJ1aW9PUDg4cExSZExDTTdCTDZKTUxYcXRMZmxmMmtfMVpxcFJONE5TTmRvb0pJRThEVlFHSVVLVGhkcTJFTmUwejBIN1NxQjJITlVPYXRR?oc=5",
+     "source": "Nikkei Asia",
+     "published": "2026-10-26T18:42:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "South Korea: Over 2,000 people affected by data leak at KB Kookmin Bank",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNHB4N2hDWjc4VnN5a0lzanktWEZIRXVqWEJnMHkxY0pIQmZWRzF4b1c2d294TzBHM2FtVW5ibXktT2hadlFwQ3lTbjIxOE1RUUZHQWtUNG5aOVViQlJaOUtqckd2WFFsS1NDYnE3NExNR01EdG55TGxnQ3hHOXdFTXAzM051em1HbFJaMV9qUWhMd1lzTUtpSTNRY21qSUo4T0ExQXV0MA?oc=5",
+     "source": "Vietnam.vn",
+     "published": "2026-10-26T16:56:09+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Japan Considers Compensation for Cyberattack Victims and Sweden Restricts ChatGPT and Claude",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPa1I4N3BhVVBhdmdUX1EyMk51bkRySGgyRnR6XzVJOGwyNFJoQnhBUWl1QWhpSjhmTFYwYlQ4NjhDcDhYelduU29UU3NKdURaVjlMbEcyNHIwX09EU3ZLWFBXemJqNmwwVmJYbE4tY2FqRHotSGNJVlM5VnQzanhxV1Qza3Q0QWNyQVBBU3NTMFhVLWtYM2dwSE5QNGtMNkNZaEhfQ21XWHJXc0Y4dTBFc1VQZC1pZzhwZVI3WU1VWVV0ODZ6UmlEWTY3d1c?oc=5",
+     "source": "Cybersecurity Insiders",
+     "published": "2026-10-26T15:43:26+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "AI",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Japanese Prime Minister pledges to stop the wave of cyberattacks.",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNY245Z3VrdGFkMENGM0JsZ2hGcDJMOHR1aWFoYm9yelFTM1l6Z1dZbElUWlY4VU9wa3E4Q1ZvVUxiYmFmT3hCdW5hN1JOemFzeGxnem9ULW05dTZuMFlWRF9WdVdWSHdyNEpNbW92UEhza2tkMEF1UklzRUJJUFRvU1B0RDlGZmUya2xiSGVB?oc=5",
+     "source": "Vietnam.vn",
+     "published": "2026-10-26T15:31:52+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Japan's Yumir Link says personal data breach grows to 51.62 million records, unauthorized output on 49 systems",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBDbzU4bEVITmI2U2JQMlhlYXNIRE1PRkttSWxueURmNDdhemNneHMtbEFzWGtET2lvbDU4Nm1IOTBqZk5YM0RBd2Rrbl96QXNTeHZNa04zVFNadEhSMWstRVpoX0theTBNbEhuSXpZb1ZxdVJfX0E?oc=5",
+     "source": "BigGo Finance",
+     "published": "2026-10-26T14:55:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
     {
      "title": "[On-site video] Kim Min-soo: “North Korean hackers’ infiltration of South Korean companies becomes a reality”",
      "subtitle": "",
@@ -472,6 +619,35 @@
      "also": []
     },
     {
+     "title": "South Korea's KB Kookmin Bank Data Breach Victims Soar to 2,210, 18.6 Times Initial Figure",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ORDRqZUhLUG1qOENmbzFSWmxqSmlBcGxiMUpHR3RCTWNHbHNsdGIxR2hreHVWWUNDa2lLTkhjVThPX1RaTGljbEwyTC1KSTBrNGtvNVQyZXVvYVNrVTVCQm5VajBDRHd0TmQ3bGFpVXZnWktjemc?oc=5",
+     "source": "BigGo Finance",
+     "published": "2026-10-26T10:05:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "India’s Top Ethical Hacker Sunny Nehra Is One of His Kind: A Deep Dive Into the Mind, Research and Influence Behind the Name",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSHVfcTlnN2tUZnRzSy1BdjRpRHFqM2NiZmhDY0V1bVNaQnRab2NOWXExanRZX2tlMFUzdTRFcVZoYnNVb1R0eTNPYlY1ZXNvOE1ibGwxUi1LYnRMM1FaeXJ1OHRKRVlYR3l5NkxrVzRyQVJ2b2RTX2U2N2Q5ZkFIbzN0SGJ2Nm84ZGhXb1hvbHZTVTAwWS1FN3QxWWdPa0VWaEdFdE1mTHJrTG5Gdzl2dFBhdjhHMmRac1MxXzdMd2NLT2xlU3F6ZjBnTkdySlpJOFFFNF9hdVktdm1o?oc=5",
+     "source": "GBHackers News",
+     "published": "2026-10-26T09:58:55+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
      "title": "Mega breaches nearly triple as health sector tops Australia’s data breach count",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeGUwZEZhMjVkVzJGelBuVUpyclEtT3FqN1FQaXVFeTk1VEs1SXkxbGloNW9zcGR5clZoSDhrcnIxNFVxYjNNdlNkX3FubXh0N2otNk9GZXB1RXZqMVBlTGtTZFJkWUdHdnpEM1ZVME11R3FGQlZRUl9sRlVmYTBFdThXOWtwTk11N1AyWl9SbEJ6dFBBQURLYkwtZXhiYVgwQ3lWQk5tQ282Q0VwcnMwcTBNU1M5LVJfOVZLQ0l4XzN4M19xMmR0bk9zb1hyUnVCa2ExU2M3TkY?oc=5",
@@ -499,112 +675,26 @@
       "APAC"
      ],
      "also": []
-    },
-    {
-     "title": "Japan weighs cyber defense measures after attack hits GMO",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LU0ZYWmVBbWJSVlpJVU9vbEY3WGJ6c094X3RzRThWUmpSYVM1ZXdwbEFnR0U5QlFrb3lvaFJjUW1teEJWNVlVTWJ2SmplbnVPNEF6bWJB?oc=5",
-     "source": "朝日新聞",
-     "published": "2026-10-26T08:02:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Five Japanese FX Brokers Confirm Hackers Placed Trades After Server Host Breach",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQS1KOTV6UmRqSGNnUnl2TWdzMk14QzBsZVluS1pLZlQ3NVNBT2MtMTk2ZjR5YjVFeTVqd0sydC1tSW13eExlVzBEMFpyQ0piMXd4cW5XNHZ3ell6cTVZdXJ3MkFqcG9mNFVwUnU5cXF5OGw0bklwSFg5MFFEWHpwRTZRSVA1UVdTN25KbmxJV1JRdVVPMEhOazZDRFFEdG1GQVNKZ3VoT2dzbG5ReExLUmhMc3RBWTFHd1FYN0RBZnJlS3Bu?oc=5",
-     "source": "Finance Magnates",
-     "published": "2026-10-26T07:11:47+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach"
-     ],
-     "also": []
-    },
-    {
-     "title": "South Korea's Nol Universe Reports Data Breach Affecting Domestic Hotel Bookings, Employee Records",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01eExHVG1DMHNYT19takRHd1kwVm5UMkE2a0QxamU1Q1hlWXY3THdiTXVGaGhuaXVtZzdiSWxiaGI5ZmJkN1RmaklidVdyaWZYZnlxTkVNbkhGUi1vckhYWFp6WmVaRDl6N1NUSmVIQXlnVnhwbnc?oc=5",
-     "source": "BigGo Finance",
-     "published": "2026-10-26T07:06:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Award-Winning Cyber Security Leader Texial Opens Enterprise-Grade Cyber Warfare, Digital Forensics, and SOC Labs to Train India's Security Workforce",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxQc3Bob2xKRGVNZHJSdjZiQTR0Rnp5T25lOHNJa3FxcXU1Z2ZvUHU3SlQ3WnJYYk9Dek5Ia1cyNmRtVmxmQVF4ckM0NzhwVm1ESUpVU2RBamNweWV1WThia0JKZ2cxZmdqa3gtN3c2aGZuN1ptQ2hkTjhNdlBSOFpudzFnQVhvOGtNY19hN0I0Q3E5OGQ2RTdZaExNMkl1eExBdXR0ZGU2ZG1rdy1BOUYtUmRtS1R4UF9EZmtPa2xMYzRFSFRGakR5QnVVM3FRQWwyTk1GYWZuelFUS1F5cWc5R1R3dUtTd3VLaTF5OWMzWlA2MnB1VEhvRlRSemRwTDNjeWxPSnlJYXN6c21VTjVrMXRCTTQ2Tk5zbHJFejdtSTVEVE15dzRlRGhTYTFTVjhwX2ZyelVuTjVQb18wRzVxek9GV2tSZGNFSEZMaDctLS1oRmE3SUdoX194d9IB2wJBVV95cUxQc3Bob2xKRGVNZHJSdjZiQTR0Rnp5T25lOHNJa3FxcXU1Z2ZvUHU3SlQ3WnJYYk9Dek5Ia1cyNmRtVmxmQVF4ckM0NzhwVm1ESUpVU2RBamNweWV1WThia0JKZ2cxZmdqa3gtN3c2aGZuN1ptQ2hkTjhNdlBSOFpudzFnQVhvOGtNY19hN0I0Q3E5OGQ2RTdZaExNMkl1eExBdXR0ZGU2ZG1rdy1BOUYtUmRtS1R4UF9EZmtPa2xMYzRFSFRGakR5QnVVM3FRQWwyTk1GYWZuelFUS1F5cWc5R1R3dUtTd3VLaTF5OWMzWlA2MnB1VEhvRlRSemRwTDNjeWxPSnlJYXN6c21VTjVrMXRCTTQ2Tk5zbHJFejdtSTVEVE15dzRlRGhTYTFTVjhwX2ZyelVuTjVQb18wRzVxek9GV2tSZGNFSEZMaDctLS1oRmE3SUdoX194dw?oc=5",
-     "source": "Business Standard",
-     "published": "2026-10-26T06:30:07+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "India's Film Sensor Board Data Breach - Unreleased Scripts, 500+ Film Titles Exposed",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8zLWx4S0VpZzFsS0pta2dQMVIxekhodVloR2RhQ29UU1p4cE1DdVFuc3NVWktibkNCcWdFZUJXekRBUDZMS0N0WWYxaGpXYkp1S0ZoMFBaUmJzb0tYWW5icnFXWFZGYW9IVDloSl9XbGc0emZIWnfSAXtBVV95cUxPTG9PR1BzZGRuVVk5TDhmTXhNM2ZwM2lRbnUwNi01bGF1WlQ0cE1Kd0N0RDZGZWJwNjlGb1QyaG9tMWhFQUxwZnN1SjBHaGc3M3UtdEVDX1hxRGYxRkVYY3o5ZERZV3d3c3FUSnhjLXVISklpTFE2RjBadkU?oc=5",
-     "source": "CyberSecurityNews",
-     "published": "2026-10-26T06:17:06+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Cyber Alert: Today’s Biggest Cyber Crime Stories Shaking India – 26th October",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNci1tVkxlRk9KQ1NFaXdibGRiR2hYSm4xSzc2LXJGV0RSdkJHM2VwOUlaSmlOeFIzc2dDNHVmTmJrU04wU2tiNHlqZWNXTHE0LV9CaUtKTEEyTWhRd3ZVVjRhNi1WanRyME9GTFN5M1lFWUhPdnBWVnhNeE9uOTFQZ3huaVVPMFN1akM5LXUzak4?oc=5",
-     "source": "The420.in",
-     "published": "2026-10-26T04:50:26+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Cyberattack Rocks Japan: GMO to Pay Compensation as Shares Plummet Nearly 14 Percent",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbnZIVkNsUTJhRXFUM1lpQk42cEN2TF9VOEU1cFNwR3poUkstdFhRbHVyWWlScElLTVhvUTNyNTV6LWZpMDNCdnZOOHk4LWduRFMzcFJVdDFPLTU4TlpYSUFYNkZLM043bnhXMFRkbDVsQjRzQlhXM2xHeTVYcDBHclhwRFVyLU00OUw1ejNwcXlZdGxxQ085UkxNWWlidllPRmpSaEtBQnN5T2dfc3lSb24yQnJDRm5zWlE?oc=5",
-     "source": "Aktualita.co",
-     "published": "2026-10-26T04:36:25+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
     }
    ]
   },
   {
    "name": "Threat Research",
    "stories": [
+    {
+     "title": "26th October – Threat Intelligence Report",
+     "subtitle": "",
+     "link": "https://research.checkpoint.com/2026/26th-october-threat-intelligence-report/",
+     "source": "Check Point Research",
+     "published": "2026-10-26T16:12:38+00:00",
+     "date_only": false,
+     "summary": "For the latest discoveries in cyber research for the week of 26th October, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES Japanese cloud hosting provider Onamae Desktop Cloud has confirmed a cyberattack in which…",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": []
+    },
     {
      "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 25)",
      "subtitle": "",
@@ -789,20 +879,6 @@
      "summary": "You can trust a social media platform and still get scammed by an ad running on it",
      "extra": "",
      "tags": [],
-     "also": []
-    },
-    {
-     "title": "19th October – Threat Intelligence Report",
-     "subtitle": "",
-     "link": "https://research.checkpoint.com/2026/19th-october-threat-intelligence-report/",
-     "source": "Check Point Research",
-     "published": "2026-10-19T14:54:40+00:00",
-     "date_only": false,
-     "summary": "For the latest discoveries in cyber research for the week of 19th October, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES CenterPoint Energy, a US utility company serving Texas and several other states, has…",
-     "extra": "",
-     "tags": [
-      "Breach"
-     ],
      "also": []
     }
    ]
