@@ -1,9 +1,43 @@
 {
- "generated": "2026-10-27T00:34:59+00:00",
+ "generated": "2026-10-27T06:25:04+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
    "stories": [
+    {
+     "title": "CVE-2026-109618: PHP Group PHP",
+     "subtitle": "PHP Memory Corruption Vulnerability",
+     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-109618",
+     "source": "CISA KEV",
+     "published": "2026-10-26T00:00:00+00:00",
+     "date_only": true,
+     "summary": "PHP contains an out-of-memory corruption vulnerability that allows for unauthenticated remote code execution.",
+     "extra": "US federal patch deadline 29 Oct",
+     "tags": [
+      "Exploited"
+     ],
+     "vendor": "PHP Group",
+     "product": "PHP",
+     "cve": "CVE-2026-109618",
+     "also": []
+    },
+    {
+     "title": "CVE-2026-109619: PHP Group PHP",
+     "subtitle": "PHP Stale Internal Request-State Vulnerability",
+     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-109619",
+     "source": "CISA KEV",
+     "published": "2026-10-26T00:00:00+00:00",
+     "date_only": true,
+     "summary": "PHP contains a stale internal request-state vulnerability that allows for unauthenticated remote code execution.",
+     "extra": "US federal patch deadline 29 Oct",
+     "tags": [
+      "Exploited"
+     ],
+     "vendor": "PHP Group",
+     "product": "PHP",
+     "cve": "CVE-2026-109619",
+     "also": []
+    },
     {
      "title": "CVE-2026-114625: Arista VeloCloud Orchestrator",
      "subtitle": "Arista VeloCloud Orchestrator SQL Injection Vulnerability",
@@ -145,6 +179,32 @@
   {
    "name": "Breaking Threats",
    "stories": [
+    {
+     "title": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
+     "source": "The Hacker News",
+     "published": "2026-10-27T04:37:59+00:00",
+     "date_only": false,
+     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday confirmed active exploitation of the recently patched PHP2Shell flaws by adding them to its Known Exploited Vulnerabilities (KEV) catalog. The PHP vulnerabilities…",
+     "extra": "",
+     "tags": [
+      "Exploited"
+     ],
+     "also": []
+    },
+    {
+     "title": "Cybersecurity Issue Forces a Major New Mexico Hospital to Divert Patients and Close Clinics",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/cybersecurity-issue-forces-a-major-new-mexico-hospital-to-divert-patients-and-close-clinics/",
+     "source": "SecurityWeek",
+     "published": "2026-10-27T01:30:00+00:00",
+     "date_only": false,
+     "summary": "The University of New Mexico Health System told people not to show up at its main hospital in Albuquerque and canceled appointments at more than 30 clinics. The post Cybersecurity Issue Forces a Major New Mexico Hospital to Divert Patients…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
     {
      "title": "So Many AI Security Benchmarks, But None Tell the Whole Story",
      "subtitle": "",
@@ -446,38 +506,105 @@
       "AI"
      ],
      "also": []
-    },
-    {
-     "title": "When an AI Agent Is the Incident, the Identity Record Is the Evidence",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/when-an-ai-agent-is-the-incident-the-identity-record-is-the-evidence/",
-     "source": "BleepingComputer",
-     "published": "2026-10-26T14:00:10+00:00",
-     "date_only": false,
-     "summary": "A new NIST, CISA, and NSA guide treats runaway agents as incidents to be rehearsed. The hard part of the response is answering whose authority the agent used, and that answer has to exist before the incident does. [...]",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "10 Software Security Practices Built for the Next 250 Years",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/cyberattacks-data-breaches/10-software-security-practices-built-250-years",
-     "source": "Dark Reading",
-     "published": "2026-10-26T14:00:00+00:00",
-     "date_only": false,
-     "summary": "This Cybersecurity Awareness Month's theme, \"Securing the Next 250,\" asks us to look beyond vulnerabilities and consider what will make our digital systems resilient for generations.",
-     "extra": "",
-     "tags": [],
-     "also": []
     }
    ]
   },
   {
    "name": "APAC Watch",
    "stories": [
+    {
+     "title": "Trading Platform Rocked by Japan Hack, $50 Million Ransom",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUVJqSmwzZERCNExQeDZFVzNzSjhmQjQxRU5scHVWR285VzFqekk3UEJMT2pjenNqT2hzbGFJdlZfNjFwcWYxQWdsVWYxOTZKYW9NVzRvakZKbkxJWWQyYVR4bmFVMWl6dEVJR3BkR2h4U0RmMV9EcURRcmNxdTJCdG92QjhzZTlGVHh4UVVLYzNhdFkzc1V5ZGhvamtxdmFwNFlYckFZQW84UGxZOU5JbXY1Q2FMQQ?oc=5",
+     "source": "Bloomberg.com",
+     "published": "2026-10-27T05:59:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Hackers Threaten to Leak Customer Data in Cyberattack on Japan's GMO After $1 Million Ransom Demand Rejected",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB3VjBMNTQtdE1qTXg0UVlIM2NNRzhpUlZzcFA2WWRRdDM4b05YTURsbl83blRYRHZtYUpyZnlYUXNvNURlcUc5Q0hNX3psdWhrMGRKOGh3R2padUxhbExTdktTNW9fQ25tZFhac1BrVGY4ZW1EdkE?oc=5",
+     "source": "BigGo Finance",
+     "published": "2026-10-27T05:05:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": [
+      "Cryptopolitan"
+     ]
+    },
+    {
+     "title": "Japan’s GMO Internet warns users of impending ransomware attack",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYk1oWDhVdzR3cG9LT1g0VXJfbFQ1cTNlM3hNLXhXQXJrU3pOR1lzTlQyVkpMcXhGcFl6bmdFNVlSSHdIWlVUUXNoRFF2ajFNSU9RUVFVUGlYWmtDU2kxTURIdHhSTVJrV2hSOEhkdElmUWp6ekM5TktSQTlzSDlmYTBqdTVqN01kMnRWMHFoem44bTcxQjlYdUJ3?oc=5",
+     "source": "Yahoo Finance",
+     "published": "2026-10-27T04:03:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Ransomware",
+      "APAC"
+     ],
+     "also": [
+      "Investing.com"
+     ]
+    },
+    {
+     "title": "AhnLab Targets Japan's OT Security Market Amid Ransomware Threats",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NclhmaXhsSmVUMFZidGVjYlZ4VGs1TzZ2NV9fbU1xREV1WElNT3JDN0IwM01EMGtUX2ZDOHJLaUVDZ3ptYU0tY01QVW5GNGMyN0NaZ0pYMFZhQ1kwZWZrb2U1YldsbkE?oc=5",
+     "source": "THE ELEC, Korea Electronics Industry Media",
+     "published": "2026-10-27T01:58:26+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Ransomware",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "AI-driven cyber threats surge as Australia reports 80% rise in security warnings",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWmNmb2c0dy1EX0FNd2FCYnVxb3NBSktnWl9VTWxuUk9Ra0dTV09wUnlZYkNhM2Y3YWdvSzNYaTFqT0w4RWRwODFiTlpGME5lbEhfbGNqYlZmNUFraTBCckg1eXp1X3duV3djemVReF9rSHRsQ1JHVVZTMVlmanpDeDVkSk1KMjVyVDNqNWg4WGtQQVlRZ1M0bkVkTTlsbno4TWRFUW44Vy1LR3VPeFliZFlFZU9UQzN0azQ3ZjFEYVM0SmQ5?oc=5",
+     "source": "The Vibes",
+     "published": "2026-10-27T01:46:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "AI",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Australia warns of ‘unprecedented’ AI threat",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQkZ4UjBSU011a0NwdmpWeDZHTl9YM2VzT0NUMnpQTUl5enlnN0lVdG1BNXdiZmhzU2FjYW9NbV9lS19maWU1Wmg1TkF3ZjQ5SGc3YTJUcGdWNHJMdVZfbXkyYzdydWEyb05mdjRDbmJkLUtHeVNBQkR2VU9FUENzR0pmTk5tWTNLdzNaSkJZMUgtdw?oc=5",
+     "source": "The Straits Times",
+     "published": "2026-10-27T00:30:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "AI",
+      "APAC"
+     ],
+     "also": []
+    },
     {
      "title": "Cyberattack on Japan internet provider GMO threatens customer computers",
      "subtitle": "",
@@ -488,6 +615,21 @@
      "summary": "",
      "extra": "",
      "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "South Korea: Over 2,000 people affected by data leak at KB Kookmin Bank",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNHB4N2hDWjc4VnN5a0lzanktWEZIRXVqWEJnMHkxY0pIQmZWRzF4b1c2d294TzBHM2FtVW5ibXktT2hadlFwQ3lTbjIxOE1RUUZHQWtUNG5aOVViQlJaOUtqckd2WFFsS1NDYnE3NExNR01EdG55TGxnQ3hHOXdFTXAzM051em1HbFJaMV9qUWhMd1lzTUtpSTNRY21qSUo4T0ExQXV0MA?oc=5",
+     "source": "Vietnam.vn",
+     "published": "2026-10-26T16:56:09+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
       "APAC"
      ],
      "also": []
@@ -508,7 +650,19 @@
      "also": []
     },
     {
-     "title": "Japan's Yumir Link says personal data breach grows to 51.62 million records, unauthorized output on 49 systems",
+     "title": "Japanese Prime Minister pledges to stop the wave of cyberattacks.",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNY245Z3VrdGFkMENGM0JsZ2hGcDJMOHR1aWFoYm9yelFTM1l6Z1dZbElUWlY4VU9wa3E4Q1ZvVUxiYmFmT3hCdW5hN1JOemFzeGxnem9ULW05dTZuMFlWRF9WdVdWSHdyNEpNbW92UEhza2tkMEF1UklzRUJJUFRvU1B0RDlGZmUya2xiSGVB?oc=5",
+     "source": "Vietnam.vn",
+     "published": "2026-10-26T15:31:52+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Japan's Yumir Link Data Breach Expands to 51.62 Million Records; Unauthorized Output Confirmed on 49 Systems",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBDbzU4bEVITmI2U2JQMlhlYXNIRE1PRkttSWxueURmNDdhemNneHMtbEFzWGtET2lvbDU4Nm1IOTBqZk5YM0RBd2Rrbl96QXNTeHZNa04zVFNadEhSMWstRVpoX0theTBNbEhuSXpZb1ZxdVJfX0E?oc=5",
      "source": "BigGo Finance",
@@ -523,17 +677,15 @@
      "also": []
     },
     {
-     "title": "Japan’s GMO refuses hackers’ $50 million demand",
+     "title": "[On-site video] Kim Min-soo: “North Korean hackers’ infiltration of South Korean companies becomes a reality”",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE42Z2F0MHAtNmxVNG9FM3N5V29LYXFOUFRzaTZEVjJ0dzJDa1c4d004Y3RleHp3TkxpRFFCd0Fod3llNkgyNVFJQ19seVZpWEp4a3FaZnBoOUFUdVNjdUx0TkhzVlQxb1dxS0RlaUN6S2U3ZmlzZFo0?oc=5",
-     "source": "Cryptopolitan",
-     "published": "2026-10-26T12:52:44+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41eWpTQnFJb1l4cmhhM2ZEcDdUcWFTX2xwRi1kVDFvc1YwSzFDT2FfdkIzSTVMUjZyY1F2X09QQnhnZVJSRmJ3Q2hWQV9YTUdYTUlpY0RhYjY?oc=5",
+     "source": "파이낸셜뉴스",
+     "published": "2026-10-26T13:36:02+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
-     "tags": [
-      "APAC"
-     ],
+     "tags": [],
      "also": []
     },
     {
@@ -576,120 +728,6 @@
       "APAC"
      ],
      "also": []
-    },
-    {
-     "title": "GMO Internet, Japanese Companies Pay Users After Cyberattack",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9FQmVtcUJzN0tYQ3JXaTRaU3NfTFBLdEV0RFJfSEdxSF9EblQ4MXRpUVJNQzFoXzhublY2OVF0WFVsdTFSQW9uRy00SjRPNXpRZGFIOXlXWTRBN1VzeWh1VG1DSUZCUTlXY1VzNdIBbEFVX3lxTE9FQmVtcUJzN0tYQ3JXaTRaU3NfTFBLdEV0RFJfSEdxSF9EblQ4MXRpUVJNQzFoXzhublY2OVF0WFVsdTFSQW9uRy00SjRPNXpRZGFIOXlXWTRBN1VzeWh1VG1DSUZCUTlXY1VzNQ?oc=5",
-     "source": "The Cyber Express",
-     "published": "2026-10-26T10:36:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "South Korea's KB Kookmin Bank Data Breach Victims Soar to 2,210, 18.6 Times Initial Figure",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5ORDRqZUhLUG1qOENmbzFSWmxqSmlBcGxiMUpHR3RCTWNHbHNsdGIxR2hreHVWWUNDa2lLTkhjVThPX1RaTGljbEwyTC1KSTBrNGtvNVQyZXVvYVNrVTVCQm5VajBDRHd0TmQ3bGFpVXZnWktjemc?oc=5",
-     "source": "BigGo Finance",
-     "published": "2026-10-26T10:05:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Mega breaches nearly triple as health sector tops Australia’s data breach count",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeGUwZEZhMjVkVzJGelBuVUpyclEtT3FqN1FQaXVFeTk1VEs1SXkxbGloNW9zcGR5clZoSDhrcnIxNFVxYjNNdlNkX3FubXh0N2otNk9GZXB1RXZqMVBlTGtTZFJkWUdHdnpEM1ZVME11R3FGQlZRUl9sRlVmYTBFdThXOWtwTk11N1AyWl9SbEJ6dFBBQURLYkwtZXhiYVgwQ3lWQk5tQ282Q0VwcnMwcTBNU1M5LVJfOVZLQ0l4XzN4M19xMmR0bk9zb1hyUnVCa2ExU2M3TkY?oc=5",
-     "source": "Insurance Business",
-     "published": "2026-10-26T09:49:46+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Central Bank of India alleges hackers siphoned off Rs 13.97 crore through financial messaging system",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbkVzTVBUSWozREpIVF93aFNHd3lnX3YzWjJGaE5BaW80QjJXNXdyU0M3VEJIaDNUVnF3QUtqVnJWUjI4VzRzN0NrT1I4Ry1qcGVPX0xpemVsNzBuMzlsTUhPUnM5bWNFeW5TR3JPTU45Z3d5OVZ4RnBkeHdmcFYxZnRBclMweXRt?oc=5",
-     "source": "MediaNama",
-     "published": "2026-10-26T09:48:32+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Five Japanese FX Brokers Confirm Hackers Placed Trades After Server Host Breach",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQS1KOTV6UmRqSGNnUnl2TWdzMk14QzBsZVluS1pLZlQ3NVNBT2MtMTk2ZjR5YjVFeTVqd0sydC1tSW13eExlVzBEMFpyQ0piMXd4cW5XNHZ3ell6cTVZdXJ3MkFqcG9mNFVwUnU5cXF5OGw0bklwSFg5MFFEWHpwRTZRSVA1UVdTN25KbmxJV1JRdVVPMEhOazZDRFFEdG1GQVNKZ3VoT2dzbG5ReExLUmhMc3RBWTFHd1FYN0RBZnJlS3Bu?oc=5",
-     "source": "Finance Magnates",
-     "published": "2026-10-26T07:11:47+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach"
-     ],
-     "also": []
-    },
-    {
-     "title": "South Korea's Nol Universe Reports Data Breach Affecting Domestic Hotel Bookings, Employee Records",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01eExHVG1DMHNYT19takRHd1kwVm5UMkE2a0QxamU1Q1hlWXY3THdiTXVGaGhuaXVtZzdiSWxiaGI5ZmJkN1RmaklidVdyaWZYZnlxTkVNbkhGUi1vckhYWFp6WmVaRDl6N1NUSmVIQXlnVnhwbnc?oc=5",
-     "source": "BigGo Finance",
-     "published": "2026-10-26T07:06:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "India's Film Sensor Board Data Breach - Unreleased Scripts, 500+ Film Titles Exposed",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8zLWx4S0VpZzFsS0pta2dQMVIxekhodVloR2RhQ29UU1p4cE1DdVFuc3NVWktibkNCcWdFZUJXekRBUDZMS0N0WWYxaGpXYkp1S0ZoMFBaUmJzb0tYWW5icnFXWFZGYW9IVDloSl9XbGc0emZIWnfSAXtBVV95cUxPTG9PR1BzZGRuVVk5TDhmTXhNM2ZwM2lRbnUwNi01bGF1WlQ0cE1Kd0N0RDZGZWJwNjlGb1QyaG9tMWhFQUxwZnN1SjBHaGc3M3UtdEVDX1hxRGYxRkVYY3o5ZERZV3d3c3FUSnhjLXVISklpTFE2RjBadkU?oc=5",
-     "source": "CyberSecurityNews",
-     "published": "2026-10-26T06:17:06+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Cyberattack Rocks Japan: GMO to Pay Compensation as Shares Plummet Nearly 14 Percent",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbnZIVkNsUTJhRXFUM1lpQk42cEN2TF9VOEU1cFNwR3poUkstdFhRbHVyWWlScElLTVhvUTNyNTV6LWZpMDNCdnZOOHk4LWduRFMzcFJVdDFPLTU4TlpYSUFYNkZLM043bnhXMFRkbDVsQjRzQlhXM2xHeTVYcDBHclhwRFVyLU00OUw1ejNwcXlZdGxxQ085UkxNWWlidllPRmpSaEtBQnN5T2dfc3lSb24yQnJDRm5zWlE?oc=5",
-     "source": "Aktualita.co",
-     "published": "2026-10-26T04:36:25+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
     }
    ]
   },
@@ -708,6 +746,18 @@
      "tags": [
       "Breach"
      ],
+     "also": []
+    },
+    {
+     "title": "PHP2Shell: What to know about two critical PHP flaws",
+     "subtitle": "",
+     "link": "https://www.welivesecurity.com/en/videos/php2shell-what-know-two-critical-php-flaws/",
+     "source": "ESET Research",
+     "published": "2026-10-26T13:25:00+00:00",
+     "date_only": false,
+     "summary": "Here's the lowdown on CVE-2026-109618 and CVE-2026-109619, as well as what website owners and IT teams should do to stay safe – all in a little more than two minutes",
+     "extra": "",
+     "tags": [],
      "also": []
     },
     {
@@ -883,18 +933,6 @@
       "AI"
      ],
      "also": []
-    },
-    {
-     "title": "Is the ad a scam? How to tell before you click",
-     "subtitle": "",
-     "link": "https://www.welivesecurity.com/en/social-media/is-ad-scam-how-tell-before-click/",
-     "source": "ESET Research",
-     "published": "2026-10-20T09:00:00+00:00",
-     "date_only": false,
-     "summary": "You can trust a social media platform and still get scammed by an ad running on it",
-     "extra": "",
-     "tags": [],
-     "also": []
     }
    ]
   },
@@ -902,11 +940,35 @@
    "name": "Government Advisories",
    "stories": [
     {
-     "title": "Aruba Products Multiple Vulnerabilities",
+     "title": "Apple Products Multiple Vulnerabilities",
      "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/aruba-products-multiple-vulnerabilities_20261026",
+     "link": "https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20261027",
      "source": "HKCERT",
-     "published": "2026-10-26T03:00:00+00:00",
+     "published": "2026-10-27T03:00:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Python Multiple Vulnerabilities",
+     "subtitle": "",
+     "link": "https://www.hkcert.org/security-bulletin/python-multiple-vulnerabilities_20261027",
+     "source": "HKCERT",
+     "published": "2026-10-27T01:35:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Microsoft Edge Multiple Vulnerabilities",
+     "subtitle": "",
+     "link": "https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20261027",
+     "source": "HKCERT",
+     "published": "2026-10-27T01:00:00+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
