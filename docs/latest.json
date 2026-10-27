@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-26T20:36:38+00:00",
+ "generated": "2026-10-27T00:34:59+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -145,6 +145,103 @@
   {
    "name": "Breaking Threats",
    "stories": [
+    {
+     "title": "So Many AI Security Benchmarks, But None Tell the Whole Story",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/cybersecurity-analytics/benchmarking-security-of-ai-models-poses-challenges",
+     "source": "Dark Reading",
+     "published": "2026-10-27T00:26:50+00:00",
+     "date_only": false,
+     "summary": "Measuring AI model security gets complex fast — a growing patchwork of benchmarks targets different variables in the equation, but none replace testing against your own code and workflows.",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "University of Copenhagen data breach exposes data of 525,000 people",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/",
+     "source": "BleepingComputer",
+     "published": "2026-10-26T22:20:36+00:00",
+     "date_only": false,
+     "summary": "The University of Copenhagen in Denmark confirmed that hackers accessed one of its test environments containing personal data belonging to 525,000 people. [...]",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": []
+    },
+    {
+     "title": "Risks & Rewards: How AI Is Redefining the CISO's Role",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/cybersecurity-careers/risks-rewards-ai-redefining-ciso-role",
+     "source": "Dark Reading",
+     "published": "2026-10-26T21:44:33+00:00",
+     "date_only": false,
+     "summary": "Nvidia security executive Mark Weatherford says CISOs must help business leaders weigh AI's pros and cons, and ensure those deploying it own the risks.",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "Former pentester used ARTEX AI to steal 8.2 million data records",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/",
+     "source": "BleepingComputer",
+     "published": "2026-10-26T21:08:28+00:00",
+     "date_only": false,
+     "summary": "South Korean police identified seven suspects linked to a cybercrime operation that breached more than 90 organizations in the country, with ARTEX AI pentesting framework used in most of the attacks. [...]",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "Texas sues OpenAI for deceiving consumers about safety, seeks sweeping reforms and fines",
+     "subtitle": "",
+     "link": "https://therecord.media/texas-sues-openai-deceiving-customers",
+     "source": "The Record",
+     "published": "2026-10-26T21:03:00+00:00",
+     "date_only": false,
+     "summary": "In an unusual move, the suit — brought under the state’s deceptive trade practices laws — seeks to hold founder and CEO Sam Altman personally liable for the alleged deception.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "In-the-Wild Attack Abuses AI Agents' Trust in Markdown",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/application-security/in-the-wild-attack-ai-agents-trust-markdown",
+     "source": "Dark Reading",
+     "published": "2026-10-26T20:59:26+00:00",
+     "date_only": false,
+     "summary": "A new AI agent prompt injection technique exploits how coding assistants consume local instruction files, blurring the line between text documents and executable actions.",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "OpenAI launches GPT-6.1 Terra with 3x faster AI agents, 50% lower pricing",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-launches-gpt-61-terra-with-3x-faster-ai-agents-50-percent-lower-pricing/",
+     "source": "BleepingComputer",
+     "published": "2026-10-26T20:46:49+00:00",
+     "date_only": false,
+     "summary": "OpenAI has launched GPT-6.1 Terra, a new model focused on computer use, visual reasoning, coding, and everyday work, while costing significantly less than its larger models. [...]",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
     {
      "title": "Anthropic Files for Potentially the Biggest IPO Ever as CEO Warns of Risk to Humanity From AI",
      "subtitle": "",
@@ -375,93 +472,6 @@
      "extra": "",
      "tags": [],
      "also": []
-    },
-    {
-     "title": "Chinese man extradited for role in $36 million cryptocurrency scam",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/chinese-man-extradited-for-role-in-36-million-cryptocurrency-scam/",
-     "source": "BleepingComputer",
-     "published": "2026-10-26T13:56:44+00:00",
-     "date_only": false,
-     "summary": "A Chinese national was arraigned in California after being extradited from the Netherlands for his alleged involvement in a cryptocurrency investment scam that stole nearly $37 million from 174 victims in the United States. [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "PHP2Shell Exploitation Moves From Probes to Working Shells",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/php2shell-exploitation-moves-from-probes-to-working-shells/",
-     "source": "SecurityWeek",
-     "published": "2026-10-26T13:30:10+00:00",
-     "date_only": false,
-     "summary": "Attackers successfully exploited the PHP2Shell flaws against honeypots, launching 35 shells from two IP addresses on October 24. The post PHP2Shell Exploitation Moves From Probes to Working Shells appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "953 Online Stores Infected in Long-Lasting Malware Campaign",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/953-online-stores-infected-in-long-lasting-malware-campaign/",
-     "source": "SecurityWeek",
-     "published": "2026-10-26T12:46:44+00:00",
-     "date_only": false,
-     "summary": "Small loader code injected into the stores served a payload to visitors or did nothing to avoid detection. The post 953 Online Stores Infected in Long-Lasting Malware Campaign appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Popular AI tool LiteLLM says unrevoked key allowed hackers to target users",
-     "subtitle": "",
-     "link": "https://therecord.media/litellm-hackers-ai-malware",
-     "source": "The Record",
-     "published": "2026-10-26T12:00:00+00:00",
-     "date_only": false,
-     "summary": "LiteLLM, an open-source tool widely used by artificial intelligence developers, said a key accidentally exposed in May was behind a supply-chain attack that is believed to have hit tens of thousands of users last week.",
-     "extra": "",
-     "tags": [
-      "Supply chain",
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html",
-     "source": "The Hacker News",
-     "published": "2026-10-26T11:52:41+00:00",
-     "date_only": false,
-     "summary": "Two critical flaws in Wasmtime, a WebAssembly runtime that can be built into other software, could allow a malicious WebAssembly module to escape the sandbox intended to contain it, the project's maintainers say. An attacker would first…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Dutch Police Arrest Two Over NFC Relay Attacks That Drained $400,000+ From Bank Accounts",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/dutch-police-arrest-two-over-nfc-relay-attacks-that-drained-400000/",
-     "source": "SecurityWeek",
-     "published": "2026-10-26T11:47:52+00:00",
-     "date_only": false,
-     "summary": "The individuals called victims and persuaded them to install an app and scan their credit cards to loot their bank accounts. The post Dutch Police Arrest Two Over NFC Relay Attacks That Drained $400,000+ From Bank Accounts appeared first…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html",
-     "source": "The Hacker News",
-     "published": "2026-10-26T11:23:56+00:00",
-     "date_only": false,
-     "summary": "Every SOC struggles with a pile of alerts. Very few of those alerts explain how an attack started or how it progressed. Network data, like that from a network detection and response (NDR) platform, connects individual alerts into one…",
-     "extra": "",
-     "tags": [],
-     "also": []
     }
    ]
   },
@@ -483,21 +493,6 @@
      "also": []
     },
     {
-     "title": "South Korea: Over 2,000 people affected by data leak at KB Kookmin Bank",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNHB4N2hDWjc4VnN5a0lzanktWEZIRXVqWEJnMHkxY0pIQmZWRzF4b1c2d294TzBHM2FtVW5ibXktT2hadlFwQ3lTbjIxOE1RUUZHQWtUNG5aOVViQlJaOUtqckd2WFFsS1NDYnE3NExNR01EdG55TGxnQ3hHOXdFTXAzM051em1HbFJaMV9qUWhMd1lzTUtpSTNRY21qSUo4T0ExQXV0MA?oc=5",
-     "source": "Vietnam.vn",
-     "published": "2026-10-26T16:56:09+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
      "title": "Japan Considers Compensation for Cyberattack Victims and Sweden Restricts ChatGPT and Claude",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPa1I4N3BhVVBhdmdUX1EyMk51bkRySGgyRnR6XzVJOGwyNFJoQnhBUWl1QWhpSjhmTFYwYlQ4NjhDcDhYelduU29UU3NKdURaVjlMbEcyNHIwX09EU3ZLWFBXemJqNmwwVmJYbE4tY2FqRHotSGNJVlM5VnQzanhxV1Qza3Q0QWNyQVBBU3NTMFhVLWtYM2dwSE5QNGtMNkNZaEhfQ21XWHJXc0Y4dTBFc1VQZC1pZzhwZVI3WU1VWVV0ODZ6UmlEWTY3d1c?oc=5",
@@ -513,18 +508,6 @@
      "also": []
     },
     {
-     "title": "Japanese Prime Minister pledges to stop the wave of cyberattacks.",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNY245Z3VrdGFkMENGM0JsZ2hGcDJMOHR1aWFoYm9yelFTM1l6Z1dZbElUWlY4VU9wa3E4Q1ZvVUxiYmFmT3hCdW5hN1JOemFzeGxnem9ULW05dTZuMFlWRF9WdVdWSHdyNEpNbW92UEhza2tkMEF1UklzRUJJUFRvU1B0RDlGZmUya2xiSGVB?oc=5",
-     "source": "Vietnam.vn",
-     "published": "2026-10-26T15:31:52+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
      "title": "Japan's Yumir Link says personal data breach grows to 51.62 million records, unauthorized output on 49 systems",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBDbzU4bEVITmI2U2JQMlhlYXNIRE1PRkttSWxueURmNDdhemNneHMtbEFzWGtET2lvbDU4Nm1IOTBqZk5YM0RBd2Rrbl96QXNTeHZNa04zVFNadEhSMWstRVpoX0theTBNbEhuSXpZb1ZxdVJfX0E?oc=5",
@@ -537,18 +520,6 @@
       "Breach",
       "APAC"
      ],
-     "also": []
-    },
-    {
-     "title": "[On-site video] Kim Min-soo: “North Korean hackers’ infiltration of South Korean companies becomes a reality”",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41eWpTQnFJb1l4cmhhM2ZEcDdUcWFTX2xwRi1kVDFvc1YwSzFDT2FfdkIzSTVMUjZyY1F2X09QQnhnZVJSRmJ3Q2hWQV9YTUdYTUlpY0RhYjY?oc=5",
-     "source": "파이낸셜뉴스",
-     "published": "2026-10-26T13:36:02+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
      "also": []
     },
     {
@@ -634,20 +605,6 @@
      "also": []
     },
     {
-     "title": "India’s Top Ethical Hacker Sunny Nehra Is One of His Kind: A Deep Dive Into the Mind, Research and Influence Behind the Name",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSHVfcTlnN2tUZnRzSy1BdjRpRHFqM2NiZmhDY0V1bVNaQnRab2NOWXExanRZX2tlMFUzdTRFcVZoYnNVb1R0eTNPYlY1ZXNvOE1ibGwxUi1LYnRMM1FaeXJ1OHRKRVlYR3l5NkxrVzRyQVJ2b2RTX2U2N2Q5ZkFIbzN0SGJ2Nm84ZGhXb1hvbHZTVTAwWS1FN3QxWWdPa0VWaEdFdE1mTHJrTG5Gdzl2dFBhdjhHMmRac1MxXzdMd2NLT2xlU3F6ZjBnTkdySlpJOFFFNF9hdVktdm1o?oc=5",
-     "source": "GBHackers News",
-     "published": "2026-10-26T09:58:55+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
      "title": "Mega breaches nearly triple as health sector tops Australia’s data breach count",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeGUwZEZhMjVkVzJGelBuVUpyclEtT3FqN1FQaXVFeTk1VEs1SXkxbGloNW9zcGR5clZoSDhrcnIxNFVxYjNNdlNkX3FubXh0N2otNk9GZXB1RXZqMVBlTGtTZFJkWUdHdnpEM1ZVME11R3FGQlZRUl9sRlVmYTBFdThXOWtwTk11N1AyWl9SbEJ6dFBBQURLYkwtZXhiYVgwQ3lWQk5tQ282Q0VwcnMwcTBNU1M5LVJfOVZLQ0l4XzN4M19xMmR0bk9zb1hyUnVCa2ExU2M3TkY?oc=5",
@@ -668,6 +625,64 @@
      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbkVzTVBUSWozREpIVF93aFNHd3lnX3YzWjJGaE5BaW80QjJXNXdyU0M3VEJIaDNUVnF3QUtqVnJWUjI4VzRzN0NrT1I4Ry1qcGVPX0xpemVsNzBuMzlsTUhPUnM5bWNFeW5TR3JPTU45Z3d5OVZ4RnBkeHdmcFYxZnRBclMweXRt?oc=5",
      "source": "MediaNama",
      "published": "2026-10-26T09:48:32+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Five Japanese FX Brokers Confirm Hackers Placed Trades After Server Host Breach",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOQS1KOTV6UmRqSGNnUnl2TWdzMk14QzBsZVluS1pLZlQ3NVNBT2MtMTk2ZjR5YjVFeTVqd0sydC1tSW13eExlVzBEMFpyQ0piMXd4cW5XNHZ3ell6cTVZdXJ3MkFqcG9mNFVwUnU5cXF5OGw0bklwSFg5MFFEWHpwRTZRSVA1UVdTN25KbmxJV1JRdVVPMEhOazZDRFFEdG1GQVNKZ3VoT2dzbG5ReExLUmhMc3RBWTFHd1FYN0RBZnJlS3Bu?oc=5",
+     "source": "Finance Magnates",
+     "published": "2026-10-26T07:11:47+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": []
+    },
+    {
+     "title": "South Korea's Nol Universe Reports Data Breach Affecting Domestic Hotel Bookings, Employee Records",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01eExHVG1DMHNYT19takRHd1kwVm5UMkE2a0QxamU1Q1hlWXY3THdiTXVGaGhuaXVtZzdiSWxiaGI5ZmJkN1RmaklidVdyaWZYZnlxTkVNbkhGUi1vckhYWFp6WmVaRDl6N1NUSmVIQXlnVnhwbnc?oc=5",
+     "source": "BigGo Finance",
+     "published": "2026-10-26T07:06:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "India's Film Sensor Board Data Breach - Unreleased Scripts, 500+ Film Titles Exposed",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8zLWx4S0VpZzFsS0pta2dQMVIxekhodVloR2RhQ29UU1p4cE1DdVFuc3NVWktibkNCcWdFZUJXekRBUDZMS0N0WWYxaGpXYkp1S0ZoMFBaUmJzb0tYWW5icnFXWFZGYW9IVDloSl9XbGc0emZIWnfSAXtBVV95cUxPTG9PR1BzZGRuVVk5TDhmTXhNM2ZwM2lRbnUwNi01bGF1WlQ0cE1Kd0N0RDZGZWJwNjlGb1QyaG9tMWhFQUxwZnN1SjBHaGc3M3UtdEVDX1hxRGYxRkVYY3o5ZERZV3d3c3FUSnhjLXVISklpTFE2RjBadkU?oc=5",
+     "source": "CyberSecurityNews",
+     "published": "2026-10-26T06:17:06+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Cyberattack Rocks Japan: GMO to Pay Compensation as Shares Plummet Nearly 14 Percent",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQbnZIVkNsUTJhRXFUM1lpQk42cEN2TF9VOEU1cFNwR3poUkstdFhRbHVyWWlScElLTVhvUTNyNTV6LWZpMDNCdnZOOHk4LWduRFMzcFJVdDFPLTU4TlpYSUFYNkZLM043bnhXMFRkbDVsQjRzQlhXM2xHeTVYcDBHclhwRFVyLU00OUw1ejNwcXlZdGxxQ085UkxNWWlidllPRmpSaEtBQnN5T2dfc3lSb24yQnJDRm5zWlE?oc=5",
+     "source": "Aktualita.co",
+     "published": "2026-10-26T04:36:25+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
