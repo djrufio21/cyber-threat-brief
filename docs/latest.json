@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T13:22:31+00:00",
+ "generated": "2026-10-27T18:47:38+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -180,6 +180,191 @@
    "name": "Breaking Threats",
    "stories": [
     {
+     "title": "Microsoft releases Windows OOB updates to distrust eMudhra certificates",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-oob-updates-to-distrust-emudhra-certificates/",
+     "source": "BleepingComputer",
+     "published": "2026-10-27T18:20:28+00:00",
+     "date_only": false,
+     "summary": "Microsoft has released out-of-band (OOB) Windows updates to remove trust in certificates tied to compromised eMudhra certificate authority keys, protecting systems that do not receive automatic certificate trust updates. [...]",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Beware the Slasher: AI Could Kill Off Cybersecurity Pros' Skills",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/cybersecurity-operations/ai-kill-off-cybersecurity-pros-skills",
+     "source": "Dark Reading",
+     "published": "2026-10-27T17:43:07+00:00",
+     "date_only": false,
+     "summary": "Nathan Hamiel outlines potential SecOps horror in the AI midst, as core technical capabilities go the way of reading an atlas or remembering phone numbers.",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "'Aokigahara' Stealer Targets 'Developer Keyrings' & AI Assistants",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/endpoint-security/aokigahara-stealer-developer-keyrings-ai-assistants",
+     "source": "Dark Reading",
+     "published": "2026-10-27T16:47:20+00:00",
+     "date_only": false,
+     "summary": "The malware's focus on AI tools expands the traditional infostealer playbook to expose a forest of AI sessions, sensitive business data, and developer infrastructure from a single compromised endpoint.",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "Warp discloses breach exposing AI agent logs, user telemetry data",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/",
+     "source": "BleepingComputer",
+     "published": "2026-10-27T16:15:39+00:00",
+     "date_only": false,
+     "summary": "Agent decision logs and telemetry data belonging to Warp agentic development environment users were exposed in an attack on a third-party vendor in the project's infrastructure. [...]",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "Tailscale Rushes Patches After Uncoordinated Disclosure of ‘Tailworm’ Flaws",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/tailscale-rushes-patches-after-uncoordinated-disclosure-of-tailworm-flaws/",
+     "source": "SecurityWeek",
+     "published": "2026-10-27T15:26:12+00:00",
+     "date_only": false,
+     "summary": "Tailscale is preparing a patch for Tailscale SSH flaws whose details went public over the weekend, before any fixes had been released. The post Tailscale Rushes Patches After Uncoordinated Disclosure of ‘Tailworm’ Flaws appeared first on…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Hackers repeatedly breached suppliers holding UK police data, watchdog finds",
+     "subtitle": "",
+     "link": "https://therecord.media/uk-police-data-breached-from-suppliers-watchdog-report",
+     "source": "The Record",
+     "published": "2026-10-27T15:07:00+00:00",
+     "date_only": false,
+     "summary": "His Majesty’s Inspectorate of Constabulary and Fire & Rescue Services says British police data has been breach several times this decade through third-party IT suppliers.",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": []
+    },
+    {
+     "title": "University of New Mexico hospital diverts ambulances after cyberattack",
+     "subtitle": "",
+     "link": "https://therecord.media/university-of-new-mexico-hospital-diverts-cyber-incident",
+     "source": "The Record",
+     "published": "2026-10-27T14:57:00+00:00",
+     "date_only": false,
+     "summary": "For about two hours on Monday, the organization diverted ambulances to health systems in Albuquerque and Santa Fe. They were forced to suspend outpatient surgeries and appointments for the remainder of the day.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Tailscale warns of SSH flaws allowing root privilege escalation",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/",
+     "source": "BleepingComputer",
+     "published": "2026-10-27T14:09:46+00:00",
+     "date_only": false,
+     "summary": "The Tailscale security team is working to patch almost a dozen security vulnerabilities that could be exploited to steal credentials, crash servers, gain root privileges, and more. [...]",
+     "extra": "",
+     "tags": [
+      "Exploited"
+     ],
+     "also": []
+    },
+    {
+     "title": "The Huntress Tragic Quadrant: Ranking Threats Hitting Businesses Hardest",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/",
+     "source": "BleepingComputer",
+     "published": "2026-10-27T14:01:11+00:00",
+     "date_only": false,
+     "summary": "Attackers are increasingly abusing legitimate IT tools, Microsoft 365 sessions, and everyday workflows to compromise businesses without triggering traditional defenses. Huntress Labs ranks the threats hitting organizations hardest…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html",
+     "source": "The Hacker News",
+     "published": "2026-10-27T13:59:48+00:00",
+     "date_only": false,
+     "summary": "The GoAhead embedded web server loaded a certificate revocation list into its default TLS backend but never turned revocation checking on, so a revoked client certificate could still pass login on affected setups. The flaw is in builds…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html",
+     "source": "The Hacker News",
+     "published": "2026-10-27T13:59:09+00:00",
+     "date_only": false,
+     "summary": "Apple on Monday backported fixes for a high-severity security flaw that was exploited in real-world cyber attacks to older devices. The vulnerability, tracked as CVE-2026-86950 (CVSS score: 8.8), is an out-of-bounds write affecting…",
+     "extra": "",
+     "tags": [
+      "Zero-day"
+     ],
+     "also": [
+      "BleepingComputer"
+     ]
+    },
+    {
+     "title": "Malicious apps prey on Russians’ anxiety about fuel prices, drone strikes",
+     "subtitle": "",
+     "link": "https://therecord.media/malicious-apps-russian-anxiety-gas-prices-drone-strikes",
+     "source": "The Record",
+     "published": "2026-10-27T13:36:00+00:00",
+     "date_only": false,
+     "summary": "Cybercriminals are stuffing infostealer malware into bogus apps aimed at tracking gas prices, police activity, drone strikes and other information of concern to average Russians, researchers said.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Vendor Key Leak Puts Data of 238,000 Denver Health Plan Members at Risk",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/vendor-key-leak-puts-data-of-238000-denver-health-plan-members-at-risk/",
+     "source": "SecurityWeek",
+     "published": "2026-10-27T13:30:28+00:00",
+     "date_only": false,
+     "summary": "A leaked SquareML access key could have been used to access a database containing personal and health information. The post Vendor Key Leak Puts Data of 238,000 Denver Health Plan Members at Risk appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": []
+    },
+    {
+     "title": "Moscow faces internet disruptions as foreign leaders gather for summits",
+     "subtitle": "",
+     "link": "https://therecord.media/moscow-faces-internet-disruptions-as-foreign-leaders-gather",
+     "source": "The Record",
+     "published": "2026-10-27T13:20:00+00:00",
+     "date_only": false,
+     "summary": "The restrictions will be in place from October 27 to 29, coinciding with the Gas Exporting Countries Forum summit and the Russia-Africa summit, Russia's Ministry of Digital Development said Monday.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
      "title": "CISA warns of PHP bug exploitation attempts, gives federal agencies days to patch",
      "subtitle": "",
      "link": "https://therecord.media/php-vulnerabilities-cisa-kev",
@@ -201,20 +386,6 @@
      "summary": "Eight max-severity security defects could lead to remote code execution and authentication bypass. The post HPE Patches Dozens of Critical Flaws in Networking Products appeared first on SecurityWeek .",
      "extra": "",
      "tags": [],
-     "also": []
-    },
-    {
-     "title": "Australia’s spies are sharing intelligence with hacking targets — and want them to share back",
-     "subtitle": "",
-     "link": "https://therecord.media/australia-spies-share-intel-and-want-victims-to-share-back",
-     "source": "The Record",
-     "published": "2026-10-27T13:13:00+00:00",
-     "date_only": false,
-     "summary": "More than half of the individual warnings from the Australian Signals Directorate (ASD) drew on previously secret material that had been cleared for disclosure, underscoring the growing role of intelligence sharing to prevent attacks.",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
      "also": []
     },
     {
@@ -314,20 +485,6 @@
      "also": []
     },
     {
-     "title": "Apple backports CoreGraphics zero-day patches to older iPhones",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/apple/apple-backports-coregraphics-zero-day-patches-to-older-iphones/",
-     "source": "BleepingComputer",
-     "published": "2026-10-27T10:36:12+00:00",
-     "date_only": false,
-     "summary": "​Apple has backported security patches released last month to older iPhones and iPads, addressing a zero-day bug exploited in \"extremely sophisticated\" targeted attacks on iOS devices. [...]",
-     "extra": "",
-     "tags": [
-      "Zero-day"
-     ],
-     "also": []
-    },
-    {
      "title": "This is Fine: What NetScaler Zero-Days Tell Us About the New Normal",
      "subtitle": "",
      "link": "https://www.securityweek.com/this-is-fine-what-netscaler-zero-days-tell-us-about-the-new-normal/",
@@ -352,167 +509,6 @@
      "extra": "",
      "tags": [],
      "also": []
-    },
-    {
-     "title": "Australia Gets Into Amadey Malware Backend, Cuts Off Access to 180,000 Infected Computers",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/australia-gets-into-amadey-malware.html",
-     "source": "The Hacker News",
-     "published": "2026-10-27T09:33:06+00:00",
-     "date_only": false,
-     "summary": "A criminal using the Amadey malware can no longer access or steal data from 180,000 infected computers around the world, including some in Australia, the Australian Signals Directorate (ASD) says. The agency's operators gained access to…",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Energy giant ENGIE discloses data breach affecting customers",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/energy-giant-engie-discloses-data-breach-affecting-customers/",
-     "source": "BleepingComputer",
-     "published": "2026-10-27T09:25:50+00:00",
-     "date_only": false,
-     "summary": "French energy giant ENGIE, one of the world's largest power and natural gas providers, confirmed that attackers stole customer data after breaching a marketing platform used by business partners. [...]",
-     "extra": "",
-     "tags": [
-      "Breach"
-     ],
-     "also": []
-    },
-    {
-     "title": "OpenAI Compaction Flaw Let Researchers Bypass Hidden Reasoning Protections",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/openai-compaction-flaw-let-researchers.html",
-     "source": "The Hacker News",
-     "published": "2026-10-27T08:22:43+00:00",
-     "date_only": false,
-     "summary": "OpenAI's compaction feature, which shrinks a long conversation to save space, could be turned into a way to copy a model's hidden reasoning out in plain text, security firm Xint has shown. OpenAI's reasoning models work through a problem…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "CISA confirms PHP2Shell vulnerabilities now exploited in attacks",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/cisa-confirms-php2shell-vulnerabilities-now-exploited-in-attacks/",
-     "source": "BleepingComputer",
-     "published": "2026-10-27T08:20:54+00:00",
-     "date_only": false,
-     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added the PHP2Shell vulnerabilities to its catalog of actively exploited security flaws and ordered federal agencies to patch their systems by Thursday. [...]",
-     "extra": "",
-     "tags": [
-      "Exploited"
-     ],
-     "also": []
-    },
-    {
-     "title": "Maritime Coalition Launches Free Vulnerability Database for Ship and Port Systems",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/maritime-coalition-launches-free-vulnerability-database-for-ship-and-port-systems/",
-     "source": "SecurityWeek",
-     "published": "2026-10-27T07:14:27+00:00",
-     "date_only": false,
-     "summary": "Blue Initiative indexes nearly 30,000 IT and OT vulnerabilities relevant to ships and ports, 37 of them in maritime-specific products. The post Maritime Coalition Launches Free Vulnerability Database for Ship and Port Systems appeared…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html",
-     "source": "The Hacker News",
-     "published": "2026-10-27T06:34:47+00:00",
-     "date_only": false,
-     "summary": "The Computer Emergency Response Team of Ukraine (CERT-UA) has issued an alert warning of unauthorized remote access to video surveillance systems manufactured by Dahua. \"Cases of compromising IP cameras and DVRs with access to the video…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
-     "source": "The Hacker News",
-     "published": "2026-10-27T04:37:59+00:00",
-     "date_only": false,
-     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday confirmed active exploitation of the recently patched PHP2Shell flaws by adding them to its Known Exploited Vulnerabilities (KEV) catalog. The PHP vulnerabilities…",
-     "extra": "",
-     "tags": [
-      "Exploited"
-     ],
-     "also": []
-    },
-    {
-     "title": "Cybersecurity Issue Forces a Major New Mexico Hospital to Divert Patients and Close Clinics",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/cybersecurity-issue-forces-a-major-new-mexico-hospital-to-divert-patients-and-close-clinics/",
-     "source": "SecurityWeek",
-     "published": "2026-10-27T01:30:00+00:00",
-     "date_only": false,
-     "summary": "The University of New Mexico Health System told people not to show up at its main hospital in Albuquerque and canceled appointments at more than 30 clinics. The post Cybersecurity Issue Forces a Major New Mexico Hospital to Divert Patients…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "So Many AI Security Benchmarks, But None Tell the Whole Story",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/cybersecurity-analytics/benchmarking-security-of-ai-models-poses-challenges",
-     "source": "Dark Reading",
-     "published": "2026-10-27T00:26:50+00:00",
-     "date_only": false,
-     "summary": "Measuring AI model security gets complex, fast, thanks to a growing patchwork of benchmarks targeting different variables in the equation. But none replace testing against your own code and workflows.",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "University of Copenhagen data breach exposes data of 525,000 people",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/university-of-copenhagen-data-breach-exposes-data-of-525-000-people/",
-     "source": "BleepingComputer",
-     "published": "2026-10-26T22:20:36+00:00",
-     "date_only": false,
-     "summary": "The University of Copenhagen in Denmark confirmed that hackers accessed one of its test environments containing personal data belonging to 525,000 people. [...]",
-     "extra": "",
-     "tags": [
-      "Breach"
-     ],
-     "also": []
-    },
-    {
-     "title": "Risks & Rewards: How AI Is Redefining the CISO's Role",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/cybersecurity-careers/risks-rewards-ai-redefining-ciso-role",
-     "source": "Dark Reading",
-     "published": "2026-10-26T21:44:33+00:00",
-     "date_only": false,
-     "summary": "Nvidia security executive Mark Weatherford says CISOs must help business leaders weigh AI's pros and cons, and ensure those deploying it own the risks.",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Former pentester used ARTEX AI to steal 8.2 million data records",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/former-pentester-used-artex-ai-to-steal-82-million-data-records/",
-     "source": "BleepingComputer",
-     "published": "2026-10-26T21:08:28+00:00",
-     "date_only": false,
-     "summary": "South Korean police identified seven suspects linked to a cybercrime operation that breached more than 90 organizations in the country, with ARTEX AI pentesting framework used in most of the attacks. [...]",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "AI"
-     ],
-     "also": []
     }
    ]
   },
@@ -520,9 +516,37 @@
    "name": "APAC Watch",
    "stories": [
     {
-     "title": "Hackers steal and leak private GMO data after Japanese firm refuses $50 million ransom",
+     "title": "“High risk, no reward:” hackers’ attempt to extort 38 organizations in South Korea nets just $226",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNNk5DSkJzR2dGeENfVmgxbXJDdW5DdHlUNXkwdm9NR1Bid0s5THNMTXllYlRTbE9uWENyRGV5RHIwVjUzRDFjaXcyQmdwbEtNYnRIdXJ4akdHeE1MMUwtMVpsRUhjTHRQSjRidEd4TFhwdE5BSDBvVXRSektJaVdyaFg3UzU5NXRMYUlDRlpvS2VtOGtJOU5ONmEtQnRHM0VnTTQyLWJKdzd3d3NCX0dUYVBNT2c1U2c2Mzk5dlJIRHAtaE9HTjN4NlB1UzhpeWVRUUJsbE1wa3NxUDdtTW53cmRtamwxSkNCbjhBTdIB7AFBVV95cUxNNk5DSkJzR2dGeENfVmgxbXJDdW5DdHlUNXkwdm9NR1Bid0s5THNMTXllYlRTbE9uWENyRGV5RHIwVjUzRDFjaXcyQmdwbEtNYnRIdXJ4akdHeE1MMUwtMVpsRUhjTHRQSjRidEd4TFhwdE5BSDBvVXRSektJaVdyaFg3UzU5NXRMYUlDRlpvS2VtOGtJOU5ONmEtQnRHM0VnTTQyLWJKdzd3d3NCX0dUYVBNT2c1U2c2Mzk5dlJIRHAtaE9HTjN4NlB1UzhpeWVRUUJsbE1wa3NxUDdtTW53cmRtamwxSkNCbjhBTQ?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKNW4zS0pNNVV0alJ2UkphWXJOdnZPOXRYYjBkYkdCQnA1SDkxNzlwSVgzM0VqbFpuaERWeHh0cjBRei1YZVowRjZiemJVZkE2NXRJcUVBbUpZa04wRGVlUg?oc=5",
+     "source": "Cybernews",
+     "published": "2026-10-27T13:41:15+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Japan internet giant GMO says hackers posted stolen customer data",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOenh0OVd5RXVYRTdHOXk2TU9NNTlobXRCYkM1dWdfODhsM2NIUGxzelU1WWFybUg0QktzSGJaN1Itc1FtME5NaTUyZmthWXVyNWM3a1VoV2sxVlYtQ0JxbUU2Z2VUMUFhNkg3WnBuWHR6RGpDWTNRY2Y3ajF0YktyTkxlNkpjRXh3UWk1U2haV3M3Vl92MjE2UGlqOTJ1N1FFc2c?oc=5",
+     "source": "TechCrunch",
+     "published": "2026-10-27T13:32:57+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Hackers steal and leak private GMO data after Japanese firm refuses to pay $50 million ransom",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOb3FFTHJiN3RXSnYzTDlDQWd5YjFfVDhKakNOTDFZdVRfS0VTSEFidl8weG56bWtQalJ2VmxQZnB3OTJjTS1DbmxaVUU3YXYzajR4cnVkejYxb0xvdFNYUEd6RXNHelkzVFFFUWRsRDBYUVZnMXZoeldPa2pOamNBUkhfWTNDWDdkRzlXSmZZZm80cVBNTEJqM2otT2tTTnlQcURKYmN5bldfVXR3aHMybmxkVUliN082WU9Eb0wtRkNKZEUzTzNoeHN5WGRUU2JUOU9wTXMtYXMxY1BaWTNzcWRKWlRTRjQ?oc=5",
      "source": "India Today",
      "published": "2026-10-27T13:00:38+00:00",
      "date_only": false,
@@ -533,8 +557,23 @@
       "APAC"
      ],
      "also": [
-      "조선일보"
+      "조선일보",
+      "BigGo Finance"
      ]
+    },
+    {
+     "title": "SBI data exposure puts India’s cybersecurity ecosystem under scrutiny",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPR21RbTIyc0NVWjlPSEY3SHV0bzVtQlRZNnp2TTBjZVltejZtTnF2LUh6cjQzeWNTamI4bWtYQTdGRG82NHBGMWdfR0xMZDB1QWdydG12YS1jLVFSNmU3TV9vUVE3SjJDb0pYcGhYRUVNOEoxbEpLVTRmamdWSWZMeVRETm82TmFIckI4bG9NMWNSeUZmNEFhdDdNMGtlXzg0Z1lxQjVxcGw5bFJnWXVRakhLMldJbjBoRHVkbHlkTXdBcnRRRWxkcDFmR3hlUVBqZGtTMnZwa1lkdUJz0gHiAUFVX3lxTE5obVRjVUV6OG1BMmJ6T1dheHNrRkRZV0VMS1VYV092VmRMOERRZnVFcFdLZk54M3M4VnhoSEE4YmZKRVlsWmd4Y0tSaDMtdThMclY2VGU0UDVteTQzalVkTGhhU1VVdG9aQkF6TktvajdCOFMzTF8tZVhZelNtXy02Nzh6eTFYV0lFVFVpNTBRb055MGZiME04ZERsakZBMnNwZy04YlpNV1hXdFpwOUtzSU5NdkM5M3YtQlBDMExRZFRmVGN6RWxPeTdxTWVDd3hlRzVObnVCNVUzR2d5RHBRZ1E?oc=5",
+     "source": "ET Entrepreneur",
+     "published": "2026-10-27T12:31:33+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
     },
     {
      "title": "Hackers demand $50 million from Japan's GMO Internet after forex trading breach",
@@ -552,11 +591,11 @@
      "also": []
     },
     {
-     "title": "Chinese AI Tool Linked to Hacks in Japan",
+     "title": "World War III or AI Cyberattack? Japan Minister's 'Emergency Request' to Stockpile Food and Water Sparks...",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPXzI3bFVJdEgwYUUwTWxUY2UyZlVFYmI3QlBWU3BMMG1hWjhHZVQ1UHZFaUlBdGwwc2pPdXJxYTgtWVlxdXh1QktTOW55dW9QU2ZZYldSNGM2WklORTNpZWJBZ2NMZEQ5cE9aSl9SaHBnTmpDZ0VmdkJVSkt6OFJSZzZWa0NkLVU?oc=5",
-     "source": "WSJ",
-     "published": "2026-10-27T12:02:24+00:00",
+     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQOEc0ZnpwcFpxNi11cUJqRE5TRFR0SXdCbWkyUUZ1WUxza2FoaGpPWVg5QjVPRllZM0E0cG9GUGhpMDNJMzdMY0xTTFNmMnNIQk0tWFZncDJfdUFCQXphcnJNS2o0RV83MHNKd1lYUHpVMFVfYWs2WEN4d0hCa1NpcDFoYUpFZDVGemZJT2t0bnBmY2hROUl6TmdyLXlkMGdrcUI4RDU1cjc0eURoM05naUNubzZ1N210MURZWFduR2JPLW82RDU2QzEyYTB5NlR2bFV4WkcwM0RzSWRLUEx3U2FxSDJHNGhxc2dpR0Y3NTZhQdIB9wFBVV95cUxPZThRTm03Q1JFTXlsMmhYWnBYNnRrSjNmR3V4dU42V09xcjlFeThSVXJPM2o5V0x6NzVwRDdqVlhOYmRFZXRUSUhzV1R2V3RGZzZSc21UT1BqNDMxWURoTkNYN1dDMTcwRmlacklxNVY4cGk2QjhYTmUtSHZ3MlJvQVllVFlSdURIVUU3UXNIYnFoWnE1SDhDd1I5N2VhQk1XZjNZVEt4SnBRVmFBM21RVDZmYU11MXh3cHE1eUh2TDJUcVVUdEFZaURfcENyVUlSR1JlenJ3ME80cGpOUFN6Y2NySGVZTjZ0dkoyRFdsR3BaR1JadExn?oc=5",
+     "source": "Lokmat Times",
+     "published": "2026-10-27T10:26:34+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -567,11 +606,11 @@
      "also": []
     },
     {
-     "title": "World War III or AI Cyberattack? Japan Minister's 'Emergency Request' to Stockpile Food and Water Sparks...",
+     "title": "Australia’s cyber threat just got worse with AI",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQOEc0ZnpwcFpxNi11cUJqRE5TRFR0SXdCbWkyUUZ1WUxza2FoaGpPWVg5QjVPRllZM0E0cG9GUGhpMDNJMzdMY0xTTFNmMnNIQk0tWFZncDJfdUFCQXphcnJNS2o0RV83MHNKd1lYUHpVMFVfYWs2WEN4d0hCa1NpcDFoYUpFZDVGemZJT2t0bnBmY2hROUl6TmdyLXlkMGdrcUI4RDU1cjc0eURoM05naUNubzZ1N210MURZWFduR2JPLW82RDU2QzEyYTB5NlR2bFV4WkcwM0RzSWRLUEx3U2FxSDJHNGhxc2dpR0Y3NTZhQdIB9wFBVV95cUxPZThRTm03Q1JFTXlsMmhYWnBYNnRrSjNmR3V4dU42V09xcjlFeThSVXJPM2o5V0x6NzVwRDdqVlhOYmRFZXRUSUhzV1R2V3RGZzZSc21UT1BqNDMxWURoTkNYN1dDMTcwRmlacklxNVY4cGk2QjhYTmUtSHZ3MlJvQVllVFlSdURIVUU3UXNIYnFoWnE1SDhDd1I5N2VhQk1XZjNZVEt4SnBRVmFBM21RVDZmYU11MXh3cHE1eUh2TDJUcVVUdEFZaURfcENyVUlSR1JlenJ3ME80cGpOUFN6Y2NySGVZTjZ0dkoyRFdsR3BaR1JadExn?oc=5",
-     "source": "Lokmat Times",
-     "published": "2026-10-27T10:26:34+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQM1pOWl9GVTRLWGRGNnRRa1NHbmdlWUJQSTVXVE4wLTZGaWNEdWhMQVE3UFFacVFteFRZbjRyY00xNFBGajBWeDU3Vl9Ec2VUajEzSVdwMzhNaGx4SUx0QVFmQkRoZ1RaRjVXb3Y5eWtIV1JMMVUwdFJSSFlTWnZ0RDB5UXQtREFVcnBGd2xKSVdWYVdpZXZlSi10U3lTbENnX0pla3hsUFRONkMxNGVRU3k4MlpMVDMwNXNNVG9ZSG5SWDVRNjBhYTNkdDRVdzFEa1V1LWhQZWd5WEIxWlRCUWJoZjlDNEU1Nm8wZFVFTzdsQUpjVW16Q0oxSjljdGIyalE?oc=5",
+     "source": "The Courier Mail",
+     "published": "2026-10-27T10:18:58+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -596,7 +635,7 @@
      "also": []
     },
     {
-     "title": "Data breach affects customers of six insurers in Singapore",
+     "title": "Data Breach Affects Customers of Six Insurers in Singapore",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1rclFRYzlWRHUtX2RGMWNkS2puNm5veTEwMXZNN09fTTladzRkMi0zOGwwSkRiZktjeVg0LVM2eDdWVTNrMWZ5Sy1BZkhHbVFaeGxoRXB4cnVyTUJ5VUE?oc=5",
      "source": "ইন্স্যুরেন্স নিউজ বিডি",
@@ -606,6 +645,20 @@
      "extra": "",
      "tags": [
       "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Cybersecurity of Critical Infrastructure in India: UPSC",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRU5YYTd5Ym9rcjlQSnFTN244NW4zWHlaWGxSNTdBdjZPbTBabWx0WEhnYjhzWEh0WExzOGV0U0dnWXpSVEZZYzdsTmthRGViLWU0RDdseVpxNFZqaXo2b3hnQV82d2dSTlpxdlM3enFPNVFRQUpZTjRRSWxQYlJNaElVR2FPVmdDbTBUSGY1Y3BQTmtlMnRaZA?oc=5",
+     "source": "INSIGHTS IAS",
+     "published": "2026-10-27T08:31:16+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
       "APAC"
      ],
      "also": []
@@ -636,9 +689,7 @@
      "tags": [
       "APAC"
      ],
-     "also": [
-      "Bloomberg.com"
-     ]
+     "also": []
     },
     {
      "title": "Australia warns of 'unprecedented' AI threat",
@@ -671,77 +722,15 @@
      "also": []
     },
     {
-     "title": "Japan’s GMO Internet warns users of impending ransomware attack",
+     "title": "Hackers release data after GMO ignores ransom demand | NHK WORLD-JAPAN News",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYk1oWDhVdzR3cG9LT1g0VXJfbFQ1cTNlM3hNLXhXQXJrU3pOR1lzTlQyVkpMcXhGcFl6bmdFNVlSSHdIWlVUUXNoRFF2ajFNSU9RUVFVUGlYWmtDU2kxTURIdHhSTVJrV2hSOEhkdElmUWp6ekM5TktSQTlzSDlmYTBqdTVqN01kMnRWMHFoem44bTcxQjlYdUJ3?oc=5",
-     "source": "Yahoo Finance",
-     "published": "2026-10-27T04:03:00+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9pTFVtX2QwSEdkUFVLTmlnTzZCX3BqMWc0V0dOaGRkZEFoTVFNWThqeUdzSlM3bnZGcFh6bmM2ZmhxbXlhZ1lJM3EwaHpiNEVUOHQ5SlJDNVBXbUZ1VGgtdFAwbw?oc=5",
+     "source": "NHKニュース",
+     "published": "2026-10-27T05:09:28+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
      "tags": [
-      "Ransomware",
-      "APAC"
-     ],
-     "also": [
-      "Investing.com"
-     ]
-    },
-    {
-     "title": "AhnLab Targets Japan's OT Security Market Amid Ransomware Threats",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1NclhmaXhsSmVUMFZidGVjYlZ4VGs1TzZ2NV9fbU1xREV1WElNT3JDN0IwM01EMGtUX2ZDOHJLaUVDZ3ptYU0tY01QVW5GNGMyN0NaZ0pYMFZhQ1kwZWZrb2U1YldsbkE?oc=5",
-     "source": "THE ELEC, Korea Electronics Industry Media",
-     "published": "2026-10-27T01:58:26+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Ransomware",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Cyberattack on Japan internet provider GMO threatens customer computers",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMjZrSm9yYW5OT2E0dUczb2huaXFTbE9pRkhpOXhSUHdrckwxT0dFRk1ERWhkeG9zMEx0aVA3WmxtdW9sdHNiSHBFV3JWYi1yd2Q5Q3g4RmJuMk5pQjhMUWtaczNPM3oyVVdHQnJ1aW9PUDg4cExSZExDTTdCTDZKTUxYcXRMZmxmMmtfMVpxcFJONE5TTmRvb0pJRThEVlFHSVVLVGhkcTJFTmUwejBIN1NxQjJITlVPYXRR?oc=5",
-     "source": "Nikkei Asia",
-     "published": "2026-10-26T18:42:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Japan Considers Compensation for Cyberattack Victims and Sweden Restricts ChatGPT and Claude",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPa1I4N3BhVVBhdmdUX1EyMk51bkRySGgyRnR6XzVJOGwyNFJoQnhBUWl1QWhpSjhmTFYwYlQ4NjhDcDhYelduU29UU3NKdURaVjlMbEcyNHIwX09EU3ZLWFBXemJqNmwwVmJYbE4tY2FqRHotSGNJVlM5VnQzanhxV1Qza3Q0QWNyQVBBU3NTMFhVLWtYM2dwSE5QNGtMNkNZaEhfQ21XWHJXc0Y4dTBFc1VQZC1pZzhwZVI3WU1VWVV0ODZ6UmlEWTY3d1c?oc=5",
-     "source": "Cybersecurity Insiders",
-     "published": "2026-10-26T15:43:26+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "AI",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Japan's Yumir Link Data Breach Expands to 51.62 Million Records; Unauthorized Output Confirmed on 49 Systems",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBDbzU4bEVITmI2U2JQMlhlYXNIRE1PRkttSWxueURmNDdhemNneHMtbEFzWGtET2lvbDU4Nm1IOTBqZk5YM0RBd2Rrbl96QXNTeHZNa04zVFNadEhSMWstRVpoX0theTBNbEhuSXpZb1ZxdVJfX0E?oc=5",
-     "source": "BigGo Finance",
-     "published": "2026-10-26T14:55:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
       "APAC"
      ],
      "also": []
