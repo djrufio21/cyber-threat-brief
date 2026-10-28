@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T16:43:09+00:00",
+ "generated": "2026-10-28T21:44:03+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -112,6 +112,129 @@
    "name": "Breaking Threats",
    "stories": [
     {
+     "title": "Court strikes down West Virginia law barring disclosure of public officials’ personal data",
+     "subtitle": "",
+     "link": "https://therecord.media/west-virginia-daniels-law-struck-down-appellate-court",
+     "source": "The Record",
+     "published": "2026-10-28T20:50:00+00:00",
+     "date_only": false,
+     "summary": "A federal appellate court panel said West Virginia's version of Daniel's Law — meant to shield the personal data of police and other officials — is unconstitutional.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Police seize Virtualine bulletproof service tied to ransowmare, cybercrime",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/",
+     "source": "BleepingComputer",
+     "published": "2026-10-28T20:47:22+00:00",
+     "date_only": false,
+     "summary": "U.S. law enforcement has seized the primary domain of Virtualine, a bulletproof hosting service advertised on cybercrime forums for facilitating illegal activities. [...]",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Japan Airlines warns of data breach as country grapples with multiple cyber incidents",
+     "subtitle": "",
+     "link": "https://therecord.media/japan-airlines-warns-of-breach-country-grapples-with-incidents",
+     "source": "The Record",
+     "published": "2026-10-28T20:33:00+00:00",
+     "date_only": false,
+     "summary": "Hackers stole passport numbers, frequent flyer numbers, email addresses and phone numbers for about 2,000 customers.",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": [
+      "The Record from Recorded Future News"
+     ]
+    },
+    {
+     "title": "Discord to let search engines index public server messages",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/",
+     "source": "BleepingComputer",
+     "published": "2026-10-28T18:44:16+00:00",
+     "date_only": false,
+     "summary": "Discord will allow search engines to index discussions in Discoverable Servers and make them accessible on the web to users outside the platform without an account or invitation. [...]",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html",
+     "source": "The Hacker News",
+     "published": "2026-10-28T18:08:33+00:00",
+     "date_only": false,
+     "summary": "The China-nexus cyber espionage group known as Volt Typhoon has been attributed to a now-disrupted covert access network dubbed Silent Train that has been put to use for zero-day exploitation and strategic access. \"First identified in late…",
+     "extra": "",
+     "tags": [
+      "Zero-day",
+      "Nation-state"
+     ],
+     "also": [
+      "BleepingComputer"
+     ]
+    },
+    {
+     "title": "European digital rights nonprofit noyb sues Scale AI for ‘invasive’ worker surveillance",
+     "subtitle": "",
+     "link": "https://therecord.media/noyb-sues-scale-ai-for-worker-surveillance",
+     "source": "The Record",
+     "published": "2026-10-28T18:02:00+00:00",
+     "date_only": false,
+     "summary": "Noyb alleges the platform in some cases records freelancers’ mouse clicks and keystrokes every few seconds and claims the collected information can be used to generate video documenting freelancers’ entire workday.",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "US sanctions Russians, North Koreans for laundering IT worker earnings",
+     "subtitle": "",
+     "link": "https://therecord.media/north-korea-russia-sanctions",
+     "source": "The Record",
+     "published": "2026-10-28T17:45:00+00:00",
+     "date_only": false,
+     "summary": "The U.S. Treasury Department sanctioned Russian and North Korean nationals for allegedly laundering the earnings of illicit IT workers on behalf of Pyongyang.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html",
+     "source": "The Hacker News",
+     "published": "2026-10-28T17:08:09+00:00",
+     "date_only": false,
+     "summary": "Third-party Android app stores can now apply to Google for permission to install apps with one tap, without Android's usual confirmation screens, and to update them in the background. To qualify, a store must pass identity checks and send…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Sony ISP subsidiary data breach exposes 2.5 million customer records",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/sony-isp-subsidiary-data-breach-exposes-25-million-customer-records/",
+     "source": "BleepingComputer",
+     "published": "2026-10-28T16:45:47+00:00",
+     "date_only": false,
+     "summary": "Sony Network Communications has confirmed a data breach that compromised approximately 2.5 million records containing current and former customers' personal information. [...]",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "Telecom"
+     ],
+     "also": []
+    },
+    {
      "title": "Moldova investigates possible foreign involvement in major government cyberattack",
      "subtitle": "",
      "link": "https://therecord.media/moldova-investigates-possible-foreign-involvement-cyberattacks",
@@ -119,6 +242,18 @@
      "published": "2026-10-28T16:37:00+00:00",
      "date_only": false,
      "summary": "Prime Minister Vasile Tofan said the incident may be part of a broader campaign targeting both citizens' personal data and government digital infrastructure, according to local media reports.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html",
+     "source": "The Hacker News",
+     "published": "2026-10-28T16:23:34+00:00",
+     "date_only": false,
+     "summary": "A chain of logic flaws, with no memory corruption, can turn a malicious web page into code running on a Windows computer outside Microsoft Edge's sandbox, a security researcher has shown. Orange Tsai of DEVCORE published the full method on…",
      "extra": "",
      "tags": [],
      "also": []
@@ -137,47 +272,6 @@
       "Breach",
       "AI"
      ],
-     "also": []
-    },
-    {
-     "title": "Volt Typhoon hides zero-day attacks using 'Silent Train' framework",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/",
-     "source": "BleepingComputer",
-     "published": "2026-10-28T16:00:00+00:00",
-     "date_only": false,
-     "summary": "Chinese state-sponsored hacking group Volt Typhoon has been using a framework that relies on rotating chains of connected devices compromised on demand, including for zero-day attacks targeting high-value systems. [...]",
-     "extra": "",
-     "tags": [
-      "Zero-day",
-      "Nation-state"
-     ],
-     "also": []
-    },
-    {
-     "title": "UK to look at making software companies liable for cyber breaches",
-     "subtitle": "",
-     "link": "https://therecord.media/uk-budget-proposal-software-companies-liable-cyber-breaches",
-     "source": "The Record",
-     "published": "2026-10-28T15:37:00+00:00",
-     "date_only": false,
-     "summary": "The new U.K. budget says the government will \"consider where liability for cyber breaches should sit,\" potentially a landmark shift for a country that has relied on voluntary codes to encourage software vendors to improve security.",
-     "extra": "",
-     "tags": [
-      "Breach"
-     ],
-     "also": []
-    },
-    {
-     "title": "Belarusian hackers increasingly acting as proxies for Russia amid war in Ukraine",
-     "subtitle": "",
-     "link": "https://therecord.media/belarus-russia-hackers-ukraine-war",
-     "source": "The Record",
-     "published": "2026-10-28T15:15:00+00:00",
-     "date_only": false,
-     "summary": "Belarus-linked hackers are increasingly aligning their cyber operations with Russia's interests in Ukraine, researchers said Wednesday.",
-     "extra": "",
-     "tags": [],
      "also": []
     },
     {
@@ -294,7 +388,7 @@
      "source": "The Hacker News",
      "published": "2026-10-28T12:48:03+00:00",
      "date_only": false,
-     "summary": "Threat actors are beginning to probe for a newly patched critical vulnerability in Oracle E-Business Suite (EBS), according to threat intelligence firm Defused Cyber. The vulnerability in question is CVE-2026-101767 (CVSS score: 9.8) in…",
+     "summary": "Threat actors are beginning to probe for a newly patched critical vulnerability in Oracle E-Business Suite (EBS), according to threat intelligence firm Defused Cyber. The vulnerability in question is CVE-2026-101767 (CVSS score: 9.8) , a…",
      "extra": "",
      "tags": [],
      "also": []
@@ -324,20 +418,6 @@
      "also": []
     },
     {
-     "title": "FBI seizes ‘bulletproof’ hosting site accused of facilitating child abuse, money laundering",
-     "subtitle": "",
-     "link": "https://therecord.media/fbi-seizure-csam-virtualine",
-     "source": "The Record",
-     "published": "2026-10-28T12:00:00+00:00",
-     "date_only": false,
-     "summary": "The FBI seized the domain of a “bulletproof” hosting provider accused of facilitating a range of cybercrimes, including money laundering and the distribution of child sexual abuse material.",
-     "extra": "",
-     "tags": [],
-     "also": [
-      "The Hacker News"
-     ]
-    },
-    {
      "title": "Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers",
      "subtitle": "",
      "link": "https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html",
@@ -362,82 +442,6 @@
       "AI"
      ],
      "also": []
-    },
-    {
-     "title": "Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html",
-     "source": "The Hacker News",
-     "published": "2026-10-28T11:15:51+00:00",
-     "date_only": false,
-     "summary": "Adobe has released patches to address multiple critical security flaws in Campaign Classic that, if successfully exploited, could result in arbitrary code execution, security feature bypass, and privilege escalation. The list of eight…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Long-Hidden Flaws Patched in EPICS Research Facility Control Software",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/long-hidden-flaws-patched-in-epics-research-facility-control-software/",
-     "source": "SecurityWeek",
-     "published": "2026-10-28T10:48:00+00:00",
-     "date_only": false,
-     "summary": "Four EPICS Base flaws found by an autonomous system could let attackers crash processes at particle accelerators and fusion labs. The post Long-Hidden Flaws Patched in EPICS Research Facility Control Software appeared first on SecurityWeek…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "CISA warns of hackers now exploiting critical Node2Shell flaw",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/",
-     "source": "BleepingComputer",
-     "published": "2026-10-28T10:46:23+00:00",
-     "date_only": false,
-     "summary": "On Tuesday, the US Cybersecurity and Infrastructure Security Agency (CISA) confirmed that hackers have begun exploiting a critical Brotli vulnerability known as Node2Shell, Broccoli2Shell, and HTTP2Shell. [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/american-organizations-under-attack.html",
-     "source": "The Hacker News",
-     "published": "2026-10-28T10:30:00+00:00",
-     "date_only": false,
-     "summary": "Modern phishing campaigns can compromise American businesses without relying on traditional credential theft. Attackers can abuse legitimate cloud services, authentication mechanisms, and trusted business workflows to gain access to…",
-     "extra": "",
-     "tags": [
-      "Phishing"
-     ],
-     "also": []
-    },
-    {
-     "title": "Nobody Trusts the Security Questionnaire. We Rely on It Anyway.",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/nobody-trusts-the-security-questionnaire-we-rely-on-it-anyway/",
-     "source": "SecurityWeek",
-     "published": "2026-10-28T10:30:00+00:00",
-     "date_only": false,
-     "summary": "The process that gates nearly every B2B deal is a self-assessment the sender distrusts and the receiver accepts. There is finally a better basis for trust between companies. The post Nobody Trusts the Security Questionnaire. We Rely on It…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Secrets Management Firm Infisical Valued at $600 Million After $40 Million Raise",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/secrets-management-firm-infisical-valued-at-600-million-after-40-million-raise/",
-     "source": "SecurityWeek",
-     "published": "2026-10-28T09:48:24+00:00",
-     "date_only": false,
-     "summary": "The company will use the Series B funds to expand its platform for securing AI agents’ access to sensitive systems. The post Secrets Management Firm Infisical Valued at $600 Million After $40 Million Raise appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
     }
    ]
   },
@@ -445,11 +449,28 @@
    "name": "APAC Watch",
    "stories": [
     {
-     "title": "Chinese AI Tool Linked to Hacks in Japan",
+     "title": "Sarku Japan Data Breach Lawsuit Investigation",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPXzI3bFVJdEgwYUUwTWxUY2UyZlVFYmI3QlBWU3BMMG1hWjhHZVQ1UHZFaUlBdGwwc2pPdXJxYTgtWVlxdXh1QktTOW55dW9QU2ZZYldSNGM2WklORTNpZWJBZ2NMZEQ5cE9aSl9SaHBnTmpDZ0VmdkJVSkt6OFJSZzZWa0NkLVU?oc=5",
-     "source": "WSJ",
-     "published": "2026-10-28T13:32:37+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQay1nLVNpT2JUVjZrYjE5R2hGYTNSM1JXcEx1RWxYU3dvRGRFZ0cyZm8wYmRxamVYMXJ4NHl6TU16elVobFZ4elhOUnNEZTlqU1NSejhzZDI4YkpocnZIZkQ4aEMtWllvZnhaY2ZqZWpwbnU1QXluMGwyQU9jS25uaWp3?oc=5",
+     "source": "Claim Depot",
+     "published": "2026-10-28T21:25:57+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": [
+      "Digital Watch Observatory"
+     ]
+    },
+    {
+     "title": "ASD Cyber Threat Report: AI Speeds Up Attacks on Australia",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5CRURid2RxT0JqbXVYVWVoaHRadHg2cjRLY0V6Mi1nU0ppVXhRNkNHTW1YN3JWN2xadDZvMGVUeXAwUzRZV2N6dy05d3F2M1JBRWs5Rzl6dDc4V1pvczBSOGRR0gFiQVVfeXFMTkJFRGJ3ZHFPQmptdVhVZWhodFp0eDZyNEtjRXoyLWdTSmlVeFE2Q0dNbVg3clY3bFp0Nm8wZVR5cDBTNFlXY3p3LTl3cXYzUkFFazlHOXp0NzhXWm9zMFI4ZFE?oc=5",
+     "source": "The Cyber Express",
+     "published": "2026-10-28T20:01:30+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -460,11 +481,11 @@
      "also": []
     },
     {
-     "title": "Times Car users in Japan prepare lawsuit against Park24 over major data breach",
+     "title": "India’s Film Certification Board Data Breach Exposes Documents Linked to More Than 500 Film Titles",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBSUDNPX2M4b1RTSlRjbVR1aXBuaDNDV3d1UkdIZURqb01ESV9NcENETnRQUl90WlNDRFA3M04tUFc1RkhweHl6aU5RXzBpT3c3eWJwemtxWDQ5UDNvTGl3LTZVZ1NJMHRjVGVncDQ0WlVhbklMVW93SUxxSQ?oc=5",
-     "source": "Digital Watch Observatory",
-     "published": "2026-10-28T13:18:49+00:00",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcUc2ZkpUdnlBLVVHQnlBQ1JWZy1XSmFUc0c4Ty1kTU5EdVlILVAzRHpNbzRmYnN4OGFxcFRGeWk0b2ptYWZHVGRUUmRNWkE3T3czU3YxYWpBOV9mUGhOcmxRWWZkaHROZ0xESHFiR0U4SmVZdV9iNXVtb3BLSVQzS2kzQlVwcVUtN3NlY2lnQk84TWtocDNZVmlvcmFmbTRnS3ZCQnNJQTFFb1VCaGY4WXM4LU11SWRZZlZPUTZzSGdfTm1ERFFkcWtVVzFRSV80UVE?oc=5",
+     "source": "Security Boulevard",
+     "published": "2026-10-28T18:15:52+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -475,17 +496,56 @@
      "also": []
     },
     {
-     "title": "SBI data exposure puts India’s cybersecurity ecosystem under scrutiny",
+     "title": "Japanese internet provider GMO urges customers to unplug computers after cyber attack",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPR21RbTIyc0NVWjlPSEY3SHV0bzVtQlRZNnp2TTBjZVltejZtTnF2LUh6cjQzeWNTamI4bWtYQTdGRG82NHBGMWdfR0xMZDB1QWdydG12YS1jLVFSNmU3TV9vUVE3SjJDb0pYcGhYRUVNOEoxbEpLVTRmamdWSWZMeVRETm82TmFIckI4bG9NMWNSeUZmNEFhdDdNMGtlXzg0Z1lxQjVxcGw5bFJnWXVRakhLMldJbjBoRHVkbHlkTXdBcnRRRWxkcDFmR3hlUVBqZGtTMnZwa1lkdUJz0gHiAUFVX3lxTE5obVRjVUV6OG1BMmJ6T1dheHNrRkRZV0VMS1VYV092VmRMOERRZnVFcFdLZk54M3M4VnhoSEE4YmZKRVlsWmd4Y0tSaDMtdThMclY2VGU0UDVteTQzalVkTGhhU1VVdG9aQkF6TktvajdCOFMzTF8tZVhZelNtXy02Nzh6eTFYV0lFVFVpNTBRb055MGZiME04ZERsakZBMnNwZy04YlpNV1hXdFpwOUtzSU5NdkM5M3YtQlBDMExRZFRmVGN6RWxPeTdxTWVDd3hlRzVObnVCNVUzR2d5RHBRZ1E?oc=5",
-     "source": "ET Entrepreneur",
-     "published": "2026-10-28T09:59:29+00:00",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTk1qa1NmeDAxU0tjMlo2UjhTQ2tPV0NGVzQ0bkhNa2d3ZnBtODA4S3BQRS1sMld5UWZtWmVrWklrQUdhU0lIRVUwRXFJQmFtNHQ4SnFDbnBCWVFUSlFsb3NJZExHLXhIQVpVR2Z4cGhOZHNMRUtFUEI5UDdxZkRIWHNmRUhhN0NsWUFzWXVydVdac3PSAZgBQVVfeXFMT2pZNDloTkVLQ3NUdm5laGdIanc0ZXh2dUQ0SFg2QzJVWmpWdVZLOEt1SndPeGowS09vdHBxWGh0Vi01NHZDRDFUVE1QZV9mc3dLWXJweFBZbzhPaW1CbF9SOEpERmZCdlR6Vm9oN1hQaUxPUjR1ZXVNOTdsSFprQUxjN1p3QUZhejkzcXltQ3F4S0pXWXV5WV8?oc=5",
+     "source": "Daily Express US",
+     "published": "2026-10-28T14:36:39+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": [
+      "The Independent"
+     ]
+    },
+    {
+     "title": "MR ROBOT Malware Rental Network Targets Indian Bank Customers With Fake KYC Apps",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ1VnMklicUtFU19yMEROdVVkYkxFbUNnZnI0aTdvazRhUWdaLTRVZ285Vjlkam9keGxLbTFQTm1kWG1MSFdJV3ptR1F5bElPRjhpZ29VVTJDMnBYX25QRjdTYmhYSXdyTzVjNV8xcnpicmUweV8xeko4SHFIYVpIWjhibkIwV05QWGZpZ0Izakx5S0wzeDBfLTJ2c2E0c3V4bU0tcS1ianNuMXJVbktGaA?oc=5",
+     "source": "The 420.in",
+     "published": "2026-10-28T12:15:11+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "AI-Powered Hackers Target Japanese Companies With Automated Attacks and Credential Theft",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50b3F0LU14Vy1qeG41RlhQQzBaYzZYWFRVNzFPaHY1VXB5LVhBSldWS2wzcy1xc3V3Q2Z3Z0ZWR0NRMC1mRDRIdlRQeHYwbHJmYVUwTXUwUWlIMlR3Vktj0gFkQVVfeXFMUHl6QU96aFoxdnRIUGxvNXU4Tjh0ZHN1RExZck1qMmlQeWU0eEo3bXhDT09kNzJYcmNKTFBTd3JVcWNLVFB0VGhCbklmbHY2cGlhYWpoODROZFJlNXhUSVg4SEsybA?oc=5",
+     "source": "GBHackers News",
+     "published": "2026-10-28T12:10:35+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
      "tags": [
-      "APAC"
+      "AI",
+      "Phishing"
      ],
+     "also": []
+    },
+    {
+     "title": "Australian travellers targeted in sophisticated hotel booking scam after RMS Cloud cyberattack",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUjBZbEN6cXRhem82MEVydDcyUUlRTzFiZ0VaM2VjX1pzaUhDNTlMeUlfdU9FT0FVUFdhRmhaR082akl2MDhsZHY5SFQyZmJ0ekctQzFYODlWMDItZUdFdjVRSzlDMmFKSHlMVEt3S1RsY29hbFg1aHhwN1c1LTJOQldDbXFyRDdxYWVzR3ktRFpfeDVURWw2MjBiSm00c3hMZldYWlN1ajZZS3cwSnFaZ3Q2NkRqeG5OdkVfN21YSHRocGMxRnZ0TlZneHRNQdIB0wFBVV95cUxOZ0EyLUQtX3A1Mk4xbzJzM3NuM1NJeGNGYWlKWm5pOENkZERPZkNFVjhPb0VSampwRHVSS2V6ajBVNDB0czZLR21ZU1I0ZGFGQndmdW5WalpsSF94Tk1GTmYyS3dhdHNGbFpYdVhWOWpqZTVCNHFiWGQ2QmkxSV8yeUotdFJkUDlqaWVTOXFZRnBZMDAwWjZ6WS1tS2l3ZkpnUDZORFB3VEUtay1XRm5HYUNnRlZOR1k3UjZpeWl1WFVWSXlHS3ZEWmRwTXNpbFhDQmxn?oc=5",
+     "source": "7NEWS",
+     "published": "2026-10-28T11:05:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
      "also": []
     },
     {
@@ -552,27 +612,15 @@
     {
      "title": "Japan's GMO Internet outlines cyberattack-response measures",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PVlllbHM0UmktLWVJSFNJV0lqMHkyUF94dTlRdkMtZHlCTW8wMnBWM1lwVkk0bnBsR1ZxdVcyUE1KN3JLeEV1dXN0eFU4Tld1UWlDZEVFNW5Sd9IBWkFVX3lxTE5PVlllbHM0UmktLWVJSFNJV0lqMHkyUF94dTlRdkMtZHlCTW8wMnBWM1lwVkk0bnBsR1ZxdVcyUE1KN3JLeEV1dXN0eFU4Tld1UWlDZEVFNW5Sdw?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVllyR21raHpfRWVac0NlblRTOFZkTzdtdm1KSmxFSVFhR3Z2WXQ5WU9zWUZEQnJwTjZqZ3dVVGFuaVZ4Vk43N1VIeERsamVpNUxtZ2RTbFQzYmtMaXdiZ2I0NjY3blduWk85MkJhODVQM2J3SzJYbXB5S0R0cndUTHE5N3FWazNzazdseWw2SVRtZGNxaEROU2lXQl9uYmpkYmNLZVpDNWRseHpXTHM0ekNZZWkzdDBtOFByeTdydWd4UdIBWkFVX3lxTE5PVlllbHM0UmktLWVJSFNJV0lqMHkyUF94dTlRdkMtZHlCTW8wMnBWM1lwVkk0bnBsR1ZxdVcyUE1KN3JLeEV1dXN0eFU4Tld1UWlDZEVFNW5Sdw?oc=5",
      "source": "MLex",
-     "published": "2026-10-28T07:18:00+00:00",
+     "published": "2026-10-28T07:18:45+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
      "tags": [
       "APAC"
      ],
-     "also": []
-    },
-    {
-     "title": "Japanese internet provider tells customers to unplug computers amid major cyberattack",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcUpqWW9KUWtydUE2LU9rYnRBb1hKY3BmZUxYR3NSTGswYXp3cmtFODdFWXY4ajVFNnMwcURMb2dOVkNNZkhxQXlCOXhzOGRzcTJhak85NnZWalJMMGpCbWxQYXVTMzdieTRrLUZCUWxtdDE0VlEzdS1tREJFbU1ZWG1QSVFNa1pzWXp3N281SXNIcW1GSkNHU0RCbnNZZTQzSlE?oc=5",
-     "source": "The Independent",
-     "published": "2026-10-28T07:10:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
      "also": []
     },
     {
@@ -607,7 +655,7 @@
     {
      "title": "Japan's IDC Frontier discloses new ransomware findings",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNTVqaEJiTWliNDZmRTdacVN3dHNWSTllVDE2Z1E3UEFYakJuMldMUE11OTZJZ2Ywa3dtMWwzUTg2WlNTTV8tdEJDbjV1aEhvUVBHVnZvYVNfSFR3bVhtempuaUZKa21iQVJwclE2cHVfQmRESzkzSnF2R09sb0hlWGtvYzNNOHBMRjRjMnh1UXFpVnZlZWRTRllNRFA2Z9IBWkFVX3lxTE5fT3VLcEhsZG8wOVBENWU0N1RiaHdNS0plOXBCSlZvQUY1MHk2QVVCMjc4OEp0ZHZEbm9NWWxFSE9XdDJfZmgyUGxJQXJ0SGx6aUluZFdRQWZlQQ?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQUt4WUJvR0FvWjREZXJQbnFrVTFtNlNGU3ppbGdUVHlYQWpEaGNXQU5xOWlDN0xIUWN3dS1EX1N2VVVkcWczZ21TMGRFVDZMYldLN2VQbGNRMHhEQXYxRVU2WHdOd0xNSEJJQ0lMWjVOcFpZLXRSOGY5UGh1WVNEd01iTHMxRjU3YW9vaTlSVDFwTVJNNG5QNGxnQm9oYkpqSzZyVFZoWktycURjWVU3MG84Z2pSVDZybHgw0gFaQVVfeXFMTl9PdUtwSGxkbzA5UEQ1ZTQ3VGJod01LSmU5cEJKVm9BRjUweTZBVUIyNzg4SnRkdkRub01ZbEVIT1d0Ml9maDJQbElBcnRIbHppSW5kV1FBZmVB?oc=5",
      "source": "MLex",
      "published": "2026-10-28T01:47:04+00:00",
      "date_only": false,
@@ -618,26 +666,39 @@
       "APAC"
      ],
      "also": []
-    },
-    {
-     "title": "Australia severs criminal access to 180,000 computers after breaching Amadey malware backend",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMGw3NElzaXhCSWRhb2RNZ1c0THBBMEtYYzVYSzlRY2Q1amRnX3FGcGtYVlNNYUR5dGQ4dk9fc2w5WTFDZWpsU290WlFiejBkb29IWmdQNVVzdUcycGhMRVEzQ2xWM3JGWE9LdUVMSzBoUjh0dnRvamJiZWhzTThOMzV5YnpzdF96NGhmUnAtNkdKYTN1Y2NHLTI0ZHhNSUJSal94LUFFZ19vbXBYWE9NWDlkTmVEdVA5UHpUUURR?oc=5",
-     "source": "news.lavx.hu",
-     "published": "2026-10-28T00:57:50+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
     }
    ]
   },
   {
    "name": "Threat Research",
    "stories": [
+    {
+     "title": "Inside KeyDrift: Analyzing historical UAT-11473 activity on Cisco SD-WAN",
+     "subtitle": "",
+     "link": "https://blog.talosintelligence.com/uat-11473-keydrift/",
+     "source": "Cisco Talos",
+     "published": "2026-10-28T21:32:02+00:00",
+     "date_only": false,
+     "summary": "Talos has identified UAT-11473, a highly sophisticated APT, who exploited CVE-2026-20127, an authentication bypass vulnerability in Cisco SD-WAN Catalyst Controller instances to bypass authentication and gain unauthorized access to…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Unwrapping Retail Peak Season Cyber Threats",
+     "subtitle": "",
+     "link": "https://unit42.paloaltonetworks.com/unwrapping-retail-cyber-threats/",
+     "source": "Unit 42",
+     "published": "2026-10-28T18:00:10+00:00",
+     "date_only": false,
+     "summary": "Unit 42 explores key peak shopping season retail cyber threats, from ransomware to AI attacks, and shares how to defend operations and customer trust. The post Unwrapping Retail Peak Season Cyber Threats appeared first on Unit 42 .",
+     "extra": "",
+     "tags": [
+      "Ransomware",
+      "AI"
+     ],
+     "also": []
+    },
     {
      "title": "Tricks from the Past deployed via signed ChatGPT and Claude binaries",
      "subtitle": "",
@@ -738,9 +799,7 @@
      "summary": "Eight compromised eMudhra intermediate CA private keys risk unauthorized TLS signing and MitM interception. Read our analysis and containment guide. The post EMudhra Intermediate CA Certificates Compromised appeared first on Unit 42 .",
      "extra": "",
      "tags": [],
-     "also": [
-      "Cisco Talos"
-     ]
+     "also": []
     },
     {
      "title": "The Current Landscape of OAuth Attacks",
@@ -765,22 +824,6 @@
      "extra": "",
      "tags": [
       "Nation-state"
-     ],
-     "also": []
-    },
-    {
-     "title": "AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise",
-     "subtitle": "",
-     "link": "https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/",
-     "source": "Microsoft Threat Intelligence",
-     "published": "2026-10-21T18:23:55+00:00",
-     "date_only": false,
-     "summary": "Storm-0940 used ARTEX agentic AI to accelerate a ConnectWise supply chain compromise, enabling application credential abuse across Microsoft 365 environments. The post AI-driven, large-scale nation-state campaign using ARTEX enables supply…",
-     "extra": "",
-     "tags": [
-      "Nation-state",
-      "Supply chain",
-      "AI"
      ],
      "also": []
     }
