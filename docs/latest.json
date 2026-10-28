@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T09:50:45+00:00",
+ "generated": "2026-10-28T16:43:09+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -112,136 +112,56 @@
    "name": "Breaking Threats",
    "stories": [
     {
-     "title": "Nefilim and Hive ransomware affiliate gets 70 months in prison",
+     "title": "Moldova investigates possible foreign involvement in major government cyberattack",
      "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/",
-     "source": "BleepingComputer",
-     "published": "2026-10-28T09:43:15+00:00",
+     "link": "https://therecord.media/moldova-investigates-possible-foreign-involvement-cyberattacks",
+     "source": "The Record",
+     "published": "2026-10-28T16:37:00+00:00",
      "date_only": false,
-     "summary": "A Ukrainian national was sentenced to 70 months in prison for his role in ransomware attacks targeting hospitals, government entities, and high-revenue businesses worldwide between 2018 and 2021. [...]",
-     "extra": "",
-     "tags": [
-      "Ransomware"
-     ],
-     "also": []
-    },
-    {
-     "title": "Hackers Start Probing Fresh Oracle EBS Vulnerability",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/hackers-start-probing-fresh-oracle-ebs-vulnerability/",
-     "source": "SecurityWeek",
-     "published": "2026-10-28T09:14:23+00:00",
-     "date_only": false,
-     "summary": "CVE-2026-101767 is an unauthenticated SQL injection that can be exploited for remote code execution. The post Hackers Start Probing Fresh Oracle EBS Vulnerability appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [
-      "Exploited"
-     ],
-     "also": []
-    },
-    {
-     "title": "CISA Warns of Node2Shell Exploitation as Honeypots Log Attack Attempts",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/cisa-warns-of-node2shell-exploitation-as-honeypots-log-attack-attempts/",
-     "source": "SecurityWeek",
-     "published": "2026-10-28T08:37:24+00:00",
-     "date_only": false,
-     "summary": "CISA added the Brotli flaw to its KEV catalog, and two honeypot operators logged attempts, including one that used a broken exploit. The post CISA Warns of Node2Shell Exploitation as Honeypots Log Attack Attempts appeared first on…",
+     "summary": "Prime Minister Vasile Tofan said the incident may be part of a broader campaign targeting both citizens' personal data and government digital infrastructure, according to local media reports.",
      "extra": "",
      "tags": [],
      "also": []
     },
     {
-     "title": "Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits",
+     "title": "PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network",
      "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html",
+     "link": "https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html",
      "source": "The Hacker News",
-     "published": "2026-10-28T08:15:07+00:00",
+     "published": "2026-10-28T16:02:45+00:00",
      "date_only": false,
-     "summary": "An unreleased Anthropic AI model found security flaws in Chrome, Safari, Android, Windows, and Linux and chained them into working proof-of-concept exploits, the company said in its latest report. The exploits were built in the lab after…",
+     "summary": "Cybersecurity researchers have disclosed details of what appears to be an artificial intelligence (AI)-assisted attack orchestrated by a suspected China-nexus threat actor that has leveraged the PHP2Shell vulnerabilities to breach exposed…",
      "extra": "",
      "tags": [
+      "Nation-state",
+      "Breach",
       "AI"
      ],
      "also": []
     },
     {
-     "title": "FBI Seizes Virtualine Domain Over Alleged Criminal Hosting and Bitcoin Money Laundering",
+     "title": "Volt Typhoon hides zero-day attacks using 'Silent Train' framework",
      "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/fbi-seizes-virtualine-domain-over.html",
-     "source": "The Hacker News",
-     "published": "2026-10-28T07:37:50+00:00",
+     "link": "https://www.bleepingcomputer.com/news/security/volt-typhoon-hides-zero-day-attacks-using-silent-train-framework/",
+     "source": "BleepingComputer",
+     "published": "2026-10-28T16:00:00+00:00",
      "date_only": false,
-     "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the seizure of a domain associated with a bulletproof hosting provider (BPH) named Virtualine. The move was in response to the service being used to commit and facilitate prolific…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html",
-     "source": "The Hacker News",
-     "published": "2026-10-28T07:13:21+00:00",
-     "date_only": false,
-     "summary": "Japan's GMO Internet Group is offering up to $1 million in total for tips that help catch the attackers who breached its Onamae.com Desktop Cloud service, after refusing to pay an extortion demand. The reward program opened on October 28…",
+     "summary": "Chinese state-sponsored hacking group Volt Typhoon has been using a framework that relies on rotating chains of connected devices compromised on demand, including for zero-day attacks targeting high-value systems. [...]",
      "extra": "",
      "tags": [
-      "Ransomware",
-      "Breach",
-      "APAC"
-     ],
-     "also": [
-      "Finance Magnates",
-      "Quartz"
-     ]
-    },
-    {
-     "title": "Tailscale Patches SSH Flaws That Could Let Hacked Devices Gain Root Access on Other Servers",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/tailscale-patches-ssh-flaws-that-could.html",
-     "source": "The Hacker News",
-     "published": "2026-10-28T06:20:37+00:00",
-     "date_only": false,
-     "summary": "Tailscale has released version 1.104.4 to fix flaws in its built-in SSH server that could let an attacker reach services and files on other servers that only the root user should be able to touch. The flaws are in how Tailscale SSH…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "ShinyHunters-Exploited Oracle PeopleSoft Zero-Day Turns Out to Be Three Chained Flaws",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html",
-     "source": "The Hacker News",
-     "published": "2026-10-28T06:04:58+00:00",
-     "date_only": false,
-     "summary": "The critical Oracle PeopleSoft bug that ShinyHunters has exploited since May is not one flaw but three chained together, the researchers who reported it said this week. Oracle patched all three under a single identifier, CVE-2026-35273, in…",
-     "extra": "",
-     "tags": [
-      "Zero-day"
+      "Zero-day",
+      "Nation-state"
      ],
      "also": []
     },
     {
-     "title": "Third Serengeti Sweep Tops 1,400 Arrests as Investigations Mature",
+     "title": "UK to look at making software companies liable for cyber breaches",
      "subtitle": "",
-     "link": "https://www.darkreading.com/cybersecurity-operations/third-serengeti-sweep-1400-arrests-investigations-mature",
-     "source": "Dark Reading",
-     "published": "2026-10-28T06:00:00+00:00",
+     "link": "https://therecord.media/uk-budget-proposal-software-companies-liable-cyber-breaches",
+     "source": "The Record",
+     "published": "2026-10-28T15:37:00+00:00",
      "date_only": false,
-     "summary": "Interpol's annual Operation Serengeti, now on its third iteration, led to 1,462 arrests across 20 African countries and the US, recovering $105 million in stolen funds.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Adobe Commerce PolyShell Attacks Breach Hundreds of Stores as Brotli Exploit Traffic Emerges",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html",
-     "source": "The Hacker News",
-     "published": "2026-10-28T05:42:26+00:00",
-     "date_only": false,
-     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two vulnerabilities impacting Adobe Commerce and Magento, and Google's Brotli decoder library to its Known Exploited Vulnerabilities (KEV) catalog, citing…",
+     "summary": "The new U.K. budget says the government will \"consider where liability for cyber breaches should sit,\" potentially a landmark shift for a country that has relied on voluntary codes to encourage software vendors to improve security.",
      "extra": "",
      "tags": [
       "Breach"
@@ -249,57 +169,94 @@
      "also": []
     },
     {
-     "title": "Japan's GMO urges customers to shut down PCs amid ransomware threat",
+     "title": "Belarusian hackers increasingly acting as proxies for Russia amid war in Ukraine",
      "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/",
-     "source": "BleepingComputer",
-     "published": "2026-10-27T23:35:51+00:00",
+     "link": "https://therecord.media/belarus-russia-hackers-ukraine-war",
+     "source": "The Record",
+     "published": "2026-10-28T15:15:00+00:00",
      "date_only": false,
-     "summary": "The GMO Group has urged customers to disconnect their systems from the internet and shut down computers after a threat actor who breached the company's Onamae Desktop Cloud threatened to launch a ransomware attack today. [...]",
-     "extra": "",
-     "tags": [
-      "Ransomware",
-      "Breach",
-      "APAC"
-     ],
-     "also": [
-      "CyberSecurityNews"
-     ]
-    },
-    {
-     "title": "OpenAI's GPT-6.1 Terra is safer overall, but shows more destructive-action flags in tests",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openais-gpt-61-terra-is-safer-overall-but-shows-more-destructive-action-flags-in-tests/",
-     "source": "BleepingComputer",
-     "published": "2026-10-27T22:43:27+00:00",
-     "date_only": false,
-     "summary": "OpenAI confirmed GPT-6.1 Terra is safer overall than some of its older models, but its safety testing also found other problems. [...]",
+     "summary": "Belarus-linked hackers are increasingly aligning their cyber operations with Russia's interests in Ukraine, researchers said Wednesday.",
      "extra": "",
      "tags": [],
      "also": []
     },
     {
-     "title": "UNM Health ransomware attack disrupts patient care, surgeries",
+     "title": "Ukrainian Hive and Nefilim Ransomware Affiliate Gets 70 Months in US Prison",
      "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/unm-health-ransomware-attack-disrupts-patient-care-surgeries/",
-     "source": "BleepingComputer",
-     "published": "2026-10-27T22:07:34+00:00",
+     "link": "https://www.securityweek.com/ukrainian-hive-and-nefilim-ransomware-affiliate-gets-70-months-in-us-prison/",
+     "source": "SecurityWeek",
+     "published": "2026-10-28T15:05:06+00:00",
      "date_only": false,
-     "summary": "The University of New Mexico Health Sciences Center disclosed a cyberattack that caused system outages and disrupted patient care and academic activities. [...]",
+     "summary": "Artem Stryzhak was sentenced to 70 months in prison after pleading guilty to using Nefilim ransomware in attacks. The post Ukrainian Hive and Nefilim Ransomware Affiliate Gets 70 Months in US Prison appeared first on SecurityWeek .",
      "extra": "",
      "tags": [
       "Ransomware"
      ],
+     "also": [
+      "BleepingComputer"
+     ]
+    },
+    {
+     "title": "Microsoft urges Entra ID admins to migrate users to passkeys",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-reminds-entra-id-admins-to-migrate-users-to-passkeys/",
+     "source": "BleepingComputer",
+     "published": "2026-10-28T14:48:32+00:00",
+     "date_only": false,
+     "summary": "Microsoft again asked Entra ID administrators to migrate users to phishing-resistant methods to avoid sign-in disruptions before it retires SMS and voice authentication in February 2027. [...]",
+     "extra": "",
+     "tags": [
+      "Phishing"
+     ],
      "also": []
     },
     {
-     "title": "3 Frameworks to Protect CISOs & Orgs Against AI Liability",
+     "title": "Attacker Relentlessly Scans for Credentials by Impersonating AI Bots",
      "subtitle": "",
-     "link": "https://www.darkreading.com/cyber-risk/3-frameworks-cisos-ai-liability",
+     "link": "https://www.darkreading.com/cyber-risk/attacker-impersonates-ai-bots-scans-credentials",
      "source": "Dark Reading",
-     "published": "2026-10-27T21:15:03+00:00",
+     "published": "2026-10-28T14:37:52+00:00",
      "date_only": false,
-     "summary": "Cyber leaders can get ahead of AI liability with rigorous documentation, transparency, and smart contract negotiations with AI vendors.",
+     "summary": "The threat actor lurked behind bots posing as agents from OpenAI, Anthropic, Meta, and others to find exposed data.",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "InfraTrust report warns of exploited flaws in critical network infrastructure",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/infratrust-report-warns-of-exploited-flaws-in-critical-network-infrastructure/",
+     "source": "BleepingComputer",
+     "published": "2026-10-28T14:00:00+00:00",
+     "date_only": false,
+     "summary": "Attackers are actively exploiting vulnerabilities across critical network infrastructure, and PHP flaws known as \"PHP2Shell\" put the web management interfaces of firewalls, VPNs, application delivery controllers, and other appliances at…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Upwind Security Raises $400 Million at $3.8 Billion Valuation",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/upwind-security-raises-400-million-at-3-8-billion-valuation/",
+     "source": "SecurityWeek",
+     "published": "2026-10-28T13:56:50+00:00",
+     "date_only": false,
+     "summary": "The massive funding round comes just days after reports emerged that Upwind had attracted acquisition interest from several companies, including Datadog The post Upwind Security Raises $400 Million at $3.8 Billion Valuation appeared first…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Even after PHP2Shell, blast radius matters more than a CVSS score",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/even-after-php2shell-blast-radius-matters-more-than-a-cvss-score/",
+     "source": "BleepingComputer",
+     "published": "2026-10-28T13:50:59+00:00",
+     "date_only": false,
+     "summary": "PHP2Shell shows how quickly attackers can exploit critical vulnerabilities, often before organizations have time to patch. Token Security explains why limiting the access of service accounts, API keys, and AI agents is just as important as…",
      "extra": "",
      "tags": [
       "AI"
@@ -307,81 +264,194 @@
      "also": []
     },
     {
-     "title": "Hackers hijack Convertr analytics script to steal payment card data",
+     "title": "Chrome and Firefox Updates Patch Over 200 Vulnerabilities",
      "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-convertr-analytics-script-to-steal-payment-card-data/",
-     "source": "BleepingComputer",
-     "published": "2026-10-27T20:57:25+00:00",
+     "link": "https://www.securityweek.com/chrome-and-firefox-updates-patch-over-200-vulnerabilities/",
+     "source": "SecurityWeek",
+     "published": "2026-10-28T13:39:35+00:00",
      "date_only": false,
-     "summary": "A credit card skimming group reportedly compromised a shared analytics script used by e-commerce platform Convertr to steal shoppers' payment data during checkout. [...]",
+     "summary": "The Chrome 156 update fixes 52 bugs, while Firefox 159 was rolled out with 167 security patches. The post Chrome and Firefox Updates Patch Over 200 Vulnerabilities appeared first on SecurityWeek .",
      "extra": "",
      "tags": [],
      "also": []
     },
     {
-     "title": "External Teams Chats Anchor 15-Minute Malware Delivery",
+     "title": "TLS Flaws Found in GoAhead Web Server Used in Hundreds of Millions of Devices",
      "subtitle": "",
-     "link": "https://www.darkreading.com/cloud-security/email-bombing-external-teams-chats-repeatable-access-path",
-     "source": "Dark Reading",
-     "published": "2026-10-27T20:42:40+00:00",
+     "link": "https://www.securityweek.com/tls-flaws-found-in-goahead-web-server-used-in-hundreds-of-millions-of-devices/",
+     "source": "SecurityWeek",
+     "published": "2026-10-28T13:10:34+00:00",
      "date_only": false,
-     "summary": "Main bombing sis getting a new look with a wide-scale, ongoing social engineering campaign that might be tied to the Black Basta ransomware gang.",
+     "summary": "FoxIO disclosed three GoAhead TLS bugs that can let revoked certificates through or expose some encrypted sessions to eavesdroppers. The post TLS Flaws Found in GoAhead Web Server Used in Hundreds of Millions of Devices appeared first on…",
      "extra": "",
-     "tags": [
-      "Ransomware"
-     ],
+     "tags": [],
      "also": []
     },
     {
-     "title": "Nefilim, Hive ransomware operator given five-year-plus sentence after guilty plea",
+     "title": "Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch",
      "subtitle": "",
-     "link": "https://therecord.media/nefilim-hive-ransomware-operator-70-months-prison",
-     "source": "The Record",
-     "published": "2026-10-27T20:40:00+00:00",
-     "date_only": false,
-     "summary": "Ukrainian national Artem Stryzhak, 36, had pleaded guilty last year to charges related to participating in at least two well-known ransomware groups.",
-     "extra": "",
-     "tags": [
-      "Ransomware"
-     ],
-     "also": []
-    },
-    {
-     "title": "SBOMs Alone Can't Reveal the Scope of a Supply Chain Attack",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/cyber-risk/sboms-alone-scope-supply-chain-attack",
-     "source": "Dark Reading",
-     "published": "2026-10-27T19:58:06+00:00",
-     "date_only": false,
-     "summary": "A recent Shai-Hulud attack shows defenders need real-time visibility into production code and affected services to respond to supply chain compromises.",
-     "extra": "",
-     "tags": [
-      "Supply chain"
-     ],
-     "also": []
-    },
-    {
-     "title": "US indicts Malaysian national after Madagascar scam operation uncovered",
-     "subtitle": "",
-     "link": "https://therecord.media/malaysian-national-indicted-after-scam-centers-raid-madagascar",
-     "source": "The Record",
-     "published": "2026-10-27T19:30:00+00:00",
-     "date_only": false,
-     "summary": "DOJ action against five foreign nationals — plus a sting in Madagascar — highlight the expanding global reach of the scam center industry.",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "CyberStrikeAI Uses 44 AI Agents to Automate Hacking Operations Against Japan Targets",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/cyberstrikeai-uses-44-ai-agents-to.html",
+     "link": "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html",
      "source": "The Hacker News",
-     "published": "2026-10-27T18:26:46+00:00",
+     "published": "2026-10-28T12:48:03+00:00",
      "date_only": false,
-     "summary": "Cybersecurity researchers have disclosed details of three cyber attacks targeting organizations in Japan in which artificial intelligence (AI) was a key element, either in the driving seat or to assist a human operator. TrendAI, which…",
+     "summary": "Threat actors are beginning to probe for a newly patched critical vulnerability in Oracle E-Business Suite (EBS), according to threat intelligence firm Defused Cyber. The vulnerability in question is CVE-2026-101767 (CVSS score: 9.8) in…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Hackers now scanning systems for recently-patched Oracle flaw",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/",
+     "source": "BleepingComputer",
+     "published": "2026-10-28T12:19:57+00:00",
+     "date_only": false,
+     "summary": "Attackers have begun probing the Internet for systems unpatched against a recently disclosed critical Oracle E-Business Suite (EBS) vulnerability. [...]",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "China-Linked Hackers Exploit PHP2Shell to Root Firewalls",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/china-linked-hackers-exploit-php2shell-to-root-firewalls/",
+     "source": "SecurityWeek",
+     "published": "2026-10-28T12:00:59+00:00",
+     "date_only": false,
+     "summary": "The attackers chained PHP2Shell and Fragnesia exploits and hacked two servers of a US government-affiliated organization. The post China-Linked Hackers Exploit PHP2Shell to Root Firewalls appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "FBI seizes ‘bulletproof’ hosting site accused of facilitating child abuse, money laundering",
+     "subtitle": "",
+     "link": "https://therecord.media/fbi-seizure-csam-virtualine",
+     "source": "The Record",
+     "published": "2026-10-28T12:00:00+00:00",
+     "date_only": false,
+     "summary": "The FBI seized the domain of a “bulletproof” hosting provider accused of facilitating a range of cybercrimes, including money laundering and the distribution of child sexual abuse material.",
+     "extra": "",
+     "tags": [],
+     "also": [
+      "The Hacker News"
+     ]
+    },
+    {
+     "title": "Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html",
+     "source": "The Hacker News",
+     "published": "2026-10-28T11:50:00+00:00",
+     "date_only": false,
+     "summary": "A critical 16-year-old flaw in EDK II, the open-source code that most hardware makers use to build UEFI firmware, can allow an attacker to run code on a machine before its operating system loads, but only while the machine is booting over…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Wazuh and AI for Enhanced SOC Workflows",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/wazuh-and-ai-for-enhanced-soc-workflows.html",
+     "source": "The Hacker News",
+     "published": "2026-10-28T11:30:00+00:00",
+     "date_only": false,
+     "summary": "Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncover patterns hidden…",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html",
+     "source": "The Hacker News",
+     "published": "2026-10-28T11:15:51+00:00",
+     "date_only": false,
+     "summary": "Adobe has released patches to address multiple critical security flaws in Campaign Classic that, if successfully exploited, could result in arbitrary code execution, security feature bypass, and privilege escalation. The list of eight…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Long-Hidden Flaws Patched in EPICS Research Facility Control Software",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/long-hidden-flaws-patched-in-epics-research-facility-control-software/",
+     "source": "SecurityWeek",
+     "published": "2026-10-28T10:48:00+00:00",
+     "date_only": false,
+     "summary": "Four EPICS Base flaws found by an autonomous system could let attackers crash processes at particle accelerators and fusion labs. The post Long-Hidden Flaws Patched in EPICS Research Facility Control Software appeared first on SecurityWeek…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "CISA warns of hackers now exploiting critical Node2Shell flaw",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-now-exploiting-critical-node2shell-flaw/",
+     "source": "BleepingComputer",
+     "published": "2026-10-28T10:46:23+00:00",
+     "date_only": false,
+     "summary": "On Tuesday, the US Cybersecurity and Infrastructure Security Agency (CISA) confirmed that hackers have begun exploiting a critical Brotli vulnerability known as Node2Shell, Broccoli2Shell, and HTTP2Shell. [...]",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/american-organizations-under-attack.html",
+     "source": "The Hacker News",
+     "published": "2026-10-28T10:30:00+00:00",
+     "date_only": false,
+     "summary": "Modern phishing campaigns can compromise American businesses without relying on traditional credential theft. Attackers can abuse legitimate cloud services, authentication mechanisms, and trusted business workflows to gain access to…",
+     "extra": "",
+     "tags": [
+      "Phishing"
+     ],
+     "also": []
+    },
+    {
+     "title": "Nobody Trusts the Security Questionnaire. We Rely on It Anyway.",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/nobody-trusts-the-security-questionnaire-we-rely-on-it-anyway/",
+     "source": "SecurityWeek",
+     "published": "2026-10-28T10:30:00+00:00",
+     "date_only": false,
+     "summary": "The process that gates nearly every B2B deal is a self-assessment the sender distrusts and the receiver accepts. There is finally a better basis for trust between companies. The post Nobody Trusts the Security Questionnaire. We Rely on It…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Secrets Management Firm Infisical Valued at $600 Million After $40 Million Raise",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/secrets-management-firm-infisical-valued-at-600-million-after-40-million-raise/",
+     "source": "SecurityWeek",
+     "published": "2026-10-28T09:48:24+00:00",
+     "date_only": false,
+     "summary": "The company will use the Series B funds to expand its platform for securing AI agents’ access to sensitive systems. The post Secrets Management Firm Infisical Valued at $600 Million After $40 Million Raise appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    }
+   ]
+  },
+  {
+   "name": "APAC Watch",
+   "stories": [
+    {
+     "title": "Chinese AI Tool Linked to Hacks in Japan",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPXzI3bFVJdEgwYUUwTWxUY2UyZlVFYmI3QlBWU3BMMG1hWjhHZVQ1UHZFaUlBdGwwc2pPdXJxYTgtWVlxdXh1QktTOW55dW9QU2ZZYldSNGM2WklORTNpZWJBZ2NMZEQ5cE9aSl9SaHBnTmpDZ0VmdkJVSkt6OFJSZzZWa0NkLVU?oc=5",
+     "source": "WSJ",
+     "published": "2026-10-28T13:32:37+00:00",
+     "date_only": false,
+     "summary": "",
      "extra": "",
      "tags": [
       "AI",
@@ -390,77 +460,34 @@
      "also": []
     },
     {
-     "title": "Microsoft releases Windows OOB updates to distrust eMudhra certificates",
+     "title": "Times Car users in Japan prepare lawsuit against Park24 over major data breach",
      "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-oob-updates-to-distrust-emudhra-certificates/",
-     "source": "BleepingComputer",
-     "published": "2026-10-27T18:20:28+00:00",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBSUDNPX2M4b1RTSlRjbVR1aXBuaDNDV3d1UkdIZURqb01ESV9NcENETnRQUl90WlNDRFA3M04tUFc1RkhweHl6aU5RXzBpT3c3eWJwemtxWDQ5UDNvTGl3LTZVZ1NJMHRjVGVncDQ0WlVhbklMVW93SUxxSQ?oc=5",
+     "source": "Digital Watch Observatory",
+     "published": "2026-10-28T13:18:49+00:00",
      "date_only": false,
-     "summary": "Microsoft has released out-of-band (OOB) Windows updates to remove trust in certificates tied to compromised eMudhra certificate authority keys, protecting systems that do not receive automatic certificate trust updates. [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Beware the Slasher: AI Could Kill Off Cybersecurity Pros' Skills",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/cybersecurity-operations/ai-kill-off-cybersecurity-pros-skills",
-     "source": "Dark Reading",
-     "published": "2026-10-27T17:43:07+00:00",
-     "date_only": false,
-     "summary": "Nathan Hamiel outlines potential SecOps horror in the AI midst, as core technical capabilities go the way of reading an atlas or remembering phone numbers.",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "'Aokigahara' Stealer Targets 'Developer Keyrings' & AI Assistants",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/endpoint-security/aokigahara-stealer-developer-keyrings-ai-assistants",
-     "source": "Dark Reading",
-     "published": "2026-10-27T16:47:20+00:00",
-     "date_only": false,
-     "summary": "The malware's focus on AI tools expands the traditional infostealer playbook to expose a forest of AI sessions, sensitive business data, and developer infrastructure from a single compromised endpoint.",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Warp discloses breach exposing AI agent logs, user telemetry data",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/",
-     "source": "BleepingComputer",
-     "published": "2026-10-27T16:15:39+00:00",
-     "date_only": false,
-     "summary": "Agent decision logs and telemetry data belonging to Warp agentic development environment users were exposed in an attack on a third-party vendor in the project's infrastructure. [...]",
+     "summary": "",
      "extra": "",
      "tags": [
       "Breach",
-      "AI"
+      "APAC"
      ],
      "also": []
     },
     {
-     "title": "Tailscale Rushes Patches After Uncoordinated Disclosure of ‘Tailworm’ Flaws",
+     "title": "SBI data exposure puts India’s cybersecurity ecosystem under scrutiny",
      "subtitle": "",
-     "link": "https://www.securityweek.com/tailscale-rushes-patches-after-uncoordinated-disclosure-of-tailworm-flaws/",
-     "source": "SecurityWeek",
-     "published": "2026-10-27T15:26:12+00:00",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPR21RbTIyc0NVWjlPSEY3SHV0bzVtQlRZNnp2TTBjZVltejZtTnF2LUh6cjQzeWNTamI4bWtYQTdGRG82NHBGMWdfR0xMZDB1QWdydG12YS1jLVFSNmU3TV9vUVE3SjJDb0pYcGhYRUVNOEoxbEpLVTRmamdWSWZMeVRETm82TmFIckI4bG9NMWNSeUZmNEFhdDdNMGtlXzg0Z1lxQjVxcGw5bFJnWXVRakhLMldJbjBoRHVkbHlkTXdBcnRRRWxkcDFmR3hlUVBqZGtTMnZwa1lkdUJz0gHiAUFVX3lxTE5obVRjVUV6OG1BMmJ6T1dheHNrRkRZV0VMS1VYV092VmRMOERRZnVFcFdLZk54M3M4VnhoSEE4YmZKRVlsWmd4Y0tSaDMtdThMclY2VGU0UDVteTQzalVkTGhhU1VVdG9aQkF6TktvajdCOFMzTF8tZVhZelNtXy02Nzh6eTFYV0lFVFVpNTBRb055MGZiME04ZERsakZBMnNwZy04YlpNV1hXdFpwOUtzSU5NdkM5M3YtQlBDMExRZFRmVGN6RWxPeTdxTWVDd3hlRzVObnVCNVUzR2d5RHBRZ1E?oc=5",
+     "source": "ET Entrepreneur",
+     "published": "2026-10-28T09:59:29+00:00",
      "date_only": false,
-     "summary": "Tailscale is preparing a patch for Tailscale SSH flaws whose details went public over the weekend, before any fixes had been released. The post Tailscale Rushes Patches After Uncoordinated Disclosure of ‘Tailworm’ Flaws appeared first on…",
+     "summary": "",
      "extra": "",
-     "tags": [],
+     "tags": [
+      "APAC"
+     ],
      "also": []
-    }
-   ]
-  },
-  {
-   "name": "APAC Watch",
-   "stories": [
+    },
     {
      "title": "Three Japan-Focused Cyberattacks Show How Hackers Use AI",
      "subtitle": "",
@@ -472,21 +499,6 @@
      "extra": "",
      "tags": [
       "AI",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Japan's GMO Internet Group Faces Daily Leak Threats After Refusing Ransom, Purported Customer Data Appears Online",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYmJsNkxEcnVHQkZXRElqQmNYTDBqSl9kcVBFSmFrLV9WSVcxSHdZckJFakJuUnpMWEZ1Z2tTaXhGV1dCSUFYcm9yUHJhTDJfZVpMbjFLWTQ1SWpDVDdvUWx6bUt4Q01VczIxcGExTDF6Tk13VGVDRU1vSHdGcHUyRnd5ZnM?oc=5",
-     "source": "International Business Times UK",
-     "published": "2026-10-28T08:45:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
       "APAC"
      ],
      "also": []
@@ -540,15 +552,27 @@
     {
      "title": "Japan's GMO Internet outlines cyberattack-response measures",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVllyR21raHpfRWVac0NlblRTOFZkTzdtdm1KSmxFSVFhR3Z2WXQ5WU9zWUZEQnJwTjZqZ3dVVGFuaVZ4Vk43N1VIeERsamVpNUxtZ2RTbFQzYmtMaXdiZ2I0NjY3blduWk85MkJhODVQM2J3SzJYbXB5S0R0cndUTHE5N3FWazNzazdseWw2SVRtZGNxaEROU2lXQl9uYmpkYmNLZVpDNWRseHpXTHM0ekNZZWkzdDBtOFByeTdydWd4UdIBWkFVX3lxTE5PVlllbHM0UmktLWVJSFNJV0lqMHkyUF94dTlRdkMtZHlCTW8wMnBWM1lwVkk0bnBsR1ZxdVcyUE1KN3JLeEV1dXN0eFU4Tld1UWlDZEVFNW5Sdw?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5PVlllbHM0UmktLWVJSFNJV0lqMHkyUF94dTlRdkMtZHlCTW8wMnBWM1lwVkk0bnBsR1ZxdVcyUE1KN3JLeEV1dXN0eFU4Tld1UWlDZEVFNW5Sd9IBWkFVX3lxTE5PVlllbHM0UmktLWVJSFNJV0lqMHkyUF94dTlRdkMtZHlCTW8wMnBWM1lwVkk0bnBsR1ZxdVcyUE1KN3JLeEV1dXN0eFU4Tld1UWlDZEVFNW5Sdw?oc=5",
      "source": "MLex",
-     "published": "2026-10-28T07:18:45+00:00",
+     "published": "2026-10-28T07:18:00+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
      "tags": [
       "APAC"
      ],
+     "also": []
+    },
+    {
+     "title": "Japanese internet provider tells customers to unplug computers amid major cyberattack",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcUpqWW9KUWtydUE2LU9rYnRBb1hKY3BmZUxYR3NSTGswYXp3cmtFODdFWXY4ajVFNnMwcURMb2dOVkNNZkhxQXlCOXhzOGRzcTJhak85NnZWalJMMGpCbWxQYXVTMzdieTRrLUZCUWxtdDE0VlEzdS1tREJFbU1ZWG1QSVFNa1pzWXp3N281SXNIcW1GSkNHU0RCbnNZZTQzSlE?oc=5",
+     "source": "The Independent",
+     "published": "2026-10-28T07:10:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
      "also": []
     },
     {
@@ -601,80 +625,6 @@
      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMGw3NElzaXhCSWRhb2RNZ1c0THBBMEtYYzVYSzlRY2Q1amRnX3FGcGtYVlNNYUR5dGQ4dk9fc2w5WTFDZWpsU290WlFiejBkb29IWmdQNVVzdUcycGhMRVEzQ2xWM3JGWE9LdUVMSzBoUjh0dnRvamJiZWhzTThOMzV5YnpzdF96NGhmUnAtNkdKYTN1Y2NHLTI0ZHhNSUJSal94LUFFZ19vbXBYWE9NWDlkTmVEdVA5UHpUUURR?oc=5",
      "source": "news.lavx.hu",
      "published": "2026-10-28T00:57:50+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": [
-      "SecNews.gr"
-     ]
-    },
-    {
-     "title": "SBI data exposure puts India’s cybersecurity ecosystem under scrutiny",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPR21RbTIyc0NVWjlPSEY3SHV0bzVtQlRZNnp2TTBjZVltejZtTnF2LUh6cjQzeWNTamI4bWtYQTdGRG82NHBGMWdfR0xMZDB1QWdydG12YS1jLVFSNmU3TV9vUVE3SjJDb0pYcGhYRUVNOEoxbEpLVTRmamdWSWZMeVRETm82TmFIckI4bG9NMWNSeUZmNEFhdDdNMGtlXzg0Z1lxQjVxcGw5bFJnWXVRakhLMldJbjBoRHVkbHlkTXdBcnRRRWxkcDFmR3hlUVBqZGtTMnZwa1lkdUJz0gHiAUFVX3lxTE5obVRjVUV6OG1BMmJ6T1dheHNrRkRZV0VMS1VYV092VmRMOERRZnVFcFdLZk54M3M4VnhoSEE4YmZKRVlsWmd4Y0tSaDMtdThMclY2VGU0UDVteTQzalVkTGhhU1VVdG9aQkF6TktvajdCOFMzTF8tZVhZelNtXy02Nzh6eTFYV0lFVFVpNTBRb055MGZiME04ZERsakZBMnNwZy04YlpNV1hXdFpwOUtzSU5NdkM5M3YtQlBDMExRZFRmVGN6RWxPeTdxTWVDd3hlRzVObnVCNVUzR2d5RHBRZ1E?oc=5",
-     "source": "ET Entrepreneur",
-     "published": "2026-10-27T23:00:43+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Australia’s Cyber Spy Chief: Expect More Disruption as AI Accelerates Hacking",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVUp5T0pPamxzbi1TV0x2cmIySDBYU21meTBNcFB2VDZsMm9ZYlBxc0h5M3JUeWJXQkpJak83RHc2Sk9Fcm1pZnhWSXBzdE1BdC10TkgxeG5lcV91N3NOZWpVNjR4MWhaNnVmSzFQRk9fZVBacXFVaEF2SEFLVGxTRXN4cEJ2cWZpdDdqN0YxUmpTeXpLTlVfeVBfYWhQOGFhMGM0Z2xiU0ZpNThuajZKWVByYTM5UEltUHZqeFFMaWdvVmJWSHA5NEJCMV9BQdIBzgFBVV95cUxNVUp5T0pPamxzbi1TV0x2cmIySDBYU21meTBNcFB2VDZsMm9ZYlBxc0h5M3JUeWJXQkpJak83RHc2Sk9Fcm1pZnhWSXBzdE1BdC10TkgxeG5lcV91N3NOZWpVNjR4MWhaNnVmSzFQRk9fZVBacXFVaEF2SEFLVGxTRXN4cEJ2cWZpdDdqN0YxUmpTeXpLTlVfeVBfYWhQOGFhMGM0Z2xiU0ZpNThuajZKWVByYTM5UEltUHZqeFFMaWdvVmJWSHA5NEJCMV9BQQ?oc=5",
-     "source": "Security Affairs",
-     "published": "2026-10-27T18:41:21+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "AI",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Australia warns of ‘unprecedented’ AI-powered cyberattacks. Here’s why",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY2hoUlpDdkdzN0c4UjExTkpiQkpQSGZpa0lGcFFyUGd2dzJaLUNYVlFFQkdoa1BVX2RBcUtaWVdDUXduQ3E2QmpLaFBIbmQwbU9HUDdZbE9hazhmaDIyal9sX19fSE5jYlU4MC1BM0RIeThFWVF2cHN1RVZmdmtHV1ZfUWhWS3BUM0N0V3RYZE5JcXExZndRNXo3WTJzQjloZGgzYzZkLUgtWkRibkdKaWxIYlloNXJO?oc=5",
-     "source": "Euronews.com",
-     "published": "2026-10-27T13:52:08+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "AI",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "“High risk, no reward:” hackers’ attempt to extort 38 organizations in South Korea nets just $226",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKNW4zS0pNNVV0alJ2UkphWXJOdnZPOXRYYjBkYkdCQnA1SDkxNzlwSVgzM0VqbFpuaERWeHh0cjBRei1YZVowRjZiemJVZkE2NXRJcUVBbUpZa04wRGVlUg?oc=5",
-     "source": "Cybernews",
-     "published": "2026-10-27T13:48:50+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Japan internet giant GMO says hackers posted stolen customer data",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOenh0OVd5RXVYRTdHOXk2TU9NNTlobXRCYkM1dWdfODhsM2NIUGxzelU1WWFybUg0QktzSGJaN1Itc1FtME5NaTUyZmthWXVyNWM3a1VoV2sxVlYtQ0JxbUU2Z2VUMUFhNkg3WnBuWHR6RGpDWTNRY2Y3ajF0YktyTkxlNkpjRXh3UWk1U2haV3M3Vl92MjE2UGlqOTJ1N1FFc2c?oc=5",
-     "source": "TechCrunch",
-     "published": "2026-10-27T13:32:57+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -832,45 +782,6 @@
       "Supply chain",
       "AI"
      ],
-     "also": []
-    },
-    {
-     "title": "Two critical RCEs in PHP core",
-     "subtitle": "",
-     "link": "https://blog.talosintelligence.com/two-critical-rces-in-php-core/",
-     "source": "Cisco Talos",
-     "published": "2026-10-21T15:10:53+00:00",
-     "date_only": false,
-     "summary": "Two critical remote code execution vulnerabilities in PHP core could have implications across its wider ecosystem. Talos has published a blog to explain what we know so far, and details the Snort coverage available, including rules in the…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "“Next Exploit Opportunities”: How a Threat Actor Used AI to Help Plan and Execute Multiple Types of Cybercrime Activities",
-     "subtitle": "",
-     "link": "https://unit42.paloaltonetworks.com/ai-assisted-cybercrime-analysis/",
-     "source": "Unit 42",
-     "published": "2026-10-21T14:00:24+00:00",
-     "date_only": false,
-     "summary": "An investigation into a threat actor bypassing AI safety controls to coordinate credential theft, VoIP fraud planning, and database exfiltration. The post “Next Exploit Opportunities”: How a Threat Actor Used AI to Help Plan and Execute…",
-     "extra": "",
-     "tags": [
-      "AI",
-      "Phishing"
-     ],
-     "also": []
-    },
-    {
-     "title": "Parasitizing trust: How legitimate infrastructure becomes a delivery pipeline for attackers",
-     "subtitle": "",
-     "link": "https://blog.talosintelligence.com/parasitizing-trust-how-legitimate-infrastructure-becomes-a-delivery-pipeline-for-attackers/",
-     "source": "Cisco Talos",
-     "published": "2026-10-21T10:00:00+00:00",
-     "date_only": false,
-     "summary": "Adversaries are turning the tools businesses trust into delivery mechanisms for malicious activity. Cisco Talos observed abuse of more than 25 legitimate platforms over the past year, exploiting the built-in trust of collaboration…",
-     "extra": "",
-     "tags": [],
      "also": []
     }
    ]
