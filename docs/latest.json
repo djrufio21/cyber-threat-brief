@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-28T02:24:37+00:00",
+ "generated": "2026-10-28T09:50:45+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -112,6 +112,143 @@
    "name": "Breaking Threats",
    "stories": [
     {
+     "title": "Nefilim and Hive ransomware affiliate gets 70 months in prison",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/nefilim-and-hive-ransomware-affiliate-gets-70-months-in-prison/",
+     "source": "BleepingComputer",
+     "published": "2026-10-28T09:43:15+00:00",
+     "date_only": false,
+     "summary": "A Ukrainian national was sentenced to 70 months in prison for his role in ransomware attacks targeting hospitals, government entities, and high-revenue businesses worldwide between 2018 and 2021. [...]",
+     "extra": "",
+     "tags": [
+      "Ransomware"
+     ],
+     "also": []
+    },
+    {
+     "title": "Hackers Start Probing Fresh Oracle EBS Vulnerability",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/hackers-start-probing-fresh-oracle-ebs-vulnerability/",
+     "source": "SecurityWeek",
+     "published": "2026-10-28T09:14:23+00:00",
+     "date_only": false,
+     "summary": "CVE-2026-101767 is an unauthenticated SQL injection that can be exploited for remote code execution. The post Hackers Start Probing Fresh Oracle EBS Vulnerability appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [
+      "Exploited"
+     ],
+     "also": []
+    },
+    {
+     "title": "CISA Warns of Node2Shell Exploitation as Honeypots Log Attack Attempts",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/cisa-warns-of-node2shell-exploitation-as-honeypots-log-attack-attempts/",
+     "source": "SecurityWeek",
+     "published": "2026-10-28T08:37:24+00:00",
+     "date_only": false,
+     "summary": "CISA added the Brotli flaw to its KEV catalog, and two honeypot operators logged attempts, including one that used a broken exploit. The post CISA Warns of Node2Shell Exploitation as Honeypots Log Attack Attempts appeared first on…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html",
+     "source": "The Hacker News",
+     "published": "2026-10-28T08:15:07+00:00",
+     "date_only": false,
+     "summary": "An unreleased Anthropic AI model found security flaws in Chrome, Safari, Android, Windows, and Linux and chained them into working proof-of-concept exploits, the company said in its latest report. The exploits were built in the lab after…",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "FBI Seizes Virtualine Domain Over Alleged Criminal Hosting and Bitcoin Money Laundering",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/fbi-seizes-virtualine-domain-over.html",
+     "source": "The Hacker News",
+     "published": "2026-10-28T07:37:50+00:00",
+     "date_only": false,
+     "summary": "The U.S. Department of Justice (DoJ) on Tuesday announced the seizure of a domain associated with a bulletproof hosting provider (BPH) named Virtualine. The move was in response to the service being used to commit and facilitate prolific…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html",
+     "source": "The Hacker News",
+     "published": "2026-10-28T07:13:21+00:00",
+     "date_only": false,
+     "summary": "Japan's GMO Internet Group is offering up to $1 million in total for tips that help catch the attackers who breached its Onamae.com Desktop Cloud service, after refusing to pay an extortion demand. The reward program opened on October 28…",
+     "extra": "",
+     "tags": [
+      "Ransomware",
+      "Breach",
+      "APAC"
+     ],
+     "also": [
+      "Finance Magnates",
+      "Quartz"
+     ]
+    },
+    {
+     "title": "Tailscale Patches SSH Flaws That Could Let Hacked Devices Gain Root Access on Other Servers",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/tailscale-patches-ssh-flaws-that-could.html",
+     "source": "The Hacker News",
+     "published": "2026-10-28T06:20:37+00:00",
+     "date_only": false,
+     "summary": "Tailscale has released version 1.104.4 to fix flaws in its built-in SSH server that could let an attacker reach services and files on other servers that only the root user should be able to touch. The flaws are in how Tailscale SSH…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "ShinyHunters-Exploited Oracle PeopleSoft Zero-Day Turns Out to Be Three Chained Flaws",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html",
+     "source": "The Hacker News",
+     "published": "2026-10-28T06:04:58+00:00",
+     "date_only": false,
+     "summary": "The critical Oracle PeopleSoft bug that ShinyHunters has exploited since May is not one flaw but three chained together, the researchers who reported it said this week. Oracle patched all three under a single identifier, CVE-2026-35273, in…",
+     "extra": "",
+     "tags": [
+      "Zero-day"
+     ],
+     "also": []
+    },
+    {
+     "title": "Third Serengeti Sweep Tops 1,400 Arrests as Investigations Mature",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/cybersecurity-operations/third-serengeti-sweep-1400-arrests-investigations-mature",
+     "source": "Dark Reading",
+     "published": "2026-10-28T06:00:00+00:00",
+     "date_only": false,
+     "summary": "Interpol's annual Operation Serengeti, now on its third iteration, led to 1,462 arrests across 20 African countries and the US, recovering $105 million in stolen funds.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Adobe Commerce PolyShell Attacks Breach Hundreds of Stores as Brotli Exploit Traffic Emerges",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html",
+     "source": "The Hacker News",
+     "published": "2026-10-28T05:42:26+00:00",
+     "date_only": false,
+     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added two vulnerabilities impacting Adobe Commerce and Magento, and Google's Brotli decoder library to its Known Exploited Vulnerabilities (KEV) catalog, citing…",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": []
+    },
+    {
      "title": "Japan's GMO urges customers to shut down PCs amid ransomware threat",
      "subtitle": "",
      "link": "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/",
@@ -125,7 +262,9 @@
       "Breach",
       "APAC"
      ],
-     "also": []
+     "also": [
+      "CyberSecurityNews"
+     ]
     },
     {
      "title": "OpenAI's GPT-6.1 Terra is safer overall, but shows more destructive-action flags in tests",
@@ -316,142 +455,162 @@
      "extra": "",
      "tags": [],
      "also": []
-    },
-    {
-     "title": "Hackers repeatedly breached suppliers holding UK police data, watchdog finds",
-     "subtitle": "",
-     "link": "https://therecord.media/uk-police-data-breached-from-suppliers-watchdog-report",
-     "source": "The Record",
-     "published": "2026-10-27T15:07:00+00:00",
-     "date_only": false,
-     "summary": "His Majesty’s Inspectorate of Constabulary and Fire & Rescue Services says British police data has been breach several times this decade through third-party IT suppliers.",
-     "extra": "",
-     "tags": [
-      "Breach"
-     ],
-     "also": []
-    },
-    {
-     "title": "University of New Mexico hospital diverts ambulances after cyberattack",
-     "subtitle": "",
-     "link": "https://therecord.media/university-of-new-mexico-hospital-diverts-cyber-incident",
-     "source": "The Record",
-     "published": "2026-10-27T14:57:00+00:00",
-     "date_only": false,
-     "summary": "For about two hours on Monday, the organization diverted ambulances to health systems in Albuquerque and Santa Fe. They were forced to suspend outpatient surgeries and appointments for the remainder of the day.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Tailscale warns of SSH flaws allowing root privilege escalation",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/tailscale-warns-of-serious-ssh-flaws-allowing-root-privilege-escalation/",
-     "source": "BleepingComputer",
-     "published": "2026-10-27T14:09:46+00:00",
-     "date_only": false,
-     "summary": "The Tailscale security team is working to patch almost a dozen security vulnerabilities that could be exploited to steal credentials, crash servers, gain root privileges, and more. [...]",
-     "extra": "",
-     "tags": [
-      "Exploited"
-     ],
-     "also": []
-    },
-    {
-     "title": "The Huntress Tragic Quadrant: Ranking Threats Hitting Businesses Hardest",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/the-huntress-tragic-quadrant-ranking-threats-hitting-businesses-hardest/",
-     "source": "BleepingComputer",
-     "published": "2026-10-27T14:01:11+00:00",
-     "date_only": false,
-     "summary": "Attackers are increasingly abusing legitimate IT tools, Microsoft 365 sessions, and everyday workflows to compromise businesses without triggering traditional defenses. Huntress Labs ranks the threats hitting organizations hardest…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "GoAhead TLS Flaws Allow Revoked Client Certificates and Enable Session Decryption",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/goahead-tls-flaws-allow-revoked-client.html",
-     "source": "The Hacker News",
-     "published": "2026-10-27T13:59:48+00:00",
-     "date_only": false,
-     "summary": "The GoAhead embedded web server loaded a certificate revocation list into its default TLS backend but never turned revocation checking on, so a revoked client certificate could still pass login on affected setups. The flaw is in builds…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Apple Backports Fix for Exploited CoreGraphics Flaw to Older iPhones and iPads",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/apple-backports-fix-for-exploited.html",
-     "source": "The Hacker News",
-     "published": "2026-10-27T13:59:09+00:00",
-     "date_only": false,
-     "summary": "Apple on Monday backported fixes for a high-severity security flaw that was exploited in real-world cyber attacks to older devices. The vulnerability, tracked as CVE-2026-86950 (CVSS score: 8.8), is an out-of-bounds write affecting…",
-     "extra": "",
-     "tags": [
-      "Zero-day"
-     ],
-     "also": [
-      "BleepingComputer"
-     ]
-    },
-    {
-     "title": "Malicious apps prey on Russians’ anxiety about fuel prices, drone strikes",
-     "subtitle": "",
-     "link": "https://therecord.media/malicious-apps-russian-anxiety-gas-prices-drone-strikes",
-     "source": "The Record",
-     "published": "2026-10-27T13:36:00+00:00",
-     "date_only": false,
-     "summary": "Cybercriminals are stuffing infostealer malware into bogus apps aimed at tracking gas prices, police activity, drone strikes and other information of concern to average Russians, researchers said.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Vendor Key Leak Puts Data of 238,000 Denver Health Plan Members at Risk",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/vendor-key-leak-puts-data-of-238000-denver-health-plan-members-at-risk/",
-     "source": "SecurityWeek",
-     "published": "2026-10-27T13:30:28+00:00",
-     "date_only": false,
-     "summary": "A leaked SquareML access key could have been used to access a database containing personal and health information. The post Vendor Key Leak Puts Data of 238,000 Denver Health Plan Members at Risk appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [
-      "Breach"
-     ],
-     "also": []
-    },
-    {
-     "title": "HPE Patches Dozens of Critical Flaws in Networking Products",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/hpe-patches-dozens-of-critical-flaws-in-networking-products/",
-     "source": "SecurityWeek",
-     "published": "2026-10-27T13:13:58+00:00",
-     "date_only": false,
-     "summary": "Eight max-severity security defects could lead to remote code execution and authentication bypass. The post HPE Patches Dozens of Critical Flaws in Networking Products appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Microsoft Authenticator Flaw Let Permissionless Android Apps Steal Work Account Tokens",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/microsoft-authenticator-flaw-let.html",
-     "source": "The Hacker News",
-     "published": "2026-10-27T12:09:50+00:00",
-     "date_only": false,
-     "summary": "Microsoft has fixed a flaw in its Authenticator app for Android that let a malicious app with no permissions pose as a trusted Microsoft app, such as Teams, and collect sign-in tokens for a victim's work account. Microsoft tracks the flaw…",
-     "extra": "",
-     "tags": [],
-     "also": []
     }
    ]
   },
   {
    "name": "APAC Watch",
    "stories": [
+    {
+     "title": "Three Japan-Focused Cyberattacks Show How Hackers Use AI",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQlA1bUp3NFlDTU44NERjTnh4a0JZaEc4Y1pPRkRwWkgyY3ZGaG8ycE13UW5PdnQyNTltS1ZrM0FpMnFiejZwWkw2NTlPMEFMOXhDZUJmRVpQUjdfQUphc3pMUTQ3elFzdUVxY2hFSkJaaUVvWmkwcWMxZDVlV1dNdlNwRUNVUVZyYUkzLTNXNzhzUmdXV0xwWkpfckpCSjRi0gGmAUFVX3lxTFB0NzZwMjlKYVowTkplMTRES2pyc0tKM3h6Wk9uYzUxNDlEUjA1dkJ3S2ZSWFhKazJQLXZEdUQ4Wng3SV9aREtWR0J2dEpKRFl3TUxaNXVkTVViRWFqQWlQUXAyQlJsWGwtVGhRNlVob21nMzcyMjRMMHFWcHVWTlFEakQwQkNJRElwbjJaTWlqOTF6clNINlZwYTVYakhYVGxaZ3lncEE?oc=5",
+     "source": "Security Affairs",
+     "published": "2026-10-28T08:48:45+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "AI",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Japan's GMO Internet Group Faces Daily Leak Threats After Refusing Ransom, Purported Customer Data Appears Online",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYmJsNkxEcnVHQkZXRElqQmNYTDBqSl9kcVBFSmFrLV9WSVcxSHdZckJFakJuUnpMWEZ1Z2tTaXhGV1dCSUFYcm9yUHJhTDJfZVpMbjFLWTQ1SWpDVDdvUWx6bUt4Q01VczIxcGExTDF6Tk13VGVDRU1vSHdGcHUyRnd5ZnM?oc=5",
+     "source": "International Business Times UK",
+     "published": "2026-10-28T08:45:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "GMO confirms shutdown of hackers’ website after data leak — The Japan Times",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbnhRdEstRFo0YVB2Tk5aSEZWcGVzUWV6eGUyOUtVR2JVZXg4TEQ3TTdRblJkbm1TeWEzN2J6WXMzRW1IdndYd1lwbkRmLXpqa2FyblJBNGphVGh1amM0d01UTUdsTmVWcll1ZUFsQW9QZVFvaExoejFKdEVsVTZlYXJxVFhCVndVekQ2dE1lYmNQazU3a1ctemFvWnh0NWNIRWNfaU4waXJ3SlBHMXc?oc=5",
+     "source": "UA.NEWS",
+     "published": "2026-10-28T08:43:07+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "South Korea’s Daishin Securities Reports Data Breach Affecting 38,490 Customers After Suspected Hack",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTXd2N1pjLTQzSGVPSFoyVGM5RExaV3hydUhrcXA1VmZvWXhkVmJSQnNPUGNUZVNKcndDaW9xdFUyc3ZYNTctNWF6eFFhSnJxWkRhLS1wQ2R1bWZsZHRiZ2lNLTBkeGFfeWloSlU5RVFLODhtV0pIdS1ydWpaMnFfRjRGeDJNdnRCMUE4MEFQZUNEX1NrY0o3YTJJZE9fYll0T1JRZ21uY3NDNEI2aG5OeHF5WS1NbTNrQk01QVVvM1dmRVBsck9fUUJubDJuU3RE0gHWAUFVX3lxTFA2WFRQU3ZjSFB3UTZJUjBSbEoyWmtwYnRfOFRSVTFXZ3lUVUh1MXYtOTdLbmlRZG5peDRmeTh5Zy1aNVhwOVpxZGdQaFFMRktEWGhYM2pPYlFRVG9mZDltRFJRVWw2YmpfbnVtTF9WWF9LNGVQTTl4Zm1MMVR2eEU4dWxCZk93elBHUjJZSVlpVW82NU9QdGVfMG1OeW50aU1Xeml3M2lYMVRWbE9vOU80aUd3c1MyVWplMVBKVjBQNlZlWE5KSGdIX2kyZEIwQ05JMFY0VVE?oc=5",
+     "source": "Free Press Journal",
+     "published": "2026-10-28T07:36:25+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": [
+      "grafa.com"
+     ]
+    },
+    {
+     "title": "Hackers Deploy 44 AI Agents to Automate Cyberattacks Against Japanese Organizations",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QaVA2aDJ1c19CVDZYSXd1WmpyOGtkQXFYOWdOaWhlQUJUaW1OUmtpU2o1UUM4dkluREFTSjNvTHo3UW1LRHlpZFhJVUdnZ0dfTEs1akcwZHVZQdIBWkFVX3lxTE5QaVA2aDJ1c19CVDZYSXd1WmpyOGtkQXFYOWdOaWhlQUJUaW1OUmtpU2o1UUM4dkluREFTSjNvTHo3UW1LRHlpZFhJVUdnZ0dfTEs1akcwZHVZQQ?oc=5",
+     "source": "Cyber Press",
+     "published": "2026-10-28T07:24:27+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "Japan's GMO Internet outlines cyberattack-response measures",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVllyR21raHpfRWVac0NlblRTOFZkTzdtdm1KSmxFSVFhR3Z2WXQ5WU9zWUZEQnJwTjZqZ3dVVGFuaVZ4Vk43N1VIeERsamVpNUxtZ2RTbFQzYmtMaXdiZ2I0NjY3blduWk85MkJhODVQM2J3SzJYbXB5S0R0cndUTHE5N3FWazNzazdseWw2SVRtZGNxaEROU2lXQl9uYmpkYmNLZVpDNWRseHpXTHM0ekNZZWkzdDBtOFByeTdydWd4UdIBWkFVX3lxTE5PVlllbHM0UmktLWVJSFNJV0lqMHkyUF94dTlRdkMtZHlCTW8wMnBWM1lwVkk0bnBsR1ZxdVcyUE1KN3JLeEV1dXN0eFU4Tld1UWlDZEVFNW5Sdw?oc=5",
+     "source": "MLex",
+     "published": "2026-10-28T07:18:45+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Japan’s GMO says hacker site with allegedly leaked customer data taken down after cyberattack",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQ0syLU1ZTzdBbVFfSkJab0pGVkgtOWxqRnFoNW1VTUZ1NTBOTnQ4ZWhwTjFoTUoxNlE5NkVYZE1QUTR1YUh5TzRGcnRCMDhuMnQtSmN4Uk5UUWZZbHJTZ1BYWjE1c2F4NEhUaVNDOEVfN2RkXzdDVUFnNExPYkFaZDBZTUhXLXZXelFQTjZJRC15OW1Yd3RXSWwyTnc2WFlGTW02Z081YzNjT1c2dzlBZ2FFQ0t5czVBVXB4V3k3UURuWTFYUXhBaUN6TjRtQWNNeXc?oc=5",
+     "source": "The Straits Times",
+     "published": "2026-10-28T05:11:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Trading Platform Rocked by Japan Hack, $50 Million Ransom",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9TaXhvNE5PNHlPeVRDNDRNd1hBeHBYck1oaEJtVVk1N3MtVDFiT2w4aC10MVlKa2NQZGxET0gyd3pKc0NIaXpnd3VYMXloMjl2SVlmbzRqc3pHNjFUVll0YldCalpkdWFvLUQtSEdUMHpSREU?oc=5",
+     "source": "Claims Journal",
+     "published": "2026-10-28T05:00:30+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Japan's IDC Frontier discloses new ransomware findings",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNTVqaEJiTWliNDZmRTdacVN3dHNWSTllVDE2Z1E3UEFYakJuMldMUE11OTZJZ2Ywa3dtMWwzUTg2WlNTTV8tdEJDbjV1aEhvUVBHVnZvYVNfSFR3bVhtempuaUZKa21iQVJwclE2cHVfQmRESzkzSnF2R09sb0hlWGtvYzNNOHBMRjRjMnh1UXFpVnZlZWRTRllNRFA2Z9IBWkFVX3lxTE5fT3VLcEhsZG8wOVBENWU0N1RiaHdNS0plOXBCSlZvQUY1MHk2QVVCMjc4OEp0ZHZEbm9NWWxFSE9XdDJfZmgyUGxJQXJ0SGx6aUluZFdRQWZlQQ?oc=5",
+     "source": "MLex",
+     "published": "2026-10-28T01:47:04+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Ransomware",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Australia severs criminal access to 180,000 computers after breaching Amadey malware backend",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMGw3NElzaXhCSWRhb2RNZ1c0THBBMEtYYzVYSzlRY2Q1amRnX3FGcGtYVlNNYUR5dGQ4dk9fc2w5WTFDZWpsU290WlFiejBkb29IWmdQNVVzdUcycGhMRVEzQ2xWM3JGWE9LdUVMSzBoUjh0dnRvamJiZWhzTThOMzV5YnpzdF96NGhmUnAtNkdKYTN1Y2NHLTI0ZHhNSUJSal94LUFFZ19vbXBYWE9NWDlkTmVEdVA5UHpUUURR?oc=5",
+     "source": "news.lavx.hu",
+     "published": "2026-10-28T00:57:50+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": [
+      "SecNews.gr"
+     ]
+    },
     {
      "title": "SBI data exposure puts India’s cybersecurity ecosystem under scrutiny",
      "subtitle": "",
@@ -462,6 +621,36 @@
      "summary": "",
      "extra": "",
      "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Australia’s Cyber Spy Chief: Expect More Disruption as AI Accelerates Hacking",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVUp5T0pPamxzbi1TV0x2cmIySDBYU21meTBNcFB2VDZsMm9ZYlBxc0h5M3JUeWJXQkpJak83RHc2Sk9Fcm1pZnhWSXBzdE1BdC10TkgxeG5lcV91N3NOZWpVNjR4MWhaNnVmSzFQRk9fZVBacXFVaEF2SEFLVGxTRXN4cEJ2cWZpdDdqN0YxUmpTeXpLTlVfeVBfYWhQOGFhMGM0Z2xiU0ZpNThuajZKWVByYTM5UEltUHZqeFFMaWdvVmJWSHA5NEJCMV9BQdIBzgFBVV95cUxNVUp5T0pPamxzbi1TV0x2cmIySDBYU21meTBNcFB2VDZsMm9ZYlBxc0h5M3JUeWJXQkpJak83RHc2Sk9Fcm1pZnhWSXBzdE1BdC10TkgxeG5lcV91N3NOZWpVNjR4MWhaNnVmSzFQRk9fZVBacXFVaEF2SEFLVGxTRXN4cEJ2cWZpdDdqN0YxUmpTeXpLTlVfeVBfYWhQOGFhMGM0Z2xiU0ZpNThuajZKWVByYTM5UEltUHZqeFFMaWdvVmJWSHA5NEJCMV9BQQ?oc=5",
+     "source": "Security Affairs",
+     "published": "2026-10-27T18:41:21+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "AI",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Australia warns of ‘unprecedented’ AI-powered cyberattacks. Here’s why",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY2hoUlpDdkdzN0c4UjExTkpiQkpQSGZpa0lGcFFyUGd2dzJaLUNYVlFFQkdoa1BVX2RBcUtaWVdDUXduQ3E2QmpLaFBIbmQwbU9HUDdZbE9hazhmaDIyal9sX19fSE5jYlU4MC1BM0RIeThFWVF2cHN1RVZmdmtHV1ZfUWhWS3BUM0N0V3RYZE5JcXExZndRNXo3WTJzQjloZGgzYzZkLUgtWkRibkdKaWxIYlloNXJO?oc=5",
+     "source": "Euronews.com",
+     "published": "2026-10-27T13:52:08+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "AI",
       "APAC"
      ],
      "also": []
@@ -490,184 +679,6 @@
      "summary": "",
      "extra": "",
      "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Hackers steal and leak private GMO data after Japanese firm refuses to pay $50 million ransom",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOb3FFTHJiN3RXSnYzTDlDQWd5YjFfVDhKakNOTDFZdVRfS0VTSEFidl8weG56bWtQalJ2VmxQZnB3OTJjTS1DbmxaVUU3YXYzajR4cnVkejYxb0xvdFNYUEd6RXNHelkzVFFFUWRsRDBYUVZnMXZoeldPa2pOamNBUkhfWTNDWDdkRzlXSmZZZm80cVBNTEJqM2otT2tTTnlQcURKYmN5bldfVXR3aHMybmxkVUliN082WU9Eb0wtRkNKZEUzTzNoeHN5WGRUU2JUOU9wTXMtYXMxY1BaWTNzcWRKWlRTRjQ?oc=5",
-     "source": "India Today",
-     "published": "2026-10-27T13:00:38+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": [
-      "조선일보",
-      "BigGo Finance"
-     ]
-    },
-    {
-     "title": "Hackers demand $50 million from Japan's GMO Internet after forex trading breach",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CSDBSNVdJc2dCU01naWE1U3M1THZkUVdwUV9kcUVRMkxFX0dNWWcwQm9WVFduTTlNTkR2TndpVFJlWktIOV8zRnhxaW9zTGpOTTlTYk5lLWJiRmhzaXRuN0JZVldzbzVIcldDa205c3RTcFg5dlZJNlB4QTFuUQ?oc=5",
-     "source": "Quartz",
-     "published": "2026-10-27T12:14:40+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "World War III or AI Cyberattack? Japan Minister's 'Emergency Request' to Stockpile Food and Water Sparks...",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZThRTm03Q1JFTXlsMmhYWnBYNnRrSjNmR3V4dU42V09xcjlFeThSVXJPM2o5V0x6NzVwRDdqVlhOYmRFZXRUSUhzV1R2V3RGZzZSc21UT1BqNDMxWURoTkNYN1dDMTcwRmlacklxNVY4cGk2QjhYTmUtSHZ3MlJvQVllVFlSdURIVUU3UXNIYnFoWnE1SDhDd1I5N2VhQk1XZjNZVEt4SnBRVmFBM21RVDZmYU11MXh3cHE1eUh2TDJUcVVUdEFZaURfcENyVUlSR1JlenJ3ME80cGpOUFN6Y2NySGVZTjZ0dkoyRFdsR3BaR1JadExn0gH3AUFVX3lxTE9lOFFObTdDUkVNeWwyaFhacFg2dGtKM2ZHdXh1TjZXT3FyOUV5OFJVck8zajlXTHo3NXBEN2pWWE5iZEVldFRJSHNXVHZXdEZnNlJzbVRPUGo0MzFZRGhOQ1g3V0MxNzBGaVpySXE1VjhwaTZCOFhOZS1IdncyUm9BWWVUWVJ1REhVRTdRc0hicWhacTVIOEN3Ujk3ZWFCTVdmM1lUS3hKcFFWYUEzbVFUNmZhTXUxeHdwcTV5SHZMMlRxVVR0QVlpRF9wQ3JVSVJHUmV6cncwTzRwak5QU3pjY3JIZVlONnR2SjJEV2xHcFpHUlp0TGc?oc=5",
-     "source": "Lokmat Times",
-     "published": "2026-10-27T10:26:38+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "AI",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Australia’s cyber threat just got worse with AI",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQM1pOWl9GVTRLWGRGNnRRa1NHbmdlWUJQSTVXVE4wLTZGaWNEdWhMQVE3UFFacVFteFRZbjRyY00xNFBGajBWeDU3Vl9Ec2VUajEzSVdwMzhNaGx4SUx0QVFmQkRoZ1RaRjVXb3Y5eWtIV1JMMVUwdFJSSFlTWnZ0RDB5UXQtREFVcnBGd2xKSVdWYVdpZXZlSi10U3lTbENnX0pla3hsUFRONkMxNGVRU3k4MlpMVDMwNXNNVG9ZSG5SWDVRNjBhYTNkdDRVdzFEa1V1LWhQZWd5WEIxWlRCUWJoZjlDNEU1Nm8wZFVFTzdsQUpjVW16Q0oxSjljdGIyalE?oc=5",
-     "source": "The Courier Mail",
-     "published": "2026-10-27T10:18:58+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "AI",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Hackers release data after GMO ignores ransom demand | NHK WORLD-JAPAN News",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9pTFVtX2QwSEdkUFVLTmlnTzZCX3BqMWc0V0dOaGRkZEFoTVFNWThqeUdzSlM3bnZGcFh6bmM2ZmhxbXlhZ1lJM3EwaHpiNEVUOHQ5SlJDNVBXbUZ1VGgtdFAwbw?oc=5",
-     "source": "NHKニュース",
-     "published": "2026-10-27T10:08:28+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Hackers claim to have published GMO client data after ransom refusal — The Japan Times",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdWwtZGVpVHZ2T0Jkejh1Z2dfazVjN01jYUlscDJLb0k3TGk0YUZ6VXcwZnhfYVZWMFZINFlIbGUyWW9yR2UzbFZyS0Itc1VPb25OS3ktaWZQM2ItMVZrdHh4YjFacGRTeUFyeDZESmduamFuRnJ1YnNZS05yS0wxZTBKV04yTVVJVkNpaDJiR09MRl9Sc2RZd29iS29sNnE3Q0pfenNJYVJ6YTF2RWthWUNybnZUM3B0MzFJSkkwNlBKT3NJclY2OG9n?oc=5",
-     "source": "UA.NEWS",
-     "published": "2026-10-27T09:14:57+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Data Breach Affects Customers of Six Insurers in Singapore",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1rclFRYzlWRHUtX2RGMWNkS2puNm5veTEwMXZNN09fTTladzRkMi0zOGwwSkRiZktjeVg0LVM2eDdWVTNrMWZ5Sy1BZkhHbVFaeGxoRXB4cnVyTUJ5VUE?oc=5",
-     "source": "ইন্স্যুরেন্স নিউজ বিডি",
-     "published": "2026-10-27T08:57:48+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Cybersecurity of Critical Infrastructure in India: UPSC",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRU5YYTd5Ym9rcjlQSnFTN244NW4zWHlaWGxSNTdBdjZPbTBabWx0WEhnYjhzWEh0WExzOGV0U0dnWXpSVEZZYzdsTmthRGViLWU0RDdseVpxNFZqaXo2b3hnQV82d2dSTlpxdlM3enFPNVFRQUpZTjRRSWxQYlJNaElVR2FPVmdDbTBUSGY1Y3BQTmtlMnRaZA?oc=5",
-     "source": "INSIGHTS IAS",
-     "published": "2026-10-27T08:31:16+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Cyber incidents rise sharply in Australia; outdated systems expose networks to hackers",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOS3NER3FJVFUxbGR6THl2SzVYOGUxMXdKTUd4bmp2dUlnNDl1TWdxcTBjVmFHeVNmOFEyNU40RURRN1g1dXFObjNKZm5aakVUZG9DbGoyNGNuRkVTdjZ5QWNlT1pUY1h6bnNMM1JueHlEaGRHVVJRQl9NRFNIWHpGMk9qRWVCdjMxQmRVTWJmVnNSSjlYamdwTnM0dGk2eVdpa2ZFM0lJZVZwOVJndkU3c2lRaFYzZVktSERzejk2dlZRVVhjeWU3bEtB0gHPAUFVX3lxTE5mZTJHLWp5LU56SXRBZXdiaVM2R01HTC03NzQ0bFRzV002Y3dKd1BHbjNEYk5hWWpJWFRzVE95UVZPVWZraGlzUGRXTmJwaEVxT0VpeVdkcnY3cnVDUS1vUGhSWkpDeHJ5TzFsTFF3QTBqQ1NKZ0s5d2pZMWdoclNDeUNyTDRXbWpyQTBfYTN2dTVaM1lmaDNvRTQ0LUo3MmhvQUxvQVczSS0tMGR2YWp4a19IM0tOZUZfS0xvdUJQa3I0OU9hb0hxX0VDTkZiTQ?oc=5",
-     "source": "WION",
-     "published": "2026-10-27T08:06:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Currency trading platform rocked by Japan hack and US$50m ransom",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVFNDVjJjN0NiTzJpOFpRc2xtRFEyRVB4cjBHdTNCSDVTVXpsa2RIQXpYcWdRaWJMS0xON3VlQ01vUS0zZGVCck1hNHMxZndMSXdMNjUtMHJfLXFFZzNtbkQ3eUJWUFZ1RFRHb25GdTJKNzhLU2Y1S1ZoX2s1RDhYcEYyVmpFdzlYZWF2eGYxZ2tsZ210MVk1UHVMMHg2SkU3Mmw3X25hMlctdEk?oc=5",
-     "source": "The Straits Times",
-     "published": "2026-10-27T07:59:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Australia warns of 'unprecedented' AI threat",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcG9sY2M2ZWtoUTZ0OG93blFiQjlOU295X285Qzk5N1dvUllUZUIwU1ZIR2hRdEMzTnVIbVN1MENtOUdEMUd2SGplVGJ4Rk1GeVByQU9udGROS281XzZ3aDZRSjlYT0J6elhzLW9saGFSZmpTZGRtRFN5S21OVnVSTVNiQmFXUmY3MkJuWUx5SldxYWRmeDFRUEdUbWlNZ0o2c2VZaV9pbXZRZnpyR1JLaHIyWjY5UHh1SUgxbdIBvAFBVV95cUxPcG9sY2M2ZWtoUTZ0OG93blFiQjlOU295X285Qzk5N1dvUllUZUIwU1ZIR2hRdEMzTnVIbVN1MENtOUdEMUd2SGplVGJ4Rk1GeVByQU9udGROS281XzZ3aDZRSjlYT0J6elhzLW9saGFSZmpTZGRtRFN5S21OVnVSTVNiQmFXUmY3MkJuWUx5SldxYWRmeDFRUEdUbWlNZ0o2c2VZaV9pbXZRZnpyR1JLaHIyWjY5UHh1SUgxbQ?oc=5",
-     "source": "ET Enterprise AI",
-     "published": "2026-10-27T06:44:30+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "AI",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Australia cyber security agency warns AI aids hackers targeting infrastructure",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNMUJlN19JRDN4NEJBc1EycFNSTVpmNlhlVnBBR2pIRjc3LUpvQVZpdjYxRE9LSnMwdVMyQWl1ZlRxaHRFRXItWTZNNklhM3hKNHlwSlNIWWFxdkkwdF9mVngzUHFaUG45MGZadWxDSFRWVGowXzVleDJXLU1qMHc5YlJoWVpSVkctZ1VoZWRuNzIyWnpGZlJlZV9JZ1lZRGdOdlVoMXVVbEdWcVpkSFJtRHVGVjRMN1RBbFVpTlkydjU?oc=5",
-     "source": "NewsBytes",
-     "published": "2026-10-27T06:33:48+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "AI",
       "APAC"
      ],
      "also": []
@@ -873,6 +884,42 @@
      "link": "https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20261028",
      "source": "HKCERT",
      "published": "2026-10-28T03:00:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Security Alert - FortiBleed 2.0 Reveals Additional FortiGate Configuration and Credential Exposure",
+     "subtitle": "",
+     "link": "https://www.hkcert.org/security-bulletin/security-alert-fortibleed-2-0-reveals-additional-fortigate-configuration-and-credential-exposure_20261028",
+     "source": "HKCERT",
+     "published": "2026-10-28T03:00:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Google Chrome Multiple Vulnerabilities",
+     "subtitle": "",
+     "link": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20261028",
+     "source": "HKCERT",
+     "published": "2026-10-28T02:00:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Google Brotli Remote Code Execution Vulnerability",
+     "subtitle": "",
+     "link": "https://www.hkcert.org/security-bulletin/google-brotli-remote-code-execution-vulnerability_20261028",
+     "source": "HKCERT",
+     "published": "2026-10-28T01:00:00+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
