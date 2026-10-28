@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-27T23:00:16+00:00",
+ "generated": "2026-10-28T02:24:37+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -105,114 +105,28 @@
      "product": "Collabora Online – Built-in CODE Server",
      "cve": "CVE-2026-110447",
      "also": []
-    },
-    {
-     "title": "CVE-2026-106931: EG Secure Solutions SiteGuard Server Edition",
-     "subtitle": "EG Secure Solutions SiteGuard Server Edition OS Command Injection Vulnerability",
-     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-106931",
-     "source": "CISA KEV",
-     "published": "2026-10-20T00:00:00+00:00",
-     "date_only": true,
-     "summary": "EG Secure Solutions SiteGuard Server Edition contains an OS command injection vulnerability which may allow an attacker to execute arbitrary OS commands with root or SYSTEM privileges on the system running the affected product.",
-     "extra": "US federal patch deadline 23 Oct",
-     "tags": [
-      "Exploited"
-     ],
-     "vendor": "EG Secure Solutions",
-     "product": "SiteGuard Server Edition",
-     "cve": "CVE-2026-106931",
-     "also": []
-    },
-    {
-     "title": "CVE-2026-96656: Plex Media Server",
-     "subtitle": "Plex Media Server External Control of File Name or Path Vulnerability",
-     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-96656",
-     "source": "CISA KEV",
-     "published": "2026-10-20T00:00:00+00:00",
-     "date_only": true,
-     "summary": "Plex Media Server contains an external control of file name or path vulnerability which can allow an admin user to write arbitrary files that may be executed on load. This vulnerability can be chained with CVE-2026-96652, CVE-2026-96654…",
-     "extra": "US federal patch deadline 23 Oct",
-     "tags": [
-      "Exploited"
-     ],
-     "vendor": "Plex",
-     "product": "Media Server",
-     "cve": "CVE-2026-96656",
-     "also": []
-    },
-    {
-     "title": "CVE-2026-96655: Plex Media Server",
-     "subtitle": "Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability",
-     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-96655",
-     "source": "CISA KEV",
-     "published": "2026-10-20T00:00:00+00:00",
-     "date_only": true,
-     "summary": "Plex Media Server contains a server-side request forgery (SSRF) vulnerability that could allow an authenticated user to request arbitrary internal or external addresses via the '/video/:/transcode/universal' path parameter. This…",
-     "extra": "US federal patch deadline 3 Nov",
-     "tags": [
-      "Exploited"
-     ],
-     "vendor": "Plex",
-     "product": "Media Server",
-     "cve": "CVE-2026-96655",
-     "also": []
-    },
-    {
-     "title": "CVE-2026-96654: Plex Media Server",
-     "subtitle": "Plex Media Server Improper Neutralization of Encoded URI Schemes in a Web Page Vulnerability",
-     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-96654",
-     "source": "CISA KEV",
-     "published": "2026-10-20T00:00:00+00:00",
-     "date_only": true,
-     "summary": "Plex Media Server contains an improper neutralization of encoded URI schemes in a web page vulnerability that could allow an attacker to call other plugins' functions and supply their own parameters. This vulnerability can be chained with…",
-     "extra": "US federal patch deadline 23 Oct",
-     "tags": [
-      "Exploited"
-     ],
-     "vendor": "Plex",
-     "product": "Media Server",
-     "cve": "CVE-2026-96654",
-     "also": []
-    },
-    {
-     "title": "CVE-2026-96652: Plex Media Server",
-     "subtitle": "Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability",
-     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-96652",
-     "source": "CISA KEV",
-     "published": "2026-10-20T00:00:00+00:00",
-     "date_only": true,
-     "summary": "Plex Media Server contains a server-side request forgery (SSRF) vulnerability which could allow an attacker using any X-Plex-Token value to include a full URL in the 'protocol' parameter and force the Plex server to POST to the attacker's…",
-     "extra": "US federal patch deadline 3 Nov",
-     "tags": [
-      "Exploited"
-     ],
-     "vendor": "Plex",
-     "product": "Media Server",
-     "cve": "CVE-2026-96652",
-     "also": []
-    },
-    {
-     "title": "CVE-2026-110936: Siemens Software Center",
-     "subtitle": "Siemens Software Center Uncontrolled Search Path Element Vulnerability",
-     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-110936",
-     "source": "CISA KEV",
-     "published": "2026-10-20T00:00:00+00:00",
-     "date_only": true,
-     "summary": "Siemens Software Center contains an uncontrolled search path element vulnerability that could allow an authenticated local attacker to place a specially crafted DLL in a directory that the application searches, leading to arbitrary code…",
-     "extra": "US federal patch deadline 3 Nov",
-     "tags": [
-      "Exploited"
-     ],
-     "vendor": "Siemens",
-     "product": "Software Center",
-     "cve": "CVE-2026-110936",
-     "also": []
     }
    ]
   },
   {
    "name": "Breaking Threats",
    "stories": [
+    {
+     "title": "Japan's GMO urges customers to shut down PCs amid ransomware threat",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/",
+     "source": "BleepingComputer",
+     "published": "2026-10-27T23:35:51+00:00",
+     "date_only": false,
+     "summary": "The GMO Group has urged customers to disconnect their systems from the internet and shut down computers after a threat actor who breached the company's Onamae Desktop Cloud threatened to launch a ransomware attack today. [...]",
+     "extra": "",
+     "tags": [
+      "Ransomware",
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
     {
      "title": "OpenAI's GPT-6.1 Terra is safer overall, but shows more destructive-action flags in tests",
      "subtitle": "",
@@ -532,24 +446,26 @@
      "extra": "",
      "tags": [],
      "also": []
-    },
-    {
-     "title": "Unexplained DreamHost Incident Prompts Email, FTP Password Resets",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/unexplained-dreamhost-incident-prompts-email-ftp-password-resets/",
-     "source": "SecurityWeek",
-     "published": "2026-10-27T12:02:06+00:00",
-     "date_only": false,
-     "summary": "The company says it reacted to an issue affecting some of its systems, including DreamHost webmail. The post Unexplained DreamHost Incident Prompts Email, FTP Password Resets appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [],
-     "also": []
     }
    ]
   },
   {
    "name": "APAC Watch",
    "stories": [
+    {
+     "title": "SBI data exposure puts India’s cybersecurity ecosystem under scrutiny",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPR21RbTIyc0NVWjlPSEY3SHV0bzVtQlRZNnp2TTBjZVltejZtTnF2LUh6cjQzeWNTamI4bWtYQTdGRG82NHBGMWdfR0xMZDB1QWdydG12YS1jLVFSNmU3TV9vUVE3SjJDb0pYcGhYRUVNOEoxbEpLVTRmamdWSWZMeVRETm82TmFIckI4bG9NMWNSeUZmNEFhdDdNMGtlXzg0Z1lxQjVxcGw5bFJnWXVRakhLMldJbjBoRHVkbHlkTXdBcnRRRWxkcDFmR3hlUVBqZGtTMnZwa1lkdUJz0gHiAUFVX3lxTE5obVRjVUV6OG1BMmJ6T1dheHNrRkRZV0VMS1VYV092VmRMOERRZnVFcFdLZk54M3M4VnhoSEE4YmZKRVlsWmd4Y0tSaDMtdThMclY2VGU0UDVteTQzalVkTGhhU1VVdG9aQkF6TktvajdCOFMzTF8tZVhZelNtXy02Nzh6eTFYV0lFVFVpNTBRb055MGZiME04ZERsakZBMnNwZy04YlpNV1hXdFpwOUtzSU5NdkM5M3YtQlBDMExRZFRmVGN6RWxPeTdxTWVDd3hlRzVObnVCNVUzR2d5RHBRZ1E?oc=5",
+     "source": "ET Entrepreneur",
+     "published": "2026-10-27T23:00:43+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
     {
      "title": "“High risk, no reward:” hackers’ attempt to extort 38 organizations in South Korea nets just $226",
      "subtitle": "",
@@ -597,20 +513,6 @@
      ]
     },
     {
-     "title": "SBI data exposure puts India’s cybersecurity ecosystem under scrutiny",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPR21RbTIyc0NVWjlPSEY3SHV0bzVtQlRZNnp2TTBjZVltejZtTnF2LUh6cjQzeWNTamI4bWtYQTdGRG82NHBGMWdfR0xMZDB1QWdydG12YS1jLVFSNmU3TV9vUVE3SjJDb0pYcGhYRUVNOEoxbEpLVTRmamdWSWZMeVRETm82TmFIckI4bG9NMWNSeUZmNEFhdDdNMGtlXzg0Z1lxQjVxcGw5bFJnWXVRakhLMldJbjBoRHVkbHlkTXdBcnRRRWxkcDFmR3hlUVBqZGtTMnZwa1lkdUJz0gHiAUFVX3lxTE5obVRjVUV6OG1BMmJ6T1dheHNrRkRZV0VMS1VYV092VmRMOERRZnVFcFdLZk54M3M4VnhoSEE4YmZKRVlsWmd4Y0tSaDMtdThMclY2VGU0UDVteTQzalVkTGhhU1VVdG9aQkF6TktvajdCOFMzTF8tZVhZelNtXy02Nzh6eTFYV0lFVFVpNTBRb055MGZiME04ZERsakZBMnNwZy04YlpNV1hXdFpwOUtzSU5NdkM5M3YtQlBDMExRZFRmVGN6RWxPeTdxTWVDd3hlRzVObnVCNVUzR2d5RHBRZ1E?oc=5",
-     "source": "ET Entrepreneur",
-     "published": "2026-10-27T12:31:33+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
      "title": "Hackers demand $50 million from Japan's GMO Internet after forex trading breach",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CSDBSNVdJc2dCU01naWE1U3M1THZkUVdwUV9kcUVRMkxFX0dNWWcwQm9WVFduTTlNTkR2TndpVFJlWktIOV8zRnhxaW9zTGpOTTlTYk5lLWJiRmhzaXRuN0JZVldzbzVIcldDa205c3RTcFg5dlZJNlB4QTFuUQ?oc=5",
@@ -628,9 +530,9 @@
     {
      "title": "World War III or AI Cyberattack? Japan Minister's 'Emergency Request' to Stockpile Food and Water Sparks...",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQOEc0ZnpwcFpxNi11cUJqRE5TRFR0SXdCbWkyUUZ1WUxza2FoaGpPWVg5QjVPRllZM0E0cG9GUGhpMDNJMzdMY0xTTFNmMnNIQk0tWFZncDJfdUFCQXphcnJNS2o0RV83MHNKd1lYUHpVMFVfYWs2WEN4d0hCa1NpcDFoYUpFZDVGemZJT2t0bnBmY2hROUl6TmdyLXlkMGdrcUI4RDU1cjc0eURoM05naUNubzZ1N210MURZWFduR2JPLW82RDU2QzEyYTB5NlR2bFV4WkcwM0RzSWRLUEx3U2FxSDJHNGhxc2dpR0Y3NTZhQdIB9wFBVV95cUxPZThRTm03Q1JFTXlsMmhYWnBYNnRrSjNmR3V4dU42V09xcjlFeThSVXJPM2o5V0x6NzVwRDdqVlhOYmRFZXRUSUhzV1R2V3RGZzZSc21UT1BqNDMxWURoTkNYN1dDMTcwRmlacklxNVY4cGk2QjhYTmUtSHZ3MlJvQVllVFlSdURIVUU3UXNIYnFoWnE1SDhDd1I5N2VhQk1XZjNZVEt4SnBRVmFBM21RVDZmYU11MXh3cHE1eUh2TDJUcVVUdEFZaURfcENyVUlSR1JlenJ3ME80cGpOUFN6Y2NySGVZTjZ0dkoyRFdsR3BaR1JadExn?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPZThRTm03Q1JFTXlsMmhYWnBYNnRrSjNmR3V4dU42V09xcjlFeThSVXJPM2o5V0x6NzVwRDdqVlhOYmRFZXRUSUhzV1R2V3RGZzZSc21UT1BqNDMxWURoTkNYN1dDMTcwRmlacklxNVY4cGk2QjhYTmUtSHZ3MlJvQVllVFlSdURIVUU3UXNIYnFoWnE1SDhDd1I5N2VhQk1XZjNZVEt4SnBRVmFBM21RVDZmYU11MXh3cHE1eUh2TDJUcVVUdEFZaURfcENyVUlSR1JlenJ3ME80cGpOUFN6Y2NySGVZTjZ0dkoyRFdsR3BaR1JadExn0gH3AUFVX3lxTE9lOFFObTdDUkVNeWwyaFhacFg2dGtKM2ZHdXh1TjZXT3FyOUV5OFJVck8zajlXTHo3NXBEN2pWWE5iZEVldFRJSHNXVHZXdEZnNlJzbVRPUGo0MzFZRGhOQ1g3V0MxNzBGaVpySXE1VjhwaTZCOFhOZS1IdncyUm9BWWVUWVJ1REhVRTdRc0hicWhacTVIOEN3Ujk3ZWFCTVdmM1lUS3hKcFFWYUEzbVFUNmZhTXUxeHdwcTV5SHZMMlRxVVR0QVlpRF9wQ3JVSVJHUmV6cncwTzRwak5QU3pjY3JIZVlONnR2SjJEV2xHcFpHUlp0TGc?oc=5",
      "source": "Lokmat Times",
-     "published": "2026-10-27T10:26:34+00:00",
+     "published": "2026-10-27T10:26:38+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -966,11 +868,11 @@
    "name": "Government Advisories",
    "stories": [
     {
-     "title": "Apple Products Multiple Vulnerabilities",
+     "title": "Mozilla Products Multiple Vulnerabilities",
      "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20261027",
+     "link": "https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20261028",
      "source": "HKCERT",
-     "published": "2026-10-27T03:00:00+00:00",
+     "published": "2026-10-28T03:00:00+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
