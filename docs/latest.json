@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T16:15:16+00:00",
+ "generated": "2026-10-29T21:14:09+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -146,6 +146,108 @@
    "name": "Breaking Threats",
    "stories": [
     {
+     "title": "Limited reports of PHP bug exploitation emerge",
+     "subtitle": "",
+     "link": "https://therecord.media/php2shell-successful-exploitation-reports-emerge",
+     "source": "The Record",
+     "published": "2026-10-29T20:01:25+00:00",
+     "date_only": false,
+     "summary": "One cyber firm listed a half-dozen exploitations of the PHP2Shell bugs, and another identified a well targeted, suspected Chinese campaign that breached U.S. \"government affiliated\" servers.",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": []
+    },
+    {
+     "title": "GM settles with 36 states for selling driver data, agrees to $220 million fine and reforms",
+     "subtitle": "",
+     "link": "https://therecord.media/general-motors-lawsuit-privacy",
+     "source": "The Record",
+     "published": "2026-10-29T19:45:00+00:00",
+     "date_only": false,
+     "summary": "General Motors agreed to pay $220 million to settle a lawsuit filed by a coalition of 36 state attorneys general who alleged the company unlawfully sold information about driver behavior to outside parties.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Fake crypto app on Apple App Store linked to $23K wallet theft",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/",
+     "source": "BleepingComputer",
+     "published": "2026-10-29T19:23:41+00:00",
+     "date_only": false,
+     "summary": "A fake cryptocurrency trading app called Padre Terminal, previously available on the Apple App Store for iOS devices, has been linked to the theft of approximately $23,000 from 27 Solana wallets. [...]",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
+     "source": "The Hacker News",
+     "published": "2026-10-29T19:11:58+00:00",
+     "date_only": false,
+     "summary": "Some attacks take real skill. Others just need someone to leave a door open. This week has both. Exposed passwords, old bugs still getting exploited, and trusted software doing things it shouldn't. There's a strange mix of clever tricks…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/",
+     "source": "BleepingComputer",
+     "published": "2026-10-29T18:38:26+00:00",
+     "date_only": false,
+     "summary": "A newly identified advanced persistent threat (APT) group tracked as UAT-11473 was observed exploiting CVE-2026-20127, an authentication-bypass flaw in Cisco Catalyst SD-WAN Controllers, to deploy a custom malware framework called…",
+     "extra": "",
+     "tags": [],
+     "also": [
+      "The Hacker News"
+     ]
+    },
+    {
+     "title": "Claude Model Builds Exploits Across Major Browsers & OSes",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/application-security/claude-model-exploits-major-browsers-oses",
+     "source": "Dark Reading",
+     "published": "2026-10-29T18:15:59+00:00",
+     "date_only": false,
+     "summary": "An unreleased version of the AI model has found and chained multiple vulnerabilities in Chrome, Safari, Android, Windows, and Linux, Anthropic says.",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "When Risk Becomes Personal: What Security Leaders Can Learn From a Cancer Diagnosis",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/when-risk-becomes-personal-what-security-leaders-can-learn-from-a-cancer-diagnosis/",
+     "source": "SecurityWeek",
+     "published": "2026-10-29T16:30:00+00:00",
+     "date_only": false,
+     "summary": "Risk managers are trained to spot weak signals, plan for disruption and make hard decisions under uncertainty. But the discipline looks different when the risk is not a system or an enterprise, but you. The post When Risk Becomes Personal…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Federal bankruptcy courts contractor says no data stolen during cyber intrusion",
+     "subtitle": "",
+     "link": "https://therecord.media/us-bankruptcy-courts-it-contractor-says-no-data-stolen-cyberattack",
+     "source": "The Record",
+     "published": "2026-10-29T16:13:00+00:00",
+     "date_only": false,
+     "summary": "\"No data was extracted,” a spokesperson for BAE Systems, a federal contractor, told Recorded Future News about its probe into a cyberattack against its systems for federal bankruptcy courts.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
      "title": "Chrome extensions with 13.4 million installs caught hijacking searches",
      "subtitle": "",
      "link": "https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/",
@@ -153,6 +255,18 @@
      "published": "2026-10-29T16:10:31+00:00",
      "date_only": false,
      "summary": "A massive search-hijacking campaign involving 319 Chrome extensions with a combined 13.4 million reported installations redirected users' searches through tracking servers to generate advertising revenue from Bing and Yahoo. [...]",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
+     "source": "The Hacker News",
+     "published": "2026-10-29T15:57:05+00:00",
+     "date_only": false,
+     "summary": "A flaw in the Linux kernel's TCP code, tracked as CVE-2026-98432, affects Ubuntu, Red Hat Enterprise Linux (RHEL), and other Linux distributions. The kernel's own CVE team rates it 9.8 out of 10 on the CVSS scale. Anthropic said on October…",
      "extra": "",
      "tags": [],
      "also": []
@@ -314,18 +428,6 @@
      "also": []
     },
     {
-     "title": "University of New Mexico restores hospital systems, urges no contact with hackers",
-     "subtitle": "",
-     "link": "https://therecord.media/new-mexico-cyberattack-hospital",
-     "source": "The Record",
-     "published": "2026-10-29T13:30:00+00:00",
-     "date_only": false,
-     "summary": "The University of New Mexico was able to restore systems used by its healthcare facilities after a cyberattack forced it to divert ambulances and cancel classes at its medical school.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
      "title": "BAE Says No Data Extracted in Incident Hitting Bankruptcy Courts",
      "subtitle": "",
      "link": "https://www.securityweek.com/bae-says-no-data-extracted-in-incident-hitting-bankruptcy-courts/",
@@ -364,130 +466,26 @@
      "extra": "",
      "tags": [],
      "also": []
-    },
-    {
-     "title": "Webinar: How to Build AI Threat Readiness Into Your Security Operations",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
-     "source": "The Hacker News",
-     "published": "2026-10-29T11:39:41+00:00",
-     "date_only": false,
-     "summary": "Security teams have spent years trying to detect threats faster. AI is changing the harder part: how much time defenders have left to act. Advanced AI models can now help attackers discover vulnerabilities, generate exploit code, and move…",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
-     "source": "The Hacker News",
-     "published": "2026-10-29T11:39:18+00:00",
-     "date_only": false,
-     "summary": "A flaw in Telegram for Android allowed an attacker to run code on a victim's phone via a voice call once the victim answered, according to security startup NebuSec. The attacker needed only an ordinary Telegram account. Telegram fixed the…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html",
-     "source": "The Hacker News",
-     "published": "2026-10-29T11:33:41+00:00",
-     "date_only": false,
-     "summary": "AI is beginning to take over much of the work that has traditionally defined the security analyst's job. Investigating alerts, collecting evidence, correlating activity across tools, and executing response actions are becoming tasks that…",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html",
-     "source": "The Hacker News",
-     "published": "2026-10-29T11:33:15+00:00",
-     "date_only": false,
-     "summary": "26,400 credentials that developers left in public code on Gitee, a Chinese code-hosting service, still worked when a researcher tested them. Anyone who copied one from that code could have used it. Independent researcher Ben Zimmermann…",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "New Cisco firewall zero-day exploited to crash SSL VPN devices",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-firewall-zero-day-exploited-to-crash-ssl-vpn-devices/",
-     "source": "BleepingComputer",
-     "published": "2026-10-29T11:10:13+00:00",
-     "date_only": false,
-     "summary": "Cisco released security updates to patch a denial-of-service zero-day in Adaptive Security Appliance (ASA) and Threat Defense (FTD) software that attackers are exploiting to remotely crash vulnerable firewall devices. [...]",
-     "extra": "",
-     "tags": [
-      "Exploited",
-      "Zero-day"
-     ],
-     "also": [
-      "The Hacker News",
-      "SecurityWeek"
-     ]
-    },
-    {
-     "title": "Hackers Steal 2.6 Million Records From Sony’s Japanese ISP So-net",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/hackers-steal-2-6-million-records-from-sonys-japanese-isp-so-net/",
-     "source": "SecurityWeek",
-     "published": "2026-10-29T11:00:00+00:00",
-     "date_only": false,
-     "summary": "The data of So-net and Plala customers in Japan was exposed, along with 54,401 email account passwords and 16 bank account records. The post Hackers Steal 2.6 Million Records From Sony’s Japanese ISP So-net appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [
-      "Telecom",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Cisco SD-WAN Zero-Day Exploitation Tied to Volt Typhoon’s ‘Silent Train’ Network",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/cisco-sd-wan-zero-day-exploitation-tied-to-volt-typhoons-silent-train-network/",
-     "source": "SecurityWeek",
-     "published": "2026-10-29T10:29:25+00:00",
-     "date_only": false,
-     "summary": "Cisco Talos linked SD-WAN key-stealing malware to infrastructure overlapping Volt Typhoon’s Silent Train network, which Lumen detailed. The post Cisco SD-WAN Zero-Day Exploitation Tied to Volt Typhoon’s ‘Silent Train’ Network appeared…",
-     "extra": "",
-     "tags": [
-      "Zero-day",
-      "Nation-state"
-     ],
-     "also": [
-      "The Hacker News"
-     ]
-    },
-    {
-     "title": "GitHub Launches npm Firewall to Block Malicious Packages Before Installation",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html",
-     "source": "The Hacker News",
-     "published": "2026-10-29T10:26:33+00:00",
-     "date_only": false,
-     "summary": "GitHub has announced that it's introducing a new package firewall as a preview to block installation of suspicious npm packages during installation time. \"The firewall inspects both metadata requests and package downloads for signs of…",
-     "extra": "",
-     "tags": [
-      "Supply chain"
-     ],
-     "also": []
     }
    ]
   },
   {
    "name": "APAC Watch",
    "stories": [
+    {
+     "title": "Japan’s Cyberattack Surge Tests Its Push to Strengthen Defenses",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN05hU2RYNzRuSDdRM0dFcVRFZUEydW5kcHdzTUNBWFpmZk8xTGZzMDNjZGxaWkRXajFTUkpjSGpCUUxMcHd1TWZXMzBuNjdxbHJtY3RmM2FOQnlONEg1RmdjbVJQdVRLR21YX3JwQWxtWXBWLWVLT1htdlI5Y3UtZ0hWZ2pJQk9KdGU3RXVRTVhFb0NkWWFLZVJxOWRmMm50MFBMQ2VlajJLRWJrQTVVSmNvVEY?oc=5",
+     "source": "Bloomberg.com",
+     "published": "2026-10-29T18:52:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
     {
      "title": "Two Japanese Airlines Report Passengers Data Breach",
      "subtitle": "",
@@ -506,6 +504,61 @@
      ]
     },
     {
+     "title": "Data breach at Sony ISP subsidiary exposes 2.5 million customer records as Japan hit with another major cyberattack",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOeUFUQTYwakotWUEzOHNVOE0zWXJ1ZFVUakdDUFBua3JvWG9UZ1lNM2pFQ1QzVFA1TlFkZTBQRWliTHl4bzJ2cllOSnF4cGhhMkppSUFWTjlmeW5tRVNmS0NFRlJTanU3SWtyYXp6cTFad19uMmRmcEt4ZC1qTXB1Uzk4V1B1TXJnVTI1VWdYRno4aTd3azRYRk1BR0c0SWNwS2lQRWxjajNVMm4zNjdqbjh2NmlzRlNlVkk2b1dWTVBDMDVkU0V1X01fdUkyQXFiaTdRVDVqVTZROGk3QUkxMGFISnB6UlFXeGc?oc=5",
+     "source": "TechRadar",
+     "published": "2026-10-29T13:05:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "Telecom",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Japan Airlines Says Amadeus Breach Exposed Data of 92,000 Customers",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOd3RmSGlyU0txMktIWlVUdHpVa2ZycWdVQ20tTkFvSkljTDJOX3F6d3F1M1I0Nm5lMHg0NUNVVnlyZnFxbGlfTHlGaTBuTF84NXZLY2JiTUVTRnVxemdpeEEwLUZ2Q3dFRjJ1SFBwQndSclZYVm9CRlpXNlVUaWJTaHpHN29fSjRTdWc?oc=5",
+     "source": "The 420.in",
+     "published": "2026-10-29T12:52:44+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": [
+      "teiss",
+      "The Record from Recorded Future News"
+     ]
+    },
+    {
+     "title": "Japan gov't asked telecom firms to block extortion site in GMO data breach",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfZEppMDZnbjZuOUxmemQ1M1BaNFNrLUVZaTdNUU96TkZSV1A1bnFFaFpYcWlrRC1WX0pnZHlZUHNHQWlnSmxCa21qTVczT3pPc1BTQ0hRRF8tQQ?oc=5",
+     "source": "Japan Wire by Kyodo News",
+     "published": "2026-10-29T12:47:11+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Ransomware",
+      "Breach",
+      "Telecom",
+      "APAC"
+     ],
+     "also": [
+      "JIJI PRESS",
+      "Nippon.com",
+      "The Straits Times"
+     ]
+    },
+    {
      "title": "South Korea's SK Planet Reports Personal Data Breach in Gift Certificate Service; Refund Accounts Exposed, Full Compensation Promised",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9faTQ5RW85aEhTLW4wUDF2RW5Jd0UxeU9CQmFTZnVuR0tQeGNnaUF0YXBiLXgxRUhFbEpFNDhnT0hISl94X0JaNnV1ODZYcXJQSkRCMWQ1RHo1Vy1KZHgxQVZkbEVMRjBqeTRSd1o0T2hFdU5JUlE?oc=5",
@@ -521,51 +574,6 @@
      "also": []
     },
     {
-     "title": "Japan Airlines says hackers accessed data of 92,000 customers through reservation system provider",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUGN6NFBiLUF4RElOekt5aDMxektwTHducWotcVdTeFRmTjhvNjFWR2Z6QUQ5eHl4aFZLd1RKMjVkaFBJZVpZdkZ6cXpRVWlhbnhOM3VNNEZwUlFkYm1GNjFqOE9ET0lZZFdBZDJjNXctUElHVUtZMXhYZTV6VjlzLXJzV3N3ZHRjRHFRd2FvWFo5VG1wSjJsWHdZT3M4TWc4aW95eGRSOHJ1SE1ycUdvU25Ld0ZNYV9XVGhER1psQ0ZZZnBnYkVnMGUxOA?oc=5",
-     "source": "teiss",
-     "published": "2026-10-29T12:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "ASD Cyber Threat Report: AI Speeds Up Attacks On Australia",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5CRURid2RxT0JqbXVYVWVoaHRadHg2cjRLY0V6Mi1nU0ppVXhRNkNHTW1YN3JWN2xadDZvMGVUeXAwUzRZV2N6dy05d3F2M1JBRWs5Rzl6dDc4V1pvczBSOGRR?oc=5",
-     "source": "The Cyber Express",
-     "published": "2026-10-29T11:31:03+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "AI",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "(Update) Japan Govt Seeks Website Block after GMO Cyberattack",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAtVGlxRy1qU3NRVExpSjVfWkhIMHVDMHg1dVpZb3piY1V5OTFFQnJMWFVYS291YVQ5dzhZWkhLaTlCM1F2WFFmZmtHWTJrMC1yRTdiNlFJbDNqUTQ?oc=5",
-     "source": "JIJI PRESS",
-     "published": "2026-10-29T10:47:43+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": [
-      "Nippon.com"
-     ]
-    },
-    {
      "title": "South Korea's Jin Air Reports Data Breach Affecting 1,454 Members; API Hack Also Hit Hanjin Affiliates",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jSnNWQUMtZHBOYXhpcmxPMWl3REVtcnRzbl9BQXBDc05fRWg2WGtlN2dhTnVLc0JjSFhNYXY3TEhxeERJNzlaTzRZNTk1YVg3VHhwajl5aHVlVGxwQ001dlVYY1JZUldqMmdjZkdEMVA1NnZlY3c?oc=5",
@@ -577,22 +585,6 @@
      "tags": [
       "Breach",
       "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Japanese government asked telecom firms to block extortion site in GMO data breach",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVXpNTUQxODVCcGpPcGhKOTJEYzItckxHVFRGUXZSdG9qMEx1Nm9oMnRtUzQ5QThnR1pJbk9JXzV3Z3J0OTFwamJaLVpMZ2pMUXkzWHd4TkJ5VnQ5Skd6ZTVXelNZWHVGYTE1RHRER2FxY3hDY2hqT3QxdG9PV1JhVUoxaE9qTnFXSHBiTGowcWFselRkUmpXVm5SSllORE44NVZoeVV2STBVeFdTSEt6bEoyMTJ4SUZsZ0ZfeHZzQV9iRGV2?oc=5",
-     "source": "The Straits Times",
-     "published": "2026-10-29T05:18:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Ransomware",
-      "Breach",
-      "Telecom"
      ],
      "also": []
     },
@@ -626,20 +618,6 @@
      "also": []
     },
     {
-     "title": "PHP flaw lets hackers seize 25 systems, hit U.S. agency and target Korea",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQ3dPRWZPOU1wc3A0cDRuUDNfcEhEbGJEZjFXcF9ORDFRcjlkTGFTdnVPVW01VkZnWXJlWnpMN1pLeE1heVJ2b0V4SUh5WHZ5RlR6RHMxWjZLX1hTYmpaRkZILXQ2X2p1cmg3bGNHNUswZ1JleTR2dXlMU3AwZ21vS0NKNE9RenhkTnNXakJn0gGOAUFVX3lxTE1Dd09FZk85TXBzcDRwNG5QM19wSERsYkRmMVdwX05EMVFyOWRMYVN2dU9VbTVWRmdZcmVaekw3Wkt4TWF5UnZvRXhJSHlYdnlGVHpEczFaNktfWFNialpGRkgtdDZfanVyaDdsY0c1SzBnUmV5NHZ1eUxTcDBnbW9LQ0o0T1F6eGROc1dqQmc?oc=5",
-     "source": "Chosunbiz",
-     "published": "2026-10-29T01:06:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
      "title": "Hackers Exploit PHP Flaw to Breach U.S. Government Internal Network, Seize 25 Firewalls in South Korea and Taiwan",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9oTkMxRWtrMjZ5UnVETjQxWGpfYS1MT2xiOWh0dUlXdDlCcGR6TmtiSlNVenNEQjZFemFEeDZTb3NvTFJxTE1aVk5TM0R1bl91UGJnamZTNEFEUTh2alVaUDJONWJWWE5OeWZfYkhsMHRJeDQzTFE?oc=5",
@@ -668,27 +646,50 @@
       "APAC"
      ],
      "also": []
-    },
-    {
-     "title": "India’s Film Certification Board Data Breach Exposes Documents Linked to More Than 500 Film Titles",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcUc2ZkpUdnlBLVVHQnlBQ1JWZy1XSmFUc0c4Ty1kTU5EdVlILVAzRHpNbzRmYnN4OGFxcFRGeWk0b2ptYWZHVGRUUmRNWkE3T3czU3YxYWpBOV9mUGhOcmxRWWZkaHROZ0xESHFiR0U4SmVZdV9iNXVtb3BLSVQzS2kzQlVwcVUtN3NlY2lnQk84TWtocDNZVmlvcmFmbTRnS3ZCQnNJQTFFb1VCaGY4WXM4LU11SWRZZlZPUTZzSGdfTm1ERFFkcWtVVzFRSV80UVE?oc=5",
-     "source": "Security Boulevard",
-     "published": "2026-10-28T18:15:52+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
     }
    ]
   },
   {
    "name": "Threat Research",
    "stories": [
+    {
+     "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 29)",
+     "subtitle": "",
+     "link": "https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/",
+     "source": "Unit 42",
+     "published": "2026-10-29T18:00:34+00:00",
+     "date_only": false,
+     "summary": "CVE-2026-109618 and CVE-2026-109619 are Critical vulnerabilities in PHP, a scripting language used globally for web servers and CMS systems. The post Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "A quiet week in infosec <.<",
+     "subtitle": "",
+     "link": "https://blog.talosintelligence.com/a-quiet-week-in-infosec/",
+     "source": "Cisco Talos",
+     "published": "2026-10-29T18:00:00+00:00",
+     "date_only": false,
+     "summary": "In this edition of the Threat Source newsletter, William explores how PHP has taken over the conversation, Node.js has joined in, but underneath it all, there are still good people doing good work.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Tracking AI adoption in North Korean threat actor tradecraft",
+     "subtitle": "",
+     "link": "https://www.microsoft.com/en-us/security/blog/2026/10/29/tracking-ai-adoption-in-north-korean-threat-actor-tradecraft/",
+     "source": "Microsoft Threat Intelligence",
+     "published": "2026-10-29T16:00:00+00:00",
+     "date_only": false,
+     "summary": "As Microsoft Threat Intelligence continues to track how threat actors operationalize AI to increase the speed and efficiency of attacks, we’ve identified North Korean threat actors expanding their use of AI with varying levels of adoption…",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
     {
      "title": "Cohere’s Qwen Story: Looks More Like Model Jaggedness",
      "subtitle": "",
@@ -837,18 +838,6 @@
      "also": []
     },
     {
-     "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 25)",
-     "subtitle": "",
-     "link": "https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/",
-     "source": "Unit 42",
-     "published": "2026-10-23T19:00:34+00:00",
-     "date_only": false,
-     "summary": "CVE-2026-109618 and CVE-2026-109619 are Critical vulnerabilities in PHP, a scripting language used globally for web servers and CMS systems. The post Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
      "title": "Infostealer riding the AI Train",
      "subtitle": "",
      "link": "https://research.checkpoint.com/2026/infostealer-riding-the-ai-train/",
@@ -860,30 +849,6 @@
      "tags": [
       "AI"
      ],
-     "also": []
-    },
-    {
-     "title": "I had plans for that second",
-     "subtitle": "",
-     "link": "https://blog.talosintelligence.com/i-had-plans-for-that-second/",
-     "source": "Cisco Talos",
-     "published": "2026-10-22T18:04:32+00:00",
-     "date_only": false,
-     "summary": "The Earth is speeding up, the leap second is being abolished, oh, and there's critical vulnerabilities in PHP.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "EMudhra Intermediate CA Certificates Compromised",
-     "subtitle": "",
-     "link": "https://unit42.paloaltonetworks.com/emudhra-certificate-compromise/",
-     "source": "Unit 42",
-     "published": "2026-10-22T17:15:32+00:00",
-     "date_only": false,
-     "summary": "Eight compromised eMudhra intermediate CA private keys risk unauthorized TLS signing and MitM interception. Read our analysis and containment guide. The post EMudhra Intermediate CA Certificates Compromised appeared first on Unit 42 .",
-     "extra": "",
-     "tags": [],
      "also": []
     }
    ]
