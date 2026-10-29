@@ -1,9 +1,43 @@
 {
- "generated": "2026-10-28T21:44:03+00:00",
+ "generated": "2026-10-29T01:52:23+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
    "stories": [
+    {
+     "title": "CVE-2026-41709: Broadcom VMware ESX",
+     "subtitle": "Broadcom VMWare ESX Insufficient Logging Vulnerability",
+     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-41709",
+     "source": "CISA KEV",
+     "published": "2026-10-28T00:00:00+00:00",
+     "date_only": true,
+     "summary": "Broadcom VMWare ESX contains an insufficient logging vulnerability that could allow a malicious actor with admin access to perform certain operations without being logged.",
+     "extra": "US federal patch deadline 11 Nov",
+     "tags": [
+      "Exploited"
+     ],
+     "vendor": "Broadcom",
+     "product": "VMware ESX",
+     "cve": "CVE-2026-41709",
+     "also": []
+    },
+    {
+     "title": "CVE-2026-46300: Linux Kernel",
+     "subtitle": "Linux Kernel Missing Initialization of a Variable Vulnerability",
+     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-46300",
+     "source": "CISA KEV",
+     "published": "2026-10-28T00:00:00+00:00",
+     "date_only": true,
+     "summary": "Linux Kernel contains a missing initialization of a variable vulnerability that could allow for unintended modification of page-cache-backed data via failure to preserve the shared-fragment marker during socket buffer coalescing, causing…",
+     "extra": "US federal patch deadline 31 Oct",
+     "tags": [
+      "Exploited"
+     ],
+     "vendor": "Linux",
+     "product": "Kernel",
+     "cve": "CVE-2026-46300",
+     "also": []
+    },
     {
      "title": "CVE-2026-48356: Adobe Commerce and Magento",
      "subtitle": "Adobe Commerce and Magento Unrestricted Upload of File with Dangerous Type Vulnerability",
@@ -151,6 +185,20 @@
      "also": [
       "The Record from Recorded Future News"
      ]
+    },
+    {
+     "title": "GhostAction Hacking Wave Fizzles, But Attackers Lurk on in GitHub",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/application-security/ghostaction-hacking-wave-fizzles-attackers-github",
+     "source": "Dark Reading",
+     "published": "2026-10-28T19:39:00+00:00",
+     "date_only": false,
+     "summary": "The supply chain attack campaign's shift toward developer endpoints and cloud access signals what could be next for the cybercrime outfit.",
+     "extra": "",
+     "tags": [
+      "Supply chain"
+     ],
+     "also": []
     },
     {
      "title": "Discord to let search engines index public server messages",
@@ -428,26 +476,42 @@
      "extra": "",
      "tags": [],
      "also": []
-    },
-    {
-     "title": "Wazuh and AI for Enhanced SOC Workflows",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/wazuh-and-ai-for-enhanced-soc-workflows.html",
-     "source": "The Hacker News",
-     "published": "2026-10-28T11:30:00+00:00",
-     "date_only": false,
-     "summary": "Artificial Intelligence (AI) has become one of this decade's defining technologies. From healthcare and finance to manufacturing and education, organizations increasingly rely on AI to automate repetitive tasks, uncover patterns hidden…",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
     }
    ]
   },
   {
    "name": "APAC Watch",
    "stories": [
+    {
+     "title": "Hackers Exploit PHP Flaw to Breach U.S. Government Internal Networks; 25 Firewalls in South Korea and Taiwan Seized",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9oTkMxRWtrMjZ5UnVETjQxWGpfYS1MT2xiOWh0dUlXdDlCcGR6TmtiSlNVenNEQjZFemFEeDZTb3NvTFJxTE1aVk5TM0R1bl91UGJnamZTNEFEUTh2alVaUDJONWJWWE5OeWZfYkhsMHRJeDQzTFE?oc=5",
+     "source": "BigGo Finance",
+     "published": "2026-10-29T00:25:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Chinese AI Tool Linked to Hacks in Japan",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPXzI3bFVJdEgwYUUwTWxUY2UyZlVFYmI3QlBWU3BMMG1hWjhHZVQ1UHZFaUlBdGwwc2pPdXJxYTgtWVlxdXh1QktTOW55dW9QU2ZZYldSNGM2WklORTNpZWJBZ2NMZEQ5cE9aSl9SaHBnTmpDZ0VmdkJVSkt6OFJSZzZWa0NkLVU?oc=5",
+     "source": "WSJ",
+     "published": "2026-10-29T00:02:45+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "AI",
+      "APAC"
+     ],
+     "also": []
+    },
     {
      "title": "Sarku Japan Data Breach Lawsuit Investigation",
      "subtitle": "",
@@ -496,43 +560,16 @@
      "also": []
     },
     {
-     "title": "Japanese internet provider GMO urges customers to unplug computers after cyber attack",
+     "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTk1qa1NmeDAxU0tjMlo2UjhTQ2tPV0NGVzQ0bkhNa2d3ZnBtODA4S3BQRS1sMld5UWZtWmVrWklrQUdhU0lIRVUwRXFJQmFtNHQ4SnFDbnBCWVFUSlFsb3NJZExHLXhIQVpVR2Z4cGhOZHNMRUtFUEI5UDdxZkRIWHNmRUhhN0NsWUFzWXVydVdac3PSAZgBQVVfeXFMT2pZNDloTkVLQ3NUdm5laGdIanc0ZXh2dUQ0SFg2QzJVWmpWdVZLOEt1SndPeGowS09vdHBxWGh0Vi01NHZDRDFUVE1QZV9mc3dLWXJweFBZbzhPaW1CbF9SOEpERmZCdlR6Vm9oN1hQaUxPUjR1ZXVNOTdsSFprQUxjN1p3QUZhejkzcXltQ3F4S0pXWXV5WV8?oc=5",
-     "source": "Daily Express US",
-     "published": "2026-10-28T14:36:39+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": [
-      "The Independent"
-     ]
-    },
-    {
-     "title": "MR ROBOT Malware Rental Network Targets Indian Bank Customers With Fake KYC Apps",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZ1VnMklicUtFU19yMEROdVVkYkxFbUNnZnI0aTdvazRhUWdaLTRVZ285Vjlkam9keGxLbTFQTm1kWG1MSFdJV3ptR1F5bElPRjhpZ29VVTJDMnBYX25QRjdTYmhYSXdyTzVjNV8xcnpicmUweV8xeko4SHFIYVpIWjhibkIwV05QWGZpZ0Izakx5S0wzeDBfLTJ2c2E0c3V4bU0tcS1ianNuMXJVbktGaA?oc=5",
-     "source": "The 420.in",
-     "published": "2026-10-28T12:15:11+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "AI-Powered Hackers Target Japanese Companies With Automated Attacks and Credential Theft",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50b3F0LU14Vy1qeG41RlhQQzBaYzZYWFRVNzFPaHY1VXB5LVhBSldWS2wzcy1xc3V3Q2Z3Z0ZWR0NRMC1mRDRIdlRQeHYwbHJmYVUwTXUwUWlIMlR3Vktj0gFkQVVfeXFMUHl6QU96aFoxdnRIUGxvNXU4Tjh0ZHN1RExZck1qMmlQeWU0eEo3bXhDT09kNzJYcmNKTFBTd3JVcWNLVFB0VGhCbklmbHY2cGlhYWpoODROZFJlNXhUSVg4SEsybA?oc=5",
-     "source": "GBHackers News",
-     "published": "2026-10-28T12:10:35+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUl9nU3NGM0RCUkpDakh6bW1YMVBjWTJhR3ZpcXhudlV2MkdZdlBtNFE4eHRXdm43RDNjcnlLRnM5eHdhVF9XcDkwOUJOQk9oclE2aFRZekVZVkVzOENFUHJwMkdZak1wNWY3MlNjOThtR2ZDd01nX0tiSDNjWjlVZ0xRblFYUnprWHotX3hFajJzMTh0Sl90SGs2ZThIYnlaNnc?oc=5",
+     "source": "TechCrunch",
+     "published": "2026-10-28T15:41:18+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
      "tags": [
-      "AI",
-      "Phishing"
+      "APAC"
      ],
      "also": []
     },
@@ -541,12 +578,29 @@
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPUjBZbEN6cXRhem82MEVydDcyUUlRTzFiZ0VaM2VjX1pzaUhDNTlMeUlfdU9FT0FVUFdhRmhaR082akl2MDhsZHY5SFQyZmJ0ekctQzFYODlWMDItZUdFdjVRSzlDMmFKSHlMVEt3S1RsY29hbFg1aHhwN1c1LTJOQldDbXFyRDdxYWVzR3ktRFpfeDVURWw2MjBiSm00c3hMZldYWlN1ajZZS3cwSnFaZ3Q2NkRqeG5OdkVfN21YSHRocGMxRnZ0TlZneHRNQdIB0wFBVV95cUxOZ0EyLUQtX3A1Mk4xbzJzM3NuM1NJeGNGYWlKWm5pOENkZERPZkNFVjhPb0VSampwRHVSS2V6ajBVNDB0czZLR21ZU1I0ZGFGQndmdW5WalpsSF94Tk1GTmYyS3dhdHNGbFpYdVhWOWpqZTVCNHFiWGQ2QmkxSV8yeUotdFJkUDlqaWVTOXFZRnBZMDAwWjZ6WS1tS2l3ZkpnUDZORFB3VEUtay1XRm5HYUNnRlZOR1k3UjZpeWl1WFVWSXlHS3ZEWmRwTXNpbFhDQmxn?oc=5",
      "source": "7NEWS",
-     "published": "2026-10-28T11:05:00+00:00",
+     "published": "2026-10-28T11:02:00+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
      "tags": [],
      "also": []
+    },
+    {
+     "title": "Japan’s GMO Internet Warns Customers to Unplug PCs as Hackers Threaten Ransomware",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBaUThDbG44dVpoVHZyQ2tNZXdiZVRwQWpXVXFOX00xelBkMFNNMm5icDRucVFQQ2ZfUjJzendTOVhXdkZmM1ZrRkRxdHJaY3AxcXRzYUc4cUhuMUxYSzlzWmNR0gFnQVVfeXFMTldUeWgxeVd0Zjd2V0w4U0M5LUZFcUl6WFZDX19vbHFwaHZrNGtkbFREUTdTTGRjeW5KOVJjX3l6eXQ2X0tDdjN6VXJCRU5ZZEpjQmo5dW90bEE3NnZqSjJTbDk2NGIzTQ?oc=5",
+     "source": "GBHackers News",
+     "published": "2026-10-28T09:54:58+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Ransomware",
+      "APAC"
+     ],
+     "also": [
+      "CyberSecurityNews"
+     ]
     },
     {
      "title": "Three Japan-Focused Cyberattacks Show How Hackers Use AI",
@@ -624,6 +678,18 @@
      "also": []
     },
     {
+     "title": "Japanese internet provider tells customers to unplug computers amid major cyberattack",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcUpqWW9KUWtydUE2LU9rYnRBb1hKY3BmZUxYR3NSTGswYXp3cmtFODdFWXY4ajVFNnMwcURMb2dOVkNNZkhxQXlCOXhzOGRzcTJhak85NnZWalJMMGpCbWxQYXVTMzdieTRrLUZCUWxtdDE0VlEzdS1tREJFbU1ZWG1QSVFNa1pzWXp3N281SXNIcW1GSkNHU0RCbnNZZTQzSlE?oc=5",
+     "source": "The Independent",
+     "published": "2026-10-28T07:10:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
      "title": "Japan’s GMO says hacker site with allegedly leaked customer data taken down after cyberattack",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQ0syLU1ZTzdBbVFfSkJab0pGVkgtOWxqRnFoNW1VTUZ1NTBOTnQ4ZWhwTjFoTUoxNlE5NkVYZE1QUTR1YUh5TzRGcnRCMDhuMnQtSmN4Uk5UUWZZbHJTZ1BYWjE1c2F4NEhUaVNDOEVfN2RkXzdDVUFnNExPYkFaZDBZTUhXLXZXelFQTjZJRC15OW1Yd3RXSWwyTnc2WFlGTW02Z081YzNjT1c2dzlBZ2FFQ0t5czVBVXB4V3k3UURuWTFYUXhBaUN6TjRtQWNNeXc?oc=5",
@@ -634,35 +700,6 @@
      "extra": "",
      "tags": [
       "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Trading Platform Rocked by Japan Hack, $50 Million Ransom",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9TaXhvNE5PNHlPeVRDNDRNd1hBeHBYck1oaEJtVVk1N3MtVDFiT2w4aC10MVlKa2NQZGxET0gyd3pKc0NIaXpnd3VYMXloMjl2SVlmbzRqc3pHNjFUVll0YldCalpkdWFvLUQtSEdUMHpSREU?oc=5",
-     "source": "Claims Journal",
-     "published": "2026-10-28T05:00:30+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Japan's IDC Frontier discloses new ransomware findings",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQUt4WUJvR0FvWjREZXJQbnFrVTFtNlNGU3ppbGdUVHlYQWpEaGNXQU5xOWlDN0xIUWN3dS1EX1N2VVVkcWczZ21TMGRFVDZMYldLN2VQbGNRMHhEQXYxRVU2WHdOd0xNSEJJQ0lMWjVOcFpZLXRSOGY5UGh1WVNEd01iTHMxRjU3YW9vaTlSVDFwTVJNNG5QNGxnQm9oYkpqSzZyVFZoWktycURjWVU3MG84Z2pSVDZybHgw0gFaQVVfeXFMTl9PdUtwSGxkbzA5UEQ1ZTQ3VGJod01LSmU5cEJKVm9BRjUweTZBVUIyNzg4SnRkdkRub01ZbEVIT1d0Ml9maDJQbElBcnRIbHppSW5kV1FBZmVB?oc=5",
-     "source": "MLex",
-     "published": "2026-10-28T01:47:04+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Ransomware",
       "APAC"
      ],
      "also": []
