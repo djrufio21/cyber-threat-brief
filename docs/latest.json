@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-29T01:52:23+00:00",
+ "generated": "2026-10-29T08:39:15+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -145,6 +145,74 @@
   {
    "name": "Breaking Threats",
    "stories": [
+    {
+     "title": "HHS Filing Puts iRhythm Data Breach Toll at 8.2 Million",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/hhs-filing-puts-irhythm-data-breach-toll-at-8-2-million/",
+     "source": "SecurityWeek",
+     "published": "2026-10-29T08:27:16+00:00",
+     "date_only": false,
+     "summary": "Hackers stole personal information and iRhythm account and device data from third-party-hosted business applications. The post HHS Filing Puts iRhythm Data Breach Toll at 8.2 Million appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": []
+    },
+    {
+     "title": "Chinese Hackers Quietly Used Low-Severity ESXi Logging Flaw as Zero-Day",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/chinese-hackers-quietly-used-low-severity-esxi-logging-flaw-as-zero-day/",
+     "source": "SecurityWeek",
+     "published": "2026-10-29T08:01:05+00:00",
+     "date_only": false,
+     "summary": "CVE-2026-41709 allows attackers with administrative privileges to perform operations without being logged. The post Chinese Hackers Quietly Used Low-Severity ESXi Logging Flaw as Zero-Day appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [
+      "Zero-day"
+     ],
+     "also": []
+    },
+    {
+     "title": "Cyber Vulnerabilities Besiege Italy, Absent Clear Cause",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy",
+     "source": "Dark Reading",
+     "published": "2026-10-29T08:00:00+00:00",
+     "date_only": false,
+     "summary": "Researchers can't quite explain why cyber threats look so different in Italy compared to everywhere else.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html",
+     "source": "The Hacker News",
+     "published": "2026-10-29T06:22:33+00:00",
+     "date_only": false,
+     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a security flaw impacting Broadcom VMware ESX to its Known Exploited Vulnerabilities (KEV) catalog, after CrowdStrike revealed that it had been weaponized…",
+     "extra": "",
+     "tags": [
+      "Zero-day"
+     ],
+     "also": []
+    },
+    {
+     "title": "Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html",
+     "source": "The Hacker News",
+     "published": "2026-10-29T05:50:17+00:00",
+     "date_only": false,
+     "summary": "Palo Alto Networks on Wednesday warned that threat actors are exploiting the recently patched PHP2Shell vulnerabilities against publicly-accessible management interfaces. \"Active exploitation has been observed targeting the Palo Alto…",
+     "extra": "",
+     "tags": [
+      "Exploited"
+     ],
+     "also": []
+    },
     {
      "title": "Court strikes down West Virginia law barring disclosure of public officials’ personal data",
      "subtitle": "",
@@ -416,66 +484,6 @@
      "extra": "",
      "tags": [],
      "also": []
-    },
-    {
-     "title": "TLS Flaws Found in GoAhead Web Server Used in Hundreds of Millions of Devices",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/tls-flaws-found-in-goahead-web-server-used-in-hundreds-of-millions-of-devices/",
-     "source": "SecurityWeek",
-     "published": "2026-10-28T13:10:34+00:00",
-     "date_only": false,
-     "summary": "FoxIO disclosed three GoAhead TLS bugs that can let revoked certificates through or expose some encrypted sessions to eavesdroppers. The post TLS Flaws Found in GoAhead Web Server Used in Hundreds of Millions of Devices appeared first on…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html",
-     "source": "The Hacker News",
-     "published": "2026-10-28T12:48:03+00:00",
-     "date_only": false,
-     "summary": "Threat actors are beginning to probe for a newly patched critical vulnerability in Oracle E-Business Suite (EBS), according to threat intelligence firm Defused Cyber. The vulnerability in question is CVE-2026-101767 (CVSS score: 9.8) , a…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Hackers now scanning systems for recently-patched Oracle flaw",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/hackers-now-scanning-systems-for-recently-patched-oracle-flaw/",
-     "source": "BleepingComputer",
-     "published": "2026-10-28T12:19:57+00:00",
-     "date_only": false,
-     "summary": "Attackers have begun probing the Internet for systems unpatched against a recently disclosed critical Oracle E-Business Suite (EBS) vulnerability. [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "China-Linked Hackers Exploit PHP2Shell to Root Firewalls",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/china-linked-hackers-exploit-php2shell-to-root-firewalls/",
-     "source": "SecurityWeek",
-     "published": "2026-10-28T12:00:59+00:00",
-     "date_only": false,
-     "summary": "The attackers chained PHP2Shell and Fragnesia exploits and hacked two servers of a US government-affiliated organization. The post China-Linked Hackers Exploit PHP2Shell to Root Firewalls appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html",
-     "source": "The Hacker News",
-     "published": "2026-10-28T11:50:00+00:00",
-     "date_only": false,
-     "summary": "A critical 16-year-old flaw in EDK II, the open-source code that most hardware makers use to build UEFI firmware, can allow an attacker to run code on a machine before its operating system loads, but only while the machine is booting over…",
-     "extra": "",
-     "tags": [],
-     "also": []
     }
    ]
   },
@@ -483,7 +491,80 @@
    "name": "APAC Watch",
    "stories": [
     {
-     "title": "Hackers Exploit PHP Flaw to Breach U.S. Government Internal Networks; 25 Firewalls in South Korea and Taiwan Seized",
+     "title": "Japan Govt Seeks Website Block after GMO Cyberattack",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1FXzNVTHJqcGZKS0l4Nm1wbnlGUlJmSUJyQjRDczlrREdLQmlmQ1Z2WWF6YTFRd1lWbHFadDB1aTlDSjF3anNJakkzMUo5VXI5dVhJQQ?oc=5",
+     "source": "Nippon.com",
+     "published": "2026-10-29T06:27:21+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Japan Airlines, subsidiary report data breach affecting 92,000 customers",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPYVQ0QkR1SXUzUTJaNlpTM2lMSG0zVG56dWc5cm1hQzlmNGoyVGNoSV9zcG42cFdlakUwTU5fLWVTdU8wVjhVRHlLN19ka3R1TmJ3NzdYeVdQMWdodFRwbnNlckl4NDZIYkItamtZN25oN0wyOHJfWWtqQkoxMk9ROTh6b1F5aFZnNWhJamVTbVNBWlNiVWlFWmZDMF9ZQlZneUVpLVUtNEdZMmZXYXozcWh6SWTSAVpBVV95cUxOb0dUZEdXcjF4SXVZdEg3eXJLTmVUYWIzRU1pbjNkQmpQQURyVEpOUnRqQ2p5TlZLY1Y4cFZJc1lqYUZTMFJnSkMwT0tYM05PYW1mdWI0b05Nb0E?oc=5",
+     "source": "MLex",
+     "published": "2026-10-29T05:30:45+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Japanese government asked telecom firms to block extortion site in GMO data breach",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPVXpNTUQxODVCcGpPcGhKOTJEYzItckxHVFRGUXZSdG9qMEx1Nm9oMnRtUzQ5QThnR1pJbk9JXzV3Z3J0OTFwamJaLVpMZ2pMUXkzWHd4TkJ5VnQ5Skd6ZTVXelNZWHVGYTE1RHRER2FxY3hDY2hqT3QxdG9PV1JhVUoxaE9qTnFXSHBiTGowcWFselRkUmpXVm5SSllORE44NVZoeVV2STBVeFdTSEt6bEoyMTJ4SUZsZ0ZfeHZzQV9iRGV2?oc=5",
+     "source": "The Straits Times",
+     "published": "2026-10-29T05:18:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Ransomware",
+      "Breach",
+      "Telecom"
+     ],
+     "also": []
+    },
+    {
+     "title": "Cyber Attack Emergency forces Japan to ask citizens to disconnect devices from internet",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVmFYa1JTS09rNWFjaEM1ODVxZ1lXVFFGZ2JQV2xnRHlkRC01emdacURHMFcxX2o4N2tsZV9uaEx3c2ZoSUdySjNwQS1GSm1mSzBlOTkxaFEzNF9vSnNGLU81QW0xNEZBN2F5U0lWREZrMkROdWxZdEdNclJ0bno0UVpCMmlhakNNYllSQ25QTHg4SDZmblNaLTRWWWZPdE9WTjNTSVVPLWVJUEVBT1JMTEsyczBGa0J5NWY0b211c0dRSWViZkE?oc=5",
+     "source": "Cybersecurity Insiders",
+     "published": "2026-10-29T04:52:07+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "PHP flaw lets hackers seize 25 systems, hit U.S. agency and target Korea",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNQ3dPRWZPOU1wc3A0cDRuUDNfcEhEbGJEZjFXcF9ORDFRcjlkTGFTdnVPVW01VkZnWXJlWnpMN1pLeE1heVJ2b0V4SUh5WHZ5RlR6RHMxWjZLX1hTYmpaRkZILXQ2X2p1cmg3bGNHNUswZ1JleTR2dXlMU3AwZ21vS0NKNE9RenhkTnNXakJn0gGOAUFVX3lxTE1Dd09FZk85TXBzcDRwNG5QM19wSERsYkRmMVdwX05EMVFyOWRMYVN2dU9VbTVWRmdZcmVaekw3Wkt4TWF5UnZvRXhJSHlYdnlGVHpEczFaNktfWFNialpGRkgtdDZfanVyaDdsY0c1SzBnUmV5NHZ1eUxTcDBnbW9LQ0o0T1F6eGROc1dqQmc?oc=5",
+     "source": "Chosunbiz",
+     "published": "2026-10-29T01:06:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Hackers Exploit PHP Flaw to Breach U.S. Government Internal Network, Seize 25 Firewalls in South Korea and Taiwan",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9oTkMxRWtrMjZ5UnVETjQxWGpfYS1MT2xiOWh0dUlXdDlCcGR6TmtiSlNVenNEQjZFemFEeDZTb3NvTFJxTE1aVk5TM0R1bl91UGJnamZTNEFEUTh2alVaUDJONWJWWE5OeWZfYkhsMHRJeDQzTFE?oc=5",
      "source": "BigGo Finance",
@@ -498,26 +579,11 @@
      "also": []
     },
     {
-     "title": "Chinese AI Tool Linked to Hacks in Japan",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPXzI3bFVJdEgwYUUwTWxUY2UyZlVFYmI3QlBWU3BMMG1hWjhHZVQ1UHZFaUlBdGwwc2pPdXJxYTgtWVlxdXh1QktTOW55dW9QU2ZZYldSNGM2WklORTNpZWJBZ2NMZEQ5cE9aSl9SaHBnTmpDZ0VmdkJVSkt6OFJSZzZWa0NkLVU?oc=5",
-     "source": "WSJ",
-     "published": "2026-10-29T00:02:45+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "AI",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
      "title": "Sarku Japan Data Breach Lawsuit Investigation",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQay1nLVNpT2JUVjZrYjE5R2hGYTNSM1JXcEx1RWxYU3dvRGRFZ0cyZm8wYmRxamVYMXJ4NHl6TU16elVobFZ4elhOUnNEZTlqU1NSejhzZDI4YkpocnZIZkQ4aEMtWllvZnhaY2ZqZWpwbnU1QXluMGwyQU9jS25uaWp3?oc=5",
      "source": "Claim Depot",
-     "published": "2026-10-28T21:25:57+00:00",
+     "published": "2026-10-28T21:25:03+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -560,16 +626,61 @@
      "also": []
     },
     {
-     "title": "South Korea’s financial industry hit by fresh wave of cyberattacks",
+     "title": "Japanese internet provider GMO urges customers to unplug computers after cyber attack",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUl9nU3NGM0RCUkpDakh6bW1YMVBjWTJhR3ZpcXhudlV2MkdZdlBtNFE4eHRXdm43RDNjcnlLRnM5eHdhVF9XcDkwOUJOQk9oclE2aFRZekVZVkVzOENFUHJwMkdZak1wNWY3MlNjOThtR2ZDd01nX0tiSDNjWjlVZ0xRblFYUnprWHotX3hFajJzMTh0Sl90SGs2ZThIYnlaNnc?oc=5",
-     "source": "TechCrunch",
-     "published": "2026-10-28T15:41:18+00:00",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTk1qa1NmeDAxU0tjMlo2UjhTQ2tPV0NGVzQ0bkhNa2d3ZnBtODA4S3BQRS1sMld5UWZtWmVrWklrQUdhU0lIRVUwRXFJQmFtNHQ4SnFDbnBCWVFUSlFsb3NJZExHLXhIQVpVR2Z4cGhOZHNMRUtFUEI5UDdxZkRIWHNmRUhhN0NsWUFzWXVydVdac3PSAZgBQVVfeXFMT2pZNDloTkVLQ3NUdm5laGdIanc0ZXh2dUQ0SFg2QzJVWmpWdVZLOEt1SndPeGowS09vdHBxWGh0Vi01NHZDRDFUVE1QZV9mc3dLWXJweFBZbzhPaW1CbF9SOEpERmZCdlR6Vm9oN1hQaUxPUjR1ZXVNOTdsSFprQUxjN1p3QUZhejkzcXltQ3F4S0pXWXV5WV8?oc=5",
+     "source": "Daily Express US",
+     "published": "2026-10-28T14:36:39+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Bithumb Confirms Breach as Hackers Hit 3 South Korean Financial Firms",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZXY2UGVyVHVzRENPekpPUGtaR0l5WUFSZ2NDbFppQ1E5QmlmVW1kQlp4WGdQYk03djlYb0xiWDNqSnJvZ09TRVdmVW00SndVTnJmY3BEM00xa1hKM1JWeUh5bmxPMDAzMDJ6VVJ4ZG5oTkRGMjZaSHFjcm5DT2RIV0hIcllGRWRZLTlOOXByV2dsWmNiZklwWWZqTTNwY1Jx?oc=5",
+     "source": "Bitcoin News",
+     "published": "2026-10-28T14:30:48+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
      "tags": [
+      "Breach"
+     ],
+     "also": []
+    },
+    {
+     "title": "Japanese internet giant GMO tells customers to shut down and disconnect PCs from the internet following data breach and ransomware threat",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNcFhFeDRGWEstS25fZnJwTGNRWmgzZlFiY1EzSHlCTW9XNWpfN2FlbUhFa0RyejBPWlBRa19oT1BncnR2UnNHaHBoTEY4Sk93TDBIaVYtazhGNnhHeWJGUk9jZUZoTExvbFB5VE9JQ3EzcWVUcHRFaVIwM0laQUtwSExNNWRCdktfdnBDM2M0UUpuUkNMRlZXdGNtWlloNGdLUXVLRGdOU3hfTktSNUVUM2JXQ2tFWXJNWlVMRmhRNXVPdmpPSFBVOEQxWXFKWXZjZmMyYktoTHNZdVRsTV9wQ1Vja29XWkhVcGFVai1KU3BNS1VsLXBrOGtOVXhHS2U1bV9PV3dzVQ?oc=5",
+     "source": "TechRadar",
+     "published": "2026-10-28T12:15:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Ransomware",
+      "Breach",
       "APAC"
+     ],
+     "also": [
+      "GBHackers News"
+     ]
+    },
+    {
+     "title": "AI-Powered Hackers Target Japanese Companies With Automated Attacks and Credential Theft",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE50b3F0LU14Vy1qeG41RlhQQzBaYzZYWFRVNzFPaHY1VXB5LVhBSldWS2wzcy1xc3V3Q2Z3Z0ZWR0NRMC1mRDRIdlRQeHYwbHJmYVUwTXUwUWlIMlR3Vktj0gFkQVVfeXFMUHl6QU96aFoxdnRIUGxvNXU4Tjh0ZHN1RExZck1qMmlQeWU0eEo3bXhDT09kNzJYcmNKTFBTd3JVcWNLVFB0VGhCbklmbHY2cGlhYWpoODROZFJlNXhUSVg4SEsybA?oc=5",
+     "source": "GBHackers News",
+     "published": "2026-10-28T12:10:35+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "AI",
+      "Phishing"
      ],
      "also": []
     },
@@ -586,122 +697,15 @@
      "also": []
     },
     {
-     "title": "Japan’s GMO Internet Warns Customers to Unplug PCs as Hackers Threaten Ransomware",
+     "title": "GMO Offers $1 Million Bounty for Hackers as Japanese Brokers Tighten Logins",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBaUThDbG44dVpoVHZyQ2tNZXdiZVRwQWpXVXFOX00xelBkMFNNMm5icDRucVFQQ2ZfUjJzendTOVhXdkZmM1ZrRkRxdHJaY3AxcXRzYUc4cUhuMUxYSzlzWmNR0gFnQVVfeXFMTldUeWgxeVd0Zjd2V0w4U0M5LUZFcUl6WFZDX19vbHFwaHZrNGtkbFREUTdTTGRjeW5KOVJjX3l6eXQ2X0tDdjN6VXJCRU5ZZEpjQmo5dW90bEE3NnZqSjJTbDk2NGIzTQ?oc=5",
-     "source": "GBHackers News",
-     "published": "2026-10-28T09:54:58+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Ransomware",
-      "APAC"
-     ],
-     "also": [
-      "CyberSecurityNews"
-     ]
-    },
-    {
-     "title": "Three Japan-Focused Cyberattacks Show How Hackers Use AI",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQlA1bUp3NFlDTU44NERjTnh4a0JZaEc4Y1pPRkRwWkgyY3ZGaG8ycE13UW5PdnQyNTltS1ZrM0FpMnFiejZwWkw2NTlPMEFMOXhDZUJmRVpQUjdfQUphc3pMUTQ3elFzdUVxY2hFSkJaaUVvWmkwcWMxZDVlV1dNdlNwRUNVUVZyYUkzLTNXNzhzUmdXV0xwWkpfckpCSjRi0gGmAUFVX3lxTFB0NzZwMjlKYVowTkplMTRES2pyc0tKM3h6Wk9uYzUxNDlEUjA1dkJ3S2ZSWFhKazJQLXZEdUQ4Wng3SV9aREtWR0J2dEpKRFl3TUxaNXVkTVViRWFqQWlQUXAyQlJsWGwtVGhRNlVob21nMzcyMjRMMHFWcHVWTlFEakQwQkNJRElwbjJaTWlqOTF6clNINlZwYTVYakhYVGxaZ3lncEE?oc=5",
-     "source": "Security Affairs",
-     "published": "2026-10-28T08:48:45+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "AI",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "GMO confirms shutdown of hackers’ website after data leak — The Japan Times",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbnhRdEstRFo0YVB2Tk5aSEZWcGVzUWV6eGUyOUtVR2JVZXg4TEQ3TTdRblJkbm1TeWEzN2J6WXMzRW1IdndYd1lwbkRmLXpqa2FyblJBNGphVGh1amM0d01UTUdsTmVWcll1ZUFsQW9QZVFvaExoejFKdEVsVTZlYXJxVFhCVndVekQ2dE1lYmNQazU3a1ctemFvWnh0NWNIRWNfaU4waXJ3SlBHMXc?oc=5",
-     "source": "UA.NEWS",
-     "published": "2026-10-28T08:43:07+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "South Korea’s Daishin Securities Reports Data Breach Affecting 38,490 Customers After Suspected Hack",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTXd2N1pjLTQzSGVPSFoyVGM5RExaV3hydUhrcXA1VmZvWXhkVmJSQnNPUGNUZVNKcndDaW9xdFUyc3ZYNTctNWF6eFFhSnJxWkRhLS1wQ2R1bWZsZHRiZ2lNLTBkeGFfeWloSlU5RVFLODhtV0pIdS1ydWpaMnFfRjRGeDJNdnRCMUE4MEFQZUNEX1NrY0o3YTJJZE9fYll0T1JRZ21uY3NDNEI2aG5OeHF5WS1NbTNrQk01QVVvM1dmRVBsck9fUUJubDJuU3RE0gHWAUFVX3lxTFA2WFRQU3ZjSFB3UTZJUjBSbEoyWmtwYnRfOFRSVTFXZ3lUVUh1MXYtOTdLbmlRZG5peDRmeTh5Zy1aNVhwOVpxZGdQaFFMRktEWGhYM2pPYlFRVG9mZDltRFJRVWw2YmpfbnVtTF9WWF9LNGVQTTl4Zm1MMVR2eEU4dWxCZk93elBHUjJZSVlpVW82NU9QdGVfMG1OeW50aU1Xeml3M2lYMVRWbE9vOU80aUd3c1MyVWplMVBKVjBQNlZlWE5KSGdIX2kyZEIwQ05JMFY0VVE?oc=5",
-     "source": "Free Press Journal",
-     "published": "2026-10-28T07:36:25+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": [
-      "grafa.com"
-     ]
-    },
-    {
-     "title": "Hackers Deploy 44 AI Agents to Automate Cyberattacks Against Japanese Organizations",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QaVA2aDJ1c19CVDZYSXd1WmpyOGtkQXFYOWdOaWhlQUJUaW1OUmtpU2o1UUM4dkluREFTSjNvTHo3UW1LRHlpZFhJVUdnZ0dfTEs1akcwZHVZQdIBWkFVX3lxTE5QaVA2aDJ1c19CVDZYSXd1WmpyOGtkQXFYOWdOaWhlQUJUaW1OUmtpU2o1UUM4dkluREFTSjNvTHo3UW1LRHlpZFhJVUdnZ0dfTEs1akcwZHVZQQ?oc=5",
-     "source": "Cyber Press",
-     "published": "2026-10-28T07:24:27+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Japan's GMO Internet outlines cyberattack-response measures",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVllyR21raHpfRWVac0NlblRTOFZkTzdtdm1KSmxFSVFhR3Z2WXQ5WU9zWUZEQnJwTjZqZ3dVVGFuaVZ4Vk43N1VIeERsamVpNUxtZ2RTbFQzYmtMaXdiZ2I0NjY3blduWk85MkJhODVQM2J3SzJYbXB5S0R0cndUTHE5N3FWazNzazdseWw2SVRtZGNxaEROU2lXQl9uYmpkYmNLZVpDNWRseHpXTHM0ekNZZWkzdDBtOFByeTdydWd4UdIBWkFVX3lxTE5PVlllbHM0UmktLWVJSFNJV0lqMHkyUF94dTlRdkMtZHlCTW8wMnBWM1lwVkk0bnBsR1ZxdVcyUE1KN3JLeEV1dXN0eFU4Tld1UWlDZEVFNW5Sdw?oc=5",
-     "source": "MLex",
-     "published": "2026-10-28T07:18:45+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Japanese internet provider tells customers to unplug computers amid major cyberattack",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcUpqWW9KUWtydUE2LU9rYnRBb1hKY3BmZUxYR3NSTGswYXp3cmtFODdFWXY4ajVFNnMwcURMb2dOVkNNZkhxQXlCOXhzOGRzcTJhak85NnZWalJMMGpCbWxQYXVTMzdieTRrLUZCUWxtdDE0VlEzdS1tREJFbU1ZWG1QSVFNa1pzWXp3N281SXNIcW1GSkNHU0RCbnNZZTQzSlE?oc=5",
-     "source": "The Independent",
-     "published": "2026-10-28T07:10:00+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcW81bVpKTG9OcU4tRkRZOF9GMC1rV0dvcE16R194WWdsTHYzRDZZRzdxdHUyaWRIZ1dLdXFjWE9TTzVKQzBJc0pLODBGeUl0dHBlOXM2dWo4RXRQQUZrTXA3M01JT0JmdTY1a3V1dkJsZ2VmMEZfRkdBc243ZVhJeVVYUWZOd1J4dVMzcDNtcEIzeTgtal9aYlBkd2xBeXpoRHhidDIxMlhSLUxLR1FJUGpwRQ?oc=5",
+     "source": "Finance Magnates",
+     "published": "2026-10-28T09:11:00+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
      "tags": [],
-     "also": []
-    },
-    {
-     "title": "Japan’s GMO says hacker site with allegedly leaked customer data taken down after cyberattack",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOQ0syLU1ZTzdBbVFfSkJab0pGVkgtOWxqRnFoNW1VTUZ1NTBOTnQ4ZWhwTjFoTUoxNlE5NkVYZE1QUTR1YUh5TzRGcnRCMDhuMnQtSmN4Uk5UUWZZbHJTZ1BYWjE1c2F4NEhUaVNDOEVfN2RkXzdDVUFnNExPYkFaZDBZTUhXLXZXelFQTjZJRC15OW1Yd3RXSWwyTnc2WFlGTW02Z081YzNjT1c2dzlBZ2FFQ0t5czVBVXB4V3k3UURuWTFYUXhBaUN6TjRtQWNNeXc?oc=5",
-     "source": "The Straits Times",
-     "published": "2026-10-28T05:11:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
      "also": []
     }
    ]
@@ -870,6 +874,30 @@
    "name": "Government Advisories",
    "stories": [
     {
+     "title": "ChromeOS Multiple Vulnerabilities",
+     "subtitle": "",
+     "link": "https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20261029",
+     "source": "HKCERT",
+     "published": "2026-10-29T03:00:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Cisco Products Denial of Service Vulnerability",
+     "subtitle": "",
+     "link": "https://www.hkcert.org/security-bulletin/cisco-products-denial-of-service-vulnerability_20261029",
+     "source": "HKCERT",
+     "published": "2026-10-29T03:00:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
      "title": "Mozilla Products Multiple Vulnerabilities",
      "subtitle": "",
      "link": "https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20261028",
@@ -894,47 +922,11 @@
      "also": []
     },
     {
-     "title": "Google Chrome Multiple Vulnerabilities",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20261028",
-     "source": "HKCERT",
-     "published": "2026-10-28T02:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
      "title": "Google Brotli Remote Code Execution Vulnerability",
      "subtitle": "",
      "link": "https://www.hkcert.org/security-bulletin/google-brotli-remote-code-execution-vulnerability_20261028",
      "source": "HKCERT",
      "published": "2026-10-28T01:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Python Multiple Vulnerabilities",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/python-multiple-vulnerabilities_20261027",
-     "source": "HKCERT",
-     "published": "2026-10-27T01:35:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Microsoft Edge Multiple Vulnerabilities",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20261027",
-     "source": "HKCERT",
-     "published": "2026-10-27T01:00:00+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
