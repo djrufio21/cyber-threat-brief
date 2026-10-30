@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T01:08:53+00:00",
+ "generated": "2026-10-30T07:16:48+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -179,6 +179,20 @@
   {
    "name": "Breaking Threats",
    "stories": [
+    {
+     "title": "Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/binance-suffers-security-breach.html",
+     "source": "The Hacker News",
+     "published": "2026-10-30T04:14:59+00:00",
+     "date_only": false,
+     "summary": "Cryptocurrency giant Binance said on Thursday that a \"security incident\" on its platform has impacted about $6.3 billion worth of assets. The world's biggest cryptocurrency exchange said nearly $3 billion of those assets have been frozen…",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": []
+    },
     {
      "title": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
      "subtitle": "",
@@ -495,26 +509,44 @@
       "AI"
      ],
      "also": []
-    },
-    {
-     "title": "CISA warns of Fragnesia Linux flaw chained in PHP2Shell attacks",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-fragnesia-linux-flaw-chained-in-php2shell-attacks/",
-     "source": "BleepingComputer",
-     "published": "2026-10-29T13:59:48+00:00",
-     "date_only": false,
-     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies to patch a high-severity Linux kernel privilege escalation bug that attackers are chaining with the PHP2Shell flaws in the wild. [...]",
-     "extra": "",
-     "tags": [
-      "Exploited"
-     ],
-     "also": []
     }
    ]
   },
   {
    "name": "APAC Watch",
    "stories": [
+    {
+     "title": "North Korean hackers wield AI to scale phishing and malware against South Korea",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAweHZXRzltd21qR0hCeDZRQ3FfYTl0ZnFCdmlaUDQxc1JBYl93TnUtRG81S05jRkZzdmFtbEd3N3ZXR2wwOTZQdTVfeERWOXIydmU3S1U2QmJqanNGRXZ4d0p5aGl1YXY2b2lJS3dhQTFKSFFtQVJ0T1d30gGOAUFVX3lxTFBRQlZRM3N0VFl4eERkejRlUFljVVlPWlhSZXVCVV9NUDFtbUpCTk5wX3ZlRmZOY2l4Q0JwYnV4VlJsc0wzZXdaa3hzZDI0VmlVbFlGeEhRR2ZpbUVNOHh6Z0ZJWUNPZ0JpelFGM2hkUzlzaFVJb0RWSWxjZ19kcWpsODdFTmxBTzNUMjJMdVE?oc=5",
+     "source": "Chosunbiz",
+     "published": "2026-10-30T06:28:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "AI",
+      "Phishing",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Japan Hit By AI-Powered Cyberattack Wave, Dozens Of Companies Face Data Breaches",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOVQyX0wwMk1yS1dGVDctREZjNXQ0ZHlfdG53eVhTUGg1OUxrLUxPSVJpZXpJTzRxSnNNS3VJUENOYWxYNUJGQzIyVXVRbmw2dTU0aF9hUXRKelhnXzN3Y3ZzQkV0X1dNV3hGOFBEUEVDbUd6MjM5bkxyTjhuTTNNSkEwaVhIdWl3Y1V6OUhHNG5PSVRWbnZRT1BjNzZpM2dCVllzd3FxbHFUaS1UamZERjdlcDVoVnBBNVHSAb8BQVVfeXFMTkZIX1ZzU3ZzUjFVQjYtZU9NU3ZnQ3kzR3NzdkYyYW96Y3BYdjVvaUs3RmRBdkFvZlNiOEJVRzh2Yi1rY1U0WFBSWUt6YnM2WkM5RTQwSU1OYTNWY1FHa3pzQ2pBQ0E0Vk1KdFE5Tzd1dG1WdFJ3dkN3RU8yODNzYWV3SGZ0MUgzMV9OQzQ3ejR5X3l3QjNsTEx3bFMxVzdhWFhoWEpPOXpBc1R0S1A3dGRFQjRDQXBNaGhHMG80UkU?oc=5",
+     "source": "Times Now",
+     "published": "2026-10-30T02:57:42+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "AI",
+      "APAC"
+     ],
+     "also": []
+    },
     {
      "title": "​Hackers Target 25 Enterprise Firewalls Across US, Japan, Taiwan, and South Korea",
      "subtitle": "",
@@ -544,20 +576,6 @@
      "also": []
     },
     {
-     "title": "Japan Vows to Fortify Cyber Defenses as GMO Hack Hits Forex Brokers",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNVNyQzhTdWE5emJCNzR3MWlBZGRvYTl5Sk80LTY1d3JuN3NxTVRWYUIxdkR1bWVLMkYxVktCQzdidkViUjRmaXNxcVRhbFgtcHg2RGh4SXFCYnNPWHg2NUl5OVRTUjhBZFRvU2FxcmVjZlVadFlfR0dHRmRqN3RJaGJwcXl1N3BzbnZvX0o0X2FGQlVaM015VVNDZS1pdG9fSEs1azUzOEpzZWVLZlR4eDVNRHVzUQ?oc=5",
-     "source": "WSJ",
-     "published": "2026-10-29T17:45:54+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
      "title": "Two Japanese Airlines Report Passengers Data Breach",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTkEtZjE3TEJld3dzVjJ2TThwOHg5dlY0eTllMzA2QlZnOGNXbzdyeTdtN2RQQjJXdUFsbmt1cDdaT1BBWWxPSGw3Q2l2Mnk2cW5hSHI4T3ZSYjNLWFRabGJtM3g4bVN5cDNyUTBuM25hUFdTNHVFaENHbEF1bE9sZU9jY0s?oc=5",
@@ -567,12 +585,9 @@
      "summary": "",
      "extra": "",
      "tags": [
-      "Breach",
-      "APAC"
+      "Breach"
      ],
-     "also": [
-      "MLex"
-     ]
+     "also": []
     },
     {
      "title": "Data breach at Sony ISP subsidiary exposes 2.5 million customer records as Japan hit with another major cyberattack",
@@ -606,10 +621,24 @@
       "APAC"
      ],
      "also": [
-      "JIJI PRESS",
-      "Nippon.com",
-      "The Straits Times"
+      "Menafn",
+      "JIJI PRESS"
      ]
+    },
+    {
+     "title": "AI Can Now Be a Cyberattack Weapon, BSSN Warns ASEAN–Japan",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWEJaSXJBQnMwYUFPdXRSdnh0VDJ5VWk0T3pGeDNITDRBUER6eTVndzNTZlVNYmI4dGp1RUZTcmpjVlVPU2phOUphSnJhR0IxVG43Y1dvS3E0QkxwbXB2bm5FeG5zOGg4SWpQVW4yUG1STWoyUTBuS2ZUVWRHaDlQdV9Ec1dubUlaNVpWMXJwNVMzNjBu?oc=5",
+     "source": "Aktualita.co",
+     "published": "2026-10-29T12:34:26+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "AI",
+      "APAC"
+     ],
+     "also": []
     },
     {
      "title": "South Korea's SK Planet Reports Personal Data Breach in Gift Certificate Service; Refund Accounts Exposed, Full Compensation Promised",
@@ -641,54 +670,11 @@
      "also": []
     },
     {
-     "title": "India’s Top Ethical Hacker Sunny Nehra Is One of His Kind: A Deep Dive Into the Mind, Research and Influence Behind the Name",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSHVfcTlnN2tUZnRzSy1BdjRpRHFqM2NiZmhDY0V1bVNaQnRab2NOWXExanRZX2tlMFUzdTRFcVZoYnNVb1R0eTNPYlY1ZXNvOE1ibGwxUi1LYnRMM1FaeXJ1OHRKRVlYR3l5NkxrVzRyQVJ2b2RTX2U2N2Q5ZkFIbzN0SGJ2Nm84ZGhXb1hvbHZTVTAwWS1FN3QxWWdPa0VWaEdFdE1mTHJrTG5Gdzl2dFBhdjhHMmRac1MxXzdMd2NLT2xlU3F6ZjBnTkdySlpJOFFFNF9hdVktdm1o?oc=5",
-     "source": "GBHackers News",
-     "published": "2026-10-29T11:48:27+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
      "title": "South Korea's Jin Air Reports Data Breach Affecting 1,454 Members; API Hack Also Hit Hanjin Affiliates",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jSnNWQUMtZHBOYXhpcmxPMWl3REVtcnRzbl9BQXBDc05fRWg2WGtlN2dhTnVLc0JjSFhNYXY3TEhxeERJNzlaTzRZNTk1YVg3VHhwajl5aHVlVGxwQ001dlVYY1JZUldqMmdjZkdEMVA1NnZlY3c?oc=5",
      "source": "BigGo Finance",
      "published": "2026-10-29T10:06:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Cyber Attack Emergency forces Japan to ask citizens to disconnect devices from internet",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVmFYa1JTS09rNWFjaEM1ODVxZ1lXVFFGZ2JQV2xnRHlkRC01emdacURHMFcxX2o4N2tsZV9uaEx3c2ZoSUdySjNwQS1GSm1mSzBlOTkxaFEzNF9vSnNGLU81QW0xNEZBN2F5U0lWREZrMkROdWxZdEdNclJ0bno0UVpCMmlhakNNYllSQ25QTHg4SDZmblNaLTRWWWZPdE9WTjNTSVVPLWVJUEVBT1JMTEsyczBGa0J5NWY0b211c0dRSWViZkE?oc=5",
-     "source": "Cybersecurity Insiders",
-     "published": "2026-10-29T04:52:07+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "South Korea's Daekyo Fined approximately $2.4 Million Over Data Breach Affecting 650,000; Same Hacking Method Recurred Within Six Months",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB2S3pGakUxbmkxV1g3M0txcktXQTYxVzdVRzZfNG0yTVlRd3lqaE5TbDZuZGF3dll5dnUxNUc0RGdxZTNqTVZlMERmaVVpd3AzMDFVam1NWng2ZHFyMnkydmVFWEU2ZXdETnJwelRodGpNYk5mM1E?oc=5",
-     "source": "BigGo Finance",
-     "published": "2026-10-29T03:25:00+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -781,6 +767,18 @@
       "Exploited",
       "AI"
      ],
+     "also": []
+    },
+    {
+     "title": "Amatera: How the prolific infostealer works and spreads",
+     "subtitle": "",
+     "link": "https://www.welivesecurity.com/en/malware/amatera-how-prolific-infostealer-works-spreads/",
+     "source": "ESET Research",
+     "published": "2026-10-29T08:00:00+00:00",
+     "date_only": false,
+     "summary": "The malware that topped ESET’s infostealer detections in Latin America in the first half of 2026 is an example of how cybercrime has professionalized",
+     "extra": "",
+     "tags": [],
      "also": []
     },
     {
@@ -887,20 +885,6 @@
      "extra": "",
      "tags": [],
      "also": []
-    },
-    {
-     "title": "Infostealer riding the AI Train",
-     "subtitle": "",
-     "link": "https://research.checkpoint.com/2026/infostealer-riding-the-ai-train/",
-     "source": "Check Point Research",
-     "published": "2026-10-23T13:00:09+00:00",
-     "date_only": false,
-     "summary": "Key Points Introduction Infostealers commonly target browser passwords, session cookies, and cryptocurrency wallets. This malware combines those established capabilities with dedicated collection routines for AI applications and…",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
     }
    ]
   },
@@ -908,11 +892,11 @@
    "name": "Government Advisories",
    "stories": [
     {
-     "title": "ChromeOS Multiple Vulnerabilities",
+     "title": "Google Chrome Multiple Vulnerabilities",
      "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20261029",
+     "link": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20261030",
      "source": "HKCERT",
-     "published": "2026-10-29T03:00:00+00:00",
+     "published": "2026-10-30T03:00:00+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -923,6 +907,18 @@
      "title": "Cisco Products Denial of Service Vulnerability",
      "subtitle": "",
      "link": "https://www.hkcert.org/security-bulletin/cisco-products-denial-of-service-vulnerability_20261029",
+     "source": "HKCERT",
+     "published": "2026-10-29T03:00:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Jenkins Multiple Vulnerabilities",
+     "subtitle": "",
+     "link": "https://www.hkcert.org/security-bulletin/jenkins-multiple-vulnerabilities_20261029",
      "source": "HKCERT",
      "published": "2026-10-29T03:00:00+00:00",
      "date_only": false,
