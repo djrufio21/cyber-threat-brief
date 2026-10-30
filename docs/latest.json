@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T07:16:48+00:00",
+ "generated": "2026-10-30T14:20:03+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -180,6 +180,300 @@
    "name": "Breaking Threats",
    "stories": [
     {
+     "title": "SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/",
+     "source": "BleepingComputer",
+     "published": "2026-10-30T14:00:10+00:00",
+     "date_only": false,
+     "summary": "Flaws in SS7 and Diameter signaling protocols can allow attackers to track phone locations, intercept calls and SMS verification codes, and impersonate subscribers without compromising their devices. Cape explains how these attacks exploit…",
+     "extra": "",
+     "tags": [
+      "Telecom"
+     ],
+     "also": []
+    },
+    {
+     "title": "Passkeys Are Better Than Passwords. But They Are Not Enough.",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/passkeys-are-better-than-passwords-but-they-are-not-enough/",
+     "source": "SecurityWeek",
+     "published": "2026-10-30T14:00:00+00:00",
+     "date_only": false,
+     "summary": "As organizations eliminate passwords, attackers will adapt. Instead of attacking the authenticator directly, they will look for opportunities around it. The post Passkeys Are Better Than Passwords. But They Are Not Enough. appeared first…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Bulletproof Host Virtualine Loses Its Domain to FBI Seizure",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/bulletproof-host-virtualine-loses-its-domain-to-fbi-seizure/",
+     "source": "SecurityWeek",
+     "published": "2026-10-30T13:36:12+00:00",
+     "date_only": false,
+     "summary": "It allowed customers to host hack-for-hire services, supported ransomware and infostealer operators, and accepted crypto payments. The post Bulletproof Host Virtualine Loses Its Domain to FBI Seizure appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [
+      "Ransomware"
+     ],
+     "also": []
+    },
+    {
+     "title": "CISA says max severity GitLab flaw now exploited in the wild",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/",
+     "source": "BleepingComputer",
+     "published": "2026-10-30T13:00:32+00:00",
+     "date_only": false,
+     "summary": "Attackers have started exploiting a maximum-severity GitLab vulnerability patched earlier this month, according to the US Cybersecurity and Infrastructure Security Agency (CISA). [...]",
+     "extra": "",
+     "tags": [
+      "Exploited"
+     ],
+     "also": []
+    },
+    {
+     "title": "British spy agency cannot account for thousands of data storage devices, watchdog says",
+     "subtitle": "",
+     "link": "https://therecord.media/gchq-cannot-account-for-thousands-of-data-devices",
+     "source": "The Record",
+     "published": "2026-10-30T12:52:00+00:00",
+     "date_only": false,
+     "summary": "The Investigatory Powers Commissioner’s Office (IPCO) in its annual report for 2025, published Thursday, said it was “very concerned” and “disappointed with the time it has taken GCHQ to investigate” the issue.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Hackers target government Windows systems in Asia with new malware",
+     "subtitle": "",
+     "link": "https://therecord.media/hackers-target-government-windows-systems-asia-new-malware",
+     "source": "The Record",
+     "published": "2026-10-30T12:36:00+00:00",
+     "date_only": false,
+     "summary": "The previously unknown malware, dubbed NetamLoader, uses legitimate Microsoft software components to execute malicious code, evade security tools and download additional programs onto infected computers.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html",
+     "source": "The Hacker News",
+     "published": "2026-10-30T12:21:56+00:00",
+     "date_only": false,
+     "summary": "A Trezor Safe 5 hardware wallet bought from the reseller CryptoBilis has an extra circuit board that sends out the recovery phrase over a mobile network, a customer has reported. Trezor has not yet examined the device. It is telling…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Fresh WordPress Vulnerability in Attackers’ Crosshairs",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/fresh-wordpress-vulnerability-in-attackers-crosshairs/",
+     "source": "SecurityWeek",
+     "published": "2026-10-30T12:04:13+00:00",
+     "date_only": false,
+     "summary": "Threat actors are attempting to exploit a high-severity unauthenticated race condition leading to remote code execution. The post Fresh WordPress Vulnerability in Attackers’ Crosshairs appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html",
+     "source": "The Hacker News",
+     "published": "2026-10-30T11:58:53+00:00",
+     "date_only": false,
+     "summary": "The alert is critical. The fix is known. And the ticket sits in a queue for days. Security teams understand the risk, but the people who keep applications available need proof that the change won’t break anything. Their concerns are…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Polymarket confirms cyberattack on third-party provider after outages",
+     "subtitle": "",
+     "link": "https://therecord.media/polymarket-confirms-cyberattack-third-party",
+     "source": "The Record",
+     "published": "2026-10-30T11:33:00+00:00",
+     "date_only": false,
+     "summary": "The company suffered outages starting at 2 p.m. Eastern U.S. time on Thursday and eventually attributed the downtime to a compromise involving an unnamed provider.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Russian popular home goods chain faces days of disruption following cyberattack",
+     "subtitle": "",
+     "link": "https://therecord.media/russian-home-goods-chain-faces-disruptions",
+     "source": "The Record",
+     "published": "2026-10-30T11:30:00+00:00",
+     "date_only": false,
+     "summary": "Poryadok, which operates 48 stores across 32 Russian cities, first reported technical problems on Sunday, saying its website, mobile app and physical stores were temporarily unavailable.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Microsoft finally fixes VPN issues caused by September updates",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates/",
+     "source": "BleepingComputer",
+     "published": "2026-10-30T11:20:26+00:00",
+     "date_only": false,
+     "summary": "Microsoft has resolved Always On VPN connection failures triggered after installing the September 2026 Windows 11 security updates. [...]",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Drupal Commerce Core Vulnerability Exploited Against Online Stores",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/drupal-commerce-core-vulnerability-exploited-against-online-stores/",
+     "source": "SecurityWeek",
+     "published": "2026-10-30T11:07:11+00:00",
+     "date_only": false,
+     "summary": "Drupal says a highly critical Commerce Core access bypass is exploited in the wild and urges store owners to audit their orders. The post Drupal Commerce Core Vulnerability Exploited Against Online Stores appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [
+      "Exploited"
+     ],
+     "also": [
+      "BleepingComputer"
+     ]
+    },
+    {
+     "title": "Syrian Hacker Behind Fake Tweet That Triggered $136 Billion Market Drop Gets 42 Months in Prison",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html",
+     "source": "The Hacker News",
+     "published": "2026-10-30T10:40:45+00:00",
+     "date_only": false,
+     "summary": "Ahmad Umar Agha, a Syrian Electronic Army hacker known online as \"Th3Pr0,\" has been sentenced by a U.S. federal court to 42 months in prison for his role in a hacking conspiracy that targeted Western news outlets. The conspiracy was…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "$2 Million+ Drained From Polymarket Traders in New Supply Chain Attack",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/2-million-drained-from-polymarket-traders-in-new-supply-chain-attack/",
+     "source": "SecurityWeek",
+     "published": "2026-10-30T09:41:36+00:00",
+     "date_only": false,
+     "summary": "Malicious code linked to a website monitoring tool was designed to hijack logged-in Polymarket sessions and siphon user funds. The post $2 Million+ Drained From Polymarket Traders in New Supply Chain Attack appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [
+      "Supply chain"
+     ],
+     "also": []
+    },
+    {
+     "title": "Max-Severity GitLab Vulnerability Exploited Against Alpine Linux",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/max-severity-gitlab-vulnerability-exploited-against-alpine-linux/",
+     "source": "SecurityWeek",
+     "published": "2026-10-30T09:32:27+00:00",
+     "date_only": false,
+     "summary": "Tracked as CVE-2026-97229, the bug allows unauthenticated attackers to execute arbitrary code on the server. The post Max-Severity GitLab Vulnerability Exploited Against Alpine Linux appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [
+      "Exploited"
+     ],
+     "also": []
+    },
+    {
+     "title": "Binance links $6.3 billion crypto theft to compromised DevOps laptop",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/",
+     "source": "BleepingComputer",
+     "published": "2026-10-30T09:18:13+00:00",
+     "date_only": false,
+     "summary": "Binance, the world's largest crypto exchange, has linked the theft of about $6.3 billion in cryptocurrency to a DevOps engineer's compromised laptop. [...]",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html",
+     "source": "The Hacker News",
+     "published": "2026-10-30T08:55:47+00:00",
+     "date_only": false,
+     "summary": "Cybersecurity researchers have disclosed that a trojanized version of Anthropic's official Claude Code extension was distributed through the Cursor Marketplace as a legitimate update, attempting to install a persistent SSH backdoor on…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "TeamViewer Flaw Could Let Malicious Hosts Take Over Support Technicians’ Machines",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/teamviewer-flaw-could-let-malicious-hosts-take-over-support-technicians-machines/",
+     "source": "SecurityWeek",
+     "published": "2026-10-30T08:44:49+00:00",
+     "date_only": false,
+     "summary": "An integer overflow tracked as CVE-2026-111585 could be used to execute arbitrary code on the viewer’s system. The post TeamViewer Flaw Could Let Malicious Hosts Take Over Support Technicians’ Machines appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "$6 Billion Binance Hack Bears Hallmarks of North Korea’s TraderTraitor",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/6-billion-binance-hack-bears-hallmarks-of-north-koreas-tradertraitor/",
+     "source": "SecurityWeek",
+     "published": "2026-10-30T08:16:26+00:00",
+     "date_only": false,
+     "summary": "Blockchain analysts link the record crypto theft to North Korean hackers, as Binance probes a possibly compromised engineer laptop. The post $6 Billion Binance Hack Bears Hallmarks of North Korea’s TraderTraitor appeared first on…",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "As Russia's Cyberwar Evolves, Belarus Steps Forward",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/physical-security/russia-cyber-war-belarus-steps-forward",
+     "source": "Dark Reading",
+     "published": "2026-10-30T08:00:00+00:00",
+     "date_only": false,
+     "summary": "The \"FrostyNeighbor\" advanced persistent threat (APT) launched a destructive attack in Ukraine and is raising concerns about deeper alignment with Russian cyber objectives.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
+     "source": "The Hacker News",
+     "published": "2026-10-30T07:45:30+00:00",
+     "date_only": false,
+     "summary": "Drupal has warned that threat actors are exploiting a \"highly critical\" security flaw in its Commerce Core component. The vulnerability, tracked as CVE-2026-118539 (CVSS score: N/A), is a case of missing authorization affecting Commerce…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
+     "source": "The Hacker News",
+     "published": "2026-10-30T07:27:05+00:00",
+     "date_only": false,
+     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Cisco and GitLab software to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploitation. The…",
+     "extra": "",
+     "tags": [
+      "Exploited"
+     ],
+     "also": []
+    },
+    {
      "title": "Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen",
      "subtitle": "",
      "link": "https://thehackernews.com/2026/10/binance-suffers-security-breach.html",
@@ -194,319 +488,16 @@
      "also": []
     },
     {
-     "title": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
+     "title": "Binance hit by record $6.3 billion crypto hack, scrambles to freeze funds",
      "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/",
-     "source": "BleepingComputer",
-     "published": "2026-10-29T23:35:52+00:00",
+     "link": "https://therecord.media/binance-hit-by-record-6-billion-crypto-hack",
+     "source": "The Record",
+     "published": "2026-10-30T00:00:00+00:00",
      "date_only": false,
-     "summary": "OpenAI says it won't reduce usage limits for the $100, $200, and $500 ChatGPT Pro plans, as well as Business Premium, and it also promised to keep Dots usage independent. [...]",
+     "summary": "Binance, the world's largest cryptocurrency exchange, confirmed that it had been hacked in a $6.3 billion heist that blockchain investigators are blaming on North Korea.",
      "extra": "",
      "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Binance probes potential $5.8 billion crypto-theft hack",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/",
-     "source": "BleepingComputer",
-     "published": "2026-10-29T22:45:23+00:00",
-     "date_only": false,
-     "summary": "Cryptocurrency exchange Binance is investigating a potential security breach involving up to $5.8 billion in digital assets, in what could become the largest cryptocurrency hack in history. [...]",
-     "extra": "",
-     "tags": [
-      "Breach"
-     ],
-     "also": []
-    },
-    {
-     "title": "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/",
-     "source": "BleepingComputer",
-     "published": "2026-10-29T22:09:24+00:00",
-     "date_only": false,
-     "summary": "A crypto-mining campaign abusing Hugging Face models returned days after takedown, hijacking GPU servers and planting backdoors, with one model downloaded over 28,000 times. Separately, a fake Solana starter kit on GitHub is positioned to…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Japan Airlines suffers third-party data breach exposing passenger info",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/",
-     "source": "BleepingComputer",
-     "published": "2026-10-29T22:08:04+00:00",
-     "date_only": false,
-     "summary": "Japan Airlines (JAL) has announced that a data breach at Amadeus's Passenger Service System exposed the data of about 92,000 customers. [...]",
-     "extra": "",
-     "tags": [
-      "Breach",
       "APAC"
-     ],
-     "also": [
-      "The 420.in"
-     ]
-    },
-    {
-     "title": "Polymarket halts trading after crypto-draining script breach, $2.5M traced",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/",
-     "source": "BleepingComputer",
-     "published": "2026-10-29T21:47:25+00:00",
-     "date_only": false,
-     "summary": "Prediction market platform Polymarket temporarily suspended trading on Thursday after hackers compromised a third-party service to distribute cryptocurrency-draining JavaScript, with approximately $2.5 million in assets traced to a…",
-     "extra": "",
-     "tags": [
-      "Breach"
-     ],
-     "also": []
-    },
-    {
-     "title": "Anthropic-Themed Phishing Emails Bypass Top Security Tools",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/cyberattacks-data-breaches/anthropic-phishing-emails-bypass-security-tools",
-     "source": "Dark Reading",
-     "published": "2026-10-29T21:21:56+00:00",
-     "date_only": false,
-     "summary": "Obvious phishing emails with numerous red flags are somehow getting past some of the industry-leading secure email gateway (SEG) products.",
-     "extra": "",
-     "tags": [
-      "Phishing"
-     ],
-     "also": []
-    },
-    {
-     "title": "Rethinking Cybersecurity Awareness in the AI Era",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/cyber-risk/rethinking-cybersecurity-awareness-ai-era",
-     "source": "Dark Reading",
-     "published": "2026-10-29T20:15:37+00:00",
-     "date_only": false,
-     "summary": "This installment of the Reporters' Notebook video series discusses some of the trends and topics from Cybersecurity Awareness Month, from using AI for better training to educating next-generation workforces on modern risks and emerging…",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Limited reports of PHP bug exploitation emerge",
-     "subtitle": "",
-     "link": "https://therecord.media/php2shell-successful-exploitation-reports-emerge",
-     "source": "The Record",
-     "published": "2026-10-29T20:01:25+00:00",
-     "date_only": false,
-     "summary": "One cyber firm listed a half-dozen exploitations of the PHP2Shell bugs, and another identified a well targeted, suspected Chinese campaign that breached U.S. \"government affiliated\" servers.",
-     "extra": "",
-     "tags": [
-      "Breach"
-     ],
-     "also": []
-    },
-    {
-     "title": "GM settles with 36 states for selling driver data, agrees to $220 million fine and reforms",
-     "subtitle": "",
-     "link": "https://therecord.media/general-motors-lawsuit-privacy",
-     "source": "The Record",
-     "published": "2026-10-29T19:45:00+00:00",
-     "date_only": false,
-     "summary": "General Motors agreed to pay $220 million to settle a lawsuit filed by a coalition of 36 state attorneys general who alleged the company unlawfully sold information about driver behavior to outside parties.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Fake crypto app on Apple App Store linked to $23K wallet theft",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/",
-     "source": "BleepingComputer",
-     "published": "2026-10-29T19:23:41+00:00",
-     "date_only": false,
-     "summary": "A fake cryptocurrency trading app called Padre Terminal, previously available on the Apple App Store for iOS devices, has been linked to the theft of approximately $23,000 from 27 Solana wallets. [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
-     "source": "The Hacker News",
-     "published": "2026-10-29T19:11:58+00:00",
-     "date_only": false,
-     "summary": "Some attacks take real skill. Others just need someone to leave a door open. This week has both. Exposed passwords, old bugs still getting exploited, and trusted software doing things it shouldn't. There's a strange mix of clever tricks…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Hackers exploit Cisco SD-WAN flaw to deploy custom KeyDrift malware",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-cisco-sd-wan-flaw-to-deploy-custom-keydrift-malware/",
-     "source": "BleepingComputer",
-     "published": "2026-10-29T18:38:26+00:00",
-     "date_only": false,
-     "summary": "A newly identified advanced persistent threat (APT) group tracked as UAT-11473 was observed exploiting CVE-2026-20127, an authentication-bypass flaw in Cisco Catalyst SD-WAN Controllers, to deploy a custom malware framework called…",
-     "extra": "",
-     "tags": [],
-     "also": [
-      "The Hacker News"
-     ]
-    },
-    {
-     "title": "Claude Model Builds Exploits Across Major Browsers & OSes",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/application-security/claude-model-exploits-major-browsers-oses",
-     "source": "Dark Reading",
-     "published": "2026-10-29T18:15:59+00:00",
-     "date_only": false,
-     "summary": "An unreleased version of the AI model has found and chained multiple vulnerabilities in Chrome, Safari, Android, Windows, and Linux, Anthropic says.",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "When Risk Becomes Personal: What Security Leaders Can Learn From a Cancer Diagnosis",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/when-risk-becomes-personal-what-security-leaders-can-learn-from-a-cancer-diagnosis/",
-     "source": "SecurityWeek",
-     "published": "2026-10-29T16:30:00+00:00",
-     "date_only": false,
-     "summary": "Risk managers are trained to spot weak signals, plan for disruption and make hard decisions under uncertainty. But the discipline looks different when the risk is not a system or an enterprise, but you. The post When Risk Becomes Personal…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Federal bankruptcy courts contractor says no data stolen during cyber intrusion",
-     "subtitle": "",
-     "link": "https://therecord.media/us-bankruptcy-courts-it-contractor-says-no-data-stolen-cyberattack",
-     "source": "The Record",
-     "published": "2026-10-29T16:13:00+00:00",
-     "date_only": false,
-     "summary": "\"No data was extracted,” a spokesperson for BAE Systems, a federal contractor, told Recorded Future News about its probe into a cyberattack against its systems for federal bankruptcy courts.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Chrome extensions with 13.4 million installs caught hijacking searches",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/chrome-extensions-with-134-million-installs-caught-hijacking-searches/",
-     "source": "BleepingComputer",
-     "published": "2026-10-29T16:10:31+00:00",
-     "date_only": false,
-     "summary": "A massive search-hijacking campaign involving 319 Chrome extensions with a combined 13.4 million reported installations redirected users' searches through tracking servers to generate advertising revenue from Bing and Yahoo. [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
-     "source": "The Hacker News",
-     "published": "2026-10-29T15:57:05+00:00",
-     "date_only": false,
-     "summary": "A flaw in the Linux kernel's TCP code, tracked as CVE-2026-98432, affects Ubuntu, Red Hat Enterprise Linux (RHEL), and other Linux distributions. The kernel's own CVE team rates it 9.8 out of 10 on the CVSS scale. Anthropic said on October…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Threat Modeling With 4 Simple Questions on a White Board",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/cyber-risk/threat-modeling-4-simple-questions",
-     "source": "Dark Reading",
-     "published": "2026-10-29T15:44:04+00:00",
-     "date_only": false,
-     "summary": "A four-question exercise that CISOs can use to create a threat model that promises results, without a big spend.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html",
-     "source": "The Hacker News",
-     "published": "2026-10-29T15:20:29+00:00",
-     "date_only": false,
-     "summary": "Threat actors are delivering malicious loaders and cryptocurrency miners under the guise of artificial intelligence (AI) desktop applications for Anthropic Claude and OpenAI ChatGPT as part of a campaign dubbed Yoba. The activity involves…",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Google Touts Powerful Cybersecurity Capabilities in Gemini 4 Carbon Model",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/google-says-gemini-4-carbon-leads-in-finding-exploiting-and-fixing-vulnerabilities/",
-     "source": "SecurityWeek",
-     "published": "2026-10-29T15:01:00+00:00",
-     "date_only": false,
-     "summary": "Google’s new frontier model scored 88.2% on SEC-bench Pro and is rolling out first to vetted cyber defenders via its Fairwind Program. The post Google Touts Powerful Cybersecurity Capabilities in Gemini 4 Carbon Model appeared first on…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "How Secure Are US Elections? Voting Machine Risks and the Growing Threat of AI",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/how-secure-are-us-elections-voting-machine-risks-and-the-growing-threat-of-ai/",
-     "source": "SecurityWeek",
-     "published": "2026-10-29T15:00:00+00:00",
-     "date_only": false,
-     "summary": "Unpatched voting machines, unverifiable QR-coded ballots, and AI-driven influence campaigns leave US elections short of secure. The post How Secure Are US Elections? Voting Machine Risks and the Growing Threat of AI appeared first on…",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Microsoft fixes Remote Desktop failures caused by recent Windows updates",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-remote-desktop-failures-caused-by-recent-windows-updates/",
-     "source": "BleepingComputer",
-     "published": "2026-10-29T14:35:40+00:00",
-     "date_only": false,
-     "summary": "Microsoft has resolved a known issue that prevents non-admin users from connecting to devices via Remote Desktop when the \"Administrator protection\" security feature is enabled. [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Cisco Open Sources Quarry to Catch AI Agent Attacks Hidden in Harmless Steps",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/cisco-open-sources-quarry-to-catch-ai-agent-attacks-hidden-in-harmless-steps/",
-     "source": "SecurityWeek",
-     "published": "2026-10-29T14:18:03+00:00",
-     "date_only": false,
-     "summary": "Cisco open sourced Project Quarry, a rule language for detecting AI agent attacks that only emerge across sequences of benign actions. The post Cisco Open Sources Quarry to Catch AI Agent Attacks Hidden in Harmless Steps appeared first on…",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "3 Ways AI Agents Already Operate in Your Browser",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/3-ways-ai-agents-already-operate-in-your-browser/",
-     "source": "BleepingComputer",
-     "published": "2026-10-29T14:00:10+00:00",
-     "date_only": false,
-     "summary": "AI agents can control authenticated browsers, interact with corporate applications, and access sensitive data while appearing to act as legitimate employees. Keep Aware examines three ways agents operate inside browsers and why traditional…",
-     "extra": "",
-     "tags": [
-      "AI"
      ],
      "also": []
     }
@@ -515,6 +506,93 @@
   {
    "name": "APAC Watch",
    "stories": [
+    {
+     "title": "Japan's Foreign Ministry reports data breach affecting 3,600 records",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUDQyQWJLRjIwZm9tRGJCU19BdkkyLUdFenF5a1FIRW5aOVR4YUJTelphaFk1Ulh5OFcydXV5bzNOUEIzN3ZkQ25tbWx5aHJULVRYUXVHS3dTelhKdWpYelJIYXdzVlNWWU5YSldyZFJxMzFlTmpnUXNJc3BlT0Zra0l1RXQ0MUFiMkpRR2FCaVpycEVONHBOcmJNS3VuZXRpN2NlUE9Bam9mdUtMMzY4N2hBWQ?oc=5",
+     "source": "Anadolu Ajansı",
+     "published": "2026-10-30T11:33:50+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Japan's Keio Corporation Delays Interim Earnings to Early December After Cyberattack",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yVXhjYlVLQms1YVVZZkZtNEpKZWxxUl9tT19xR2RONjFvdXVqTGhFVWp4b3FVSU9mU2ZNTDQ3MzlOWThsdC1DRmkyeTFrenJzdmhwZjJLMXJNTzZZb2Frd055aEhKWm5BOW5SakdCNm5BUWhLQ2c?oc=5",
+     "source": "BigGo Finance",
+     "published": "2026-10-30T11:26:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Amadeus cyberattack puts Asian airlines on alert",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTkN3d3cwQ2lla0NpSHNiZGhFV21CeGJPbHF4aG5mUEJXel9GbTl0OU5SNUh2VVdyazFFM01uYVBjakp1dWJzRGp4anRpSVdrb25tMVdwRE1KLWhFaHBSa1RsNHVKelY1X1l6aktJVU1Gcm1KSXFCUmFLQ3pmRnpmdThUdTJqaDQtRks3N2FRN2toUldyd1NIQ0x3RDJCVWk3OE94Zi14MVpIYlE?oc=5",
+     "source": "Travel Weekly Asia",
+     "published": "2026-10-30T10:40:58+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Ransomware Attacks on Synology NAS Users in South Korea Demand Bitcoin",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84MEh0VlRvMEN4YTNzTTk2VUJ6VDJYWjRPYXV3Snhra0pzU0ZwRFE3M2g5ekFGTHNQSmdoZlllcUJFWkd2ZS1aWi1sY3BmYU5CbDRTTExmWGRXd00?oc=5",
+     "source": "www.tokenpost.com",
+     "published": "2026-10-30T10:04:11+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Ransomware",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Hacker Group Explains Why It Hijacked Digital Billboards In Malaysia To Display Adult Content",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU3lEV0oyTU5sS1JBemNlamdrQlFLRXpYVjU4VldCcjFackQ3THdVZUttNGRadWtVODhlSWJZbUZFcG5SWS1kczJvaVJYMlBpUkZDTWk0amtja2NTM2xBNGROek9pdnJTOWFaNnMtbFlNZlhNOXp6Z2NnNno5MWtRSFFGWFppeE5uTzVmMnpZcWhBcHVhb2g4cHFkOGNpdjN1MWFYLVhRLXdQNnc?oc=5",
+     "source": "SAYS",
+     "published": "2026-10-30T09:24:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Hackers breach GS E&C system, leak resident data in South Korea",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMmhETUFGVkVXWDA4bjRNVS1yR1lMNzh6SHQ4MmlmYVR1bEJtY1QtVlVaR1FXUzZwRDI4bklBdlg1V0Y1UXdvVTluUFAxSFhhZHNlYl9ScURJMFExLXY2MWdnQnJMY1gwU2E5dUhFSmpnQmZKX21zaXBuLTVXUkhZVWpwVzdIMEhSZDlwaGtFSk5iaDBxN2d0TdIBmAFBVV95cUxOMmhETUFGVkVXWDA4bjRNVS1yR1lMNzh6SHQ4MmlmYVR1bEJtY1QtVlVaR1FXUzZwRDI4bklBdlg1V0Y1UXdvVTluUFAxSFhhZHNlYl9ScURJMFExLXY2MWdnQnJMY1gwU2E5dUhFSmpnQmZKX21zaXBuLTVXUkhZVWpwVzdIMEhSZDlwaGtFSk5iaDBxN2d0TQ?oc=5",
+     "source": "Chosunbiz",
+     "published": "2026-10-30T07:39:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
     {
      "title": "North Korean hackers wield AI to scale phishing and malware against South Korea",
      "subtitle": "",
@@ -527,6 +605,21 @@
      "tags": [
       "AI",
       "Phishing",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Japan's cyberattack surge fuels debate over tighter AI regulation, data-security rules",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcnAwelR4bGpkZC1pVFZoUnByQk9zODlyam1lbnJTRUJwYU9TOHY3UmhxLVVtV0FjU21XdzVTSnYwNVBtMzRNRXhCd21KVzVoVlBEYnNFc0p5b2RicFdreEYyaHZCalFCN2FaTU9Sa2FseGl3NFJPU3JSUzE5cW9FR2d2WG1pQ0pTdFBBWHBPYXFtN09pcFZralRSRC1TOC1uSTdGUGdLSlZwWUgyMGRRdVpzTFlFRHZVQjBLZDcyUjNWZ0thd3dJ0gFaQVVfeXFMTUF0MUNhSzlGc3lOQXE2V0lnT2xpdU1ZS1hHSnlRRW5Ba3AwaWRGcWV1NnNKQS1PMWFsdFRFa2doMFVBcG95bDNGa2I2OWhDY29JemtQQWVUdlFR?oc=5",
+     "source": "MLex",
+     "published": "2026-10-30T06:24:14+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "AI",
       "APAC"
      ],
      "also": []
@@ -562,55 +655,11 @@
      "also": []
     },
     {
-     "title": "Japan’s Cyberattack Surge Tests Its Push to Strengthen Defenses",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN05hU2RYNzRuSDdRM0dFcVRFZUEydW5kcHdzTUNBWFpmZk8xTGZzMDNjZGxaWkRXajFTUkpjSGpCUUxMcHd1TWZXMzBuNjdxbHJtY3RmM2FOQnlONEg1RmdjbVJQdVRLR21YX3JwQWxtWXBWLWVLT1htdlI5Y3UtZ0hWZ2pJQk9KdGU3RXVRTVhFb0NkWWFLZVJxOWRmMm50MFBMQ2VlajJLRWJrQTVVSmNvVEY?oc=5",
-     "source": "Bloomberg.com",
-     "published": "2026-10-29T18:52:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Two Japanese Airlines Report Passengers Data Breach",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTkEtZjE3TEJld3dzVjJ2TThwOHg5dlY0eTllMzA2QlZnOGNXbzdyeTdtN2RQQjJXdUFsbmt1cDdaT1BBWWxPSGw3Q2l2Mnk2cW5hSHI4T3ZSYjNLWFRabGJtM3g4bVN5cDNyUTBuM25hUFdTNHVFaENHbEF1bE9sZU9jY0s?oc=5",
-     "source": "The Tanzania Times",
-     "published": "2026-10-29T13:47:16+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach"
-     ],
-     "also": []
-    },
-    {
-     "title": "Data breach at Sony ISP subsidiary exposes 2.5 million customer records as Japan hit with another major cyberattack",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOeUFUQTYwakotWUEzOHNVOE0zWXJ1ZFVUakdDUFBua3JvWG9UZ1lNM2pFQ1QzVFA1TlFkZTBQRWliTHl4bzJ2cllOSnF4cGhhMkppSUFWTjlmeW5tRVNmS0NFRlJTanU3SWtyYXp6cTFad19uMmRmcEt4ZC1qTXB1Uzk4V1B1TXJnVTI1VWdYRno4aTd3azRYRk1BR0c0SWNwS2lQRWxjajNVMm4zNjdqbjh2NmlzRlNlVkk2b1dWTVBDMDVkU0V1X01fdUkyQXFiaTdRVDVqVTZROGk3QUkxMGFISnB6UlFXeGc?oc=5",
-     "source": "TechRadar",
-     "published": "2026-10-29T13:05:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "Telecom",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
      "title": "Japan gov't asked telecom firms to block extortion site in GMO data breach",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfZEppMDZnbjZuOUxmemQ1M1BaNFNrLUVZaTdNUU96TkZSV1A1bnFFaFpYcWlrRC1WX0pnZHlZUHNHQWlnSmxCa21qTVczT3pPc1BTQ0hRRF8tQQ?oc=5",
-     "source": "Japan Wire by Kyodo News",
-     "published": "2026-10-29T12:47:11+00:00",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBjVko3OWZIZ0EzTzZGX3dHNXdKdmx1VzZ3S0sybVUtM2lSY0FzWUVaSzNFWmpreWZSNlhJSTJJU2Y2QlNQVGhydUxnUkplOTRQeWpBLTN3RVR5ZzZuUmRDRElqNXNIUk1mSEtfYnRDcDZfUkE?oc=5",
+     "source": "毎日新聞",
+     "published": "2026-10-30T00:35:19+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -620,66 +669,18 @@
       "Telecom",
       "APAC"
      ],
-     "also": [
-      "Menafn",
-      "JIJI PRESS"
-     ]
-    },
-    {
-     "title": "AI Can Now Be a Cyberattack Weapon, BSSN Warns ASEAN–Japan",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWEJaSXJBQnMwYUFPdXRSdnh0VDJ5VWk0T3pGeDNITDRBUER6eTVndzNTZlVNYmI4dGp1RUZTcmpjVlVPU2phOUphSnJhR0IxVG43Y1dvS3E0QkxwbXB2bm5FeG5zOGg4SWpQVW4yUG1STWoyUTBuS2ZUVWRHaDlQdV9Ec1dubUlaNVpWMXJwNVMzNjBu?oc=5",
-     "source": "Aktualita.co",
-     "published": "2026-10-29T12:34:26+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "AI",
-      "APAC"
-     ],
      "also": []
     },
     {
-     "title": "South Korea's SK Planet Reports Personal Data Breach in Gift Certificate Service; Refund Accounts Exposed, Full Compensation Promised",
+     "title": "Japan’s Cyberattack Surge Tests Its Push to Strengthen Defenses",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9faTQ5RW85aEhTLW4wUDF2RW5Jd0UxeU9CQmFTZnVuR0tQeGNnaUF0YXBiLXgxRUhFbEpFNDhnT0hISl94X0JaNnV1ODZYcXJQSkRCMWQ1RHo1Vy1KZHgxQVZkbEVMRjBqeTRSd1o0T2hFdU5JUlE?oc=5",
-     "source": "BigGo Finance",
-     "published": "2026-10-29T12:05:00+00:00",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN05hU2RYNzRuSDdRM0dFcVRFZUEydW5kcHdzTUNBWFpmZk8xTGZzMDNjZGxaWkRXajFTUkpjSGpCUUxMcHd1TWZXMzBuNjdxbHJtY3RmM2FOQnlONEg1RmdjbVJQdVRLR21YX3JwQWxtWXBWLWVLT1htdlI5Y3UtZ0hWZ2pJQk9KdGU3RXVRTVhFb0NkWWFLZVJxOWRmMm50MFBMQ2VlajJLRWJrQTVVSmNvVEY?oc=5",
+     "source": "Bloomberg",
+     "published": "2026-10-29T18:52:00+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
      "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Japan Airlines says hackers accessed data of 92,000 customers through reservation system provider",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUGN6NFBiLUF4RElOekt5aDMxektwTHducWotcVdTeFRmTjhvNjFWR2Z6QUQ5eHl4aFZLd1RKMjVkaFBJZVpZdkZ6cXpRVWlhbnhOM3VNNEZwUlFkYm1GNjFqOE9ET0lZZFdBZDJjNXctUElHVUtZMXhYZTV6VjlzLXJzV3N3ZHRjRHFRd2FvWFo5VG1wSjJsWHdZT3M4TWc4aW95eGRSOHJ1SE1ycUdvU25Ld0ZNYV9XVGhER1psQ0ZZZnBnYkVnMGUxOA?oc=5",
-     "source": "teiss",
-     "published": "2026-10-29T12:03:56+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "South Korea's Jin Air Reports Data Breach Affecting 1,454 Members; API Hack Also Hit Hanjin Affiliates",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jSnNWQUMtZHBOYXhpcmxPMWl3REVtcnRzbl9BQXBDc05fRWg2WGtlN2dhTnVLc0JjSFhNYXY3TEhxeERJNzlaTzRZNTk1YVg3VHhwajl5aHVlVGxwQ001dlVYY1JZUldqMmdjZkdEMVA1NnZlY3c?oc=5",
-     "source": "BigGo Finance",
-     "published": "2026-10-29T10:06:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
       "APAC"
      ],
      "also": []
