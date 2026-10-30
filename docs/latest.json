@@ -1,9 +1,43 @@
 {
- "generated": "2026-10-29T21:14:09+00:00",
+ "generated": "2026-10-30T01:08:53+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
    "stories": [
+    {
+     "title": "CVE-2026-97229: GitLab Community Edition and Enterprise Edition",
+     "subtitle": "GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound Vulnerability",
+     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-97229",
+     "source": "CISA KEV",
+     "published": "2026-10-29T00:00:00+00:00",
+     "date_only": true,
+     "summary": "GitLab Community Edition and Enterprise Edition contain a integer overflow or wraparound vulnerability that could allow an unauthenticated user to execute arbitrary code on the GitLab server via a specially crafted regular expression in a…",
+     "extra": "US federal patch deadline 1 Nov",
+     "tags": [
+      "Exploited"
+     ],
+     "vendor": "GitLab",
+     "product": "Community Edition and Enterprise Edition",
+     "cve": "CVE-2026-97229",
+     "also": []
+    },
+    {
+     "title": "CVE-2026-76418: Cisco Secure Firewall ASA Software and Cisco Secure FTD Software",
+     "subtitle": "Cisco Secure Firewall ASA Software and Cisco Secure FTD Software Unchecked Return Value to NULL Pointer Dereference Vulnerability",
+     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76418",
+     "source": "CISA KEV",
+     "published": "2026-10-29T00:00:00+00:00",
+     "date_only": true,
+     "summary": "Cisco Secure Firewall ASA Software and Cisco Secure FTD Software contains an unchecked return value to NULL pointer dereference vulnerability that could allow an unauthenticated, remote attacker to cause the device to reload unexpectedly…",
+     "extra": "US federal patch deadline 1 Nov",
+     "tags": [
+      "Exploited"
+     ],
+     "vendor": "Cisco",
+     "product": "Secure Firewall ASA Software and Cisco Secure FTD Software",
+     "cve": "CVE-2026-76418",
+     "also": []
+    },
     {
      "title": "CVE-2026-41709: Broadcom VMware ESX",
      "subtitle": "Broadcom VMWare ESX Insufficient Logging Vulnerability",
@@ -145,6 +179,105 @@
   {
    "name": "Breaking Threats",
    "stories": [
+    {
+     "title": "OpenAI doubles ChatGPT Pro usage limits after backlash over planned 50% cut",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-doubles-chatgpt-pro-usage-limits-after-backlash-over-planned-50-percent-cut/",
+     "source": "BleepingComputer",
+     "published": "2026-10-29T23:35:52+00:00",
+     "date_only": false,
+     "summary": "OpenAI says it won't reduce usage limits for the $100, $200, and $500 ChatGPT Pro plans, as well as Business Premium, and it also promised to keep Dots usage independent. [...]",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "Binance probes potential $5.8 billion crypto-theft hack",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/binance-probes-potential-58-billion-crypto-theft-hack/",
+     "source": "BleepingComputer",
+     "published": "2026-10-29T22:45:23+00:00",
+     "date_only": false,
+     "summary": "Cryptocurrency exchange Binance is investigating a potential security breach involving up to $5.8 billion in digital assets, in what could become the largest cryptocurrency hack in history. [...]",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": []
+    },
+    {
+     "title": "Hugging Face malware campaign returns to hijack GPUs for crypto mining",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/hugging-face-malware-campaign-returns-to-hijack-gpus-for-crypto-mining/",
+     "source": "BleepingComputer",
+     "published": "2026-10-29T22:09:24+00:00",
+     "date_only": false,
+     "summary": "A crypto-mining campaign abusing Hugging Face models returned days after takedown, hijacking GPU servers and planting backdoors, with one model downloaded over 28,000 times. Separately, a fake Solana starter kit on GitHub is positioned to…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Japan Airlines suffers third-party data breach exposing passenger info",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/japan-airlines-suffers-third-party-data-breach-exposing-passenger-info/",
+     "source": "BleepingComputer",
+     "published": "2026-10-29T22:08:04+00:00",
+     "date_only": false,
+     "summary": "Japan Airlines (JAL) has announced that a data breach at Amadeus's Passenger Service System exposed the data of about 92,000 customers. [...]",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": [
+      "The 420.in"
+     ]
+    },
+    {
+     "title": "Polymarket halts trading after crypto-draining script breach, $2.5M traced",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/polymarket-halts-trading-after-crypto-draining-script-breach-25m-traced/",
+     "source": "BleepingComputer",
+     "published": "2026-10-29T21:47:25+00:00",
+     "date_only": false,
+     "summary": "Prediction market platform Polymarket temporarily suspended trading on Thursday after hackers compromised a third-party service to distribute cryptocurrency-draining JavaScript, with approximately $2.5 million in assets traced to a…",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": []
+    },
+    {
+     "title": "Anthropic-Themed Phishing Emails Bypass Top Security Tools",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/cyberattacks-data-breaches/anthropic-phishing-emails-bypass-security-tools",
+     "source": "Dark Reading",
+     "published": "2026-10-29T21:21:56+00:00",
+     "date_only": false,
+     "summary": "Obvious phishing emails with numerous red flags are somehow getting past some of the industry-leading secure email gateway (SEG) products.",
+     "extra": "",
+     "tags": [
+      "Phishing"
+     ],
+     "also": []
+    },
+    {
+     "title": "Rethinking Cybersecurity Awareness in the AI Era",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/cyber-risk/rethinking-cybersecurity-awareness-ai-era",
+     "source": "Dark Reading",
+     "published": "2026-10-29T20:15:37+00:00",
+     "date_only": false,
+     "summary": "This installment of the Reporters' Notebook video series discusses some of the trends and topics from Cybersecurity Awareness Month, from using AI for better training to educating next-generation workforces on modern risks and emerging…",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
     {
      "title": "Limited reports of PHP bug exploitation emerge",
      "subtitle": "",
@@ -376,96 +509,6 @@
       "Exploited"
      ],
      "also": []
-    },
-    {
-     "title": "FTC to probe major companies over personalized pricing and pay",
-     "subtitle": "",
-     "link": "https://therecord.media/ftc-rideshare-airlines-data",
-     "source": "The Record",
-     "published": "2026-10-29T13:45:00+00:00",
-     "date_only": false,
-     "summary": "The Federal Trade Commission ordered nine food delivery, airline and ride-sharing companies to turn over detailed information on how they harness personal data to set individual consumer prices and employee compensation.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Adobe, Veeam, Juniper Networks Patch Critical Vulnerabilities",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/adobe-veeam-juniper-networks-patch-critical-vulnerabilities/",
-     "source": "SecurityWeek",
-     "published": "2026-10-29T13:42:52+00:00",
-     "date_only": false,
-     "summary": "The flaws could lead to arbitrary code execution, authorization bypasses, and privilege escalation. The post Adobe, Veeam, Juniper Networks Patch Critical Vulnerabilities appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html",
-     "source": "The Hacker News",
-     "published": "2026-10-29T13:42:40+00:00",
-     "date_only": false,
-     "summary": "Google on Wednesday took the wraps off Gemini 4 Carbon, its latest frontier model with state-of-the-art cybersecurity and long-horizon capabilities. \"It shows significant gains across coding and agentic tasks as well as across key…",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Cyberattack disrupts Belgian tax services before filing deadline",
-     "subtitle": "",
-     "link": "https://therecord.media/cyberattack-disrupts-belgian-tax-services-before-deadline",
-     "source": "The Record",
-     "published": "2026-10-29T13:31:00+00:00",
-     "date_only": false,
-     "summary": "The Federal Public Service Finance (FPS Finance), which oversees taxation and other financial administration, said Wednesday that it was investigating the extent of the attack and had temporarily suspended access to MyMinfin, the country's…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "BAE Says No Data Extracted in Incident Hitting Bankruptcy Courts",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/bae-says-no-data-extracted-in-incident-hitting-bankruptcy-courts/",
-     "source": "SecurityWeek",
-     "published": "2026-10-29T13:26:49+00:00",
-     "date_only": false,
-     "summary": "BAE Systems says no data was extracted and no PII was breached in the incident that disrupted US bankruptcy court notices for weeks. The post BAE Says No Data Extracted in Incident Hitting Bankruptcy Courts appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [
-      "Breach"
-     ],
-     "also": []
-    },
-    {
-     "title": "Over 41,000 DHS Employee Records Leaked Online",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/over-41000-dhs-employee-records-leaked-online/",
-     "source": "SecurityWeek",
-     "published": "2026-10-29T12:54:14+00:00",
-     "date_only": false,
-     "summary": "The personal and work information was allegedly stolen from an Okta single sign-on system earlier this year. The post Over 41,000 DHS Employee Records Leaked Online appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [
-      "Breach"
-     ],
-     "also": []
-    },
-    {
-     "title": "Windows 11 KB5127936 update released with 41 changes and fixes",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5127936-update-released-with-41-changes-and-fixes/",
-     "source": "BleepingComputer",
-     "published": "2026-10-29T12:00:07+00:00",
-     "date_only": false,
-     "summary": "Microsoft released the KB5127936 preview cumulative update for Windows 11 versions 25H2 and 26H2, with 41 changes, including File Explorer and Cloud rebuild improvements. [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
     }
    ]
   },
@@ -473,11 +516,39 @@
    "name": "APAC Watch",
    "stories": [
     {
+     "title": "​Hackers Target 25 Enterprise Firewalls Across US, Japan, Taiwan, and South Korea",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdm44YXhpQy0wcTJHWUU3ZGFScjY1RjRWY0RjYVVVMDhSbDVrS3dPR1ZQQl9KV3pNMjVUakIyRjcwYjRWMGpnVVJhVWpSRlIyc01CVDd3V19DaGItcHRDdnVrTkI0dlh0c2FCc0pFY3ZsbkcyZUJBR1JtdFhQY0xLNlNkSlhidlVYbk1ELXhWS1FlRUItZV9KWjBaSjFjc3d2cGl5QnVWLUZER1lL?oc=5",
+     "source": "The 420.in",
+     "published": "2026-10-30T00:43:59+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
      "title": "Japan’s Cyberattack Surge Tests Its Push to Strengthen Defenses",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN05hU2RYNzRuSDdRM0dFcVRFZUEydW5kcHdzTUNBWFpmZk8xTGZzMDNjZGxaWkRXajFTUkpjSGpCUUxMcHd1TWZXMzBuNjdxbHJtY3RmM2FOQnlONEg1RmdjbVJQdVRLR21YX3JwQWxtWXBWLWVLT1htdlI5Y3UtZ0hWZ2pJQk9KdGU3RXVRTVhFb0NkWWFLZVJxOWRmMm50MFBMQ2VlajJLRWJrQTVVSmNvVEY?oc=5",
      "source": "Bloomberg.com",
      "published": "2026-10-29T18:52:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Japan Vows to Fortify Cyber Defenses as GMO Hack Hits Forex Brokers",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNVNyQzhTdWE5emJCNzR3MWlBZGRvYTl5Sk80LTY1d3JuN3NxTVRWYUIxdkR1bWVLMkYxVktCQzdidkViUjRmaXNxcVRhbFgtcHg2RGh4SXFCYnNPWHg2NUl5OVRTUjhBZFRvU2FxcmVjZlVadFlfR0dHRmRqN3RJaGJwcXl1N3BzbnZvX0o0X2FGQlVaM015VVNDZS1pdG9fSEs1azUzOEpzZWVLZlR4eDVNRHVzUQ?oc=5",
+     "source": "WSJ",
+     "published": "2026-10-29T17:45:54+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -520,24 +591,6 @@
      "also": []
     },
     {
-     "title": "Japan Airlines Says Amadeus Breach Exposed Data of 92,000 Customers",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOd3RmSGlyU0txMktIWlVUdHpVa2ZycWdVQ20tTkFvSkljTDJOX3F6d3F1M1I0Nm5lMHg0NUNVVnlyZnFxbGlfTHlGaTBuTF84NXZLY2JiTUVTRnVxemdpeEEwLUZ2Q3dFRjJ1SFBwQndSclZYVm9CRlpXNlVUaWJTaHpHN29fSjRTdWc?oc=5",
-     "source": "The 420.in",
-     "published": "2026-10-29T12:52:44+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": [
-      "teiss",
-      "The Record from Recorded Future News"
-     ]
-    },
-    {
      "title": "Japan gov't asked telecom firms to block extortion site in GMO data breach",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBfZEppMDZnbjZuOUxmemQ1M1BaNFNrLUVZaTdNUU96TkZSV1A1bnFFaFpYcWlrRC1WX0pnZHlZUHNHQWlnSmxCa21qTVczT3pPc1BTQ0hRRF8tQQ?oc=5",
@@ -569,6 +622,34 @@
      "extra": "",
      "tags": [
       "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Japan Airlines says hackers accessed data of 92,000 customers through reservation system provider",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUGN6NFBiLUF4RElOekt5aDMxektwTHducWotcVdTeFRmTjhvNjFWR2Z6QUQ5eHl4aFZLd1RKMjVkaFBJZVpZdkZ6cXpRVWlhbnhOM3VNNEZwUlFkYm1GNjFqOE9ET0lZZFdBZDJjNXctUElHVUtZMXhYZTV6VjlzLXJzV3N3ZHRjRHFRd2FvWFo5VG1wSjJsWHdZT3M4TWc4aW95eGRSOHJ1SE1ycUdvU25Ld0ZNYV9XVGhER1psQ0ZZZnBnYkVnMGUxOA?oc=5",
+     "source": "teiss",
+     "published": "2026-10-29T12:03:56+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "India’s Top Ethical Hacker Sunny Nehra Is One of His Kind: A Deep Dive Into the Mind, Research and Influence Behind the Name",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSHVfcTlnN2tUZnRzSy1BdjRpRHFqM2NiZmhDY0V1bVNaQnRab2NOWXExanRZX2tlMFUzdTRFcVZoYnNVb1R0eTNPYlY1ZXNvOE1ibGwxUi1LYnRMM1FaeXJ1OHRKRVlYR3l5NkxrVzRyQVJ2b2RTX2U2N2Q5ZkFIbzN0SGJ2Nm84ZGhXb1hvbHZTVTAwWS1FN3QxWWdPa0VWaEdFdE1mTHJrTG5Gdzl2dFBhdjhHMmRac1MxXzdMd2NLT2xlU3F6ZjBnTkdySlpJOFFFNF9hdVktdm1o?oc=5",
+     "source": "GBHackers News",
+     "published": "2026-10-29T11:48:27+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
       "APAC"
      ],
      "also": []
@@ -608,36 +689,6 @@
      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB2S3pGakUxbmkxV1g3M0txcktXQTYxVzdVRzZfNG0yTVlRd3lqaE5TbDZuZGF3dll5dnUxNUc0RGdxZTNqTVZlMERmaVVpd3AzMDFVam1NWng2ZHFyMnkydmVFWEU2ZXdETnJwelRodGpNYk5mM1E?oc=5",
      "source": "BigGo Finance",
      "published": "2026-10-29T03:25:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Hackers Exploit PHP Flaw to Breach U.S. Government Internal Network, Seize 25 Firewalls in South Korea and Taiwan",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9oTkMxRWtrMjZ5UnVETjQxWGpfYS1MT2xiOWh0dUlXdDlCcGR6TmtiSlNVenNEQjZFemFEeDZTb3NvTFJxTE1aVk5TM0R1bl91UGJnamZTNEFEUTh2alVaUDJONWJWWE5OeWZfYkhsMHRJeDQzTFE?oc=5",
-     "source": "BigGo Finance",
-     "published": "2026-10-29T00:25:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Sarku Japan Data Breach Lawsuit Investigation",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQay1nLVNpT2JUVjZrYjE5R2hGYTNSM1JXcEx1RWxYU3dvRGRFZ0cyZm8wYmRxamVYMXJ4NHl6TU16elVobFZ4elhOUnNEZTlqU1NSejhzZDI4YkpocnZIZkQ4aEMtWllvZnhaY2ZqZWpwbnU1QXluMGwyQU9jS25uaWp3?oc=5",
-     "source": "Claim Depot",
-     "published": "2026-10-28T21:25:03+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
