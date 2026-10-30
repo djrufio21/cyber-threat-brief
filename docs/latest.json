@@ -1,9 +1,43 @@
 {
- "generated": "2026-10-30T19:30:11+00:00",
+ "generated": "2026-10-30T23:54:25+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
    "stories": [
+    {
+     "title": "CVE-2026-118527: Ivanti Connect Secure",
+     "subtitle": "Ivanti Connect Secure Generation of Predictable Numbers or Identifiers Vulnerability",
+     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-118527",
+     "source": "CISA KEV",
+     "published": "2026-10-30T00:00:00+00:00",
+     "date_only": true,
+     "summary": "Ivanti Connect Secure contains a generation of predictable numbers or identifiers vulnerability that allows a remote authenticated attacker to upload files with attacker-controlled content to a known location on disk. This vulnerability…",
+     "extra": "US federal patch deadline 13 Nov",
+     "tags": [
+      "Exploited"
+     ],
+     "vendor": "Ivanti",
+     "product": "Connect Secure",
+     "cve": "CVE-2026-118527",
+     "also": []
+    },
+    {
+     "title": "CVE-2026-111357: Ivanti Connect Secure",
+     "subtitle": "Ivanti Connect Secure Missing Authentication for Critical Function Vulnerability",
+     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-111357",
+     "source": "CISA KEV",
+     "published": "2026-10-30T00:00:00+00:00",
+     "date_only": true,
+     "summary": "Ivanti Connect Secure contains a missing authentication for critical function vulnerability that could allow a local authenticated attacker to escalate their privileges. This vulnerability can be chained with CVE-2026-104935 and…",
+     "extra": "US federal patch deadline 2 Nov",
+     "tags": [
+      "Exploited"
+     ],
+     "vendor": "Ivanti",
+     "product": "Connect Secure",
+     "cve": "CVE-2026-111357",
+     "also": []
+    },
     {
      "title": "CVE-2026-97229: GitLab Community Edition and Enterprise Edition",
      "subtitle": "GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound Vulnerability",
@@ -180,6 +214,61 @@
    "name": "Breaking Threats",
    "stories": [
     {
+     "title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/",
+     "source": "BleepingComputer",
+     "published": "2026-10-30T21:09:46+00:00",
+     "date_only": false,
+     "summary": "Security researchers at Anthropic have developed an exploit for a critical Linux kernel vulnerability that allows unauthenticated attackers to remotely execute commands as root on servers running Multipath TCP (MPTCP) listeners. [...]",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "DOJ raises privacy concerns over potential sale of Character.AI chats",
+     "subtitle": "",
+     "link": "https://therecord.media/doj-raises-privacy-concerns-over-character-ai-sale",
+     "source": "The Record",
+     "published": "2026-10-30T20:45:00+00:00",
+     "date_only": false,
+     "summary": "The DOJ’s Executive Office for U.S. Trustees said a consumer privacy ombudsman is needed to advise the court on how to regulate what data from Character.AI can be sold and under what terms.",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "Devs Hit by Trojanized Claude Code Extension for Cursor",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/cyberattacks-data-breaches/devs-trojanized-claude-code-extension-cursor",
+     "source": "Dark Reading",
+     "published": "2026-10-30T20:05:58+00:00",
+     "date_only": false,
+     "summary": "Two serious security issues hit Cursor on the same day, highlighting the risks for AI-powered integrated development environments (IDEs).",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": [
+      "BleepingComputer",
+      "The Hacker News"
+     ]
+    },
+    {
+     "title": "Behind the Scenes of How Operation Blackout Went Down",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/cybersecurity-operations/behind-the-scenes-how-operation-blackout-went-down",
+     "source": "Dark Reading",
+     "published": "2026-10-30T19:46:08+00:00",
+     "date_only": false,
+     "summary": "A recent law enforcement operation to dismantle harmful scam centers was a big success. A threat intelligence expert walks us through what happened and why he wants more of the same.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
      "title": "Fashion retailer Resolve says hackers stole payment card information",
      "subtitle": "",
      "link": "https://therecord.media/resolve-fashion-retailer-data-breach-payment-cards",
@@ -286,20 +375,6 @@
      "also": []
     },
     {
-     "title": "Malicious Claude Code extension on Cursor planted SSH backdoors",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/",
-     "source": "BleepingComputer",
-     "published": "2026-10-30T14:36:54+00:00",
-     "date_only": false,
-     "summary": "A malicious version of Anthropic's Claude Code VS Code extension was distributed through Cursor's extension marketplace for approximately 11 hours on October 29, exposing up to 5,000 developers to malware designed to install persistent SSH…",
-     "extra": "",
-     "tags": [],
-     "also": [
-      "The Hacker News"
-     ]
-    },
-    {
      "title": "Syrian Electronic Army hacker gets prison time for attacks on Western targets",
      "subtitle": "",
      "link": "https://therecord.media/syrian-electronic-army-hacker-sentenced-three-years",
@@ -402,18 +477,6 @@
      "also": []
     },
     {
-     "title": "Hackers target government Windows systems in Asia with new malware",
-     "subtitle": "",
-     "link": "https://therecord.media/hackers-target-government-windows-systems-asia-new-malware",
-     "source": "The Record",
-     "published": "2026-10-30T12:36:00+00:00",
-     "date_only": false,
-     "summary": "The previously unknown malware, dubbed NetamLoader, uses legitimate Microsoft software components to execute malicious code, evade security tools and download additional programs onto infected computers.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
      "title": "Fresh WordPress Vulnerability in Attackers’ Crosshairs",
      "subtitle": "",
      "link": "https://www.securityweek.com/fresh-wordpress-vulnerability-in-attackers-crosshairs/",
@@ -476,40 +539,44 @@
      "extra": "",
      "tags": [],
      "also": []
-    },
-    {
-     "title": "$2 Million+ Drained From Polymarket Traders in New Supply Chain Attack",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/2-million-drained-from-polymarket-traders-in-new-supply-chain-attack/",
-     "source": "SecurityWeek",
-     "published": "2026-10-30T09:41:36+00:00",
-     "date_only": false,
-     "summary": "Malicious code linked to a website monitoring tool was designed to hijack logged-in Polymarket sessions and siphon user funds. The post $2 Million+ Drained From Polymarket Traders in New Supply Chain Attack appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [
-      "Supply chain"
-     ],
-     "also": []
-    },
-    {
-     "title": "Max-Severity GitLab Vulnerability Exploited Against Alpine Linux",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/max-severity-gitlab-vulnerability-exploited-against-alpine-linux/",
-     "source": "SecurityWeek",
-     "published": "2026-10-30T09:32:27+00:00",
-     "date_only": false,
-     "summary": "Tracked as CVE-2026-97229, the bug allows unauthenticated attackers to execute arbitrary code on the server. The post Max-Severity GitLab Vulnerability Exploited Against Alpine Linux appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [
-      "Exploited"
-     ],
-     "also": []
     }
    ]
   },
   {
    "name": "APAC Watch",
    "stories": [
+    {
+     "title": "Hackers steal $6.3 billion from Binance in record heist blamed on North Korea",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRGNXZ2tDdnFXeEE0R09udVZ0Q1BLejMxOWR5U1RNWmJyZlNOZnR4M3k2QlBRMm5MZWFqOEtCUHJ6THE4UldJV3F1NGxiRHQtcmNGbUJUTlREYUFQWnFIMXFZUDNKVjMwRE9BS2NRYkFsYlNyblUtYWNNd0wtMFpNdU5YV3c1MWhTZlc5eElkbTByTlQwRF9nZDFZSXcyN2dHcWgyanNQUjhwRkhyZUpsYWc0c2U3dw?oc=5",
+     "source": "Japan Today",
+     "published": "2026-10-30T20:55:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": [
+      "CU Today",
+      "The Japan Times"
+     ]
+    },
+    {
+     "title": "Japan Faces Growing Cyberattack Crisis as AI Tools Help Hackers Target Businesses and Government",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZX19Qa0JBOEVDUWZxNUU2SEQ2WnNlMDR3cnpqUVBLV1NvOUxFMmtxQzVVYzZQVEhGQTZjUUd6V0IzMW5XbEVhUTZaaTdpWW1OU2daLUMyc9IBXEFVX3lxTE1ZWjFNS2FVNWU5NkRYbG9VZ18yQVRVclkxV2RmREpNbndteGRKaG1NY0I0UjNvZVgwV2VCX1U0ZnFBWU4yMmNYVnN4dEtRYjlpLXJjb3Z2aDRXYVpN?oc=5",
+     "source": "GBHackers News",
+     "published": "2026-10-30T20:26:15+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "AI",
+      "APAC"
+     ],
+     "also": []
+    },
     {
      "title": "Could US AI help protect Japan from hackers? Tokyo prepares new cyber package",
      "subtitle": "",
@@ -526,31 +593,18 @@
      "also": []
     },
     {
-     "title": "Hackers steal $6.3 billion from Binance in record heist blamed on North Korea",
+     "title": "Japan Airlines data breach exposes 92,000 customer records",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSnIwMjFNTlRGX1JSRFdNU1Vjdkh6V2FySktIOEdQTzlzdWFJaTRKUGQzRVBVaXdMYUFTdjNMNFQ0VEdtTjlzT09Xa2ZHMkJVY05pVkp6VGZxbUp5NGRQeGZvWlFncE9leVQ5RW41Ynd5ZzdHWHdKS3ZhMEdfZHZhSDhrMnBLeEE?oc=5",
-     "source": "The Japan Times",
-     "published": "2026-10-30T14:34:27+00:00",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcXBDV3FhZ09OYTBDSE5zcEt2UVF4QTg4UWthdHh6aV9tdXE4TGVFRkg1RW5zRkZZbEJVZllJc1BkbVdELVdtN1VPVTFxNW8zTGFJaVByWWxUaEZwOW11d0dETzRSU2s1UlNWeHdobHhNbDVJUEQzeDBwMTFpRlRtSWYtcjdnSUEwM0JBN00yYUs?oc=5",
+     "source": "SC Media",
+     "published": "2026-10-30T14:14:53+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
      "tags": [
+      "Breach",
       "APAC"
      ],
-     "also": [
-      "Reuters"
-     ]
-    },
-    {
-     "title": "Biggest Crypto Heist In History: North Korean Hackers Loot Binance Of $6.3 Bn To Fund Kim's Nukes?",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNX01wLTFxdE1Yck5zb3BGMmdiZ3Z4LXA2U0pJNHlsTkRYLUhXdWlBd3hlUFk5aXJBemR3MUhOdGV5ZXQxZ0F6N0lOMGpleHI2V0VqVzdtRkEybVVtZ3FnODFGOWlaQU5Hc3VnR2lianJLZWh3SVJTb21NcDUzWF9hb1RNWFNKbEVOcnl5R1psb2QzNWNhMTZiVzlFdXFuaElCN0hHcEtjVml0OXNWWjlQUW9TN3dUV0YzWFkwUGNTVlRqWmdpVzJZOUpCeFYzSHZxVDJSWXRSNU9QWkI2eWM0c3p5WUlUODVSamZkMm5Pa3lzamEwUlNZcU9UUVFTd1FfUXfSAYcCQVVfeXFMTkduQlNzYXpaaG5RSkxTUWxaZkhZdks5WktiQlY4SmNhQlM5bnMwandqdUxvNzUzQ2wteXBHcWxkbUM0aWl0RC1OaFVWRzdUSGcxdUxrZjBSRG1VaG0xbG9OcVNVY2tRbm52Rmd0d2lDQ21na1BNYnd4eEs4dFBhRjlTZ3FUYVliSVRONURVcC1tUm5qdmZmTVQ0aVZLY3pMSGs2dUlVejJvcktVaERqSzVSV2NNTTBtbE9Cd3lLVU1RUndlVzRCanIyRmdhdnF1QkhnSmtlUWE1WE5PX0JkSUtDX3BRdkpGU1JjVlMzcFp2UEJEYUdyTGdweXlQLUlvOEppTnRXZmM?oc=5",
-     "source": "The Times of India",
-     "published": "2026-10-30T12:54:16+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
      "also": []
     },
     {
@@ -573,7 +627,7 @@
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yVXhjYlVLQms1YVVZZkZtNEpKZWxxUl9tT19xR2RONjFvdXVqTGhFVWp4b3FVSU9mU2ZNTDQ3MzlOWThsdC1DRmkyeTFrenJzdmhwZjJLMXJNTzZZb2Frd055aEhKWm5BOW5SakdCNm5BUWhLQ2c?oc=5",
      "source": "BigGo Finance",
-     "published": "2026-10-30T11:30:50+00:00",
+     "published": "2026-10-30T11:26:00+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -626,25 +680,6 @@
      "also": []
     },
     {
-     "title": "North Korean Hackers Use AI to Mass-Produce Phishing Documents Targeting South Korea",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSkxFVlNSamItU2IxLWNISUhXeXEySldnNEp0WkV0am1SS2pfZjNyNWdWU2NldHExa0Z3ZFFRcnRzbDZOcFRfY2pxQi1FVmZrTHpnQjlYdGwtY292UE51Y3VwcGVNUldwQ3hsS29OUWNDeUpDcXBHdDJfX1h0ZW5CS0NaYUEtZkZC?oc=5",
-     "source": "조선일보",
-     "published": "2026-10-30T08:46:50+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "AI",
-      "Phishing",
-      "APAC"
-     ],
-     "also": [
-      "파이낸셜뉴스",
-      "Chosunbiz"
-     ]
-    },
-    {
      "title": "Japan’s Cyberattack Surge Tests Its Push to Strengthen Defenses",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBSQnhNYnlsSjR5WDU3aElRcWhKMmEzcS1SMl91SU9wZnFtZF80VFpxT20taTlBMzAzMURaODNHczAyMG1UU3NIV01YSThGVFREWUFkV3JURmh4cllSems5NmY3MS00Tkw3UHZSeW9KUmhlcE52b2o0R1A4RzlkZw?oc=5",
@@ -669,6 +704,22 @@
      "extra": "",
      "tags": [
       "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "North Korean hackers wield AI to scale phishing and malware against South Korea",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAweHZXRzltd21qR0hCeDZRQ3FfYTl0ZnFCdmlaUDQxc1JBYl93TnUtRG81S05jRkZzdmFtbEd3N3ZXR2wwOTZQdTVfeERWOXIydmU3S1U2QmJqanNGRXZ4d0p5aGl1YXY2b2lJS3dhQTFKSFFtQVJ0T1d30gGOAUFVX3lxTFBRQlZRM3N0VFl4eERkejRlUFljVVlPWlhSZXVCVV9NUDFtbUpCTk5wX3ZlRmZOY2l4Q0JwYnV4VlJsc0wzZXdaa3hzZDI0VmlVbFlGeEhRR2ZpbUVNOHh6Z0ZJWUNPZ0JpelFGM2hkUzlzaFVJb0RWSWxjZ19kcWpsODdFTmxBTzNUMjJMdVE?oc=5",
+     "source": "Chosunbiz",
+     "published": "2026-10-30T06:28:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "AI",
+      "Phishing",
       "APAC"
      ],
      "also": []
@@ -714,23 +765,6 @@
      "summary": "",
      "extra": "",
      "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Japan gov't asked telecom firms to block extortion site in GMO data breach",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBjVko3OWZIZ0EzTzZGX3dHNXdKdmx1VzZ3S0sybVUtM2lSY0FzWUVaSzNFWmpreWZSNlhJSTJJU2Y2QlNQVGhydUxnUkplOTRQeWpBLTN3RVR5ZzZuUmRDRElqNXNIUk1mSEtfYnRDcDZfUkE?oc=5",
-     "source": "毎日新聞",
-     "published": "2026-10-30T00:35:19+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Ransomware",
-      "Breach",
-      "Telecom",
       "APAC"
      ],
      "also": []
