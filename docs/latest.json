@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T14:20:03+00:00",
+ "generated": "2026-10-30T19:30:11+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -180,6 +180,162 @@
    "name": "Breaking Threats",
    "stories": [
     {
+     "title": "Fashion retailer Resolve says hackers stole payment card information",
+     "subtitle": "",
+     "link": "https://therecord.media/resolve-fashion-retailer-data-breach-payment-cards",
+     "source": "The Record",
+     "published": "2026-10-30T19:00:00+00:00",
+     "date_only": false,
+     "summary": "The company, billing itself as “the next-generation fashion retailer for Millennial and Generation Z consumers,” said a recent hack exposed customer payment card numbers.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
+     "source": "The Hacker News",
+     "published": "2026-10-30T16:58:44+00:00",
+     "date_only": false,
+     "summary": "Chinese state-sponsored threat actors have been observed using a Go-based artificial intelligence (AI)-powered penetration testing framework called ARTEX in attacks aimed at high-value targets simultaneously. The activity has been…",
+     "extra": "",
+     "tags": [
+      "Nation-state",
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "Trezor warns of suspected crypto-theft implant in hardware wallet",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/",
+     "source": "BleepingComputer",
+     "published": "2026-10-30T15:58:20+00:00",
+     "date_only": false,
+     "summary": "Hardware wallet device maker Trezor has received credible reports about a suspected hardware crypto-theft implant in a Trezor Safe 5 sold by its reseller CryptoBilis in Southeast Asia. [...]",
+     "extra": "",
+     "tags": [],
+     "also": [
+      "The Hacker News"
+     ]
+    },
+    {
+     "title": "Florida warns that 4.9 million people had Social Security numbers leaked in financial aid site breach",
+     "subtitle": "",
+     "link": "https://therecord.media/florida-warns-5-million-affected-financial-aid-site-breach",
+     "source": "The Record",
+     "published": "2026-10-30T15:54:00+00:00",
+     "date_only": false,
+     "summary": "The state’s Department of Education (FLDOE) said on Thursday it became aware of a data breach involving the Florida Student Financial Aid website on October 19.",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": []
+    },
+    {
+     "title": "L’Italia è afflitta da vulnerabilità informatiche, senza una causa chiara",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy-italian",
+     "source": "Dark Reading",
+     "published": "2026-10-30T15:39:54+00:00",
+     "date_only": false,
+     "summary": "I ricercatori non riescono a spiegare del tutto perché le minacce informatiche in Italia siano così diverse rispetto a quelle di qualsiasi altro Paese.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html",
+     "source": "The Hacker News",
+     "published": "2026-10-30T15:17:28+00:00",
+     "date_only": false,
+     "summary": "TeamViewer has fixed a flaw that lets the machine being controlled in a remote session attack the computer that connected to control it. In a TeamViewer session, the computer that connects and takes control is the viewer, and the machine…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "PHP2Shell Attacks Root Palo Alto Firewalls but Fail Against WordPress",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/php2shell-attacks-root-palo-alto-firewalls-but-fail-against-wordpress/",
+     "source": "SecurityWeek",
+     "published": "2026-10-30T15:09:25+00:00",
+     "date_only": false,
+     "summary": "Over 22.6 million exposed instances are potentially affected by the critical PHP flaws that have been targeted for over a week. The post PHP2Shell Attacks Root Palo Alto Firewalls but Fail Against WordPress appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "In Other News: Anthropic Breach Dispute, UEFI Flaw Hits Most Servers, Cloudflare AI Data Leak",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/in-other-news-anthropic-breach-dispute-uefi-flaw-hits-most-servers-cloudflare-ai-data-leak/",
+     "source": "SecurityWeek",
+     "published": "2026-10-30T14:41:35+00:00",
+     "date_only": false,
+     "summary": "Noteworthy stories that might have slipped under the radar: Iran eyed in military freezer hacks, Copenhagen University breach, AI-powered malware. The post In Other News: Anthropic Breach Dispute, UEFI Flaw Hits Most Servers, Cloudflare AI…",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "Malicious Claude Code extension on Cursor planted SSH backdoors",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/malicious-claude-code-extension-on-cursor-planted-ssh-backdoors/",
+     "source": "BleepingComputer",
+     "published": "2026-10-30T14:36:54+00:00",
+     "date_only": false,
+     "summary": "A malicious version of Anthropic's Claude Code VS Code extension was distributed through Cursor's extension marketplace for approximately 11 hours on October 29, exposing up to 5,000 developers to malware designed to install persistent SSH…",
+     "extra": "",
+     "tags": [],
+     "also": [
+      "The Hacker News"
+     ]
+    },
+    {
+     "title": "Syrian Electronic Army hacker gets prison time for attacks on Western targets",
+     "subtitle": "",
+     "link": "https://therecord.media/syrian-electronic-army-hacker-sentenced-three-years",
+     "source": "The Record",
+     "published": "2026-10-30T14:24:00+00:00",
+     "date_only": false,
+     "summary": "Ahmad Umar Agha, known online as “Th3Pr0,” was sentenced Thursday in federal court in Virginia to 42 months behind bars for his role in a conspiracy that was organized by former Syrian President Bashar al-Assad's closest advisers.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Undead Software Projects Continue to Raise Security Risks",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/application-security/undead-software-projects-raise-security-risks",
+     "source": "Dark Reading",
+     "published": "2026-10-30T14:10:37+00:00",
+     "date_only": false,
+     "summary": "A security firm patched a decade-old app to prevent the takeover of millions of machines, highlighting that abandoned domains remain a boon to attackers.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html",
+     "source": "The Hacker News",
+     "published": "2026-10-30T14:08:14+00:00",
+     "date_only": false,
+     "summary": "Threat actors have been observed attempting to exploit a high-severity security flaw in WordPress Core shortly after patches were released. The vulnerability, which does not have a CVE identifier, relates to a case of remote code execution…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
      "title": "SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone",
      "subtitle": "",
      "link": "https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/",
@@ -258,18 +414,6 @@
      "also": []
     },
     {
-     "title": "Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html",
-     "source": "The Hacker News",
-     "published": "2026-10-30T12:21:56+00:00",
-     "date_only": false,
-     "summary": "A Trezor Safe 5 hardware wallet bought from the reseller CryptoBilis has an extra circuit board that sends out the recovery phrase over a mobile network, a customer has reported. Trezor has not yet examined the device. It is telling…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
      "title": "Fresh WordPress Vulnerability in Attackers’ Crosshairs",
      "subtitle": "",
      "link": "https://www.securityweek.com/fresh-wordpress-vulnerability-in-attackers-crosshairs/",
@@ -289,30 +433,6 @@
      "published": "2026-10-30T11:58:53+00:00",
      "date_only": false,
      "summary": "The alert is critical. The fix is known. And the ticket sits in a queue for days. Security teams understand the risk, but the people who keep applications available need proof that the change won’t break anything. Their concerns are…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Polymarket confirms cyberattack on third-party provider after outages",
-     "subtitle": "",
-     "link": "https://therecord.media/polymarket-confirms-cyberattack-third-party",
-     "source": "The Record",
-     "published": "2026-10-30T11:33:00+00:00",
-     "date_only": false,
-     "summary": "The company suffered outages starting at 2 p.m. Eastern U.S. time on Thursday and eventually attributed the downtime to a compromise involving an unnamed provider.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Russian popular home goods chain faces days of disruption following cyberattack",
-     "subtitle": "",
-     "link": "https://therecord.media/russian-home-goods-chain-faces-disruptions",
-     "source": "The Record",
-     "published": "2026-10-30T11:30:00+00:00",
-     "date_only": false,
-     "summary": "Poryadok, which operates 48 stores across 32 Russian cities, first reported technical problems on Sunday, saying its website, mobile app and physical stores were temporarily unavailable.",
      "extra": "",
      "tags": [],
      "also": []
@@ -384,128 +504,55 @@
       "Exploited"
      ],
      "also": []
-    },
-    {
-     "title": "Binance links $6.3 billion crypto theft to compromised DevOps laptop",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/binance-links-63-billion-crypto-theft-to-compromised-devops-laptop/",
-     "source": "BleepingComputer",
-     "published": "2026-10-30T09:18:13+00:00",
-     "date_only": false,
-     "summary": "Binance, the world's largest crypto exchange, has linked the theft of about $6.3 billion in cryptocurrency to a DevOps engineer's compromised laptop. [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html",
-     "source": "The Hacker News",
-     "published": "2026-10-30T08:55:47+00:00",
-     "date_only": false,
-     "summary": "Cybersecurity researchers have disclosed that a trojanized version of Anthropic's official Claude Code extension was distributed through the Cursor Marketplace as a legitimate update, attempting to install a persistent SSH backdoor on…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "TeamViewer Flaw Could Let Malicious Hosts Take Over Support Technicians’ Machines",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/teamviewer-flaw-could-let-malicious-hosts-take-over-support-technicians-machines/",
-     "source": "SecurityWeek",
-     "published": "2026-10-30T08:44:49+00:00",
-     "date_only": false,
-     "summary": "An integer overflow tracked as CVE-2026-111585 could be used to execute arbitrary code on the viewer’s system. The post TeamViewer Flaw Could Let Malicious Hosts Take Over Support Technicians’ Machines appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "$6 Billion Binance Hack Bears Hallmarks of North Korea’s TraderTraitor",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/6-billion-binance-hack-bears-hallmarks-of-north-koreas-tradertraitor/",
-     "source": "SecurityWeek",
-     "published": "2026-10-30T08:16:26+00:00",
-     "date_only": false,
-     "summary": "Blockchain analysts link the record crypto theft to North Korean hackers, as Binance probes a possibly compromised engineer laptop. The post $6 Billion Binance Hack Bears Hallmarks of North Korea’s TraderTraitor appeared first on…",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "As Russia's Cyberwar Evolves, Belarus Steps Forward",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/physical-security/russia-cyber-war-belarus-steps-forward",
-     "source": "Dark Reading",
-     "published": "2026-10-30T08:00:00+00:00",
-     "date_only": false,
-     "summary": "The \"FrostyNeighbor\" advanced persistent threat (APT) launched a destructive attack in Ukraine and is raising concerns about deeper alignment with Russian cyber objectives.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
-     "source": "The Hacker News",
-     "published": "2026-10-30T07:45:30+00:00",
-     "date_only": false,
-     "summary": "Drupal has warned that threat actors are exploiting a \"highly critical\" security flaw in its Commerce Core component. The vulnerability, tracked as CVE-2026-118539 (CVSS score: N/A), is a case of missing authorization affecting Commerce…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
-     "source": "The Hacker News",
-     "published": "2026-10-30T07:27:05+00:00",
-     "date_only": false,
-     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added two security flaws impacting Cisco and GitLab software to its Known Exploited Vulnerabilities (KEV), citing evidence of active exploitation. The…",
-     "extra": "",
-     "tags": [
-      "Exploited"
-     ],
-     "also": []
-    },
-    {
-     "title": "Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/binance-suffers-security-breach.html",
-     "source": "The Hacker News",
-     "published": "2026-10-30T04:14:59+00:00",
-     "date_only": false,
-     "summary": "Cryptocurrency giant Binance said on Thursday that a \"security incident\" on its platform has impacted about $6.3 billion worth of assets. The world's biggest cryptocurrency exchange said nearly $3 billion of those assets have been frozen…",
-     "extra": "",
-     "tags": [
-      "Breach"
-     ],
-     "also": []
-    },
-    {
-     "title": "Binance hit by record $6.3 billion crypto hack, scrambles to freeze funds",
-     "subtitle": "",
-     "link": "https://therecord.media/binance-hit-by-record-6-billion-crypto-hack",
-     "source": "The Record",
-     "published": "2026-10-30T00:00:00+00:00",
-     "date_only": false,
-     "summary": "Binance, the world's largest cryptocurrency exchange, confirmed that it had been hacked in a $6.3 billion heist that blockchain investigators are blaming on North Korea.",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
     }
    ]
   },
   {
    "name": "APAC Watch",
    "stories": [
+    {
+     "title": "Could US AI help protect Japan from hackers? Tokyo prepares new cyber package",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQjNZMU5KTHdJNFhQYl82a0Q3Wm5CUXFydGl4TGkzM1BRS1hkbHQ2RnB6aFV0bWg5Qy1DVjRVRGlqNTJCYjJoWldhb29zUkpFekV1Mk5NT0J0UUhwX0dndThtY1BmS3RHeFRoUkFVNGNyYnMzRWkwcl9Uc3RWTHJTVmtmRTFLSTcwZ05WdFMtdldGUWtsZ0FXRkhPX3JyTTFEUTExMVhhc2x6ejBlU2lmcFhabk1acUlhSzVaRVBpMUh2NDQ?oc=5",
+     "source": "Business Upturn",
+     "published": "2026-10-30T16:08:13+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "AI",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Hackers steal $6.3 billion from Binance in record heist blamed on North Korea",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSnIwMjFNTlRGX1JSRFdNU1Vjdkh6V2FySktIOEdQTzlzdWFJaTRKUGQzRVBVaXdMYUFTdjNMNFQ0VEdtTjlzT09Xa2ZHMkJVY05pVkp6VGZxbUp5NGRQeGZvWlFncE9leVQ5RW41Ynd5ZzdHWHdKS3ZhMEdfZHZhSDhrMnBLeEE?oc=5",
+     "source": "The Japan Times",
+     "published": "2026-10-30T14:34:27+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": [
+      "Reuters"
+     ]
+    },
+    {
+     "title": "Biggest Crypto Heist In History: North Korean Hackers Loot Binance Of $6.3 Bn To Fund Kim's Nukes?",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNX01wLTFxdE1Yck5zb3BGMmdiZ3Z4LXA2U0pJNHlsTkRYLUhXdWlBd3hlUFk5aXJBemR3MUhOdGV5ZXQxZ0F6N0lOMGpleHI2V0VqVzdtRkEybVVtZ3FnODFGOWlaQU5Hc3VnR2lianJLZWh3SVJTb21NcDUzWF9hb1RNWFNKbEVOcnl5R1psb2QzNWNhMTZiVzlFdXFuaElCN0hHcEtjVml0OXNWWjlQUW9TN3dUV0YzWFkwUGNTVlRqWmdpVzJZOUpCeFYzSHZxVDJSWXRSNU9QWkI2eWM0c3p5WUlUODVSamZkMm5Pa3lzamEwUlNZcU9UUVFTd1FfUXfSAYcCQVVfeXFMTkduQlNzYXpaaG5RSkxTUWxaZkhZdks5WktiQlY4SmNhQlM5bnMwandqdUxvNzUzQ2wteXBHcWxkbUM0aWl0RC1OaFVWRzdUSGcxdUxrZjBSRG1VaG0xbG9OcVNVY2tRbm52Rmd0d2lDQ21na1BNYnd4eEs4dFBhRjlTZ3FUYVliSVRONURVcC1tUm5qdmZmTVQ0aVZLY3pMSGs2dUlVejJvcktVaERqSzVSV2NNTTBtbE9Cd3lLVU1RUndlVzRCanIyRmdhdnF1QkhnSmtlUWE1WE5PX0JkSUtDX3BRdkpGU1JjVlMzcFp2UEJEYUdyTGdweXlQLUlvOEppTnRXZmM?oc=5",
+     "source": "The Times of India",
+     "published": "2026-10-30T12:54:16+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
     {
      "title": "Japan's Foreign Ministry reports data breach affecting 3,600 records",
      "subtitle": "",
@@ -526,7 +573,7 @@
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yVXhjYlVLQms1YVVZZkZtNEpKZWxxUl9tT19xR2RONjFvdXVqTGhFVWp4b3FVSU9mU2ZNTDQ3MzlOWThsdC1DRmkyeTFrenJzdmhwZjJLMXJNTzZZb2Frd055aEhKWm5BOW5SakdCNm5BUWhLQ2c?oc=5",
      "source": "BigGo Finance",
-     "published": "2026-10-30T11:26:00+00:00",
+     "published": "2026-10-30T11:30:50+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -579,6 +626,39 @@
      "also": []
     },
     {
+     "title": "North Korean Hackers Use AI to Mass-Produce Phishing Documents Targeting South Korea",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSkxFVlNSamItU2IxLWNISUhXeXEySldnNEp0WkV0am1SS2pfZjNyNWdWU2NldHExa0Z3ZFFRcnRzbDZOcFRfY2pxQi1FVmZrTHpnQjlYdGwtY292UE51Y3VwcGVNUldwQ3hsS29OUWNDeUpDcXBHdDJfX1h0ZW5CS0NaYUEtZkZC?oc=5",
+     "source": "조선일보",
+     "published": "2026-10-30T08:46:50+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "AI",
+      "Phishing",
+      "APAC"
+     ],
+     "also": [
+      "파이낸셜뉴스",
+      "Chosunbiz"
+     ]
+    },
+    {
+     "title": "Japan’s Cyberattack Surge Tests Its Push to Strengthen Defenses",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBSQnhNYnlsSjR5WDU3aElRcWhKMmEzcS1SMl91SU9wZnFtZF80VFpxT20taTlBMzAzMURaODNHczAyMG1UU3NIV01YSThGVFREWUFkV3JURmh4cllSems5NmY3MS00Tkw3UHZSeW9KUmhlcE52b2o0R1A4RzlkZw?oc=5",
+     "source": "Insurance Journal",
+     "published": "2026-10-30T08:37:06+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
      "title": "Hackers breach GS E&C system, leak resident data in South Korea",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMmhETUFGVkVXWDA4bjRNVS1yR1lMNzh6SHQ4MmlmYVR1bEJtY1QtVlVaR1FXUzZwRDI4bklBdlg1V0Y1UXdvVTluUFAxSFhhZHNlYl9ScURJMFExLXY2MWdnQnJMY1gwU2E5dUhFSmpnQmZKX21zaXBuLTVXUkhZVWpwVzdIMEhSZDlwaGtFSk5iaDBxN2d0TdIBmAFBVV95cUxOMmhETUFGVkVXWDA4bjRNVS1yR1lMNzh6SHQ4MmlmYVR1bEJtY1QtVlVaR1FXUzZwRDI4bklBdlg1V0Y1UXdvVTluUFAxSFhhZHNlYl9ScURJMFExLXY2MWdnQnJMY1gwU2E5dUhFSmpnQmZKX21zaXBuLTVXUkhZVWpwVzdIMEhSZDlwaGtFSk5iaDBxN2d0TQ?oc=5",
@@ -594,25 +674,9 @@
      "also": []
     },
     {
-     "title": "North Korean hackers wield AI to scale phishing and malware against South Korea",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAweHZXRzltd21qR0hCeDZRQ3FfYTl0ZnFCdmlaUDQxc1JBYl93TnUtRG81S05jRkZzdmFtbEd3N3ZXR2wwOTZQdTVfeERWOXIydmU3S1U2QmJqanNGRXZ4d0p5aGl1YXY2b2lJS3dhQTFKSFFtQVJ0T1d30gGOAUFVX3lxTFBRQlZRM3N0VFl4eERkejRlUFljVVlPWlhSZXVCVV9NUDFtbUpCTk5wX3ZlRmZOY2l4Q0JwYnV4VlJsc0wzZXdaa3hzZDI0VmlVbFlGeEhRR2ZpbUVNOHh6Z0ZJWUNPZ0JpelFGM2hkUzlzaFVJb0RWSWxjZ19kcWpsODdFTmxBTzNUMjJMdVE?oc=5",
-     "source": "Chosunbiz",
-     "published": "2026-10-30T06:28:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "AI",
-      "Phishing",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
      "title": "Japan's cyberattack surge fuels debate over tighter AI regulation, data-security rules",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNcnAwelR4bGpkZC1pVFZoUnByQk9zODlyam1lbnJTRUJwYU9TOHY3UmhxLVVtV0FjU21XdzVTSnYwNVBtMzRNRXhCd21KVzVoVlBEYnNFc0p5b2RicFdreEYyaHZCalFCN2FaTU9Sa2FseGl3NFJPU3JSUzE5cW9FR2d2WG1pQ0pTdFBBWHBPYXFtN09pcFZralRSRC1TOC1uSTdGUGdLSlZwWUgyMGRRdVpzTFlFRHZVQjBLZDcyUjNWZ0thd3dJ0gFaQVVfeXFMTUF0MUNhSzlGc3lOQXE2V0lnT2xpdU1ZS1hHSnlRRW5Ba3AwaWRGcWV1NnNKQS1PMWFsdFRFa2doMFVBcG95bDNGa2I2OWhDY29JemtQQWVUdlFR?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNUtZWmdXa190Qk03M0FUV1plb2VMdUdlUFhZVkNoLVRJYXFfVEpRSlFMZGRiUDB5OXZfTE9sNElreG1aZ25oeDVDY2Q5SWZLeUlZSkVhVmZ4MnJBeTZCNzBrSFpqU0tfekl5aVhzR1puMFlZNU43cWFWbEdITlhNV2pFU0pWV2haNkQxbU1Rbm5OUUdCNDFxLXc2aVd1R3F1aGNlNVMzeEN6OVpJbkI0T0hSenZOcmRSSGI0VFYtNlhyQmNWQnNhSDlDUkJGS1NYTi10cENaZF95Nks2M3ltYTVFcmJjTEnSAVpBVV95cUxNQXQxQ2FLOUZzeU5BcTZXSWdPbGl1TVlLWEdKeVFFbkFrcDBpZEZxZXU2c0pBLU8xYWx0VEVrZ2gwVUFwb3lsM0ZrYjY5aENjb0l6a1BBZVR2UVE?oc=5",
      "source": "MLex",
      "published": "2026-10-30T06:24:14+00:00",
      "date_only": false,
@@ -670,26 +734,24 @@
       "APAC"
      ],
      "also": []
-    },
-    {
-     "title": "Japan’s Cyberattack Surge Tests Its Push to Strengthen Defenses",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNN05hU2RYNzRuSDdRM0dFcVRFZUEydW5kcHdzTUNBWFpmZk8xTGZzMDNjZGxaWkRXajFTUkpjSGpCUUxMcHd1TWZXMzBuNjdxbHJtY3RmM2FOQnlONEg1RmdjbVJQdVRLR21YX3JwQWxtWXBWLWVLT1htdlI5Y3UtZ0hWZ2pJQk9KdGU3RXVRTVhFb0NkWWFLZVJxOWRmMm50MFBMQ2VlajJLRWJrQTVVSmNvVEY?oc=5",
-     "source": "Bloomberg",
-     "published": "2026-10-29T18:52:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
     }
    ]
   },
   {
    "name": "Threat Research",
    "stories": [
+    {
+     "title": "From help desk impersonation to AD CS abuse: Investigating ESC1 and ESC8 intrusion paths",
+     "subtitle": "",
+     "link": "https://www.microsoft.com/en-us/security/blog/2026/10/30/help-desk-impersonation-ad-cs-abuse-investigating-esc1-esc8-intrusion-paths/",
+     "source": "Microsoft Threat Intelligence",
+     "published": "2026-10-30T16:11:44+00:00",
+     "date_only": false,
+     "summary": "Teams support impersonation led to remote access, malicious runtime execution, and Certificate Services abuse through authentication relay and Kerberos. The post From help desk impersonation to AD CS abuse: Investigating ESC1 and ESC8…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
     {
      "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 29)",
      "subtitle": "",
@@ -874,18 +936,6 @@
       "Breach"
      ],
      "also": []
-    },
-    {
-     "title": "PHP2Shell: What to know about two critical PHP flaws",
-     "subtitle": "",
-     "link": "https://www.welivesecurity.com/en/videos/php2shell-what-know-two-critical-php-flaws/",
-     "source": "ESET Research",
-     "published": "2026-10-26T13:25:00+00:00",
-     "date_only": false,
-     "summary": "Here's the lowdown on CVE-2026-109618 and CVE-2026-109619, as well as what website owners and IT teams should do to stay safe – all in a little more than two minutes",
-     "extra": "",
-     "tags": [],
-     "also": []
     }
    ]
   },
@@ -898,6 +948,18 @@
      "link": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20261030",
      "source": "HKCERT",
      "published": "2026-10-30T03:00:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "[Security Blog] Data Leakage and Third-Party Risk: When Real Customer Information Becomes a Tool for Scammers",
+     "subtitle": "",
+     "link": "https://www.hkcert.org/blog/data-leakage-and-third-party-risk-when-real-customer-information-becomes-a-tool-for-scammers",
+     "source": "HKCERT",
+     "published": "2026-10-29T16:00:00+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
