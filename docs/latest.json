@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-31T12:47:27+00:00",
+ "generated": "2026-10-31T17:49:42+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -180,6 +180,59 @@
    "name": "Breaking Threats",
    "stories": [
     {
+     "title": "New Android SMS of Death exploit can remotely crash unpatched phones",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
+     "source": "BleepingComputer",
+     "published": "2026-10-31T15:35:11+00:00",
+     "date_only": false,
+     "summary": "A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed \"SMS of Death\" and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular service or crash phones by…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Reddit to lock content behind logins to fight scrapers",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/",
+     "source": "BleepingComputer",
+     "published": "2026-10-31T14:05:15+00:00",
+     "date_only": false,
+     "summary": "Reddit announced in a post by co-founder Steve Huffman that the site will gradually become a \"logged-in service,\" offering limited access to visitors without accounts. [...]",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/",
+     "source": "BleepingComputer",
+     "published": "2026-10-31T13:10:19+00:00",
+     "date_only": false,
+     "summary": "AI-generated vulnerability reports are overwhelming some bug bounty programs, making it harder for aspiring security researchers to know where to start. TryHackMe explains how beginners can build practical cybersecurity skills, use AI…",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "Chainalysis discloses data breach from \"offensive agentic techniques\"",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/",
+     "source": "BleepingComputer",
+     "published": "2026-10-31T12:50:09+00:00",
+     "date_only": false,
+     "summary": "Blockchain analytics firm Chainalysis disclosed a data breach after attackers used \"offensive agentic techniques\" to access internal systems and tools, exposing customer names, email addresses, user IDs, and organizational roles. [...]",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "AI"
+     ],
+     "also": []
+    },
+    {
      "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
      "subtitle": "",
      "link": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
@@ -203,9 +256,7 @@
      "summary": "A US court sentenced Syrian hacker Ahmad Umar Agha to 42 months for pro-Assad attacks on media, businesses, and government entities. The post Syrian Hacker Gets Prison Time in US After Over a Decade on the Run appeared first on…",
      "extra": "",
      "tags": [],
-     "also": [
-      "The Record"
-     ]
+     "also": []
     },
     {
      "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
@@ -285,9 +336,7 @@
      "tags": [
       "AI"
      ],
-     "also": [
-      "BleepingComputer"
-     ]
+     "also": []
     },
     {
      "title": "Behind the Scenes of How Operation Blackout Went Down",
@@ -312,188 +361,6 @@
      "extra": "",
      "tags": [],
      "also": []
-    },
-    {
-     "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
-     "source": "The Hacker News",
-     "published": "2026-10-30T16:58:44+00:00",
-     "date_only": false,
-     "summary": "Chinese state-sponsored threat actors have been observed using a Go-based artificial intelligence (AI)-powered penetration testing framework called ARTEX in attacks aimed at high-value targets simultaneously. The activity has been…",
-     "extra": "",
-     "tags": [
-      "Nation-state",
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Trezor warns of suspected crypto-theft implant in hardware wallet",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/trezor-warns-of-suspected-crypto-theft-implant-in-hardware-wallet/",
-     "source": "BleepingComputer",
-     "published": "2026-10-30T15:58:20+00:00",
-     "date_only": false,
-     "summary": "Hardware wallet device maker Trezor has received credible reports about a suspected hardware crypto-theft implant in a Trezor Safe 5 sold by its reseller CryptoBilis in Southeast Asia. [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Florida warns that 4.9 million people had Social Security numbers leaked in financial aid site breach",
-     "subtitle": "",
-     "link": "https://therecord.media/florida-warns-5-million-affected-financial-aid-site-breach",
-     "source": "The Record",
-     "published": "2026-10-30T15:54:00+00:00",
-     "date_only": false,
-     "summary": "The state’s Department of Education (FLDOE) said on Thursday it became aware of a data breach involving the Florida Student Financial Aid website on October 19.",
-     "extra": "",
-     "tags": [
-      "Breach"
-     ],
-     "also": []
-    },
-    {
-     "title": "L’Italia è afflitta da vulnerabilità informatiche, senza una causa chiara",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/cybersecurity-analytics/cyber-vulnerabilities-besiege-italy-italian",
-     "source": "Dark Reading",
-     "published": "2026-10-30T15:39:54+00:00",
-     "date_only": false,
-     "summary": "I ricercatori non riescono a spiegare del tutto perché le minacce informatiche in Italia siano così diverse rispetto a quelle di qualsiasi altro Paese.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html",
-     "source": "The Hacker News",
-     "published": "2026-10-30T15:17:28+00:00",
-     "date_only": false,
-     "summary": "TeamViewer has fixed a flaw that lets the machine being controlled in a remote session attack the computer that connected to control it. In a TeamViewer session, the computer that connects and takes control is the viewer, and the machine…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "PHP2Shell Attacks Root Palo Alto Firewalls but Fail Against WordPress",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/php2shell-attacks-root-palo-alto-firewalls-but-fail-against-wordpress/",
-     "source": "SecurityWeek",
-     "published": "2026-10-30T15:09:25+00:00",
-     "date_only": false,
-     "summary": "Over 22.6 million exposed instances are potentially affected by the critical PHP flaws that have been targeted for over a week. The post PHP2Shell Attacks Root Palo Alto Firewalls but Fail Against WordPress appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "In Other News: Anthropic Breach Dispute, UEFI Flaw Hits Most Servers, Cloudflare AI Data Leak",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/in-other-news-anthropic-breach-dispute-uefi-flaw-hits-most-servers-cloudflare-ai-data-leak/",
-     "source": "SecurityWeek",
-     "published": "2026-10-30T14:41:35+00:00",
-     "date_only": false,
-     "summary": "Noteworthy stories that might have slipped under the radar: Iran eyed in military freezer hacks, Copenhagen University breach, AI-powered malware. The post In Other News: Anthropic Breach Dispute, UEFI Flaw Hits Most Servers, Cloudflare AI…",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Undead Software Projects Continue to Raise Security Risks",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/application-security/undead-software-projects-raise-security-risks",
-     "source": "Dark Reading",
-     "published": "2026-10-30T14:10:37+00:00",
-     "date_only": false,
-     "summary": "A security firm patched a decade-old app to prevent the takeover of millions of machines, highlighting that abandoned domains remain a boon to attackers.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html",
-     "source": "The Hacker News",
-     "published": "2026-10-30T14:08:14+00:00",
-     "date_only": false,
-     "summary": "Threat actors have been observed attempting to exploit a high-severity security flaw in WordPress Core shortly after patches were released. The vulnerability, which does not have a CVE identifier, relates to a case of remote code execution…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "SS7 and Diameter Attacks: How Signaling Flaws Expose Your Phone",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/ss7-and-diameter-attacks-how-signaling-flaws-expose-your-phone/",
-     "source": "BleepingComputer",
-     "published": "2026-10-30T14:00:10+00:00",
-     "date_only": false,
-     "summary": "Flaws in SS7 and Diameter signaling protocols can allow attackers to track phone locations, intercept calls and SMS verification codes, and impersonate subscribers without compromising their devices. Cape explains how these attacks exploit…",
-     "extra": "",
-     "tags": [
-      "Telecom"
-     ],
-     "also": []
-    },
-    {
-     "title": "Passkeys Are Better Than Passwords. But They Are Not Enough.",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/passkeys-are-better-than-passwords-but-they-are-not-enough/",
-     "source": "SecurityWeek",
-     "published": "2026-10-30T14:00:00+00:00",
-     "date_only": false,
-     "summary": "As organizations eliminate passwords, attackers will adapt. Instead of attacking the authenticator directly, they will look for opportunities around it. The post Passkeys Are Better Than Passwords. But They Are Not Enough. appeared first…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Bulletproof Host Virtualine Loses Its Domain to FBI Seizure",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/bulletproof-host-virtualine-loses-its-domain-to-fbi-seizure/",
-     "source": "SecurityWeek",
-     "published": "2026-10-30T13:36:12+00:00",
-     "date_only": false,
-     "summary": "It allowed customers to host hack-for-hire services, supported ransomware and infostealer operators, and accepted crypto payments. The post Bulletproof Host Virtualine Loses Its Domain to FBI Seizure appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [
-      "Ransomware"
-     ],
-     "also": []
-    },
-    {
-     "title": "CISA says max severity GitLab flaw now exploited in the wild",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/hackers-now-exploiting-max-severity-gitlab-flaw-in-attacks/",
-     "source": "BleepingComputer",
-     "published": "2026-10-30T13:00:32+00:00",
-     "date_only": false,
-     "summary": "Attackers have started exploiting a maximum-severity GitLab vulnerability patched earlier this month, according to the US Cybersecurity and Infrastructure Security Agency (CISA). [...]",
-     "extra": "",
-     "tags": [
-      "Exploited"
-     ],
-     "also": []
-    },
-    {
-     "title": "British spy agency cannot account for thousands of data storage devices, watchdog says",
-     "subtitle": "",
-     "link": "https://therecord.media/gchq-cannot-account-for-thousands-of-data-devices",
-     "source": "The Record",
-     "published": "2026-10-30T12:52:00+00:00",
-     "date_only": false,
-     "summary": "The Investigatory Powers Commissioner’s Office (IPCO) in its annual report for 2025, published Thursday, said it was “very concerned” and “disappointed with the time it has taken GCHQ to investigate” the issue.",
-     "extra": "",
-     "tags": [],
-     "also": []
     }
    ]
   },
@@ -505,7 +372,7 @@
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVXlObi1pZGdXZlVmR3R4LVBnYVprSFFkY3BKRG1DQWozTkhicUhMTEF0Z2tQNlRteVc0TkllRWpxaUpYNkdiRlpOaU5hZE5SQTg1WWV5R3ZQSTBRWnVEQUUwRFR4aG02OXdIQnMzeHNTT1pDalE0VFlNQlBGS2FBX2xQNGtaN3pkVldBNHhjSHVqQ1MtQXc?oc=5",
      "source": "The Bangladesh Monitor",
-     "published": "2026-10-31T08:27:43+00:00",
+     "published": "2026-10-31T14:12:55+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -514,9 +381,22 @@
       "APAC"
      ],
      "also": [
-      "Travel Radar",
-      "SC Media"
+      "Travel Radar"
      ]
+    },
+    {
+     "title": "Kim Jong Un's cyber army: How North Korea's hackers steal billions for regime",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOdkExY21JZW9ESkVXSmRacmNXS3RFbkFvMzZOZEdscUFpTjg4ejlHSExNZmhOSWlteTNuYWpnUjRPOVJWTkhDV1gzelNZMC1uRFZKbnRZLWc1SDRHUTdCOUFvWnZ3UTliR19aZ0dtUWN0cnJoSnJKMjJyRUNCVkY4Y0dKeDh0MHJndk1IWTRaX3ZoSUVSazlHNVF5YU5PVEtHbkVHQzRlMFluUkR4VGJObUtFYTdTeFJmZFBmM01EOG9SZGxQS213NnlJNjlsTnBHd0QxeVhWU2pWY1BtSFF3S1Njajk0UHFoUEJvbnpPZjlqcFgxU05ZdnZNQ0QzaGM2MGRfNUs1T0ozeXYyVmc0NWljNHJ1bjg5aUVMb0FvbTRJcC1VRlJfUmFtZzNfTGFCa0ZqQVdWQTNVQzdU0gHyAUFVX3lxTFBYV0t3aEllNG13ME55dWlBWmJBU0pZTUdYVTlyT3JrMGFNcXhOUjNpQ094R3B3amVDakpJcl8tMHlGNmVrcmM1QlRlTERtMUNoNlJHU1poV21Edy1BQ01lUFJwS0dhWkMzaVI0blhadGNlX1pWUUtIU3FjVkhuNmNJVW41eEtNbV9XZF93Xy11OWFmMVlSblNEd0pBanVuOTdsQmVRcWhuMzc5VVFHUllaRFExQVhKdW9qV2xKekRadUx2TU1YZFI3eTVqeGptdUdlbkhhQU1vMzZlc196WVdlUTFBV3VjdldXS1B1anJtcFFB?oc=5",
+     "source": "The Times of India",
+     "published": "2026-10-31T13:57:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
     },
     {
      "title": "North Korean Hackers Suspected in $6.3 Billion Cryptocurrency Theft",
@@ -532,28 +412,37 @@
      ],
      "also": [
       "The Hawk",
+      "Kashmir Reader",
       "CU Today"
      ]
     },
     {
-     "title": "Hackers steal $6.3 billion from Binance in record heist blamed on North Korea",
+     "title": "Microsoft: North Korean Hackers Use AI for Fake Resumes, Interview Answers to Land Covert Jobs at 309 US Companies",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRGNXZ2tDdnFXeEE0R09udVZ0Q1BLejMxOWR5U1RNWmJyZlNOZnR4M3k2QlBRMm5MZWFqOEtCUHJ6THE4UldJV3F1NGxiRHQtcmNGbUJUTlREYUFQWnFIMXFZUDNKVjMwRE9BS2NRYkFsYlNyblUtYWNNd0wtMFpNdU5YV3c1MWhTZlc5eElkbTByTlQwRF9nZDFZSXcyN2dHcWgyanNQUjhwRkhyZUpsYWc0c2U3dw?oc=5",
-     "source": "Japan Today",
-     "published": "2026-10-30T21:55:00+00:00",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12NUZaQWRjTTFrMTdORUdTTXdYZ1V4QXM5MG41SXNrdkR2VmlzVFFRQlRFOGRjR1lFR3EwemN1Uk10cXpRd1A5OG5jSmsxLU15Q0cyb2ZGaVpZeEE0b1lXdV8tZ1MyQ2VqTjI3X05JYnZnRzZzRXc?oc=5",
+     "source": "BigGo Finance",
+     "published": "2026-10-31T00:35:00+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
      "tags": [
-      "APAC",
-      "Breach"
+      "AI"
      ],
-     "also": [
-      "Firstpost",
-      "Gulf Today",
-      "The Japan Times",
-      "GMA Network"
-     ]
+     "also": []
+    },
+    {
+     "title": "Hackers steal $6.3 billion from Binance in record heist blamed on North Korea",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZUZpRXZrUzh6QnJTTVBVMS1tcThSNFotTnJPTTF1R2lQU3JnRFl6d21JWndxZ1ZsX0I5bUFtc2t0d2ZRcURQN3NWakhqbWRtQ2dBMWxwTHhkVmpkVkhVTXIzR2dtQ3JLTUd6Rm1ySi15RzZPb3NSeW9ubmhqbWpRVzdrRl9rTUZLbC01ZjBFcFhwc3pyLUFvNmZCTXlUS0poRWNNakFibUJXRlVLNENkQ1hjOHBvS0lELWhISHVPVjdSOEg1aWV0UjJBczJPdEJla19Z?oc=5",
+     "source": "Japan Today",
+     "published": "2026-10-30T20:55:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
     },
     {
      "title": "Japan Faces Growing Cyberattack Crisis as AI Tools Help Hackers Target Businesses and Government",
@@ -571,41 +460,11 @@
      "also": []
     },
     {
-     "title": "Could US AI help protect Japan from hackers? Tokyo prepares new cyber package",
+     "title": "North Korean hackers linked to crypto thefts among world’s best, experts say",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQjNZMU5KTHdJNFhQYl82a0Q3Wm5CUXFydGl4TGkzM1BRS1hkbHQ2RnB6aFV0bWg5Qy1DVjRVRGlqNTJCYjJoWldhb29zUkpFekV1Mk5NT0J0UUhwX0dndThtY1BmS3RHeFRoUkFVNGNyYnMzRWkwcl9Uc3RWTHJTVmtmRTFLSTcwZ05WdFMtdldGUWtsZ0FXRkhPX3JyTTFEUTExMVhhc2x6ejBlU2lmcFhabk1acUlhSzVaRVBpMUh2NDQ?oc=5",
-     "source": "Business Upturn",
-     "published": "2026-10-30T16:08:13+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "AI",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "French energy breach, Pentagon freezer hack, Japan Airlines breach",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdUs4NWxsTm52Wlc5dXEtMXZjNmtNS3lLRF8zX2Q5VnFTeWdtWkJtZlA3M3I2aldGWkI0ZGlnUC1SZktNMDhYVURrTzdQTFlGZkN3am9rYWducUszWWNPV0tOa3AwQ3RubWl4OXRESDRBUUFteFFvZDdIVUpwcmxsUHBGSVctVVNKdTMxWXBxZ3RBcmxwTjM3ZzBB?oc=5",
-     "source": "LinkedIn",
-     "published": "2026-10-30T14:12:34+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Biggest Crypto Heist In History: North Korean Hackers Loot Binance Of $6.3 Bn To Fund Kim's Nukes?",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNX01wLTFxdE1Yck5zb3BGMmdiZ3Z4LXA2U0pJNHlsTkRYLUhXdWlBd3hlUFk5aXJBemR3MUhOdGV5ZXQxZ0F6N0lOMGpleHI2V0VqVzdtRkEybVVtZ3FnODFGOWlaQU5Hc3VnR2lianJLZWh3SVJTb21NcDUzWF9hb1RNWFNKbEVOcnl5R1psb2QzNWNhMTZiVzlFdXFuaElCN0hHcEtjVml0OXNWWjlQUW9TN3dUV0YzWFkwUGNTVlRqWmdpVzJZOUpCeFYzSHZxVDJSWXRSNU9QWkI2eWM0c3p5WUlUODVSamZkMm5Pa3lzamEwUlNZcU9UUVFTd1FfUXfSAYcCQVVfeXFMTkduQlNzYXpaaG5RSkxTUWxaZkhZdks5WktiQlY4SmNhQlM5bnMwandqdUxvNzUzQ2wteXBHcWxkbUM0aWl0RC1OaFVWRzdUSGcxdUxrZjBSRG1VaG0xbG9OcVNVY2tRbm52Rmd0d2lDQ21na1BNYnd4eEs4dFBhRjlTZ3FUYVliSVRONURVcC1tUm5qdmZmTVQ0aVZLY3pMSGs2dUlVejJvcktVaERqSzVSV2NNTTBtbE9Cd3lLVU1RUndlVzRCanIyRmdhdnF1QkhnSmtlUWE1WE5PX0JkSUtDX3BRdkpGU1JjVlMzcFp2UEJEYUdyTGdweXlQLUlvOEppTnRXZmM?oc=5",
-     "source": "The Times of India",
-     "published": "2026-10-30T12:54:16+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWW16MUxQR2tVOGNnZ0RzSS1zbzBYeldweTY5VThnMG1HOE1fM0JzS0ZvTktjd2pUbF80TV9tWThsSmZ6WnpIVGdtcnRpeXpKWmk2ekJJSDBTazFnekZKRVZtbUJwNE01LTY3enJrUDQ5MzkzdGFrSmdsUHg2Z0FtdWpHaHNUbTM1WmFBUl9yS29PU092dnBVcHBPUVh0ZDRXWUFRd3ZGa2xYYU0tazh0cEpDQzhxWW9WelE?oc=5",
+     "source": "The Straits Times",
+     "published": "2026-10-30T19:21:00+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
