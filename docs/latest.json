@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-30T23:54:25+00:00",
+ "generated": "2026-10-31T05:56:50+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -173,46 +173,38 @@
      "product": "PHP",
      "cve": "CVE-2026-109619",
      "also": []
-    },
-    {
-     "title": "CVE-2026-114625: Arista VeloCloud Orchestrator",
-     "subtitle": "Arista VeloCloud Orchestrator SQL Injection Vulnerability",
-     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-114625",
-     "source": "CISA KEV",
-     "published": "2026-10-23T00:00:00+00:00",
-     "date_only": true,
-     "summary": "Arista VeloCloud Orchestrator on-prem contains a SQL injection vulnerability that may allow a remote attacker to access privileged internal functionality and impact the VCO host. Successful exploitation may compromise the confidentiality…",
-     "extra": "US federal patch deadline 26 Oct",
-     "tags": [
-      "Exploited"
-     ],
-     "vendor": "Arista",
-     "product": "VeloCloud Orchestrator",
-     "cve": "CVE-2026-114625",
-     "also": []
-    },
-    {
-     "title": "CVE-2026-110447: Collabora Collabora Online – Built-in CODE Server",
-     "subtitle": "Collabora Online – Built-in CODE Server OS Command Injection Vulnerability",
-     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-110447",
-     "source": "CISA KEV",
-     "published": "2026-10-23T00:00:00+00:00",
-     "date_only": true,
-     "summary": "Collabora Collabora Online – Built-in CODE Server when used within the NextCloud platform contains an OS command injection vulnerability that allows for remote code execution when the CODE server isn't running.",
-     "extra": "US federal patch deadline 26 Oct",
-     "tags": [
-      "Exploited"
-     ],
-     "vendor": "Collabora",
-     "product": "Collabora Online – Built-in CODE Server",
-     "cve": "CVE-2026-110447",
-     "also": []
     }
    ]
   },
   {
    "name": "Breaking Threats",
    "stories": [
+    {
+     "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
+     "source": "The Hacker News",
+     "published": "2026-10-31T05:33:41+00:00",
+     "date_only": false,
+     "summary": "A malicious ChatGPT share link could run an attacker's code in the logged-in session of anyone who opened it, allowing them to read their private conversations, researchers at the security firm Parameter showed. The researchers reported…",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
+     "source": "The Hacker News",
+     "published": "2026-10-31T04:56:12+00:00",
+     "date_only": false,
+     "summary": "Threat actors are launching about 8,226 network-layer distributed denial-of-service (DDoS) attacks per hour, Cloudflare revealed Thursday. The web infrastructure and security company said it autonomously mitigated 18.2 million…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
     {
      "title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
      "subtitle": "",
@@ -511,40 +503,28 @@
      "extra": "",
      "tags": [],
      "also": []
-    },
-    {
-     "title": "Drupal Commerce Core Vulnerability Exploited Against Online Stores",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/drupal-commerce-core-vulnerability-exploited-against-online-stores/",
-     "source": "SecurityWeek",
-     "published": "2026-10-30T11:07:11+00:00",
-     "date_only": false,
-     "summary": "Drupal says a highly critical Commerce Core access bypass is exploited in the wild and urges store owners to audit their orders. The post Drupal Commerce Core Vulnerability Exploited Against Online Stores appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [
-      "Exploited"
-     ],
-     "also": [
-      "BleepingComputer"
-     ]
-    },
-    {
-     "title": "Syrian Hacker Behind Fake Tweet That Triggered $136 Billion Market Drop Gets 42 Months in Prison",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html",
-     "source": "The Hacker News",
-     "published": "2026-10-30T10:40:45+00:00",
-     "date_only": false,
-     "summary": "Ahmad Umar Agha, a Syrian Electronic Army hacker known online as \"Th3Pr0,\" has been sentenced by a U.S. federal court to 42 months in prison for his role in a hacking conspiracy that targeted Western news outlets. The conspiracy was…",
-     "extra": "",
-     "tags": [],
-     "also": []
     }
    ]
   },
   {
    "name": "APAC Watch",
    "stories": [
+    {
+     "title": "North Korean Hackers Suspected in $6.3 Billion Cryptocurrency Theft",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcVlhdVl6V0pHWk5Ba1Flbll5SFl5X2dzd0VMci1tcWgzaXNoU0R1TnhWOXVCT21sa0xXRzdCeVhrQUg3SXYza2JjOWdiNWlGZ2FaSDBQTEItbFJEQ3dQZzRpZ2ZLYnYxaklITGxNUDZlTzhrMkx4T2NoMXM1SEJzdDJQVXNEVS1sbGpqNkxfbzM1eTFTRzRoSVVYY1BpbGRZOGVxV1U1d1lzUENW?oc=5",
+     "source": "India News Network",
+     "published": "2026-10-31T05:33:52+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": [
+      "CU Today"
+     ]
+    },
     {
      "title": "Hackers steal $6.3 billion from Binance in record heist blamed on North Korea",
      "subtitle": "",
@@ -558,7 +538,6 @@
       "APAC"
      ],
      "also": [
-      "CU Today",
       "The Japan Times"
      ]
     },
@@ -738,42 +717,24 @@
       "APAC"
      ],
      "also": []
-    },
-    {
-     "title": "Japan Hit By AI-Powered Cyberattack Wave, Dozens Of Companies Face Data Breaches",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOVQyX0wwMk1yS1dGVDctREZjNXQ0ZHlfdG53eVhTUGg1OUxrLUxPSVJpZXpJTzRxSnNNS3VJUENOYWxYNUJGQzIyVXVRbmw2dTU0aF9hUXRKelhnXzN3Y3ZzQkV0X1dNV3hGOFBEUEVDbUd6MjM5bkxyTjhuTTNNSkEwaVhIdWl3Y1V6OUhHNG5PSVRWbnZRT1BjNzZpM2dCVllzd3FxbHFUaS1UamZERjdlcDVoVnBBNVHSAb8BQVVfeXFMTkZIX1ZzU3ZzUjFVQjYtZU9NU3ZnQ3kzR3NzdkYyYW96Y3BYdjVvaUs3RmRBdkFvZlNiOEJVRzh2Yi1rY1U0WFBSWUt6YnM2WkM5RTQwSU1OYTNWY1FHa3pzQ2pBQ0E0Vk1KdFE5Tzd1dG1WdFJ3dkN3RU8yODNzYWV3SGZ0MUgzMV9OQzQ3ejR5X3l3QjNsTEx3bFMxVzdhWFhoWEpPOXpBc1R0S1A3dGRFQjRDQXBNaGhHMG80UkU?oc=5",
-     "source": "Times Now",
-     "published": "2026-10-30T02:57:42+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "AI",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "​Hackers Target 25 Enterprise Firewalls Across US, Japan, Taiwan, and South Korea",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdm44YXhpQy0wcTJHWUU3ZGFScjY1RjRWY0RjYVVVMDhSbDVrS3dPR1ZQQl9KV3pNMjVUakIyRjcwYjRWMGpnVVJhVWpSRlIyc01CVDd3V19DaGItcHRDdnVrTkI0dlh0c2FCc0pFY3ZsbkcyZUJBR1JtdFhQY0xLNlNkSlhidlVYbk1ELXhWS1FlRUItZV9KWjBaSjFjc3d2cGl5QnVWLUZER1lL?oc=5",
-     "source": "The 420.in",
-     "published": "2026-10-30T00:43:59+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
     }
    ]
   },
   {
    "name": "Threat Research",
    "stories": [
+    {
+     "title": "Inside a malicious Claude Code-branded extension and its persistent SSH backdoor",
+     "subtitle": "",
+     "link": "https://www.microsoft.com/en-us/security/blog/2026/10/30/inside-malicious-claude-code-branded-cursor-extension-persistent-ssh-backdoor/",
+     "source": "Microsoft Threat Intelligence",
+     "published": "2026-10-31T01:02:57+00:00",
+     "date_only": false,
+     "summary": "Microsoft analyzes a malicious Claude Code–branded extension, its persistent SSH backdoor, and guidance to detect and remediate it. The post Inside a malicious Claude Code-branded extension and its persistent SSH backdoor appeared first on…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
     {
      "title": "From help desk impersonation to AD CS abuse: Investigating ESC1 and ESC8 intrusion paths",
      "subtitle": "",
@@ -782,6 +743,18 @@
      "published": "2026-10-30T16:11:44+00:00",
      "date_only": false,
      "summary": "Teams support impersonation led to remote access, malicious runtime execution, and Certificate Services abuse through authentication relay and Kerberos. The post From help desk impersonation to AD CS abuse: Investigating ESC1 and ESC8…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "This month in security with Tony Anscombe – October 2026 edition",
+     "subtitle": "",
+     "link": "https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-october-2026/",
+     "source": "ESET Research",
+     "published": "2026-10-30T15:03:14+00:00",
+     "date_only": false,
+     "summary": "The PHP2Shell disclosure and other major cybersecurity news this month brought into relief the need for well-thought-out cyber-readiness plans",
      "extra": "",
      "tags": [],
      "also": []
@@ -944,32 +917,6 @@
       "AI"
      ],
      "also": []
-    },
-    {
-     "title": "From federal SOCs to Talos: Ryan Fetterman on practical security research",
-     "subtitle": "",
-     "link": "https://blog.talosintelligence.com/from-federal-socs-to-talos-ryan-fetterman-on-practical-security-research/",
-     "source": "Cisco Talos",
-     "published": "2026-10-27T10:00:21+00:00",
-     "date_only": false,
-     "summary": "What does it mean to be \"blue collar\" for the blue team? Ryan Fetterman discusses the realities of detection engineering, and shares his philosophy on building a career in security without burning out.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "26th October – Threat Intelligence Report",
-     "subtitle": "",
-     "link": "https://research.checkpoint.com/2026/26th-october-threat-intelligence-report/",
-     "source": "Check Point Research",
-     "published": "2026-10-26T16:12:38+00:00",
-     "date_only": false,
-     "summary": "For the latest discoveries in cyber research for the week of 26th October, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES Japanese cloud hosting provider Onamae Desktop Cloud has confirmed a cyberattack in which…",
-     "extra": "",
-     "tags": [
-      "Breach"
-     ],
-     "also": []
     }
    ]
   },
@@ -1018,42 +965,6 @@
      "link": "https://www.hkcert.org/security-bulletin/jenkins-multiple-vulnerabilities_20261029",
      "source": "HKCERT",
      "published": "2026-10-29T03:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Mozilla Products Multiple Vulnerabilities",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20261028",
-     "source": "HKCERT",
-     "published": "2026-10-28T03:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Security Alert - FortiBleed 2.0 Reveals Additional FortiGate Configuration and Credential Exposure",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/security-alert-fortibleed-2-0-reveals-additional-fortigate-configuration-and-credential-exposure_20261028",
-     "source": "HKCERT",
-     "published": "2026-10-28T03:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Google Brotli Remote Code Execution Vulnerability",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/google-brotli-remote-code-execution-vulnerability_20261028",
-     "source": "HKCERT",
-     "published": "2026-10-28T01:00:00+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
