@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-31T17:49:42+00:00",
+ "generated": "2026-10-31T21:44:11+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -180,6 +180,21 @@
    "name": "Breaking Threats",
    "stories": [
     {
+     "title": "Northflank security breach leads to abuse of customers' AI API keys",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
+     "source": "BleepingComputer",
+     "published": "2026-10-31T18:01:12+00:00",
+     "date_only": false,
+     "summary": "Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers' AI API keys. [...]",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "AI"
+     ],
+     "also": []
+    },
+    {
      "title": "New Android SMS of Death exploit can remotely crash unpatched phones",
      "subtitle": "",
      "link": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
@@ -297,70 +312,6 @@
      "extra": "",
      "tags": [],
      "also": []
-    },
-    {
-     "title": "Critical Linux kernel flaw allows remote root attacks on MPTCP servers",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/critical-linux-kernel-flaw-allows-remote-root-attacks-on-mptcp-servers/",
-     "source": "BleepingComputer",
-     "published": "2026-10-30T21:09:46+00:00",
-     "date_only": false,
-     "summary": "Security researchers at Anthropic have developed an exploit for a critical Linux kernel vulnerability that allows unauthenticated attackers to remotely execute commands as root on servers running Multipath TCP (MPTCP) listeners. [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "DOJ raises privacy concerns over potential sale of Character.AI chats",
-     "subtitle": "",
-     "link": "https://therecord.media/doj-raises-privacy-concerns-over-character-ai-sale",
-     "source": "The Record",
-     "published": "2026-10-30T20:45:00+00:00",
-     "date_only": false,
-     "summary": "The DOJ’s Executive Office for U.S. Trustees said a consumer privacy ombudsman is needed to advise the court on how to regulate what data from Character.AI can be sold and under what terms.",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Devs Hit by Trojanized Claude Code Extension for Cursor",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/cyberattacks-data-breaches/devs-trojanized-claude-code-extension-cursor",
-     "source": "Dark Reading",
-     "published": "2026-10-30T20:05:58+00:00",
-     "date_only": false,
-     "summary": "Two serious security issues hit Cursor on the same day, highlighting the risks for AI-powered integrated development environments (IDEs).",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Behind the Scenes of How Operation Blackout Went Down",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/cybersecurity-operations/behind-the-scenes-how-operation-blackout-went-down",
-     "source": "Dark Reading",
-     "published": "2026-10-30T19:46:08+00:00",
-     "date_only": false,
-     "summary": "A recent law enforcement operation to dismantle harmful scam centers was a big success. A threat intelligence expert walks us through what happened and why he wants more of the same.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Fashion retailer Resolve says hackers stole payment card information",
-     "subtitle": "",
-     "link": "https://therecord.media/resolve-fashion-retailer-data-breach-payment-cards",
-     "source": "The Record",
-     "published": "2026-10-30T19:00:00+00:00",
-     "date_only": false,
-     "summary": "The company, billing itself as “the next-generation fashion retailer for Millennial and Generation Z consumers,” said a recent hack exposed customer payment card numbers.",
-     "extra": "",
-     "tags": [],
-     "also": []
     }
    ]
   },
@@ -372,7 +323,7 @@
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVXlObi1pZGdXZlVmR3R4LVBnYVprSFFkY3BKRG1DQWozTkhicUhMTEF0Z2tQNlRteVc0TkllRWpxaUpYNkdiRlpOaU5hZE5SQTg1WWV5R3ZQSTBRWnVEQUUwRFR4aG02OXdIQnMzeHNTT1pDalE0VFlNQlBGS2FBX2xQNGtaN3pkVldBNHhjSHVqQ1MtQXc?oc=5",
      "source": "The Bangladesh Monitor",
-     "published": "2026-10-31T14:12:55+00:00",
+     "published": "2026-10-31T20:01:02+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -387,7 +338,7 @@
     {
      "title": "Kim Jong Un's cyber army: How North Korea's hackers steal billions for regime",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOdkExY21JZW9ESkVXSmRacmNXS3RFbkFvMzZOZEdscUFpTjg4ejlHSExNZmhOSWlteTNuYWpnUjRPOVJWTkhDV1gzelNZMC1uRFZKbnRZLWc1SDRHUTdCOUFvWnZ3UTliR19aZ0dtUWN0cnJoSnJKMjJyRUNCVkY4Y0dKeDh0MHJndk1IWTRaX3ZoSUVSazlHNVF5YU5PVEtHbkVHQzRlMFluUkR4VGJObUtFYTdTeFJmZFBmM01EOG9SZGxQS213NnlJNjlsTnBHd0QxeVhWU2pWY1BtSFF3S1Njajk0UHFoUEJvbnpPZjlqcFgxU05ZdnZNQ0QzaGM2MGRfNUs1T0ozeXYyVmc0NWljNHJ1bjg5aUVMb0FvbTRJcC1VRlJfUmFtZzNfTGFCa0ZqQVdWQTNVQzdU0gHyAUFVX3lxTFBYV0t3aEllNG13ME55dWlBWmJBU0pZTUdYVTlyT3JrMGFNcXhOUjNpQ094R3B3amVDakpJcl8tMHlGNmVrcmM1QlRlTERtMUNoNlJHU1poV21Edy1BQ01lUFJwS0dhWkMzaVI0blhadGNlX1pWUUtIU3FjVkhuNmNJVW41eEtNbV9XZF93Xy11OWFmMVlSblNEd0pBanVuOTdsQmVRcWhuMzc5VVFHUllaRFExQVhKdW9qV2xKekRadUx2TU1YZFI3eTVqeGptdUdlbkhhQU1vMzZlc196WVdlUTFBV3VjdldXS1B1anJtcFFB?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMEFfOS1zWlMxLWwtbGVScF9XNlduVjVZUzJ3YkFyQWRUdE54UHhhR0VKTHJCMnNnRk1OTEg1bFlOeDNlMExGRl9uQlBsbW1mVkVpX0VKcmlaWGdZM1lRX3ppZ1JXeDBDckRPV1pENGEzTFQ4T2JhX3pNRkJqZmxJR1FmSEJ0aHVnRHBXUGlTdFFRUFRDaFl3UFVvWnpRS3RkbkwtRHZPaHdPLUExeVNPLVBySzU4eFFONjdSeWl2blNqV2FHbnIweGo4NmpIZTN2bWdXS1RDMzFubll3TFRaa3NUVzNDOTZvQmRqWNIB8gFBVV95cUxQWFdLd2hJZTRtdzBOeXVpQVpiQVNKWU1HWFU5ck9yazBhTXF4TlIzaUNPeEdwd2plQ2pKSXJfLTB5RjZla3JjNUJUZUxEbTFDaDZSR1NaaFdtRHctQUNNZVBScEtHYVpDM2lSNG5YWnRjZV9aVlFLSFNxY1ZIbjZjSVVuNXhLTW1fV2Rfd18tdTlhZjFZUm5TRHdKQWp1bjk3bEJlUXFobjM3OVVRR1JZWkRRMUFYSnVvaldsSnpEWnVMdk1NWGRSN3k1anhqbXVHZW5IYUFNbzM2ZXNfellXZVExQVd1Y3ZXV0tQdWpybXBRQQ?oc=5",
      "source": "The Times of India",
      "published": "2026-10-31T13:57:00+00:00",
      "date_only": false,
@@ -399,11 +350,11 @@
      "also": []
     },
     {
-     "title": "North Korean Hackers Suspected in $6.3 Billion Cryptocurrency Theft",
+     "title": "North Korean Hackers Accused of $6.36 Billion Binance Crypto Heist",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcVlhdVl6V0pHWk5Ba1Flbll5SFl5X2dzd0VMci1tcWgzaXNoU0R1TnhWOXVCT21sa0xXRzdCeVhrQUg3SXYza2JjOWdiNWlGZ2FaSDBQTEItbFJEQ3dQZzRpZ2ZLYnYxaklITGxNUDZlTzhrMkx4T2NoMXM1SEJzdDJQVXNEVS1sbGpqNkxfbzM1eTFTRzRoSVVYY1BpbGRZOGVxV1U1d1lzUENW?oc=5",
-     "source": "India News Network",
-     "published": "2026-10-31T05:57:30+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcGJXNUl1NWtMTjhidl9QV1h4QjRfLUJJWW12V3RuMTdrTWZoOEVoZk5Yc1Q0Szc1ZUU1bzcwZFhhYk16a2lEZUtJeUNSaTZET3VCcTEtcFhKOVNyZVp1MndwNXpnaEFfZjg2eUVlNXdkdWFMa2FvZ0k5UUhDM1hTZ0xIZFBERkVUN19wMzRmRFBia1BBdU03NzhVM2d4RGZyQms0dW02M05VREFLazdRcTBkZ9IBuAFBVV95cUxNbEN1YTFqUGo4MFl5QVc1YTAtR2lXMExoV0tyR21udnhrNnhxWGtVOVlta2xXdWZSc29scEV0YjRkV2Q1aS12andlRjJYYUJ3NjdzQjZ0LXNpTTc0Vm1KMlFoWnNWZ21fai10RC1GSm5fVjJieFh0QmR1cnd1SFR5b3NpMU1BeUdxOF9uSkV3TS1LblpxZ0YzU0Jyclk5Y2J6VUpnYV8tcUtBaG42a0lWR2JjWDBqeWNx?oc=5",
+     "source": "Lokmat Times",
+     "published": "2026-10-31T10:19:39+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -411,9 +362,10 @@
       "APAC"
      ],
      "also": [
+      "India News Network",
       "The Hawk",
       "Kashmir Reader",
-      "CU Today"
+      "Japan Today"
      ]
     },
     {
@@ -431,44 +383,17 @@
      "also": []
     },
     {
-     "title": "Hackers steal $6.3 billion from Binance in record heist blamed on North Korea",
+     "title": "India's RBI tightens cyber checks on lenders after spate of hacks",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPZUZpRXZrUzh6QnJTTVBVMS1tcThSNFotTnJPTTF1R2lQU3JnRFl6d21JWndxZ1ZsX0I5bUFtc2t0d2ZRcURQN3NWakhqbWRtQ2dBMWxwTHhkVmpkVkhVTXIzR2dtQ3JLTUd6Rm1ySi15RzZPb3NSeW9ubmhqbWpRVzdrRl9rTUZLbC01ZjBFcFhwc3pyLUFvNmZCTXlUS0poRWNNakFibUJXRlVLNENkQ1hjOHBvS0lELWhISHVPVjdSOEg1aWV0UjJBczJPdEJla19Z?oc=5",
-     "source": "Japan Today",
-     "published": "2026-10-30T20:55:00+00:00",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUV9lcE01R2l5NFJ3Nmg3YWVuSUxtcUNET1ZsTHdEMGNTcGh6X1pqT0NjUkk3NFBXOHliWlhuaXZISV9KdXMxbFVyVGo0OXhUMkdFczRyVjRVMWhfWVRtN1JWRlNpVkdzNUJUNDQzTFM2TlJjbkxVUmljbnFSNDFQeWNXUE1ZTkJuQ2hxRnRIMENTUGprdW9NRWFYMkstLVNIbVpBc0NaZk1mVmlCV0pTUQ?oc=5",
+     "source": "Reuters",
+     "published": "2026-10-30T21:59:04+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
      "tags": [
       "APAC"
      ],
-     "also": []
-    },
-    {
-     "title": "Japan Faces Growing Cyberattack Crisis as AI Tools Help Hackers Target Businesses and Government",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZX19Qa0JBOEVDUWZxNUU2SEQ2WnNlMDR3cnpqUVBLV1NvOUxFMmtxQzVVYzZQVEhGQTZjUUd6V0IzMW5XbEVhUTZaaTdpWW1OU2daLUMyc9IBXEFVX3lxTE1ZWjFNS2FVNWU5NkRYbG9VZ18yQVRVclkxV2RmREpNbndteGRKaG1NY0I0UjNvZVgwV2VCX1U0ZnFBWU4yMmNYVnN4dEtRYjlpLXJjb3Z2aDRXYVpN?oc=5",
-     "source": "GBHackers News",
-     "published": "2026-10-30T20:26:15+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "AI",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "North Korean hackers linked to crypto thefts among world’s best, experts say",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWW16MUxQR2tVOGNnZ0RzSS1zbzBYeldweTY5VThnMG1HOE1fM0JzS0ZvTktjd2pUbF80TV9tWThsSmZ6WnpIVGdtcnRpeXpKWmk2ekJJSDBTazFnekZKRVZtbUJwNE01LTY3enJrUDQ5MzkzdGFrSmdsUHg2Z0FtdWpHaHNUbTM1WmFBUl9yS29PU092dnBVcHBPUVh0ZDRXWUFRd3ZGa2xYYU0tazh0cEpDQzhxWW9WelE?oc=5",
-     "source": "The Straits Times",
-     "published": "2026-10-30T19:21:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
      "also": []
     }
    ]
