@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-31T05:56:50+00:00",
+ "generated": "2026-10-31T12:47:27+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -180,6 +180,48 @@
    "name": "Breaking Threats",
    "stories": [
     {
+     "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
+     "source": "The Hacker News",
+     "published": "2026-10-31T12:01:56+00:00",
+     "date_only": false,
+     "summary": "American blockchain analysis firm Chainalysis said it was the target of a cybersecurity incident in which an external actor accessed non-sensitive customer data. However, the company noted that the breach did not result in unauthorized…",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": []
+    },
+    {
+     "title": "Syrian Hacker Gets Prison Time in US After Over a Decade on the Run",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/syrian-hacker-gets-prison-time-in-us-after-over-a-decade-on-the-run/",
+     "source": "SecurityWeek",
+     "published": "2026-10-31T11:00:00+00:00",
+     "date_only": false,
+     "summary": "A US court sentenced Syrian hacker Ahmad Umar Agha to 42 months for pro-Assad attacks on media, businesses, and government entities. The post Syrian Hacker Gets Prison Time in US After Over a Decade on the Run appeared first on…",
+     "extra": "",
+     "tags": [],
+     "also": [
+      "The Record"
+     ]
+    },
+    {
+     "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
+     "source": "The Hacker News",
+     "published": "2026-10-31T08:27:43+00:00",
+     "date_only": false,
+     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Ivanti Connect Secure (ICS) to its Known Exploited Vulnerabilities (KEV) catalog, following active exploitation in the wild. The…",
+     "extra": "",
+     "tags": [
+      "Exploited"
+     ],
+     "also": []
+    },
+    {
      "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
      "subtitle": "",
      "link": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
@@ -244,8 +286,7 @@
       "AI"
      ],
      "also": [
-      "BleepingComputer",
-      "The Hacker News"
+      "BleepingComputer"
      ]
     },
     {
@@ -297,9 +338,7 @@
      "summary": "Hardware wallet device maker Trezor has received credible reports about a suspected hardware crypto-theft implant in a Trezor Safe 5 sold by its reseller CryptoBilis in Southeast Asia. [...]",
      "extra": "",
      "tags": [],
-     "also": [
-      "The Hacker News"
-     ]
+     "also": []
     },
     {
      "title": "Florida warns that 4.9 million people had Social Security numbers leaked in financial aid site breach",
@@ -364,18 +403,6 @@
       "Breach",
       "AI"
      ],
-     "also": []
-    },
-    {
-     "title": "Syrian Electronic Army hacker gets prison time for attacks on Western targets",
-     "subtitle": "",
-     "link": "https://therecord.media/syrian-electronic-army-hacker-sentenced-three-years",
-     "source": "The Record",
-     "published": "2026-10-30T14:24:00+00:00",
-     "date_only": false,
-     "summary": "Ahmad Umar Agha, known online as “Th3Pr0,” was sentenced Thursday in federal court in Virginia to 42 months behind bars for his role in a conspiracy that was organized by former Syrian President Bashar al-Assad's closest advisers.",
-     "extra": "",
-     "tags": [],
      "also": []
     },
     {
@@ -467,42 +494,6 @@
      "extra": "",
      "tags": [],
      "also": []
-    },
-    {
-     "title": "Fresh WordPress Vulnerability in Attackers’ Crosshairs",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/fresh-wordpress-vulnerability-in-attackers-crosshairs/",
-     "source": "SecurityWeek",
-     "published": "2026-10-30T12:04:13+00:00",
-     "date_only": false,
-     "summary": "Threat actors are attempting to exploit a high-severity unauthenticated race condition leading to remote code execution. The post Fresh WordPress Vulnerability in Attackers’ Crosshairs appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html",
-     "source": "The Hacker News",
-     "published": "2026-10-30T11:58:53+00:00",
-     "date_only": false,
-     "summary": "The alert is critical. The fix is known. And the ticket sits in a queue for days. Security teams understand the risk, but the people who keep applications available need proof that the change won’t break anything. Their concerns are…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Microsoft finally fixes VPN issues caused by September updates",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-finally-fixes-vpn-issues-caused-by-september-updates/",
-     "source": "BleepingComputer",
-     "published": "2026-10-30T11:20:26+00:00",
-     "date_only": false,
-     "summary": "Microsoft has resolved Always On VPN connection failures triggered after installing the September 2026 Windows 11 security updates. [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
     }
    ]
   },
@@ -510,11 +501,29 @@
    "name": "APAC Watch",
    "stories": [
     {
+     "title": "Japan Airlines data breach affects 92,000 customers",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVXlObi1pZGdXZlVmR3R4LVBnYVprSFFkY3BKRG1DQWozTkhicUhMTEF0Z2tQNlRteVc0TkllRWpxaUpYNkdiRlpOaU5hZE5SQTg1WWV5R3ZQSTBRWnVEQUUwRFR4aG02OXdIQnMzeHNTT1pDalE0VFlNQlBGS2FBX2xQNGtaN3pkVldBNHhjSHVqQ1MtQXc?oc=5",
+     "source": "The Bangladesh Monitor",
+     "published": "2026-10-31T08:27:43+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": [
+      "Travel Radar",
+      "SC Media"
+     ]
+    },
+    {
      "title": "North Korean Hackers Suspected in $6.3 Billion Cryptocurrency Theft",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOcVlhdVl6V0pHWk5Ba1Flbll5SFl5X2dzd0VMci1tcWgzaXNoU0R1TnhWOXVCT21sa0xXRzdCeVhrQUg3SXYza2JjOWdiNWlGZ2FaSDBQTEItbFJEQ3dQZzRpZ2ZLYnYxaklITGxNUDZlTzhrMkx4T2NoMXM1SEJzdDJQVXNEVS1sbGpqNkxfbzM1eTFTRzRoSVVYY1BpbGRZOGVxV1U1d1lzUENW?oc=5",
      "source": "India News Network",
-     "published": "2026-10-31T05:33:52+00:00",
+     "published": "2026-10-31T05:57:30+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -522,6 +531,7 @@
       "APAC"
      ],
      "also": [
+      "The Hawk",
       "CU Today"
      ]
     },
@@ -530,15 +540,19 @@
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPRGNXZ2tDdnFXeEE0R09udVZ0Q1BLejMxOWR5U1RNWmJyZlNOZnR4M3k2QlBRMm5MZWFqOEtCUHJ6THE4UldJV3F1NGxiRHQtcmNGbUJUTlREYUFQWnFIMXFZUDNKVjMwRE9BS2NRYkFsYlNyblUtYWNNd0wtMFpNdU5YV3c1MWhTZlc5eElkbTByTlQwRF9nZDFZSXcyN2dHcWgyanNQUjhwRkhyZUpsYWc0c2U3dw?oc=5",
      "source": "Japan Today",
-     "published": "2026-10-30T20:55:00+00:00",
+     "published": "2026-10-30T21:55:00+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
      "tags": [
-      "APAC"
+      "APAC",
+      "Breach"
      ],
      "also": [
-      "The Japan Times"
+      "Firstpost",
+      "Gulf Today",
+      "The Japan Times",
+      "GMA Network"
      ]
     },
     {
@@ -572,11 +586,11 @@
      "also": []
     },
     {
-     "title": "Japan Airlines data breach exposes 92,000 customer records",
+     "title": "French energy breach, Pentagon freezer hack, Japan Airlines breach",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcXBDV3FhZ09OYTBDSE5zcEt2UVF4QTg4UWthdHh6aV9tdXE4TGVFRkg1RW5zRkZZbEJVZllJc1BkbVdELVdtN1VPVTFxNW8zTGFJaVByWWxUaEZwOW11d0dETzRSU2s1UlNWeHdobHhNbDVJUEQzeDBwMTFpRlRtSWYtcjdnSUEwM0JBN00yYUs?oc=5",
-     "source": "SC Media",
-     "published": "2026-10-30T14:14:53+00:00",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdUs4NWxsTm52Wlc5dXEtMXZjNmtNS3lLRF8zX2Q5VnFTeWdtWkJtZlA3M3I2aldGWkI0ZGlnUC1SZktNMDhYVURrTzdQTFlGZkN3am9rYWducUszWWNPV0tOa3AwQ3RubWl4OXRESDRBUUFteFFvZDdIVUpwcmxsUHBGSVctVVNKdTMxWXBxZ3RBcmxwTjM3ZzBB?oc=5",
+     "source": "LinkedIn",
+     "published": "2026-10-30T14:12:34+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -587,135 +601,15 @@
      "also": []
     },
     {
-     "title": "Japan's Foreign Ministry reports data breach affecting 3,600 records",
+     "title": "Biggest Crypto Heist In History: North Korean Hackers Loot Binance Of $6.3 Bn To Fund Kim's Nukes?",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUDQyQWJLRjIwZm9tRGJCU19BdkkyLUdFenF5a1FIRW5aOVR4YUJTelphaFk1Ulh5OFcydXV5bzNOUEIzN3ZkQ25tbWx5aHJULVRYUXVHS3dTelhKdWpYelJIYXdzVlNWWU5YSldyZFJxMzFlTmpnUXNJc3BlT0Zra0l1RXQ0MUFiMkpRR2FCaVpycEVONHBOcmJNS3VuZXRpN2NlUE9Bam9mdUtMMzY4N2hBWQ?oc=5",
-     "source": "Anadolu Ajansı",
-     "published": "2026-10-30T11:33:50+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNX01wLTFxdE1Yck5zb3BGMmdiZ3Z4LXA2U0pJNHlsTkRYLUhXdWlBd3hlUFk5aXJBemR3MUhOdGV5ZXQxZ0F6N0lOMGpleHI2V0VqVzdtRkEybVVtZ3FnODFGOWlaQU5Hc3VnR2lianJLZWh3SVJTb21NcDUzWF9hb1RNWFNKbEVOcnl5R1psb2QzNWNhMTZiVzlFdXFuaElCN0hHcEtjVml0OXNWWjlQUW9TN3dUV0YzWFkwUGNTVlRqWmdpVzJZOUpCeFYzSHZxVDJSWXRSNU9QWkI2eWM0c3p5WUlUODVSamZkMm5Pa3lzamEwUlNZcU9UUVFTd1FfUXfSAYcCQVVfeXFMTkduQlNzYXpaaG5RSkxTUWxaZkhZdks5WktiQlY4SmNhQlM5bnMwandqdUxvNzUzQ2wteXBHcWxkbUM0aWl0RC1OaFVWRzdUSGcxdUxrZjBSRG1VaG0xbG9OcVNVY2tRbm52Rmd0d2lDQ21na1BNYnd4eEs4dFBhRjlTZ3FUYVliSVRONURVcC1tUm5qdmZmTVQ0aVZLY3pMSGs2dUlVejJvcktVaERqSzVSV2NNTTBtbE9Cd3lLVU1RUndlVzRCanIyRmdhdnF1QkhnSmtlUWE1WE5PX0JkSUtDX3BRdkpGU1JjVlMzcFp2UEJEYUdyTGdweXlQLUlvOEppTnRXZmM?oc=5",
+     "source": "The Times of India",
+     "published": "2026-10-30T12:54:16+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Japan's Keio Corporation Delays Interim Earnings to Early December After Cyberattack",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yVXhjYlVLQms1YVVZZkZtNEpKZWxxUl9tT19xR2RONjFvdXVqTGhFVWp4b3FVSU9mU2ZNTDQ3MzlOWThsdC1DRmkyeTFrenJzdmhwZjJLMXJNTzZZb2Frd055aEhKWm5BOW5SakdCNm5BUWhLQ2c?oc=5",
-     "source": "BigGo Finance",
-     "published": "2026-10-30T11:26:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Amadeus cyberattack puts Asian airlines on alert",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTkN3d3cwQ2lla0NpSHNiZGhFV21CeGJPbHF4aG5mUEJXel9GbTl0OU5SNUh2VVdyazFFM01uYVBjakp1dWJzRGp4anRpSVdrb25tMVdwRE1KLWhFaHBSa1RsNHVKelY1X1l6aktJVU1Gcm1KSXFCUmFLQ3pmRnpmdThUdTJqaDQtRks3N2FRN2toUldyd1NIQ0x3RDJCVWk3OE94Zi14MVpIYlE?oc=5",
-     "source": "Travel Weekly Asia",
-     "published": "2026-10-30T10:40:58+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Ransomware Attacks on Synology NAS Users in South Korea Demand Bitcoin",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE84MEh0VlRvMEN4YTNzTTk2VUJ6VDJYWjRPYXV3Snhra0pzU0ZwRFE3M2g5ekFGTHNQSmdoZlllcUJFWkd2ZS1aWi1sY3BmYU5CbDRTTExmWGRXd00?oc=5",
-     "source": "www.tokenpost.com",
-     "published": "2026-10-30T10:04:11+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Ransomware",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Hacker Group Explains Why It Hijacked Digital Billboards In Malaysia To Display Adult Content",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQU3lEV0oyTU5sS1JBemNlamdrQlFLRXpYVjU4VldCcjFackQ3THdVZUttNGRadWtVODhlSWJZbUZFcG5SWS1kczJvaVJYMlBpUkZDTWk0amtja2NTM2xBNGROek9pdnJTOWFaNnMtbFlNZlhNOXp6Z2NnNno5MWtRSFFGWFppeE5uTzVmMnpZcWhBcHVhb2g4cHFkOGNpdjN1MWFYLVhRLXdQNnc?oc=5",
-     "source": "SAYS",
-     "published": "2026-10-30T09:24:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Japan’s Cyberattack Surge Tests Its Push to Strengthen Defenses",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBSQnhNYnlsSjR5WDU3aElRcWhKMmEzcS1SMl91SU9wZnFtZF80VFpxT20taTlBMzAzMURaODNHczAyMG1UU3NIV01YSThGVFREWUFkV3JURmh4cllSems5NmY3MS00Tkw3UHZSeW9KUmhlcE52b2o0R1A4RzlkZw?oc=5",
-     "source": "Insurance Journal",
-     "published": "2026-10-30T08:37:06+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Hackers breach GS E&C system, leak resident data in South Korea",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMmhETUFGVkVXWDA4bjRNVS1yR1lMNzh6SHQ4MmlmYVR1bEJtY1QtVlVaR1FXUzZwRDI4bklBdlg1V0Y1UXdvVTluUFAxSFhhZHNlYl9ScURJMFExLXY2MWdnQnJMY1gwU2E5dUhFSmpnQmZKX21zaXBuLTVXUkhZVWpwVzdIMEhSZDlwaGtFSk5iaDBxN2d0TdIBmAFBVV95cUxOMmhETUFGVkVXWDA4bjRNVS1yR1lMNzh6SHQ4MmlmYVR1bEJtY1QtVlVaR1FXUzZwRDI4bklBdlg1V0Y1UXdvVTluUFAxSFhhZHNlYl9ScURJMFExLXY2MWdnQnJMY1gwU2E5dUhFSmpnQmZKX21zaXBuLTVXUkhZVWpwVzdIMEhSZDlwaGtFSk5iaDBxN2d0TQ?oc=5",
-     "source": "Chosunbiz",
-     "published": "2026-10-30T07:39:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "North Korean hackers wield AI to scale phishing and malware against South Korea",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAweHZXRzltd21qR0hCeDZRQ3FfYTl0ZnFCdmlaUDQxc1JBYl93TnUtRG81S05jRkZzdmFtbEd3N3ZXR2wwOTZQdTVfeERWOXIydmU3S1U2QmJqanNGRXZ4d0p5aGl1YXY2b2lJS3dhQTFKSFFtQVJ0T1d30gGOAUFVX3lxTFBRQlZRM3N0VFl4eERkejRlUFljVVlPWlhSZXVCVV9NUDFtbUpCTk5wX3ZlRmZOY2l4Q0JwYnV4VlJsc0wzZXdaa3hzZDI0VmlVbFlGeEhRR2ZpbUVNOHh6Z0ZJWUNPZ0JpelFGM2hkUzlzaFVJb0RWSWxjZ19kcWpsODdFTmxBTzNUMjJMdVE?oc=5",
-     "source": "Chosunbiz",
-     "published": "2026-10-30T06:28:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "AI",
-      "Phishing",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Japan's cyberattack surge fuels debate over tighter AI regulation, data-security rules",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNUtZWmdXa190Qk03M0FUV1plb2VMdUdlUFhZVkNoLVRJYXFfVEpRSlFMZGRiUDB5OXZfTE9sNElreG1aZ25oeDVDY2Q5SWZLeUlZSkVhVmZ4MnJBeTZCNzBrSFpqU0tfekl5aVhzR1puMFlZNU43cWFWbEdITlhNV2pFU0pWV2haNkQxbU1Rbm5OUUdCNDFxLXc2aVd1R3F1aGNlNVMzeEN6OVpJbkI0T0hSenZOcmRSSGI0VFYtNlhyQmNWQnNhSDlDUkJGS1NYTi10cENaZF95Nks2M3ltYTVFcmJjTEnSAVpBVV95cUxNQXQxQ2FLOUZzeU5BcTZXSWdPbGl1TVlLWEdKeVFFbkFrcDBpZEZxZXU2c0pBLU8xYWx0VEVrZ2gwVUFwb3lsM0ZrYjY5aENjb0l6a1BBZVR2UVE?oc=5",
-     "source": "MLex",
-     "published": "2026-10-30T06:24:14+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "AI",
-      "APAC"
-     ],
+     "tags": [],
      "also": []
     }
    ]
@@ -723,6 +617,20 @@
   {
    "name": "Threat Research",
    "stories": [
+    {
+     "title": "Appraisal by AI: Model-driven victim prioritization in the VOLTA infostealer",
+     "subtitle": "",
+     "link": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
+     "source": "Cisco Talos",
+     "published": "2026-10-31T12:00:00+00:00",
+     "date_only": false,
+     "summary": "The self-deleting VOLTA infostealer steals credentials, sessions, and cryptocurrency wallets. Then, it uses LLMs to profile victims and rank their most valuable assets.",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
     {
      "title": "Inside a malicious Claude Code-branded extension and its persistent SSH backdoor",
      "subtitle": "",
@@ -902,20 +810,6 @@
      "summary": "An overview of the activities of selected APT groups investigated and analyzed by ESET Research in Q2 2026 and Q3 2026",
      "extra": "",
      "tags": [],
-     "also": []
-    },
-    {
-     "title": "Tricks from the Past deployed via signed ChatGPT and Claude binaries",
-     "subtitle": "",
-     "link": "https://research.checkpoint.com/2026/tricks-from-the-past-deployed-via-signed-chatgpt-and-claude-binaries/",
-     "source": "Check Point Research",
-     "published": "2026-10-27T13:03:27+00:00",
-     "date_only": false,
-     "summary": "Key Points Introduction Over the past two months, we have been tracking a campaign that abuses the popularity of AI tools such as ChatGPT and Claude to spread a custom malware chain we call Yoba. The attackers use fake GitHub projects that…",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
      "also": []
     }
    ]
