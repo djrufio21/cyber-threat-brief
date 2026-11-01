@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-01T07:39:21+00:00",
+ "generated": "2026-11-01T15:17:56+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -180,6 +180,96 @@
    "name": "Breaking Threats",
    "stories": [
     {
+     "title": "Alpine Linux rebuilds GitLab after attempted RCE attack",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/",
+     "source": "BleepingComputer",
+     "published": "2026-11-01T15:11:21+00:00",
+     "date_only": false,
+     "summary": "Hackers attempted to exploit a critical GitLab vulnerability in Alpine Linux's development infrastructure on October 20-21, prompting the open-source project to rebuild its GitLab server and reset all passwords over concerns of a possible…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "OpenAI says it's doubling Pro usage limits and bringing Work features to Chat",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-doubling-pro-usage-limits-and-bringing-work-features-to-chat/",
+     "source": "BleepingComputer",
+     "published": "2026-11-01T13:53:11+00:00",
+     "date_only": false,
+     "summary": "OpenAI has just confirmed that it's rolling out ChatGPT Work capabilities directly into regular Chat, while also combining usage allowances across ChatGPT and Codex. [...]",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "Northstar Security Exits Stealth With $7M to Expose Toxic Risk Combinations",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/northstar-security-exits-stealth-with-7m-to-expose-toxic-risk-combinations/",
+     "source": "SecurityWeek",
+     "published": "2026-11-01T11:15:00+00:00",
+     "date_only": false,
+     "summary": "The startup maps how identities, assets and vulnerabilities connect, and uses AI agents to find and fix risky combinations of issues. The post Northstar Security Exits Stealth With $7M to Expose Toxic Risk Combinations appeared first on…",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
+     "source": "The Hacker News",
+     "published": "2026-11-01T08:51:31+00:00",
+     "date_only": false,
+     "summary": "A critical flaw in Canonical's LXD and MicroCloud let an attacker log in as a trusted client without holding that client's private key. To do it, the attacker had to reach their HTTPS API over the network and have the trusted client's…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html",
+     "source": "The Hacker News",
+     "published": "2026-11-01T07:25:40+00:00",
+     "date_only": false,
+     "summary": "Malicious code on the website of prediction market Polymarket sold some signed-in traders' positions and moved their funds to the hackers on October 29. The code had replaced a page-speed script that the site loaded from an outside…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
+     "source": "The Hacker News",
+     "published": "2026-11-01T07:03:00+00:00",
+     "date_only": false,
+     "summary": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressure Chollima…",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html",
+     "source": "The Hacker News",
+     "published": "2026-11-01T07:02:58+00:00",
+     "date_only": false,
+     "summary": "Cybersecurity researchers have disclosed details of what has been described as a \"highly sophisticated infection chain\" targeting government organizations in Asia. The activity, detailed by Kaspersky this week, targeted a custom Windows 10…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
      "title": "Northflank security breach leads to abuse of customers' AI API keys",
      "subtitle": "",
      "link": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
@@ -205,93 +295,76 @@
      "extra": "",
      "tags": [],
      "also": []
-    },
-    {
-     "title": "Reddit to lock content behind logins to fight scrapers",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/reddit-to-lock-content-behind-logins-to-fight-scrapers/",
-     "source": "BleepingComputer",
-     "published": "2026-10-31T14:05:15+00:00",
-     "date_only": false,
-     "summary": "Reddit announced in a post by co-founder Steve Huffman that the site will gradually become a \"logged-in service,\" offering limited access to visitors without accounts. [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "From Beginner to Bug Hunter: Learning Cybersecurity in the AI Era.",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/from-beginner-to-bug-hunter-learning-cybersecurity-in-the-ai-era/",
-     "source": "BleepingComputer",
-     "published": "2026-10-31T13:10:19+00:00",
-     "date_only": false,
-     "summary": "AI-generated vulnerability reports are overwhelming some bug bounty programs, making it harder for aspiring security researchers to know where to start. TryHackMe explains how beginners can build practical cybersecurity skills, use AI…",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Chainalysis discloses data breach from \"offensive agentic techniques\"",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/chainalysis-discloses-data-breach-from-offensive-agentic-techniques/",
-     "source": "BleepingComputer",
-     "published": "2026-10-31T12:50:09+00:00",
-     "date_only": false,
-     "summary": "Blockchain analytics firm Chainalysis disclosed a data breach after attackers used \"offensive agentic techniques\" to access internal systems and tools, exposing customer names, email addresses, user IDs, and organizational roles. [...]",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
-     "source": "The Hacker News",
-     "published": "2026-10-31T12:01:56+00:00",
-     "date_only": false,
-     "summary": "American blockchain analysis firm Chainalysis said it was the target of a cybersecurity incident in which an external actor accessed non-sensitive customer data. However, the company noted that the breach did not result in unauthorized…",
-     "extra": "",
-     "tags": [
-      "Breach"
-     ],
-     "also": []
-    },
-    {
-     "title": "Syrian Hacker Gets Prison Time in US After Over a Decade on the Run",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/syrian-hacker-gets-prison-time-in-us-after-over-a-decade-on-the-run/",
-     "source": "SecurityWeek",
-     "published": "2026-10-31T11:00:00+00:00",
-     "date_only": false,
-     "summary": "A US court sentenced Syrian hacker Ahmad Umar Agha to 42 months for pro-Assad attacks on media, businesses, and government entities. The post Syrian Hacker Gets Prison Time in US After Over a Decade on the Run appeared first on…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
-     "source": "The Hacker News",
-     "published": "2026-10-31T08:27:43+00:00",
-     "date_only": false,
-     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added two security flaws impacting Ivanti Connect Secure (ICS) to its Known Exploited Vulnerabilities (KEV) catalog, following active exploitation in the wild. The…",
-     "extra": "",
-     "tags": [
-      "Exploited"
-     ],
-     "also": []
     }
    ]
   },
   {
    "name": "APAC Watch",
    "stories": [
+    {
+     "title": "North Korea-linked hacking group likely behind GMO cyberattack: Sources",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeU5yWmhEQkNYWWdXNkhod3lITjd3UzNQWmk5WThDZ2tuRTlXZkNmMFo3YkZ4MTNzb3BHd1RDN0VtVkJueF9OZEVnanBqc0hLS3YzS2ZVOVVHRGtXTjNidW12c1QycU1tRi1seFl5bmNXWjNuSHhybnAxdEl5N29vLS1TczBIa2NDb3Z0NXRncktvME4wQXRhc3pxdTZqekJwT0ZvN0ViS0dZQmx0N2FwMUxFYzA?oc=5",
+     "source": "The Straits Times",
+     "published": "2026-11-01T14:40:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "North Korea-linked hackers target Japan’s GMO Internet in data breach",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1kTFJNQWFJZmJLY1lfazVyRnBJckNrUTh1YkhManFRcHkwRE5vOTNtODQ3MVM1WjBtSHZyMTZwRFRuVjBLeHlieUxnNW91czdLUkF0ZUQzZDdybGJPQVpGUnVxZ3VsV0dBSll4THZoQWpqT04xRFN1OVFR0gGOAUFVX3lxTE9Nc0pUSEFweHZNeWRlT2x3dDlkLTBYd0tlUG5CMk0zcGxSY0RHQXVQUFBIQW1lczJEcmhoQ19kMTFTMGhTTHYzYTVMU0drQ0FQajRPanRIaGRvbnRVUFUtSUp4WFZRTGFRXzF0QzNFTm9wTXBUTXhSUmRMNk8wZUJPMzNudW8yZ1dxT21WeHc?oc=5",
+     "source": "Chosunbiz",
+     "published": "2026-11-01T13:51:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Malaysia Airlines warns customers after Amadeus data breach",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdG9zcWJlMzZ3X1pvQWlRSDIyaWtKaUJqTnF5cWNVbWllZjJwdGR0dkZ6TzFkQ2pxV3VJVUo0OFVwQl9tSzVDUmc3Q3pMWFlyZFBrOEhMQi1rMklMSzBUZG5Ha3JGMm5ib1hkWVkyYk5wWHdRNmdIOUhxenViZk8yTTF0cC1qWDg?oc=5",
+     "source": "Latest news from Azerbaijan",
+     "published": "2026-11-01T12:35:54+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": [
+      "NST Online",
+      "www.techbarrista.com",
+      "The Bangladesh Monitor"
+     ]
+    },
+    {
+     "title": "Japan Hit by AI-Powered Cyberattack Wave as Dozens of Firms Suffer Data Breaches",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWjhzVGVuTDRZcHpDT2szMW9ac3YzYXQ3YWtRWldKNmxreWZFSmhraTNhUzR5SFVYbEpSMVUtbzcyYmloaVFnMVp2TUt5RGNRVVBYQS1BV25Sa0ZCcUkxV3Vqc2FWaC1JOFdyWWJQeHdMSnpvM2lxN1BnbzhrRlM4RzNtV05lcGFXNmNualNWaTBxcnFKalhQMlh5VFFwT19xajYzaXA1eHZBTFZpNjk2YlZGZ1NMOGlN?oc=5",
+     "source": "CoinCodex",
+     "published": "2026-11-01T08:21:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "AI",
+      "APAC"
+     ],
+     "also": []
+    },
     {
      "title": "North Korean hackers stole billions, the FBI says. It’s not their first heist",
      "subtitle": "",
@@ -305,21 +378,6 @@
      "also": [
       "The Times of India"
      ]
-    },
-    {
-     "title": "AI hacking hits Japan as Takaichi government shifts to preemptive surveillance",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSFdZVGVXeS1LOFRtbzVpUVpDUEpTNk5hM3RTTWQ2MnVFLXBZRVR3RGhZS0x3VlNzWDVhT2hnWEZYT0dZYjVMZU1HSnY0dFM4VW9GUGNRaHBvOE5mOEduS0h4MDlTbkxvZk1Oa1ByQ0JJZGNPZHRSU1ZyckNPV3U4OWtoeXJ0Q3R1NnctejU4LWp3cXZNSWU4ajhnTWRwV1lzRUphU0ZPazhIRTZnSVh3dzJPVzJlbGtUVXNBamV3?oc=5",
-     "source": "디지털투데이",
-     "published": "2026-11-01T04:21:47+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "AI",
-      "APAC"
-     ],
-     "also": []
     },
     {
      "title": "GMO CEO Kumagai to hold press conference over cyberattack — The Japan Times",
@@ -336,34 +394,16 @@
      "also": []
     },
     {
-     "title": "Malaysia Airlines warns customers of data exposure in Amadeus cybersecurity breach",
+     "title": "Amadeus Cyberattack Exposes 53,000 Cathay Pacific Bookings, Affects Japan Airlines and Other Global Carriers",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOcDNJaTRaMXRNQUdnLTVRYmVLbkJPTkkwMkR2YWNOeTVTOVhfWDRVZGhoWWdzSmFvQXZ3ampudm8zRzloU3h4b0ROLS0tQmllb2lOVVZPQ2dNLWx4aUJSSWhSVVRQY2w4eEVfNWF3N3lPNmZaRWExdWo3bGUzNElBYndnTlBFR0hyalBzYm1xV3NrR1VYcmZLYkE5cFdKY3g3YmJaVUREdlh6Y2lxWUV1WExpXzhlemEzbGxLbHFJZU5BaC1pX3BadzJxdHFGX0tTTXpnd0xpWdIB3AFBVV95cUxQeDJ3YnlTbUZpRUJ4aG84N05GTXNISG0teWVGb2c1R0ExaHRzaXNycFptZVVhS05ndXZtRTVjT1pSdXhmYkJvN0Z1LWE4LU11MExHNm51SlFRcTEyUjM1aGlvalh5eTBSNUctNFJCVkdTdnJmQ1dtUTBwRElNdDJLQlM2MmNTWkxqOTZXTHVMcloyNXhpRnFxMHJWWG8xSUI4REhsUGM1NHNrclN2c2QwbnNETGFzeW93d0xmVkRFOGFoaGEwWWdLMnlsX1A5VjhaNHJoOE5vakl6T3RK?oc=5",
-     "source": "Malay Mail",
-     "published": "2026-11-01T02:53:52+00:00",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQTUYzZDFTTHhmTXNUUlhVX01XWExHRzRzZVF1dG1odUtYUks4aHN2akNtMTJ0Zm5NalQ3Qk03bWpjUkhOSGloTGdodzl6ZkFrcm8wckJSRXBOcWxzb3BPUlFKSjBEQk5rR3JWSGMyT2t0TWY3dnM5dGk1UEZGN3F0ZEdTM0JCR2RYTUtRNmNvc183NGkzeGg0VDlZRWxfaFR2UU5aeVQ0c1dGaUtIWEVLV3ZtUEV5S0VVTDRhTGpYY3I4V0tSS014VEdPM19iTzBZNlQ1S21TYVBjZ1BQanVV0gHnAUFVX3lxTFB3cHhJbVlzRDlVa2NVa1kySndNUDRhYmN2cHE0Y183VXNVVk5oTFlGb3RrQmxmbGlsUmNPc3VWR3dxWVc2MDkzMGJDVmZjOXA5RUFfUnBjdU5GdkJlRUtadzhybnVGWkU1WldxOEEtejZoX3IyaHEydlJlVWt6TEZTZHZGeUZCUFJnS0hXenJKSkptbmNJXzlRMUxSRnlZTnNXTEJMeWFINlJBRVktb1VIVG8tUUU3NTl1V2lWLUttVVlqS2Z3bm03djIwVHd2ZGpTOFJZbzdaMzlvcWhidnQ5ZHdNRHVCMA?oc=5",
+     "source": "InfotechLead",
+     "published": "2026-11-01T01:47:41+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
      "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": [
-      "NST Online",
-      "www.techbarrista.com",
-      "The Bangladesh Monitor"
-     ]
-    },
-    {
-     "title": "Kim Jong Un's cyber army: How North Korea's hackers steal billions for regime",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPMEFfOS1zWlMxLWwtbGVScF9XNlduVjVZUzJ3YkFyQWRUdE54UHhhR0VKTHJCMnNnRk1OTEg1bFlOeDNlMExGRl9uQlBsbW1mVkVpX0VKcmlaWGdZM1lRX3ppZ1JXeDBDckRPV1pENGEzTFQ4T2JhX3pNRkJqZmxJR1FmSEJ0aHVnRHBXUGlTdFFRUFRDaFl3UFVvWnpRS3RkbkwtRHZPaHdPLUExeVNPLVBySzU4eFFONjdSeWl2blNqV2FHbnIweGo4NmpIZTN2bWdXS1RDMzFubll3TFRaa3NUVzNDOTZvQmRqWNIB8gFBVV95cUxQWFdLd2hJZTRtdzBOeXVpQVpiQVNKWU1HWFU5ck9yazBhTXF4TlIzaUNPeEdwd2plQ2pKSXJfLTB5RjZla3JjNUJUZUxEbTFDaDZSR1NaaFdtRHctQUNNZVBScEtHYVpDM2lSNG5YWnRjZV9aVlFLSFNxY1ZIbjZjSVVuNXhLTW1fV2Rfd18tdTlhZjFZUm5TRHdKQWp1bjk3bEJlUXFobjM3OVVRR1JZWkRRMUFYSnVvaldsSnpEWnVMdk1NWGRSN3k1anhqbXVHZW5IYUFNbzM2ZXNfellXZVExQVd1Y3ZXV0tQdWpybXBRQQ?oc=5",
-     "source": "The Times of India",
-     "published": "2026-10-31T13:57:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
+      "Telecom",
       "APAC"
      ],
      "also": []
