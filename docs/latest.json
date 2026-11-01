@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-01T19:46:53+00:00",
+ "generated": "2026-11-01T23:41:50+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -180,6 +180,24 @@
    "name": "Breaking Threats",
    "stories": [
     {
+     "title": "FBI links $6.3 billion Binance crypto heist to North Korean hackers",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/fbi-links-63-billion-binance-crypto-heist-to-north-korean-hackers/",
+     "source": "BleepingComputer",
+     "published": "2026-11-01T19:57:53+00:00",
+     "date_only": false,
+     "summary": "The FBI has confirmed that North Korean state-sponsored hackers known as TraderTraitor were behind the $6.3 billion crypto-theft attack on Binance, making it the largest cryptocurrency heist on record. [...]",
+     "extra": "",
+     "tags": [
+      "Nation-state",
+      "APAC"
+     ],
+     "also": [
+      "The Hacker News",
+      "The Times of India"
+     ]
+    },
+    {
      "title": "Alpine Linux rebuilds GitLab after attempted RCE attack",
      "subtitle": "",
      "link": "https://www.bleepingcomputer.com/news/security/alpine-linux-rebuilds-gitlab-after-attempted-rce-attack/",
@@ -244,20 +262,6 @@
      "also": []
     },
     {
-     "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
-     "source": "The Hacker News",
-     "published": "2026-11-01T07:03:00+00:00",
-     "date_only": false,
-     "summary": "The U.S. Federal Bureau of Investigation (FBI) has officially attributed the theft of more than $6 billion in virtual assets to TraderTraitor, a North Korea-aligned elite hacking group also tracked as Jade Sleet, Pressure Chollima…",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
      "title": "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection",
      "subtitle": "",
      "link": "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html",
@@ -275,6 +279,24 @@
    "name": "APAC Watch",
    "stories": [
     {
+     "title": "Malaysia Airlines' systems untouched by data breach",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVk51MXVMRlpsYkhjZ0tSRWpLTkVkdUlVVUF6bjd5TGQzQ2Rwb0RGck5laTJLMUR3d2p1S09fa3Q2dS1XV0JJbUd0ZjdIOUJkSEFDNmdXM2tJM2R3Ni1aZnU5MGU2ZGRMOVd0WHp2UkpfWjZGaWltbjVpdDVndnhvTGg0VElYZGJqd0FRS3pWcFBIMmFiZmxIYXgyMk5SSHk4MG5HTGhZZWLSAa4BQVVfeXFMTnF6dWlKeU9TSkNJb1hWdXJSOVA2Z1Nvc1p1MklkeVhJZFpIcjg2aWtVeEhzZDNYLVJ3aUFiRmdFajBXMmozZnR3ZFZwbks5ZEhuRXc1SXZpalloWHZ0U3YteGVXal9XamJwemlpcGlXUXF2WkhEbWx2N0NpRjhjR2JjUlhUSVdJM29EU2lPcDFnVnBfQktNamgyV3BobU1rYk9jNlNFUkUzY3RBRlFB?oc=5",
+     "source": "NST Online",
+     "published": "2026-11-01T22:30:59+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": [
+      "Airways Magazine",
+      "Latest news from Azerbaijan"
+     ]
+    },
+    {
      "title": "Australia news live: Qantas seeks answers on data breach, storm prompts asthma warning, property values fall further",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4WnZCUGNOOFdYN1dVOW1HQXIwRHhuZWtoeUp6U05SY3JpbGZGUEZOX3hxcHpLSTJQd24zdEl4U3IxalAzalhaVWUxTnNMY3Frdm5Z?oc=5",
@@ -288,40 +310,6 @@
       "APAC"
      ],
      "also": []
-    },
-    {
-     "title": "GMO to detail cyberattack incident at news conference | NHK WORLD-JAPAN News",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9fSk9QUEpyR09wMUIySmlFQTBIcXFUVnFiVDNTaUtseUJhZWlsRUd5YUFZYklqdGpEZG9PRjNoa3BmS1IxcXpFM20wckhNTlN2TlF3NXdISW9oNlNoSW5aTS1obw?oc=5",
-     "source": "NHKニュース",
-     "published": "2026-11-01T17:57:51+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Malaysia Airlines Warns Customers of Amadeus Data Breach",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlTTNfd3FURnFfUjBmNjVTa09BMWtsMGZyeWMzOTM0ajJ1UmYwLUNBVjI0MUxQLUEzMXVXbGlEZnJKT2prT1A1eExrZW9NRWY4N3NnVTh5QnNJTEJpN0o5M3RsNVA2dTFTQWsyRE84VGRiTlY0cUMwWmNWS2hhUQ?oc=5",
-     "source": "Airways Magazine",
-     "published": "2026-11-01T17:06:37+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": [
-      "Latest news from Azerbaijan",
-      "NST Online",
-      "www.techbarrista.com",
-      "The Bangladesh Monitor"
-     ]
     },
     {
      "title": "North Korea-linked hackers target Japan’s GMO Internet in data breach",
@@ -366,18 +354,6 @@
      "tags": [
       "APAC"
      ],
-     "also": []
-    },
-    {
-     "title": "FBI links North Korean hackers to biggest crypto heist in history; Trump questions claim",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPMU9CYU92MXh6YVJ0NDNnNEpKZlJjZVdLbl82NWdCRWRnUktFWk5nTmNka2FGVWhDSWl3X28waWRRaUdTR0VHcjEyNFlVb052RFlKWUxJV3JMY1ZYc2RfQmV5di1QcWZIV1V2dkd1c0JPUjlTWW5QUldJZG0xdG9Kdkw0OWxsdWlxOEhvUndBdXdZQm9LRl8zckczeHFJSlh0MmljV3dhXzZxTlQ5SzlVWWtxRUptSEZhRnFiMXBCaC13NV9oZmhKRjJXN3otNEZNTG5sUHNVeENEUmhSVXFMOGlHZXFhV0h1OWNQYTdteXdQQmFabHpDd1lKY04wQdIBgwJBVV95cUxNSWFsM0RMVFFzUXVobG1ERVlla0FXbWxWMk9RYUtlTWJ6ZnkwRlRoblN4dUJuejNtbWFFZlMzbGg5Ty1xMER3cnRmUm1ZYTBTTTMtRXN1a0NsMmdRd01UZnhlYmRhSFVYRFZXRUtoNjdJSmVieDBHV05tMDZ4ZFduRUVjWmw1ZDJESHoyV1d1UmsyQWpxbTRzclI2cGFnSjZxQXJvNllTZkktcjlFRUlnWURUQmdHNEUtSmhHM2RsWGczbHVjangzbTZ4T2Y3VC1Kb0o3bWRzS1UyODB5Rk1lZVpzNkdfS1hjczdPUDQ0X3NfQkpVTHdZV0hZX01kb0lIZWlz?oc=5",
-     "source": "The Times of India",
-     "published": "2026-11-01T02:33:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
      "also": []
     },
     {
@@ -601,7 +577,20 @@
   },
   {
    "name": "Government Advisories",
-   "stories": []
+   "stories": [
+    {
+     "title": "Google Chrome Multiple Vulnerabilities",
+     "subtitle": "",
+     "link": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20261030",
+     "source": "HKCERT",
+     "published": "2026-10-30T03:00:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    }
+   ]
   }
  ]
 }
