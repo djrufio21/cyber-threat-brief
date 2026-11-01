@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-01T15:17:56+00:00",
+ "generated": "2026-11-01T19:46:53+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -268,33 +268,6 @@
      "extra": "",
      "tags": [],
      "also": []
-    },
-    {
-     "title": "Northflank security breach leads to abuse of customers' AI API keys",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/northflank-security-breach-leads-to-abuse-of-customers-ai-api-keys/",
-     "source": "BleepingComputer",
-     "published": "2026-10-31T18:01:12+00:00",
-     "date_only": false,
-     "summary": "Cloud application hosting platform Northflank is warning customers to rotate all credentials and secrets stored on its platform after a security breach led to unauthorized use of customers' AI API keys. [...]",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "New Android SMS of Death exploit can remotely crash unpatched phones",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/new-android-sms-of-death-exploit-can-remotely-crash-unpatched-phones/",
-     "source": "BleepingComputer",
-     "published": "2026-10-31T15:35:11+00:00",
-     "date_only": false,
-     "summary": "A security researcher has released a proof-of-concept exploit for a recently patched Android vulnerability, dubbed \"SMS of Death\" and tracked as CVE-2026-58882, that lets attackers remotely disrupt cellular service or crash phones by…",
-     "extra": "",
-     "tags": [],
-     "also": []
     }
    ]
   },
@@ -302,11 +275,26 @@
    "name": "APAC Watch",
    "stories": [
     {
-     "title": "North Korea-linked hacking group likely behind GMO cyberattack: Sources",
+     "title": "Australia news live: Qantas seeks answers on data breach, storm prompts asthma warning, property values fall further",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeU5yWmhEQkNYWWdXNkhod3lITjd3UzNQWmk5WThDZ2tuRTlXZkNmMFo3YkZ4MTNzb3BHd1RDN0VtVkJueF9OZEVnanBqc0hLS3YzS2ZVOVVHRGtXTjNidW12c1QycU1tRi1seFl5bmNXWjNuSHhybnAxdEl5N29vLS1TczBIa2NDb3Z0NXRncktvME4wQXRhc3pxdTZqekJwT0ZvN0ViS0dZQmx0N2FwMUxFYzA?oc=5",
-     "source": "The Straits Times",
-     "published": "2026-11-01T14:40:00+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4WnZCUGNOOFdYN1dVOW1HQXIwRHhuZWtoeUp6U05SY3JpbGZGUEZOX3hxcHpLSTJQd24zdEl4U3IxalAzalhaVWUxTnNMY3Frdm5Z?oc=5",
+     "source": "شبكة تواصل الإخبارية",
+     "published": "2026-11-01T19:36:58+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "GMO to detail cyberattack incident at news conference | NHK WORLD-JAPAN News",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9fSk9QUEpyR09wMUIySmlFQTBIcXFUVnFiVDNTaUtseUJhZWlsRUd5YUFZYklqdGpEZG9PRjNoa3BmS1IxcXpFM20wckhNTlN2TlF3NXdISW9oNlNoSW5aTS1obw?oc=5",
+     "source": "NHKニュース",
+     "published": "2026-11-01T17:57:51+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -316,9 +304,29 @@
      "also": []
     },
     {
+     "title": "Malaysia Airlines Warns Customers of Amadeus Data Breach",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBlTTNfd3FURnFfUjBmNjVTa09BMWtsMGZyeWMzOTM0ajJ1UmYwLUNBVjI0MUxQLUEzMXVXbGlEZnJKT2prT1A1eExrZW9NRWY4N3NnVTh5QnNJTEJpN0o5M3RsNVA2dTFTQWsyRE84VGRiTlY0cUMwWmNWS2hhUQ?oc=5",
+     "source": "Airways Magazine",
+     "published": "2026-11-01T17:06:37+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": [
+      "Latest news from Azerbaijan",
+      "NST Online",
+      "www.techbarrista.com",
+      "The Bangladesh Monitor"
+     ]
+    },
+    {
      "title": "North Korea-linked hackers target Japan’s GMO Internet in data breach",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1kTFJNQWFJZmJLY1lfazVyRnBJckNrUTh1YkhManFRcHkwRE5vOTNtODQ3MVM1WjBtSHZyMTZwRFRuVjBLeHlieUxnNW91czdLUkF0ZUQzZDdybGJPQVpGUnVxZ3VsV0dBSll4THZoQWpqT04xRFN1OVFR0gGOAUFVX3lxTE9Nc0pUSEFweHZNeWRlT2x3dDlkLTBYd0tlUG5CMk0zcGxSY0RHQXVQUFBIQW1lczJEcmhoQ19kMTFTMGhTTHYzYTVMU0drQ0FQajRPanRIaGRvbnRVUFUtSUp4WFZRTGFRXzF0QzNFTm9wTXBUTXhSUmRMNk8wZUJPMzNudW8yZ1dxT21WeHc?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTXNKVEhBcHh2TXlkZU9sd3Q5ZC0wWHdLZVBuQjJNM3BsUmNER0F1UFBQSEFtZXMyRHJoaENfZDExUzBoU0x2M2E1TFNHa0NBUGo0T2p0SGhkb250VVBVLUlKeFhWUUxhUV8xdEMzRU5vcE1wVE14UlJkTDZPMGVCTzMzbnVvMmdXcU9tVnh30gGOAUFVX3lxTE9Nc0pUSEFweHZNeWRlT2x3dDlkLTBYd0tlUG5CMk0zcGxSY0RHQXVQUFBIQW1lczJEcmhoQ19kMTFTMGhTTHYzYTVMU0drQ0FQajRPanRIaGRvbnRVUFUtSUp4WFZRTGFRXzF0QzNFTm9wTXBUTXhSUmRMNk8wZUJPMzNudW8yZ1dxT21WeHc?oc=5",
      "source": "Chosunbiz",
      "published": "2026-11-01T13:51:00+00:00",
      "date_only": false,
@@ -329,25 +337,6 @@
       "APAC"
      ],
      "also": []
-    },
-    {
-     "title": "Malaysia Airlines warns customers after Amadeus data breach",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdG9zcWJlMzZ3X1pvQWlRSDIyaWtKaUJqTnF5cWNVbWllZjJwdGR0dkZ6TzFkQ2pxV3VJVUo0OFVwQl9tSzVDUmc3Q3pMWFlyZFBrOEhMQi1rMklMSzBUZG5Ha3JGMm5ib1hkWVkyYk5wWHdRNmdIOUhxenViZk8yTTF0cC1qWDg?oc=5",
-     "source": "Latest news from Azerbaijan",
-     "published": "2026-11-01T12:35:54+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": [
-      "NST Online",
-      "www.techbarrista.com",
-      "The Bangladesh Monitor"
-     ]
     },
     {
      "title": "Japan Hit by AI-Powered Cyberattack Wave as Dozens of Firms Suffer Data Breaches",
@@ -366,20 +355,6 @@
      "also": []
     },
     {
-     "title": "North Korean hackers stole billions, the FBI says. It’s not their first heist",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQUhQN2IxdWsyT3RhYlBNRm1zLUNWRTFMNHZ3UUVuVlhIdVFudkQ2T3dFS2xGV05jaE1hSlhDd3lXRUVvczROSzBEaEY3NGNFQWxwQ0xRaUtCSU5ha1R5cU1LRkFLTU5fNXhzR2RxY3RZMjByVEZsUnJnZDg0OE80dUtWalN0TGJyTjhnc3ZGTGhGQ0l2U1ZHUlVOM0pwblQyVDlfM1I5R0NyMzFfbG0yLU1kLUUwTnFBcVZIdkhWLW13QQ?oc=5",
-     "source": "The Business Times",
-     "published": "2026-11-01T05:25:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": [
-      "The Times of India"
-     ]
-    },
-    {
      "title": "GMO CEO Kumagai to hold press conference over cyberattack — The Japan Times",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQR2poNVBIbVoxRC0tZ1NkYkhHRnhtUHhzZkRQZkVhRl8tVjEzNWs3OThjT1FhT1U1UVZCeUc1STZ0dmFfUGZJVXRMZDh2V0UxbXZLLXNFWDBlaHhjZUs5U3Z0RVR3SGF6c3J0YXVRTnBDaERYTEZXNFkwSEtHY2IxRnpxbnd4ZXNESXVvOVRsVVhURFNKbThRUVZpSG5YYzZlNUZESlQzZVotTHN0Q19JNGNTUmNwQQ?oc=5",
@@ -391,6 +366,18 @@
      "tags": [
       "APAC"
      ],
+     "also": []
+    },
+    {
+     "title": "FBI links North Korean hackers to biggest crypto heist in history; Trump questions claim",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPMU9CYU92MXh6YVJ0NDNnNEpKZlJjZVdLbl82NWdCRWRnUktFWk5nTmNka2FGVWhDSWl3X28waWRRaUdTR0VHcjEyNFlVb052RFlKWUxJV3JMY1ZYc2RfQmV5di1QcWZIV1V2dkd1c0JPUjlTWW5QUldJZG0xdG9Kdkw0OWxsdWlxOEhvUndBdXdZQm9LRl8zckczeHFJSlh0MmljV3dhXzZxTlQ5SzlVWWtxRUptSEZhRnFiMXBCaC13NV9oZmhKRjJXN3otNEZNTG5sUHNVeENEUmhSVXFMOGlHZXFhV0h1OWNQYTdteXdQQmFabHpDd1lKY04wQdIBgwJBVV95cUxNSWFsM0RMVFFzUXVobG1ERVlla0FXbWxWMk9RYUtlTWJ6ZnkwRlRoblN4dUJuejNtbWFFZlMzbGg5Ty1xMER3cnRmUm1ZYTBTTTMtRXN1a0NsMmdRd01UZnhlYmRhSFVYRFZXRUtoNjdJSmVieDBHV05tMDZ4ZFduRUVjWmw1ZDJESHoyV1d1UmsyQWpxbTRzclI2cGFnSjZxQXJvNllTZkktcjlFRUlnWURUQmdHNEUtSmhHM2RsWGczbHVjangzbTZ4T2Y3VC1Kb0o3bWRzS1UyODB5Rk1lZVpzNkdfS1hjczdPUDQ0X3NfQkpVTHdZV0hZX01kb0lIZWlz?oc=5",
+     "source": "The Times of India",
+     "published": "2026-11-01T02:33:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
      "also": []
     },
     {
@@ -461,6 +448,20 @@
      "summary": "The PHP2Shell disclosure and other major cybersecurity news this month brought into relief the need for well-thought-out cyber-readiness plans",
      "extra": "",
      "tags": [],
+     "also": []
+    },
+    {
+     "title": "ARTEX and Friends: Enter Agentic Offensive Frameworks",
+     "subtitle": "",
+     "link": "https://cloud.google.com/blog/topics/threat-intelligence/artex-and-friends-enter-agentic-offensive-frameworks/",
+     "source": "Google Threat Intelligence",
+     "published": "2026-10-30T14:00:00+00:00",
+     "date_only": false,
+     "summary": "Written by: Aurora Blum, David Mainor, Rohit Nambiar, Omar ElAhdan, Matthew McWhirt, Will Silverstone, Bhavesh Dhake, Chris Busse Introduction Recent intrusions in which threat actors have been observed weaponizing agentic frameworks to…",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
      "also": []
     },
     {
@@ -595,49 +596,12 @@
       "Breach"
      ],
      "also": []
-    },
-    {
-     "title": "ESET APT Activity Report Q2 2026–Q3 2026",
-     "subtitle": "",
-     "link": "https://www.welivesecurity.com/en/eset-research/eset-apt-activity-report-q2-2026-q3-2026/",
-     "source": "ESET Research",
-     "published": "2026-10-28T09:45:00+00:00",
-     "date_only": false,
-     "summary": "An overview of the activities of selected APT groups investigated and analyzed by ESET Research in Q2 2026 and Q3 2026",
-     "extra": "",
-     "tags": [],
-     "also": []
     }
    ]
   },
   {
    "name": "Government Advisories",
-   "stories": [
-    {
-     "title": "Google Chrome Multiple Vulnerabilities",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20261030",
-     "source": "HKCERT",
-     "published": "2026-10-30T03:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "[Security Blog] Data Leakage and Third-Party Risk: When Real Customer Information Becomes a Tool for Scammers",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/blog/data-leakage-and-third-party-risk-when-real-customer-information-becomes-a-tool-for-scammers",
-     "source": "HKCERT",
-     "published": "2026-10-29T16:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    }
-   ]
+   "stories": []
   }
  ]
 }
