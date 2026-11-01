@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-31T21:44:11+00:00",
+ "generated": "2026-11-01T01:17:30+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -319,6 +319,18 @@
    "name": "APAC Watch",
    "stories": [
     {
+     "title": "North Korean Hackers Stole Billions, the F.B.I. Says. It’s Not Their First Heist.",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5XN3hzVndxdEtwdkhCaFBGZkJmdlVkeHdFUl9KYk1VVEo2eXA3WGRfdmhCV2NJcmxPVGZ4ckZNbkVzUzh2Q0k2REtCVFg1cVJrcVZXNWFsUHlPM0NSMm9zVWR6bjdyMHFVbWF3OXdSVnVlNlUtTjlGSFJn?oc=5",
+     "source": "The New York Times",
+     "published": "2026-10-31T23:05:42+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
      "title": "Japan Airlines data breach affects 92,000 customers",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVXlObi1pZGdXZlVmR3R4LVBnYVprSFFkY3BKRG1DQWozTkhicUhMTEF0Z2tQNlRteVc0TkllRWpxaUpYNkdiRlpOaU5hZE5SQTg1WWV5R3ZQSTBRWnVEQUUwRFR4aG02OXdIQnMzeHNTT1pDalE0VFlNQlBGS2FBX2xQNGtaN3pkVldBNHhjSHVqQ1MtQXc?oc=5",
@@ -358,36 +370,47 @@
      "date_only": false,
      "summary": "",
      "extra": "",
-     "tags": [
-      "APAC"
-     ],
+     "tags": [],
      "also": [
+      "New Age BD",
       "India News Network",
       "The Hawk",
-      "Kashmir Reader",
-      "Japan Today"
+      "Kashmir Reader"
      ]
     },
     {
-     "title": "Microsoft: North Korean Hackers Use AI for Fake Resumes, Interview Answers to Land Covert Jobs at 309 US Companies",
+     "title": "Kaspersky Uncovers NetamLoader Malware Targeting Customized Government Windows Systems in Asia",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12NUZaQWRjTTFrMTdORUdTTXdYZ1V4QXM5MG41SXNrdkR2VmlzVFFRQlRFOGRjR1lFR3EwemN1Uk10cXpRd1A5OG5jSmsxLU15Q0cyb2ZGaVpZeEE0b1lXdV8tZ1MyQ2VqTjI3X05JYnZnRzZzRXc?oc=5",
-     "source": "BigGo Finance",
-     "published": "2026-10-31T00:35:00+00:00",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVkk3clYxUmJvRDBOU1lfRG5iWV9ZcTQxdjNfcTdiVElyTmdobjBYQ0Z5YnRmaUp3MzVmM1lJSVM4SjNEYkg0VWM0LTd2M1lJZDFNS3NBc19TQ2JOXzFrT0lRVFQyZ2tCRDYxWUNwQlIySEJocHJoU0dvVk1QWEpKSWVtVEpRTkJPNU9BMlB2bFdFeVMwWS1Pb0xMYzB1eGpJQWcwMkt4ZGJqb2hEWEpoZ3poX1RhRzFId2Fwaw?oc=5",
+     "source": "NewsAffinity",
+     "published": "2026-10-31T07:22:51+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Fake ChatGPT apps mined XMR, self-taught hacker arrested in South Korea, and other cybersecurity news",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONjBtcXFCWGJmLXJ0RzdlRWpWLXRjVlBuc0lhWEEtWmRzS1AwZFNCQkd1b2hSdTJmakgyU2N2UFloWkVQc09aZlJ2MWRkbzBzWmx4WDB3ckFzVURiSmhSZkNXUkVha19wY2NzVkMxNjc3TXBVTUZ3ZDNjb3pYXzdNbzk1Um4wY1I5TTlneHNoaTBMcU1LNkZ0NXRfcFY2bndGSVJzYURxNFMxYy11SGdEMm9wQ0EzLXNrc2tyQmx6MmE?oc=5",
+     "source": "ForkLog",
+     "published": "2026-10-31T04:00:00+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
      "tags": [
-      "AI"
+      "AI",
+      "APAC"
      ],
      "also": []
     },
     {
-     "title": "India's RBI tightens cyber checks on lenders after spate of hacks",
+     "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUV9lcE01R2l5NFJ3Nmg3YWVuSUxtcUNET1ZsTHdEMGNTcGh6X1pqT0NjUkk3NFBXOHliWlhuaXZISV9KdXMxbFVyVGo0OXhUMkdFczRyVjRVMWhfWVRtN1JWRlNpVkdzNUJUNDQzTFM2TlJjbkxVUmljbnFSNDFQeWNXUE1ZTkJuQ2hxRnRIMENTUGprdW9NRWFYMkstLVNIbVpBc0NaZk1mVmlCV0pTUQ?oc=5",
-     "source": "Reuters",
-     "published": "2026-10-30T21:59:04+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9QRnRScmRRaTN0MWFnWHppc2FzSVA4YW1Fc3g0SGp3NDhJdUpBVUg1WnlaWGo4MWVVNWtHc1pyZGYxSmhBQVo3aEVaQUVsQThtazJGLWhoT1QtZkE?oc=5",
+     "source": "BBC",
+     "published": "2026-10-31T02:12:19+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
