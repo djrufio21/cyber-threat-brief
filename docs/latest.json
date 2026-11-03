@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-03T15:19:55+00:00",
+ "generated": "2026-11-03T21:07:54+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -146,6 +146,170 @@
    "name": "Breaking Threats",
    "stories": [
     {
+     "title": "Binance says fake job interview led to $6.3 billion crypto heist",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/binance-says-fake-job-interview-led-to-63-billion-crypto-heist/",
+     "source": "BleepingComputer",
+     "published": "2026-11-03T20:05:50+00:00",
+     "date_only": false,
+     "summary": "Cryptocurrency exchange Binance says North Korean hackers used a fake job interview to trick an employee into installing malware that ultimately let them compromise the company's wallet infrastructure and steal about $6.34 billion in…",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": [
+      "The Hacker News"
+     ]
+    },
+    {
+     "title": "Google dismantles massive botnet hidden in Android TV boxes",
+     "subtitle": "",
+     "link": "https://therecord.media/google-dismantles-botnet-hidden-android-tv-boxes",
+     "source": "The Record",
+     "published": "2026-11-03T19:48:00+00:00",
+     "date_only": false,
+     "summary": "The overwhelming majority of the infected devices in the X.CPE botnet are Android TV set-top boxes, Google said, adding that they observed a number of other infected Android-based IoT devices, including telehealth devices, karaoke machines…",
+     "extra": "",
+     "tags": [],
+     "also": [
+      "SecurityWeek"
+     ]
+    },
+    {
+     "title": "Google: LLMjacking attacks rack up $1 million in cloud AI charges",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/google-llmjacking-attacks-rack-up-1-million-in-cloud-ai-charges/",
+     "source": "BleepingComputer",
+     "published": "2026-11-03T18:51:04+00:00",
+     "date_only": false,
+     "summary": "Large language model hijacking attacks, also known as LLMjacking, are generating large fraudulent cloud charges, with some organizations losing more than $100,000 per day. [...]",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": [
+      "The Hacker News"
+     ]
+    },
+    {
+     "title": "mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html",
+     "source": "The Hacker News",
+     "published": "2026-11-03T18:46:38+00:00",
+     "date_only": false,
+     "summary": "Customers of the mSecure password manager are being urged to act now to protect the confidential information they store in it, possibly by changing passwords, resetting two-factor authentication (2FA), and removing passkeys. The warning…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Several German lawmakers and foreign policy staff received Apple warnings on spyware",
+     "subtitle": "",
+     "link": "https://therecord.media/german-officials-among-apple-spyware-warning-recipients",
+     "source": "The Record",
+     "published": "2026-11-03T18:44:00+00:00",
+     "date_only": false,
+     "summary": "Members of Germany's political elite were among the spyware targets in 99 countries that Apple personally warned recently.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/chainstack-reports-production-systems.html",
+     "source": "The Hacker News",
+     "published": "2026-11-03T18:16:19+00:00",
+     "date_only": false,
+     "summary": "Blockchain infrastructure provider Chainstack on Tuesday disclosed that it was targeted in a cyber attack that allowed an unauthorized party to gain access to some parts of its infrastructure. The incident is assessed to be part of a…",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": [
+      "Tech in Asia",
+      "Chosunbiz"
+     ]
+    },
+    {
+     "title": "British businesses caught in Europe-wide supermarket fridge attacks",
+     "subtitle": "",
+     "link": "https://therecord.media/british-businesses-caught-in-europe-wide-supermarket-fridge-attacks",
+     "source": "The Record",
+     "published": "2026-11-03T17:43:00+00:00",
+     "date_only": false,
+     "summary": "Supermarket and grocery store refrigerator controls across Europe were hacked in the early hours of Monday in the second such wave of attacks in recent weeks — following a first wave in France — with unidentified perpetrators defrosting…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Binance CEO says ‘months-long campaign’ led to $6.3 billion theft as N. Korea denies responsibility",
+     "subtitle": "",
+     "link": "https://therecord.media/binance-cryptocurrency-theft-months-long-campaign-nkorea",
+     "source": "The Record",
+     "published": "2026-11-03T16:42:00+00:00",
+     "date_only": false,
+     "summary": "North Korean attackers \"combined a range of techniques, including social engineering by fake recruitment interviews,\" Binance said about the multibillion-dollar crypto heist it discovered in October.",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html",
+     "source": "The Hacker News",
+     "published": "2026-11-03T15:59:19+00:00",
+     "date_only": false,
+     "summary": "Barracuda has disclosed details of two vulnerabilities affecting its products that, if chained together, could allow an attacker to bypass authorization controls and gain root access to a susceptible device. The vulnerabilities, a…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "9 Cyber Awareness Tips That Actually Match Today's Maze of Threats",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/cyber-risk/9-cyber-awareness-tips-todays-maze-threats",
+     "source": "Dark Reading",
+     "published": "2026-11-03T15:38:20+00:00",
+     "date_only": false,
+     "summary": "Practical guidance on safer search, stronger login security, better executive protection, and other habits that help reduce enterprise risk.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "LLMjacking Emerges as Thriving Cybercriminal Enterprise",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/cloud-security/llmjacking-thriving-cybercriminal-enterprise",
+     "source": "Dark Reading",
+     "published": "2026-11-03T15:35:50+00:00",
+     "date_only": false,
+     "summary": "Cybercriminals have turned reselling cloud access to LLMs into a lucrative business model, with some victims paying as much as $1 million in resource consumption before access was revoked.",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html",
+     "source": "The Hacker News",
+     "published": "2026-11-03T15:16:32+00:00",
+     "date_only": false,
+     "summary": "An attacker broke into the update system of the cPGuard security tool on November 2 and used it to send a malicious script to customers' Linux servers. The script installed a backdoor and collected password hashes and other sensitive files…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
      "title": "Barracuda warns of critical flaws allowing root access to devices",
      "subtitle": "",
      "link": "https://www.bleepingcomputer.com/news/security/barracuda-warns-of-critical-flaws-allowing-root-access-to-devices/",
@@ -242,18 +406,6 @@
      "also": []
     },
     {
-     "title": "Russia-linked cyber spies target Ukraine's war crimes investigations, military aid routes",
-     "subtitle": "",
-     "link": "https://therecord.media/russia-linked-cyber-spies-target-ukraine-war-support",
-     "source": "The Record",
-     "published": "2026-11-03T13:39:00+00:00",
-     "date_only": false,
-     "summary": "The hackers use relatively simple malware to steal sensitive documents, login credentials and other information from Ukrainian organizations, particularly those near the front line and the Russian border.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
      "title": "Police seizes over 100 servers in investment scam crackdown",
      "subtitle": "",
      "link": "https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown/",
@@ -326,153 +478,6 @@
       "Breach"
      ],
      "also": []
-    },
-    {
-     "title": "Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html",
-     "source": "The Hacker News",
-     "published": "2026-11-03T11:00:45+00:00",
-     "date_only": false,
-     "summary": "A Russia-aligned threat actor known as Gorbag has been observed using simple information stealer malware in attacks targeting Ukrainian organizations. \"Active since at least February 2025, the group has focused exclusively on Ukrainian…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Harvard University data breach exposed info of 851,000 accounts",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/harvard-university-data-breach-exposed-info-of-851-000-accounts/",
-     "source": "BleepingComputer",
-     "published": "2026-11-03T10:53:25+00:00",
-     "date_only": false,
-     "summary": "Hackers who breached Harvard University's Alumni Affairs and Development systems in November 2025 stole data linked to more than 850,000 unique email addresses, according to breach notification service Have I Been Pwned. [...]",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": [
-      "The Star"
-     ]
-    },
-    {
-     "title": "UK Cyber Chief Says the UK Will Face AI Cyberattacks on Critical Infrastructure by 2028",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/uk-cyber-chief-says-the-uk-will-face-ai-cyberattacks-on-critical-infrastructure-by-2028/",
-     "source": "SecurityWeek",
-     "published": "2026-11-03T09:49:12+00:00",
-     "date_only": false,
-     "summary": "The U.K. will likely face AI cyberattacks on its critical infrastructure by 2028 as criminals and states, including China and Russia, increasingly use AI in their cyber activity. The post UK Cyber Chief Says the UK Will Face AI…",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Google Dismantles XCPE Botnet of 1.3 Million Android Devices",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/google-dismantles-xcpe-botnet-of-1-3-million-android-devices/",
-     "source": "SecurityWeek",
-     "published": "2026-11-03T09:22:09+00:00",
-     "date_only": false,
-     "summary": "The botnet was created and operated for financial gain by Android OEM/ODM Videostrong Technology. The post Google Dismantles XCPE Botnet of 1.3 Million Android Devices appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [],
-     "also": [
-      "BleepingComputer"
-     ]
-    },
-    {
-     "title": "NATO’s Crossed Swords Exercise Brings AI Agents Into Cyber Operations Training",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/natos-crossed-swords-exercise-brings-ai-agents-into-cyber-operations-training/",
-     "source": "SecurityWeek",
-     "published": "2026-11-03T08:49:03+00:00",
-     "date_only": false,
-     "summary": "The NATO CCDCOE exercise in Estonia introduces AI agents and OpenAI Daybreak into joint cyber and kinetic operations training. The post NATO’s Crossed Swords Exercise Brings AI Agents Into Cyber Operations Training appeared first on…",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html",
-     "source": "The Hacker News",
-     "published": "2026-11-03T08:31:48+00:00",
-     "date_only": false,
-     "summary": "BTCPay Server, a self-hosted, open-source cryptocurrency payment processor, has urged users to install the latest version of its software in response to reports of Bitcoin and Litecoin being stolen from hot wallets on instances running…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Over 100 European Stores Hit as Supermarket Fridge Attacks Return",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/over-100-european-stores-hit-as-supermarket-fridge-attacks-resume/",
-     "source": "SecurityWeek",
-     "published": "2026-11-03T07:43:24+00:00",
-     "date_only": false,
-     "summary": "Attackers again tampered with internet-exposed refrigeration controllers, this time at stores in Belgium, Sweden, Ireland and beyond. The post Over 100 European Stores Hit as Supermarket Fridge Attacks Return appeared first on SecurityWeek…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html",
-     "source": "The Hacker News",
-     "published": "2026-11-03T07:43:07+00:00",
-     "date_only": false,
-     "summary": "Synology is urging customers to update the DiskStation Manager (DSM) software powering its Network Attached Storage (NAS) devices following ransomware attacks. The Taiwanese vendor said it observed threat actors exploiting a vulnerability…",
-     "extra": "",
-     "tags": [
-      "Ransomware"
-     ],
-     "also": []
-    },
-    {
-     "title": "New Wave of Refrigeration Cyberattacks Hits Supermarkets Across Europe, Forcing Stores to Pull Food",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html",
-     "source": "The Hacker News",
-     "published": "2026-11-03T07:27:07+00:00",
-     "date_only": false,
-     "summary": "Attackers remotely changed the settings on refrigeration controls at supermarkets in Belgium, Sweden, Estonia and other European countries overnight into Monday, November 2, warming fridges and freezers. No chain reported more than several…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html",
-     "source": "The Hacker News",
-     "published": "2026-11-03T05:34:41+00:00",
-     "date_only": false,
-     "summary": "A maximum-severity security flaw impacting Siemens SIMATIC IoT2050 Advanced devices has come under active exploitation, VulnCheck has revealed. The vulnerability, tracked as CVE-2026-58115 (CVSS score: 10.0), is a case of missing…",
-     "extra": "",
-     "tags": [
-      "Exploited"
-     ],
-     "also": []
-    },
-    {
-     "title": "Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/attackers-target-unpatched.html",
-     "source": "The Hacker News",
-     "published": "2026-11-03T05:34:37+00:00",
-     "date_only": false,
-     "summary": "Threat actors are attempting to exploit an unpatched maximum-severity security vulnerability in the CryptoPayment Gateway WordPress plugin, according to findings from Defused Cyber. The vulnerability in question is CVE-2026-81648, which…",
-     "extra": "",
-     "tags": [],
-     "also": []
     }
    ]
   },
@@ -485,6 +490,21 @@
      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdU0wVTJYREc5MXBrTkhoYk1zSHJnWWhBWDBvcTRydVVpaVhVb1ZLWjN6T3prWDFvY0pFbmx4QUZHYnVYYzBXTmhybFV2Uldhb1BYcXdBZDZDMXBwVUxXc3NEYnlFUHFpMTdTdjBCV2VLU0xQYkJ3TndrYXZVMEJpWC02NzV3YlhTUnlhN1hqanpDZmljRS15Xy01cENOdw?oc=5",
      "source": "AsiaOne.com",
      "published": "2026-11-03T14:13:54+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Malaysia Airlines says IT systems unaffected by Amadeus data breach",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWHJiRXE1WVZfM2xtdmV0RFAxVDUwLTVreFlaODRZby12M3Z2c2loazRNT3R4bi1pbFBYQXU1ckhxZG51NTVFZHB4M1VWUDB1cWtHX1VyUGNaeGg0V25PbUVXbEhTTG5wTnNKaldjZnlDN29DRTdNMHJ6NDhnN2txWWdHYXgzSjBGVUw5TG9TODlVdjVhZU1zUjdkejZWcmtJZ3AzZTBGU2djNWpqTTFBTWNIRWVWel9jd0RaVnVHX2lZV1IycUNtT1ltdVVQbm9hcVHSAcQBQVVfeXFMTTZTUkFmb2lFMjhnNzBGbk1nNVZUX0JVVjJ2THNXd0lEU2daQ2doVjdONGk3a1ZBVUxYOGoxQlYzdjk2MVBWcHR5R0hEZDdCd0JickxNM28wOGxVQVQ1bVh1ZmVWVlJtVm1HcTlMWm1HblR4c2pUM0NTaTNjWUMxTkNfaldxTGoyNnV4UGpxZDNjRG82aGpRRUxRNGhnVTNmaTJxS0ZVb193VGNUeTNzVm5EV3otMHdTaG1HYjQ5NDRodWhHWA?oc=5",
+     "source": "NST Online",
+     "published": "2026-11-03T13:00:00+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -508,25 +528,8 @@
      ],
      "also": [
       "The Edge Malaysia",
-      "Sarawak Tribune"
-     ]
-    },
-    {
-     "title": "MoneySmart CEO Vinod Nair apologises for 29 Oct data breach, some S’pore & Hong Kong users affected",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVdU5fNHdZYWcwVkxvSjN1ZGc4Rl9XME5kUTFzQ1BtN0JmeERveWpqcFAxUUU0V2pRcDlOcVU5bm5GMlZjRmVYUk9BblItV2E2NGN6TndHZTZTRW9PZ1ltS1dVa081Z2PSAWdBVV95cUxQVXVOXzR3WWFnMFZMb0ozdWRnOEZfVzBOZFExc0NQbTdCZnhEb3lqanBQMVFFNFdqUXA5TnFVOW5uRjJWY0ZlWFJPQW5SLVdhNjRjek53R2U2U0VvT2dZbUtXVWtPNWdj?oc=5",
-     "source": "Must Share News",
-     "published": "2026-11-03T09:18:53+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": [
-      "The Business Times",
-      "Asia Business Outlook"
+      "Sarawak Tribune",
+      "KLSE Screener"
      ]
     },
     {
@@ -556,24 +559,7 @@
      "also": []
     },
     {
-     "title": "MoneySmart reports customer data breach in Singapore, HK",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWkREVlhCWnZBWXdYQWZqTWptNmw2bzhQTC10a2JaUkgwc0doUlk0TUlIWFp6ODlyczFqZENweHJvZy1GTHhDLVBINzl4V1laaXdRVzVRRkJIeV9TZWRUMHQ3QzFRVmtSZF9zVVpvc3VFOHo1Ui1yMWp1ZVROUmF6WWRCSEJrTTVJUjAxXw?oc=5",
-     "source": "Tech in Asia",
-     "published": "2026-11-03T05:17:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": [
-      "Chosunbiz"
-     ]
-    },
-    {
-     "title": "Australia warned as European supermarkets come under attack",
+     "title": "Australia warned as cyberattacks in European supermarkets forced to dump tonnes of food",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMW8zOTlrODctTVVZRUU2dEh0ekxxMm14aFF3c1BwN3d1Ykh6ekpCTV9jZHA5TTlSam1vOU50bF9pOVUzTEJQMjVSV0trUzhuYVFhRS1tSFhaVG5uRFY1dFpIM3NMMGhTSmtsUGNFb3RtVWpzNjg1T2xKR3NLVTVWVTBwWGlhYjBIR3JjZnd6cHhDYWNFLVhHZHdSRDZYa2E3eUtPZU1UZnFDME1sc0Y5ZmxEVUt2NXBtTDlFSHhCOHV1eVlxTElR?oc=5",
      "source": "Yahoo News Australia",
@@ -587,32 +573,21 @@
      "also": []
     },
     {
-     "title": "Malaysia to hold meetings to prepare for rising cyber and geopolitical threats, PM says",
+     "title": "MoneySmart hit by data breach; Singapore, Hong Kong customers affected",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTjdsS0VLMlNkS2JVTFFXZS1vdVotNFJfOEpvUHpDUk1ET3lzZ2ctQzBfR05OTGdiRjQwZjZyTmNVclgzaVBtUm1FMGJSTm03c2xwQWMzdFdDT0tlXzZLMzUyT04wOUlqWXZvTXB2Vi1aejJaMzc5TmpoUGhpN05wRHR1X2J0UUhfbTZEeGVhLVJrbjlmanozOVYwanVZUW8wQ043ck1Vcm1mX1BRQVZzam5LMXlhMU85aWtOUzFhUDYzYzJKVHlCMg?oc=5",
-     "source": "Awani International",
-     "published": "2026-11-03T04:39:57+00:00",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOblZlNHZ4ejlGN0Q0c01wMmV2Y1UtMEY4eDRDTGxhaHBMZEZ0MjVremZISHppTXc3QUlTZFdFaTVVY0xtNjVaQzdVV2YtYWhBdEdjZjh4ajJiZ2ppLTVyNzlRUUotN3BPQmh6Ykx3UUVxUUU0SUVzTnhNYXVyNld3cnZXYlBZWmd1LTlDRnlBcmZuZDBXSFYxRTI0amFhcjRnSEtDZEdKZFJLTmgtdy13UzYwM2ZjNm8?oc=5",
+     "source": "The Business Times",
+     "published": "2026-11-03T04:50:00+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
      "tags": [
+      "Breach",
       "APAC"
      ],
-     "also": []
-    },
-    {
-     "title": "[ED] North Korea's crypto heists threaten global security",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX3prU3dxdzhmN1ZZb19GbFRDa2lDUGhtM0haV2Rpd0p3aWE1RDFQZDNSQVlPam1obkw3WVdNdTJxb2xtRXVYYXUyQi14Y205X1p2S2lnbjlaT0VHR0VhdGx6Qk1kSVBpODJDaXE2ZHAxZ3RtSEJhQ1FrYVlpb0JBZVJndjlRNmxvVkMxeEcxQWhrR1FTYU9TWHdqa0pDQ3I2SmhaalM1eG1jSWRmT21ocnJvT0nSAbQBQVVfeXFMTV96a1N3cXc4ZjdWWW9fRmxUQ2tpQ1BobTNIWldkaXdKd2lhNUQxUGQzUkFZT2ptaG5MN1lXTXUycW9sbUV1WGF1MkIteGNtOV9adktpZ245Wk9FR0dFYXRsekJNZElQaTgyQ2lxNmRwMWd0bUhCYUNRa2FZaW9CQWVSZ3Y5UTZsb1ZDMXhHMUFoa0dRU2FPU1h3amtKQ0NyNkpoWmpTNXhtY0lkZk9taHJyb09J?oc=5",
-     "source": "The Korea Times",
-     "published": "2026-11-03T04:14:02+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
+     "also": [
+      "Asia Business Outlook"
+     ]
     },
     {
      "title": "Who's behind Europe's freezer hacks — and is Australia next?",
@@ -670,44 +645,24 @@
       "APAC"
      ],
      "also": []
-    },
-    {
-     "title": "Malaysia Airlines says IT systems unaffected by Amadeus data breach",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcXZwN0RXdl9Jdms3bGc3OE8wbHQwam0wbE96VUNvekdYQ1VoTEZwRk0ybkE5MFRFYTlMaUFHSWJxZll1elpYalpDbDNiVjhsRG9JT0dQVFpKRnRLc2IxaFN0Wi1wWktEbGt0TVVtb0ZpMEQwTGFyXzgtZ1V0SzZFNTJSbXB6QW9mTDdjbUl2MmFURFNPdFhHWF9DRnZTalctWU5zdUM4V2thaE1VZzBaRW5pdWJkQ3Q5eFVLZ1BkQdIBxAFBVV95cUxNNlNSQWZvaUUyOGc3MEZuTWc1VlRfQlVWMnZMc1d3SURTZ1pDZ2hWN040aTdrVkFVTFg4ajFCVjN2OTYxUFZwdHlHSERkN0J3QmJyTE0zbzA4bFVBVDVtWHVmZVZWUm1WbUdxOUxabUduVHhzalQzQ1NpM2NZQzFOQ19qV3FMajI2dXhQanFkM2NEbzZoalFFTFE0aGdVM2ZpMnFLRlVvX3dUY1R5M3NWbkRXei0wd1NobUdiNDk0NGh1aEdY?oc=5",
-     "source": "NST Online",
-     "published": "2026-11-02T19:42:11+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": [
-      "teiss"
-     ]
-    },
-    {
-     "title": "News - Major data breach at Japan’s So-net puts over 2.6 million records at risk",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaW81Rm42aHZ1MGF4Z0J1MmVIb0poN3M1N0VhUnM2VTVoYkdoME9QSnhtQzh5Vl9PTUdfckRrWkVIdXpGSDAzSjFPREI3SlZvVi0tdmZQWlpLMEZjUFVJTGlfUTZ0ZEp5UFJtblA3Q2xqTVBIZF9XVlgxSEhZalJTMnA3NkluaTlZQVBMWkFRbS1uUFU3a2xjMHJaYXVOTHY0bGRzWTRSdzFKdw?oc=5",
-     "source": "teiss",
-     "published": "2026-11-02T18:48:56+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
     }
    ]
   },
   {
    "name": "Threat Research",
    "stories": [
+    {
+     "title": "Fake-download campaign uses trojanized installers to deliver monetization payloads",
+     "subtitle": "",
+     "link": "https://www.microsoft.com/en-us/security/blog/2026/11/03/fake-download-campaign-uses-trojanized-installers-deliver-monetization-payloads/",
+     "source": "Microsoft Threat Intelligence",
+     "published": "2026-11-03T17:32:47+00:00",
+     "date_only": false,
+     "summary": "Microsoft Threat Intelligence tracks a fake-download campaign that uses trojanized Inno installers to deliver multiple monetization offers and provides detection and investigation guidance across the complete installer session. The post…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
     {
      "title": "Free the Model, Sell the Gateway: Prompt Adware hidden in Jailbreak Bundles",
      "subtitle": "",
@@ -883,20 +838,6 @@
      "summary": "In this edition of the Threat Source newsletter, William explores how PHP has taken over the conversation, Node.js has joined in, but underneath it all, there are still good people doing good work.",
      "extra": "",
      "tags": [],
-     "also": []
-    },
-    {
-     "title": "Tracking AI adoption in North Korean threat actor tradecraft",
-     "subtitle": "",
-     "link": "https://www.microsoft.com/en-us/security/blog/2026/10/29/tracking-ai-adoption-in-north-korean-threat-actor-tradecraft/",
-     "source": "Microsoft Threat Intelligence",
-     "published": "2026-10-29T16:00:00+00:00",
-     "date_only": false,
-     "summary": "As Microsoft Threat Intelligence continues to track how threat actors operationalize AI to increase the speed and efficiency of attacks, we’ve identified North Korean threat actors expanding their use of AI with varying levels of adoption…",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
      "also": []
     }
    ]
