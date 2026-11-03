@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-02T23:55:50+00:00",
+ "generated": "2026-11-03T06:59:28+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -139,46 +139,62 @@
      "product": "Brotli",
      "cve": "CVE-2026-111497",
      "also": []
-    },
-    {
-     "title": "CVE-2026-109618: PHP Group PHP",
-     "subtitle": "PHP Memory Corruption Vulnerability",
-     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-109618",
-     "source": "CISA KEV",
-     "published": "2026-10-26T00:00:00+00:00",
-     "date_only": true,
-     "summary": "PHP contains an out-of-memory corruption vulnerability that allows for unauthenticated remote code execution.",
-     "extra": "US federal patch deadline 29 Oct",
-     "tags": [
-      "Exploited"
-     ],
-     "vendor": "PHP Group",
-     "product": "PHP",
-     "cve": "CVE-2026-109618",
-     "also": []
-    },
-    {
-     "title": "CVE-2026-109619: PHP Group PHP",
-     "subtitle": "PHP Stale Internal Request-State Vulnerability",
-     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-109619",
-     "source": "CISA KEV",
-     "published": "2026-10-26T00:00:00+00:00",
-     "date_only": true,
-     "summary": "PHP contains a stale internal request-state vulnerability that allows for unauthenticated remote code execution.",
-     "extra": "US federal patch deadline 29 Oct",
-     "tags": [
-      "Exploited"
-     ],
-     "vendor": "PHP Group",
-     "product": "PHP",
-     "cve": "CVE-2026-109619",
-     "also": []
     }
    ]
   },
   {
    "name": "Breaking Threats",
    "stories": [
+    {
+     "title": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html",
+     "source": "The Hacker News",
+     "published": "2026-11-03T05:34:41+00:00",
+     "date_only": false,
+     "summary": "A maximum-severity security flaw impacting Siemens SIMATIC IoT2050 Advanced devices has come under active exploitation, VulnCheck has revealed. The vulnerability, tracked as CVE-2026-58115 (CVSS score: 10.0), is a case of missing…",
+     "extra": "",
+     "tags": [
+      "Exploited"
+     ],
+     "also": []
+    },
+    {
+     "title": "Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/attackers-target-unpatched.html",
+     "source": "The Hacker News",
+     "published": "2026-11-03T05:34:37+00:00",
+     "date_only": false,
+     "summary": "Threat actors are attempting to exploit an unpatched maximum-severity security vulnerability in the CryptoPayment Gateway WordPress plugin, according to findings from Defused Cyber. The vulnerability in question is CVE-2026-81648, which…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Tech Firms Dismantle Botnet That Turned 1.3M TV Boxes Into Proxies",
+     "subtitle": "",
+     "link": "https://krebsonsecurity.com/2026/11/tech-firms-dismantle-botnet-that-turned-1-3m-tv-boxes-into-proxies/",
+     "source": "Krebs on Security",
+     "published": "2026-11-03T02:24:31+00:00",
+     "date_only": false,
+     "summary": "Google said today it worked with industry partners to dismantle a botnet made up of more than 1.3 million Android TV set-top boxes that ship with malicious software which secretly rents the user's Internet connection out to strangers and…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "UK faces ‘unprecedented rise’ in cyberattacks in coming months, warns cyber chief",
+     "subtitle": "",
+     "link": "https://therecord.media/uk-ncsc-predicts-rise-cyberattacks-coming-months",
+     "source": "The Record",
+     "published": "2026-11-03T00:01:00+00:00",
+     "date_only": false,
+     "summary": "\"[V]ulnerabilities that have been tolerated for far too long can now be discovered and exploited at a scale that was once unimaginable,\" the NCSC's chief will warn in releasing the agency's annual report.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
     {
      "title": "One Compromised Laptop, Billions Lost: The Binance Attack-Path Warning",
      "subtitle": "",
@@ -379,18 +395,6 @@
      "also": []
     },
     {
-     "title": "Apple warns users in 99 countries of mercenary spyware",
-     "subtitle": "",
-     "link": "https://therecord.media/apple-warns-users-99-countries-mercenary-spyware",
-     "source": "The Record",
-     "published": "2026-11-02T14:42:00+00:00",
-     "date_only": false,
-     "summary": "Apple does not attribute attacks or the notices to specific malicious actors or geographical regions, the notification said, due to the “extreme cost, sophistication, and worldwide nature of mercenary spyware attacks [which] make them some…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
      "title": "Hackers disrupt refrigeration systems at European supermarkets",
      "subtitle": "",
      "link": "https://www.bleepingcomputer.com/news/security/hackers-disrupt-refrigeration-systems-at-european-supermarkets/",
@@ -430,13 +434,13 @@
      "also": []
     },
     {
-     "title": "Revolve Data Breach Impacts at Least 180,000 People",
+     "title": "Revolve Data Breach Impacts at Least 200,000 People",
      "subtitle": "",
      "link": "https://www.securityweek.com/revolve-data-breach-impacts-at-least-180000-people/",
      "source": "SecurityWeek",
      "published": "2026-11-02T13:35:21+00:00",
      "date_only": false,
-     "summary": "Hackers accessed its online shopping platform and stole customers’ personal and payment card information. The post Revolve Data Breach Impacts at Least 180,000 People appeared first on SecurityWeek .",
+     "summary": "Hackers accessed its online shopping platform and stole customers’ personal and payment card information. The post Revolve Data Breach Impacts at Least 200,000 People appeared first on SecurityWeek .",
      "extra": "",
      "tags": [
       "Breach"
@@ -468,48 +472,6 @@
       "Exploited"
      ],
      "also": []
-    },
-    {
-     "title": "Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html",
-     "source": "The Hacker News",
-     "published": "2026-11-02T11:50:00+00:00",
-     "date_only": false,
-     "summary": "Two critical flaws in Langflow could let a remote attacker with no account bypass authentication or run arbitrary code, IBM said last week. Langflow is an open-source tool for building AI agents and workflows, and its vulnerability reports…",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html",
-     "source": "The Hacker News",
-     "published": "2026-11-02T11:30:00+00:00",
-     "date_only": false,
-     "summary": "Forty percent of security teams now use AI every day, and another 56% are testing it. Only 4% have no plans to adopt it, according to Prophet Security's State of AI in Security Operations 2026 survey of more than 250 CISOs, SOC leaders and…",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Malicious Claude Code Extension Served in Cursor Supply Chain Attack",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/malicious-claude-code-extension-served-in-cursor-supply-chain-attack/",
-     "source": "SecurityWeek",
-     "published": "2026-11-02T11:29:39+00:00",
-     "date_only": false,
-     "summary": "The extension performed host reconnaissance and attempted to create a reverse SSH tunnel. The post Malicious Claude Code Extension Served in Cursor Supply Chain Attack appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [
-      "Supply chain"
-     ],
-     "also": []
     }
    ]
   },
@@ -517,11 +479,11 @@
    "name": "APAC Watch",
    "stories": [
     {
-     "title": "Hanyang Securities reports Korea data breach exposing customer and employee info",
+     "title": "MoneySmart hit by data breach; Singapore, Hong Kong customers affected",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPMHNwbVZmS013V2FJVGZvY2Z2V2JabmFnOUNKMnh4UVpERnI0ZDYzek1uTDhkS0E1TjZqTlFfbENsekxiWUVJUjZLem9XelY5SUZhNmJpX0dpNTNlRWFkbFltQWlLRXVKay1ubW9sTlZ6X21kRVV1dmZNZEpMSkpZT9IBlAFBVV95cUxOdHkzYU5qTnVJVEpaeGlJMGpvYW9tQzR4VGhMTFMxN0V2NTB6NVBVZ3V3d2lNSG5iRGpqTnJXUERhdl9lUEY1NFBsVGVCT2FsTHdHVWhBM0ZTUkxvZWpGa1FYSUN2bHBya1p1R3BqenkzZmh5a0h0RDU4SlZGc0RMdTV3eHdjS2I3WWJWTnp4STZqQ1h5?oc=5",
-     "source": "Chosunbiz",
-     "published": "2026-11-02T22:55:00+00:00",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOblZlNHZ4ejlGN0Q0c01wMmV2Y1UtMEY4eDRDTGxhaHBMZEZ0MjVremZISHppTXc3QUlTZFdFaTVVY0xtNjVaQzdVV2YtYWhBdEdjZjh4ajJiZ2ppLTVyNzlRUUotN3BPQmh6Ykx3UUVxUUU0SUVzTnhNYXVyNld3cnZXYlBZWmd1LTlDRnlBcmZuZDBXSFYxRTI0amFhcjRnSEtDZEdKZFJLTmgtdy13UzYwM2ZjNm8?oc=5",
+     "source": "The Business Times",
+     "published": "2026-11-03T04:50:00+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -530,6 +492,114 @@
       "APAC"
      ],
      "also": []
+    },
+    {
+     "title": "Malaysia to hold meetings to prepare for rising cyber and geopolitical threats, PM says",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTjdsS0VLMlNkS2JVTFFXZS1vdVotNFJfOEpvUHpDUk1ET3lzZ2ctQzBfR05OTGdiRjQwZjZyTmNVclgzaVBtUm1FMGJSTm03c2xwQWMzdFdDT0tlXzZLMzUyT04wOUlqWXZvTXB2Vi1aejJaMzc5TmpoUGhpN05wRHR1X2J0UUhfbTZEeGVhLVJrbjlmanozOVYwanVZUW8wQ043ck1Vcm1mX1BRQVZzam5LMXlhMU85aWtOUzFhUDYzYzJKVHlCMg?oc=5",
+     "source": "Awani International",
+     "published": "2026-11-03T04:39:57+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "[ED] North Korea's crypto heists threaten global security",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX3prU3dxdzhmN1ZZb19GbFRDa2lDUGhtM0haV2Rpd0p3aWE1RDFQZDNSQVlPam1obkw3WVdNdTJxb2xtRXVYYXUyQi14Y205X1p2S2lnbjlaT0VHR0VhdGx6Qk1kSVBpODJDaXE2ZHAxZ3RtSEJhQ1FrYVlpb0JBZVJndjlRNmxvVkMxeEcxQWhrR1FTYU9TWHdqa0pDQ3I2SmhaalM1eG1jSWRmT21ocnJvT0nSAbQBQVVfeXFMTV96a1N3cXc4ZjdWWW9fRmxUQ2tpQ1BobTNIWldkaXdKd2lhNUQxUGQzUkFZT2ptaG5MN1lXTXUycW9sbUV1WGF1MkIteGNtOV9adktpZ245Wk9FR0dFYXRsekJNZElQaTgyQ2lxNmRwMWd0bUhCYUNRa2FZaW9CQWVSZ3Y5UTZsb1ZDMXhHMUFoa0dRU2FPU1h3amtKQ0NyNkpoWmpTNXhtY0lkZk9taHJyb09J?oc=5",
+     "source": "The Korea Times",
+     "published": "2026-11-03T04:14:02+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC",
+      "AI"
+     ],
+     "also": [
+      "The Japan Times",
+      "The Edge Singapore"
+     ]
+    },
+    {
+     "title": "Japan's GMO Group Offers $1M Bounty for Hacker's Identity",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNDh4MzZRaUFDOFdGUVNXaEVOOGQyMDRNby1IME5veVo5UDlrbldjLWVFWXhPWnAwYlduYzlraVVNR2ZkMHhmNThtbjFYZlYweWxWSW1NeWFLeUpwcFZ4N01QMXNHRjR5VmFNQzNyQTQwUGdUTzRzTHhDN3dUbkEySGU0RjJMRmVrUldMMUxoVWVCYUdxTkxodkozVQ?oc=5",
+     "source": "BankInfoSecurity",
+     "published": "2026-11-03T04:04:13+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Malaysia on cyberattack radar, government steps up security measures",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOTZlX25RSnJ6Qkk2Ql9kVE8yam5BdDdVTEVDVHJuMmp2X1RvS1VfdXp3M0kzRS11NmNYakVfMDA2c2dRSGZGVE1jU2FKdXZ5VHFhMmhFWnBIaE1oWnFHX2ZmUUlkbjJnS1RPVVhDczVOZ3Qyb3pDRkp4aEdVSHNYVlF0MkhuTU9OQVlBcDc3ZmtMS21OUFZ3WmFsajBwQjBmdE04d28tQjRHSGl5OU1ud015TXY5OXpNbVpLV1V4RkI?oc=5",
+     "source": "The Vibes",
+     "published": "2026-11-03T03:56:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Malaysia a potential cyberattack target, Anwar warns",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE04cXJXZEdQZ01HZW9QbnUxQnRDbTFadHZVeUlBWG9QLV8xVTVERjFIOFM2c2ZrUFZnLXBkQ1YxTldMWUMwRDRwWWNESGJtMFhL?oc=5",
+     "source": "The Edge Malaysia",
+     "published": "2026-11-03T02:53:53+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": [
+      "NST Online"
+     ]
+    },
+    {
+     "title": "Hybe confirms data breach, reports leak to South Korea watchdogs",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWEJjU0hkZTdGUE56bWtxbUNicDl5WVJCd0hxd2JTVGhXeFJhU0tRdm9UNkF0WE9jTFJWWGNsdlR5RlBTLThNNDZRNS1qMzZYcXhqWFlFUjQyNWdDUThIT2QwSDhkNmdONlp6aTdmdXl4X1A1cVh2Y1l3TEdyQWhLWU5n0gGWAUFVX3lxTE84MkJzS1ZDZjg2bVB4OXVYaHpteHJCOHp2MTBzZ3NMTWRQOHNXdTdOSVBoa0xqYmNuT1BaVHpjakVoejRhTTEyaHIwdS1HOFFmTXQ5M2dVdms2RU8tbmtDQ1phUmVhWnJPRVVzV3NvT1doVXg1aFM2Ry15aHJZTjFpU09ieTNKZG1sM3BEWVRpWmNzYURHdw?oc=5",
+     "source": "Chosunbiz",
+     "published": "2026-11-02T23:58:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "South Korea's Hanyang Securities Reports Data Breach via Groupware Hack, 31 Records Leaked Including 3 Resident Registration Numbers",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBsQ0NJSTdrV3VwUUxzekxNQXIwTW80dXBoZk5ya3dISV93dkpqQnhYQXpFVm01Rnc1SGZCVDg2UFBPRUNQRnNvMHljN1pVR2ZJVUt4OGFvUjdUZ01KeC1SQmNZWmVSX2dHckFWSENuZVRaZ0FnRVE?oc=5",
+     "source": "BigGo Finance",
+     "published": "2026-11-02T23:35:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": [
+      "Chosunbiz"
+     ]
     },
     {
      "title": "Japan’s Arara Message hit by cyberattack, exposing 77 million email addresses",
@@ -546,22 +616,21 @@
      "also": []
     },
     {
-     "title": "News - Malaysia Airlines hit by data breach after reservation provider cyber attack",
+     "title": "Malaysia Airlines says IT systems unaffected by Amadeus data breach",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTDRfVFkzX2ZBVGpKWEwyQktHNHFVMFhZM0hXOXljbDZKb2w3TEJZSENyTnlGcHVmc0dNRWhBbUwwMUdwcHMzXy02Y0FZNXU1RFI3bC15WmZTanNlNDBXMU9ON19Ba2ROT1FHSHViNEN2bEh3RlFtak5mRVhoak1GUEVKMTRoVVh4VkZnS2wyb3NWVGh6M1h6WlFTek43dzNxVkgwR3c3QWFxMVBrYmZ4Rw?oc=5",
-     "source": "teiss",
-     "published": "2026-11-02T18:48:56+00:00",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQcXZwN0RXdl9Jdms3bGc3OE8wbHQwam0wbE96VUNvekdYQ1VoTEZwRk0ybkE5MFRFYTlMaUFHSWJxZll1elpYalpDbDNiVjhsRG9JT0dQVFpKRnRLc2IxaFN0Wi1wWktEbGt0TVVtb0ZpMEQwTGFyXzgtZ1V0SzZFNTJSbXB6QW9mTDdjbUl2MmFURFNPdFhHWF9DRnZTalctWU5zdUM4V2thaE1VZzBaRW5pdWJkQ3Q5eFVLZ1BkQdIBxAFBVV95cUxNNlNSQWZvaUUyOGc3MEZuTWc1VlRfQlVWMnZMc1d3SURTZ1pDZ2hWN040aTdrVkFVTFg4ajFCVjN2OTYxUFZwdHlHSERkN0J3QmJyTE0zbzA4bFVBVDVtWHVmZVZWUm1WbUdxOUxabUduVHhzalQzQ1NpM2NZQzFOQ19qV3FMajI2dXhQanFkM2NEbzZoalFFTFE0aGdVM2ZpMnFLRlVvX3dUY1R5M3NWbkRXei0wd1NobUdiNDk0NGh1aEdY?oc=5",
+     "source": "NST Online",
+     "published": "2026-11-02T19:42:11+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
      "tags": [
       "Breach",
-      "APAC",
-      "Telecom"
+      "APAC"
      ],
      "also": [
-      "PenangToday",
-      "VnExpress International"
+      "teiss",
+      "PenangToday"
      ]
     },
     {
@@ -606,8 +675,7 @@
       "APAC"
      ],
      "also": [
-      "NewsBytes",
-      "India Today"
+      "NewsBytes"
      ]
     },
     {
@@ -631,111 +699,6 @@
      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZTZ0X3hZQ3ZIYVpOSDVDWVhiQ1VOamFIVzRDd1NNV0NsNzF6cFY4OGRkRnJGTVpDaFVGWU5zT2xwNGxSd3lyaldaY0NyMFhtMkQ1SndvcTBNRGFPWHVoNmhtVkY0enNZdXExZGdJUTJZYXdoYks2anZ1TjRHYndGREJlaENnaHk4eklpOGJuaVgwcjltNEVYa25EZTRDRnRWMnM0LWlXM0VQMHl5MXhZ0gFaQVVfeXFMTXlZSU4tTHl0cG5GRHFac3o3c0tIeEU5b0E0a1VqRkVEeW5iclB3N3ZqYWlDcFJxTERCUy11THBfSUp1eV9QQ0E1cTA0MkVBWjJHQkstd0tobm53?oc=5",
      "source": "MLex",
      "published": "2026-11-02T11:21:36+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Japan Cyberattack GMO",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeUdXREEydTYwS1hXSkRPVlVJLW1NMDlaYzRIeEd0dE5DQXdaWklKVUN1YnlHZkZGT1Z4VjBiZzh4ZEpQZHJkMkhOSFJDdHpxOVVEeElLVkF3UERBd0kwZnprVXRlbGJBLW9hNXFrclRYVFFnUC04cXFURkgtT0JLejF3cGxwZkdpdUpNOWRYc0RhSXJUY3RCNFMzSUswSU9QR1BFcXhPU3ZyZWRp?oc=5",
-     "source": "timesdaily.com",
-     "published": "2026-11-02T10:45:08+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": [
-      "The Herald Journal",
-      "Daily News-Record",
-      "WV News"
-     ]
-    },
-    {
-     "title": "North Korea’s hackers supercharge crypto heists with AI skills",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUlZlQmx5Vkl3a3JkYjB4Y3lTQWQwTzlnRFVoRS1mTnVtSDhTY2YzTEI4RkpzcWRXX1c0WTU5amZBTG5aUU1ZRlk0TkE2UDNRQ1ptVjhQV3BibWZNWjd2TGNObGk2eDYyZmtGTTNQM2J0ZlBoZG1fOFlHa3VodGZsMjVIbkcycnptQ0ZNSTdwZ0ljZTk3RWZzU1N3?oc=5",
-     "source": "The Japan Times",
-     "published": "2026-11-02T10:19:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "AI",
-      "APAC"
-     ],
-     "also": [
-      "The Edge Singapore"
-     ]
-    },
-    {
-     "title": "Japanese online service company GMO apologizes for security breaches and promises compensation",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbGhOcTIwNnl6X2R3TzFCc2dqY0h5U0JLZGVHWWo1T0hFcWJvc1NIaXJZM2RaNTRpMmMzVGlFdEhxQjM2b1gyS1lxT1FPbnFqaXBzQXdvMG8weTdpMC1qZHRhRW4xQzRqdjFsbllkV2JDZnh6YjJtQjA0bGpYTnJmUzkxa28xZlNtQnZQWF9JN2xicW1ESExuZjJfbmdUc2ppdXE1cTB0bEJJZnNXdnhFV3R1ei0zUQ?oc=5",
-     "source": "Audacy",
-     "published": "2026-11-02T08:33:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach"
-     ],
-     "also": []
-    },
-    {
-     "title": "Cyberattack on GMO in Japan linked to North Korean hackers — The Japan Times",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTndRR1Qxdi1oY1VJRTFRcGM2alQta09BR2NnVUJwaXVlX3hBTXMyLWE1dFZQTFdIVFVpLThqZlhZNDZ1M3RqcnJuSEZVSjh2bDJvX0VkRGJobVQ1RVYzaDR0T2l0MG1nOWEzSGZhS2VkMFJCM2dqT2Q5R1FaR2FnUlBta2NyZHVONVNBcjZqejZZZWxKOVJueGozY1YxSkNMRmthSTRn?oc=5",
-     "source": "UA.NEWS",
-     "published": "2026-11-02T06:16:50+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "India's Spandana Sphoorty Financial reports cyberattack involving its bank account",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNQzFCNU00Nk5sd3BOeEZtUVJiSEsxenByN1ViTFJBYkh5SVh0cmQ1NHV4NmtEUzYtNUtNZ1VGUTM4YkV0QnJyZ2l0NHdfV1FFVWZoM2w1TnBZMDdJdHQ4TFdKSkNiTjk5VXJSRG9GcUpTWk52cnN3TnI4T1lRZ0piWkFybGNNRnYtUW1mQV9aWHdsSWREMVJDWmU1MjNTZkRzb3doRER1LVZaT3lBZlZoX0p5TVJpUzNIT0JlWmdiNGstRzhkTE4zai1kRVdXamIx?oc=5",
-     "source": "www.marketscreener.com",
-     "published": "2026-11-02T06:00:48+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "North Korea said behind GMO cyberattack ahead of CEO’s first briefing on hacking",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBISjlrckd5bEpyZzVPdUNCdUI5TEg3cGRoNVNBT3BVZlk2REd6c1lVNVVORXFadElzd3ZqeHRnZXNkbGdnR1VWOEhSZ0V2X1ZGYXNKLURBUndKZExmZWIzWXNCX2JjQkw5cE45eFdWemV6T0FvTFMtUFpzVQ?oc=5",
-     "source": "The Japan Times",
-     "published": "2026-11-02T05:52:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "GMO chairman apologizes over cyberattack | NHK WORLD-JAPAN News",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA5bndDdEF2cGk0NHVCOS1KTE1WNFRrVktIREtiS2M3aE40S0lpOFJPOEpKSWxscU5vOXRLTnE3azRBcjdaNkIwQklSbnhKVnRYNXpTRUxFX0NPWTI3QXM3OUNFVQ?oc=5",
-     "source": "NHKニュース",
-     "published": "2026-11-02T01:47:49+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -810,6 +773,18 @@
      "published": "2026-11-02T14:00:00+00:00",
      "date_only": false,
      "summary": "Written by: Christopher Romano, Codi Starks, Garrett Mahoney, John Wolfram, Josh Murchie, K Singh, Mathew Potaczek, Mike Lombardi, Rik Dolfing Introduction Mandiant responded to multiple incidents in 2026 in which threat actors hijacked…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "When confusion reigns, trusted vendors must guide their SMB customers",
+     "subtitle": "",
+     "link": "https://www.welivesecurity.com/en/business-security/when-confusion-reigns-trusted-vendors-guide-smb-customers/",
+     "source": "ESET Research",
+     "published": "2026-11-02T09:55:00+00:00",
+     "date_only": false,
+     "summary": "SMBs need guided onboarding and supervised protection to optimize their investments",
      "extra": "",
      "tags": [],
      "also": []
@@ -927,27 +902,36 @@
      "extra": "",
      "tags": [],
      "also": []
-    },
-    {
-     "title": "IR trends Q3 2026: Actors impersonate IT help desks in vishing attacks as ransomware activity increases",
-     "subtitle": "",
-     "link": "https://blog.talosintelligence.com/ir-trends-q3-2026/",
-     "source": "Cisco Talos",
-     "published": "2026-10-29T14:00:00+00:00",
-     "date_only": false,
-     "summary": "Phishing remained the leading initial access technique, while percentage of ransomware and pre-ransomware cases increased. Finance and public administration tied as the top-targeted industries.",
-     "extra": "",
-     "tags": [
-      "Ransomware",
-      "Phishing"
-     ],
-     "also": []
     }
    ]
   },
   {
    "name": "Government Advisories",
    "stories": [
+    {
+     "title": "Android Multiple Vulnerabilities",
+     "subtitle": "",
+     "link": "https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20261103",
+     "source": "HKCERT",
+     "published": "2026-11-03T03:00:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Debian Linux Kernel Multiple Vulnerabilities",
+     "subtitle": "",
+     "link": "https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20261103",
+     "source": "HKCERT",
+     "published": "2026-11-03T03:00:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
     {
      "title": "Ivanti Connect Secure Multiple Vulnerabilities",
      "subtitle": "",
@@ -992,18 +976,6 @@
      "link": "https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20261102",
      "source": "HKCERT",
      "published": "2026-11-02T02:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "WordPress Multiple Vulnerabilities",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/wordpress-multiple-vulnerabilities_20261102",
-     "source": "HKCERT",
-     "published": "2026-11-02T01:00:00+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
