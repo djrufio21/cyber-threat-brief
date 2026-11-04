@@ -1,9 +1,26 @@
 {
- "generated": "2026-11-03T21:07:54+00:00",
+ "generated": "2026-11-04T01:28:54+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
    "stories": [
+    {
+     "title": "CVE-2026-119977: WordPress WordPress Core",
+     "subtitle": "WordPress WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition Vulnerability",
+     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-119977",
+     "source": "CISA KEV",
+     "published": "2026-11-03T00:00:00+00:00",
+     "date_only": true,
+     "summary": "WordPress WordPress Core contains a time-of-check time-of-use (TOCTOU) race condition vulnerability that could allow unauthenticated attackers to execute code on the server during the upgrade window. This is due to predictable…",
+     "extra": "US federal patch deadline 6 Nov",
+     "tags": [
+      "Exploited"
+     ],
+     "vendor": "WordPress",
+     "product": "WordPress Core",
+     "cve": "CVE-2026-119977",
+     "also": []
+    },
     {
      "title": "CVE-2026-118527: Ivanti Connect Secure",
      "subtitle": "Ivanti Connect Secure Generation of Predictable Numbers or Identifiers Vulnerability",
@@ -105,46 +122,63 @@
      "product": "Kernel",
      "cve": "CVE-2026-46300",
      "also": []
-    },
-    {
-     "title": "CVE-2026-48356: Adobe Commerce and Magento",
-     "subtitle": "Adobe Commerce and Magento Unrestricted Upload of File with Dangerous Type Vulnerability",
-     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-48356",
-     "source": "CISA KEV",
-     "published": "2026-10-27T00:00:00+00:00",
-     "date_only": true,
-     "summary": "Adobe Commerce and Magento contain an unrestricted upload of file with dangerous type vulnerability that could result in arbitrary code execution in the context of the current user, potentially gaining elevated access or control over the…",
-     "extra": "US federal patch deadline 10 Nov",
-     "tags": [
-      "Exploited"
-     ],
-     "vendor": "Adobe",
-     "product": "Commerce and Magento",
-     "cve": "CVE-2026-48356",
-     "also": []
-    },
-    {
-     "title": "CVE-2026-111497: Google Brotli",
-     "subtitle": "Google Brotli Unchecked Return Value Vulnerability",
-     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-111497",
-     "source": "CISA KEV",
-     "published": "2026-10-27T00:00:00+00:00",
-     "date_only": true,
-     "summary": "Google Brotli contains an unchecked return value vulnerability that allows a remote unauthenticated attacker to corrupt adjacent decoder state memory, disclose sensitive memory contents, cause a denial of service, or potentially execute…",
-     "extra": "US federal patch deadline 10 Nov",
-     "tags": [
-      "Exploited"
-     ],
-     "vendor": "Google",
-     "product": "Brotli",
-     "cve": "CVE-2026-111497",
-     "also": []
     }
    ]
   },
   {
    "name": "Breaking Threats",
    "stories": [
+    {
+     "title": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/",
+     "source": "BleepingComputer",
+     "published": "2026-11-03T22:18:50+00:00",
+     "date_only": false,
+     "summary": "Attackers have compromised the update infrastructure for the cPGuard web security suite to distribute a backdoor and a data-stealing script. [...]",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Fresh European Fridge Attacks Put Cold-Chain Security in Focus",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/ics-ot-security/fresh-european-fridge-attacks-cold-chain-security",
+     "source": "Dark Reading",
+     "published": "2026-11-03T22:16:49+00:00",
+     "date_only": false,
+     "summary": "Beyond food storage, the same combination of Internet connectivity, remote access, and inadequate security practices can put temperature-controlled infrastructure across other critical sectors at risk.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Germany Busts 'Crime-as-a-Service' Investment Fraud Outfit",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/cybersecurity-operations/germany-crime-service-investment-fraud",
+     "source": "Dark Reading",
+     "published": "2026-11-03T21:57:12+00:00",
+     "date_only": false,
+     "summary": "German police led a multinational probe that exposed an alleged crime-as-a-service provider supplying fraudulent trading platforms to investment scammers.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "WorkOS says attacker used ARTEX AI to breach internal sales app",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/workos-says-attacker-used-artex-ai-to-breach-internal-sales-app/",
+     "source": "BleepingComputer",
+     "published": "2026-11-03T21:28:44+00:00",
+     "date_only": false,
+     "summary": "Developer platform WorkOS suffered a data breach after a threat actor accessed business contact records and summaries of customer communications. [...]",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "AI"
+     ],
+     "also": []
+    },
     {
      "title": "Binance says fake job interview led to $6.3 billion crypto heist",
      "subtitle": "",
@@ -229,8 +263,7 @@
       "APAC"
      ],
      "also": [
-      "Tech in Asia",
-      "Chosunbiz"
+      "Tech in Asia"
      ]
     },
     {
@@ -428,62 +461,70 @@
      "extra": "",
      "tags": [],
      "also": []
-    },
-    {
-     "title": "Critical Node-RED Flaw Exploited in Attacks",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/critical-node-red-flaw-exploited-in-attacks/",
-     "source": "SecurityWeek",
-     "published": "2026-11-03T12:10:19+00:00",
-     "date_only": false,
-     "summary": "Multiple attacks from the same IP address attempted to deploy various payloads, including a Linux bot and webshells. The post Critical Node-RED Flaw Exploited in Attacks appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Google adds new $250,000 Cloud VRP reward for Root-in-Cloud bugs",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/google/google-adds-new-250-000-cloud-vrp-reward-for-root-in-cloud-bugs/",
-     "source": "BleepingComputer",
-     "published": "2026-11-03T12:05:52+00:00",
-     "date_only": false,
-     "summary": "Google has expanded its Cloud Vulnerability Reward Program (VRP) with a new top-tier reward for high-impact architectural security flaws. [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html",
-     "source": "The Hacker News",
-     "published": "2026-11-03T11:23:53+00:00",
-     "date_only": false,
-     "summary": "Fixed kernels for a use-after-free vulnerability in the Linux kernel's IPv4 TCP code are now available for Red Hat Enterprise Linux 8, 9, and 10, while Ubuntu's fixes for its three newest long-term-support releases remain in its opt-in…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "The 4 Elements of Exposure Prioritization and How to Operationalize Them",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/the-4-elements-of-exposure.html",
-     "source": "The Hacker News",
-     "published": "2026-11-03T11:18:20+00:00",
-     "date_only": false,
-     "summary": "Your team is remediating more vulnerabilities than ever, yet your breach risk has barely changed. You’re spending too much time and effort on exposures attackers may never exploit, while higher-risk exposures sit, waiting in the queue…",
-     "extra": "",
-     "tags": [
-      "Breach"
-     ],
-     "also": []
     }
    ]
   },
   {
    "name": "APAC Watch",
    "stories": [
+    {
+     "title": "Holidaymaker alert: Hackers target legitimate bookings across Australia",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRkNpX0s1bkdjMElveHRDNU5KbklNS3QxY1pzUk5VcTROa2tEa0VhOE5DSGdlYzNQY0VYWmp5eDNXWTFZV3p5LXVpQjZfZXZoTEg5LVZ2SHBSOE1SRnJnVDVCZWR6Y0ZrT0h5ZUU0NXcyVE9zYlVtbVRuRHU4NEhYYVY1LXp6SEtoSFdJN1VhUHBWUWJhY2hzVVJR?oc=5",
+     "source": "6PR",
+     "published": "2026-11-04T00:56:26+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Malaysia could be vulnerable to hybrid cyberattacks, say experts [WATCH]",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOW1zdnlXbzdVTXZaZXh3cWhnUFFaQy01dm5BenQwX2QyNWNjRkV4YkJtemZ6aER3OHV5VUFIYnZNT0NrUlNRZ2UwRExLTUZMcF9SZWF2R0ZEX3UtTzhOVmJOTjFRSmVyVGZYLWpNdXBoRFcyemlRR1NHeThNRDJheWYtQThtekRrSDJkRXV0UVJOZFFZa2dKNEdyTmczMlJ0cHRsUk1pZ3V5ME5qRGdTNFNMVG5vSGtv0gG-AUFVX3lxTFBWbFh4NV9acUFzVGlXZzJxeVNDSkI0M1ZLaUhjT09hMkJCU2p1aHJERWFNeTV4ZG9wYldERWg0NEoxSTFJdTQzaU5MQmM2a0MwQ0VSNXotZVhCNTF0Y1Y2MW4wZEJGM2dLUktoNDFqYW1fU0NvdmFqWm5RcWR2NnlmLUdEaHNvY2xIcERmdklPVVdZMHNlbXR0eVJBYW1YSEpKUWRuOExTQ09KQXVTcm5LU3hjVU82M2VGNjg4Vnc?oc=5",
+     "source": "NST Online",
+     "published": "2026-11-03T23:00:51+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Japan's Asoview says data breach at email vendor Arara exposes 15.82 million member records, including purchase histories",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96Yjd1RUpCcXdYYTVQVHF0SlgyOS1jc2tOdjZnbVgyLVRkdmJqQ0VfR21DN1JwZG1SdWZheDlmZ191WlBjU19RUWZaZFBRRjIzRVdFUjhaa0otYXc2aUpEQ3QyRVA3RlQxYmpGU3cxUG5VdTk3ZkE?oc=5",
+     "source": "BigGo Finance",
+     "published": "2026-11-03T22:35:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Philippines’ migrant workers agency suffers data breach",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQ1BPOXVYbkpGT1NwbWc3aWdaWUNhbWZ5Z25vMExUelFQbFNac3NzY1l1TDJFZ19jQ2l4ZDFYckRWTFQyWjdla2ZLTGF2c2lnTGpDLWtPTG0yUG5EWmNyV3J5T2Nic1pRT2RsN1o3NER3U0RheDVyMWFWR3RwMFdjNk9LZ2tEVF9la0HSAYoBQVVfeXFMTkNQTzl1WG5KRk9TcG1nN2lnWllDYW1meWdubzBMVHpRUGxTWnNzc2NZdUwyRWdfY0NpeGQxWHJEVkxUMlo3ZWtmS0xhdnNpZ0xqQy1rT0xtMlBuRFpjcldyeU9jYnNaUU9kbDdaNzREd1NEYXg1cjFhVkd0cDBXYzZPS2drRFRfZWtB?oc=5",
+     "source": "SME horizon",
+     "published": "2026-11-03T15:59:30+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
     {
      "title": "Over 40,000 Singapore Airlines booking records affected by third-party data breach",
      "subtitle": "",
@@ -528,8 +569,24 @@
      ],
      "also": [
       "The Edge Malaysia",
-      "Sarawak Tribune",
-      "KLSE Screener"
+      "Sarawak Tribune"
+     ]
+    },
+    {
+     "title": "MoneySmart CEO Vinod Nair apologises for 29 Oct data breach, some S’pore & Hong Kong users affected",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVdU5fNHdZYWcwVkxvSjN1ZGc4Rl9XME5kUTFzQ1BtN0JmeERveWpqcFAxUUU0V2pRcDlOcVU5bm5GMlZjRmVYUk9BblItV2E2NGN6TndHZTZTRW9PZ1ltS1dVa081Z2PSAWdBVV95cUxQVXVOXzR3WWFnMFZMb0ozdWRnOEZfVzBOZFExc0NQbTdCZnhEb3lqanBQMVFFNFdqUXA5TnFVOW5uRjJWY0ZlWFJPQW5SLVdhNjRjek53R2U2U0VvT2dZbUtXVWtPNWdj?oc=5",
+     "source": "Must Share News",
+     "published": "2026-11-03T09:18:53+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": [
+      "The Business Times"
      ]
     },
     {
@@ -559,7 +616,7 @@
      "also": []
     },
     {
-     "title": "Australia warned as cyberattacks in European supermarkets forced to dump tonnes of food",
+     "title": "Australia warned as European supermarkets come under attack",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMW8zOTlrODctTVVZRUU2dEh0ekxxMm14aFF3c1BwN3d1Ykh6ekpCTV9jZHA5TTlSam1vOU50bF9pOVUzTEJQMjVSV0trUzhuYVFhRS1tSFhaVG5uRFY1dFpIM3NMMGhTSmtsUGNFb3RtVWpzNjg1T2xKR3NLVTVWVTBwWGlhYjBIR3JjZnd6cHhDYWNFLVhHZHdSRDZYa2E3eUtPZU1UZnFDME1sc0Y5ZmxEVUt2NXBtTDlFSHhCOHV1eVlxTElR?oc=5",
      "source": "Yahoo News Australia",
@@ -573,21 +630,32 @@
      "also": []
     },
     {
-     "title": "MoneySmart hit by data breach; Singapore, Hong Kong customers affected",
+     "title": "Malaysia to hold meetings to prepare for rising cyber and geopolitical threats, PM says",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOblZlNHZ4ejlGN0Q0c01wMmV2Y1UtMEY4eDRDTGxhaHBMZEZ0MjVremZISHppTXc3QUlTZFdFaTVVY0xtNjVaQzdVV2YtYWhBdEdjZjh4ajJiZ2ppLTVyNzlRUUotN3BPQmh6Ykx3UUVxUUU0SUVzTnhNYXVyNld3cnZXYlBZWmd1LTlDRnlBcmZuZDBXSFYxRTI0amFhcjRnSEtDZEdKZFJLTmgtdy13UzYwM2ZjNm8?oc=5",
-     "source": "The Business Times",
-     "published": "2026-11-03T04:50:00+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTjdsS0VLMlNkS2JVTFFXZS1vdVotNFJfOEpvUHpDUk1ET3lzZ2ctQzBfR05OTGdiRjQwZjZyTmNVclgzaVBtUm1FMGJSTm03c2xwQWMzdFdDT0tlXzZLMzUyT04wOUlqWXZvTXB2Vi1aejJaMzc5TmpoUGhpN05wRHR1X2J0UUhfbTZEeGVhLVJrbjlmanozOVYwanVZUW8wQ043ck1Vcm1mX1BRQVZzam5LMXlhMU85aWtOUzFhUDYzYzJKVHlCMg?oc=5",
+     "source": "Awani International",
+     "published": "2026-11-03T04:39:57+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
      "tags": [
-      "Breach",
       "APAC"
      ],
-     "also": [
-      "Asia Business Outlook"
-     ]
+     "also": []
+    },
+    {
+     "title": "[ED] North Korea's crypto heists threaten global security",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX3prU3dxdzhmN1ZZb19GbFRDa2lDUGhtM0haV2Rpd0p3aWE1RDFQZDNSQVlPam1obkw3WVdNdTJxb2xtRXVYYXUyQi14Y205X1p2S2lnbjlaT0VHR0VhdGx6Qk1kSVBpODJDaXE2ZHAxZ3RtSEJhQ1FrYVlpb0JBZVJndjlRNmxvVkMxeEcxQWhrR1FTYU9TWHdqa0pDQ3I2SmhaalM1eG1jSWRmT21ocnJvT0nSAbQBQVVfeXFMTV96a1N3cXc4ZjdWWW9fRmxUQ2tpQ1BobTNIWldkaXdKd2lhNUQxUGQzUkFZT2ptaG5MN1lXTXUycW9sbUV1WGF1MkIteGNtOV9adktpZ245Wk9FR0dFYXRsekJNZElQaTgyQ2lxNmRwMWd0bUhCYUNRa2FZaW9CQWVSZ3Y5UTZsb1ZDMXhHMUFoa0dRU2FPU1h3amtKQ0NyNkpoWmpTNXhtY0lkZk9taHJyb09J?oc=5",
+     "source": "The Korea Times",
+     "published": "2026-11-03T04:14:02+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
     },
     {
      "title": "Who's behind Europe's freezer hacks — and is Australia next?",
@@ -609,35 +677,6 @@
      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQS1CV0YyTmhJNVZIT2pVc2pRQmpjOWIwU3NUdGV1SkNhQWthNjFwVnBTOUljbjl5X3JVYy1zenc4ZnhZV1VhV21EZmE4U0tqOFMyVmM2RjdGT0cxdUhzOXhCZkVqcVJZMlZ3TVIxU3ZVQnFaRzZmSnd6c0duWUpBWFdPOFptZTQ2TFdONWhOZzdfYk1uMHgxR0duRWZYbVZwSmNQYXdmcjdNQ1dockFRcGFoQQ?oc=5",
      "source": "The Vibes",
      "published": "2026-11-03T03:56:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Hybe confirms data breach, reports leak to South Korea watchdogs",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWEJjU0hkZTdGUE56bWtxbUNicDl5WVJCd0hxd2JTVGhXeFJhU0tRdm9UNkF0WE9jTFJWWGNsdlR5RlBTLThNNDZRNS1qMzZYcXhqWFlFUjQyNWdDUThIT2QwSDhkNmdONlp6aTdmdXl4X1A1cVh2Y1l3TEdyQWhLWU5n0gGWAUFVX3lxTE84MkJzS1ZDZjg2bVB4OXVYaHpteHJCOHp2MTBzZ3NMTWRQOHNXdTdOSVBoa0xqYmNuT1BaVHpjakVoejRhTTEyaHIwdS1HOFFmTXQ5M2dVdms2RU8tbmtDQ1phUmVhWnJPRVVzV3NvT1doVXg1aFM2Ry15aHJZTjFpU09ieTNKZG1sM3BEWVRpWmNzYURHdw?oc=5",
-     "source": "Chosunbiz",
-     "published": "2026-11-02T23:58:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Japan’s Arara Message hit by cyberattack, exposing 77 million email addresses",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNaTV4UXY1NlNRNDAxVkVaY012MzRGM191S3BUMlFjSDZCWUZHWDBuaEJKbkFsN3FyeVFxR1ZTSGsxLV95elNiZEtuS1RZd0lZQkgzZFhHb3lZY1JVOGFKdGR0WjJiZXRBQW9NX0VzNk5UY1VuZFJjU0pnQVF3WW1hV082Sm1TWjVrb1J6Wk44bEdkakdPWVdGMmh0b0FYcVUyWTlvWTlQZnJvUFV4b0HSAa4BQVVfeXFMTk8yX0cwZGNETUFZc1B6OVotVlNBVDZkd1JtY05PUTZLTmpzMWlodUlQRWxENjg1eHlrNEhZdzIxYWhiSndONlk2T1Jhajc3TDkxaWNVN1lZcnB6SnFJT2cwTEllNmJ1WHdOUlRsTk5lUHd0aXhQUEN3N1M3ZmVkLUdlczNtMUtQQm80ZTlhQ2Z0Q0JsSUMtX3hfRnR0dk0wdG1yLXJvUFNIM1lQUzFn?oc=5",
-     "source": "Qazinform",
-     "published": "2026-11-02T22:43:50+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
