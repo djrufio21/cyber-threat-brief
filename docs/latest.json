@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T01:28:54+00:00",
+ "generated": "2026-11-04T09:28:53+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -129,6 +129,84 @@
    "name": "Breaking Threats",
    "stories": [
     {
+     "title": "North Korea Launches Missiles Toward the Sea as Pyongyang Protests Against US Claims on Binance Hack",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/north-korea-launches-missiles-toward-the-sea-as-pyongyang-protests-against-us-claims-on-binance-hack/",
+     "source": "SecurityWeek",
+     "published": "2026-11-04T09:23:22+00:00",
+     "date_only": false,
+     "summary": "In recent months, North Korea has accelerated its weapons tests in a likely bid to increase its leverage in potential diplomacy with the US. The post North Korea Launches Missiles Toward the Sea as Pyongyang Protests Against US Claims on…",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Meta Shares Top Muse Bug Bounty Findings as Payouts Reach $1.2 Million",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/meta-shares-top-muse-bug-bounty-findings-as-payouts-reach-1-2-million/",
+     "source": "SecurityWeek",
+     "published": "2026-11-04T08:27:05+00:00",
+     "date_only": false,
+     "summary": "A $300,000 award went to a pre-launch flaw that exposed conversations and tokens on internal Muse test VMs used by Meta staff. The post Meta Shares Top Muse Bug Bounty Findings as Payouts Reach $1.2 Million appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html",
+     "source": "The Hacker News",
+     "published": "2026-11-04T08:17:11+00:00",
+     "date_only": false,
+     "summary": "Russian authorities have arrested three suspected members of a threat group known as VasyGrek and dismantled its criminal infrastructure. Also known as Fluffy Wolf, the threat actor has a history of targeting Russian and international…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html",
+     "source": "The Hacker News",
+     "published": "2026-11-04T07:46:15+00:00",
+     "date_only": false,
+     "summary": "A critical Android flaw could allow an attacker to run code on a phone without any user action remotely, Google said in its November security bulletin. The flaw, CVE-2026-58868, affects Android 14 through 17. Phones get the fix with…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html",
+     "source": "The Hacker News",
+     "published": "2026-11-04T05:43:11+00:00",
+     "date_only": false,
+     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a security flaw in WordPress Core to the Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The high-severity vulnerability…",
+     "extra": "",
+     "tags": [
+      "Exploited"
+     ],
+     "also": []
+    },
+    {
+     "title": "Philippine Migrant Worker Data Likely Leaked in 69GB Government Breach",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/cyberattacks-data-breaches/philippine-migrant-worker-data-69gb-government-breach",
+     "source": "Dark Reading",
+     "published": "2026-11-04T02:00:00+00:00",
+     "date_only": false,
+     "summary": "An unknown operator appears to have exfiltrated SQL Server backups from the Philippine Overseas Employment Administration in under a half hour.",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": []
+    },
+    {
      "title": "Hackers hijack cPGuard autoupdate to deploy backdoor, steal data",
      "subtitle": "",
      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-cpguard-autoupdate-to-deploy-backdoor-steal-data/",
@@ -205,9 +283,7 @@
      "summary": "The overwhelming majority of the infected devices in the X.CPE botnet are Android TV set-top boxes, Google said, adding that they observed a number of other infected Android-based IoT devices, including telehealth devices, karaoke machines…",
      "extra": "",
      "tags": [],
-     "also": [
-      "SecurityWeek"
-     ]
+     "also": []
     },
     {
      "title": "Google: LLMjacking attacks rack up $1 million in cloud AI charges",
@@ -259,12 +335,9 @@
      "summary": "Blockchain infrastructure provider Chainstack on Tuesday disclosed that it was targeted in a cyber attack that allowed an unauthorized party to gain access to some parts of its infrastructure. The incident is assessed to be part of a…",
      "extra": "",
      "tags": [
-      "Breach",
-      "APAC"
+      "Breach"
      ],
-     "also": [
-      "Tech in Asia"
-     ]
+     "also": []
     },
     {
      "title": "British businesses caught in Europe-wide supermarket fridge attacks",
@@ -381,86 +454,6 @@
       "Breach"
      ],
      "also": []
-    },
-    {
-     "title": "CrowdStrike Reportedly Paying $495 Million for AI Security Firms Fiddler, Dreadnode",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/crowdstrike-reportedly-paying-495-million-for-ai-security-firms-fiddler-dreadnode/",
-     "source": "SecurityWeek",
-     "published": "2026-11-03T14:12:44+00:00",
-     "date_only": false,
-     "summary": "The acquisitions will add AI agent observability and automated AI security testing capabilities to the CrowdStrike Falcon platform. The post CrowdStrike Reportedly Paying $495 Million for AI Security Firms Fiddler, Dreadnode appeared first…",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "UK school estate hit by 3AM ransomware in suspected AI-assisted attack",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/uk-school-estate-hit-by-3am-ransomware-in-suspected-ai-assisted-attack/",
-     "source": "BleepingComputer",
-     "published": "2026-11-03T14:00:00+00:00",
-     "date_only": false,
-     "summary": "A 3AM ransomware affiliate targeted a school estate in the UK and successfully encrypted around 37 of nearly 50 machines reached from an unmanaged host. [...]",
-     "extra": "",
-     "tags": [
-      "Ransomware",
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "3AM Affiliate Embraces AI-Like Loops in European School Attack",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/data-privacy/3am-affiliate-ai-loops-european-school-attack",
-     "source": "Dark Reading",
-     "published": "2026-11-03T14:00:00+00:00",
-     "date_only": false,
-     "summary": "Evidence suggests a model may have generated and revised commands during the ransom gang's breach, though researchers stopped short of claiming full automation.",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Russia dismantles infrastructure of VasyGrek cybercrime group, detains three suspects",
-     "subtitle": "",
-     "link": "https://therecord.media/russia-dismantles-vasygrek-infrastructure-detains-three",
-     "source": "The Record",
-     "published": "2026-11-03T13:50:00+00:00",
-     "date_only": false,
-     "summary": "Russia's Interior Ministry said Monday that police had dismantled the group's infrastructure and identified its suspected members following an investigation conducted with assistance from cybersecurity firm Kaspersky.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Police seizes over 100 servers in investment scam crackdown",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/police-seizes-over-100-servers-in-investment-scam-crackdown/",
-     "source": "BleepingComputer",
-     "published": "2026-11-03T13:33:49+00:00",
-     "date_only": false,
-     "summary": "European law enforcement authorities arrested seven suspects and seized more than 100 servers in a joint action targeting an unnamed company suspected of providing fraudulent trading websites to criminal gangs. [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Android’s November 2026 Updates Patch Over 200 Vulnerabilities",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/androids-november-2026-updates-patch-over-200-vulnerabilities/",
-     "source": "SecurityWeek",
-     "published": "2026-11-03T12:21:49+00:00",
-     "date_only": false,
-     "summary": "The most severe is a critical flaw in Framework leading to remote code execution without user interaction. The post Android’s November 2026 Updates Patch Over 200 Vulnerabilities appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [],
-     "also": []
     }
    ]
   },
@@ -468,11 +461,53 @@
    "name": "APAC Watch",
    "stories": [
     {
-     "title": "Holidaymaker alert: Hackers target legitimate bookings across Australia",
+     "title": "Singapore Airlines Reports Data Breach Affecting 46000 Booking Records",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRkNpX0s1bkdjMElveHRDNU5KbklNS3QxY1pzUk5VcTROa2tEa0VhOE5DSGdlYzNQY0VYWmp5eDNXWTFZV3p5LXVpQjZfZXZoTEg5LVZ2SHBSOE1SRnJnVDVCZWR6Y0ZrT0h5ZUU0NXcyVE9zYlVtbVRuRHU4NEhYYVY1LXp6SEtoSFdJN1VhUHBWUWJhY2hzVVJR?oc=5",
-     "source": "6PR",
-     "published": "2026-11-04T00:56:26+00:00",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQUVI1MUhjRmdxSjdxeHFnQzZILU96dmhTRGMyUEQtMWM2YmlLVTNXZG5ndjhRUkZpUFJfS3d6RzNySnVPSjA5cU9mRUNQY3FOWEtfMDhoSFNTbVl1MVNoVnN5Y29BclRIMlRtc3JIQ2dlbmJYV1pUUkw2bzNMSVljT0hEVUxvaE1wWjlPZXBReEFVT3lWSUdYNnBudjBLRE8xa3Nqd1hFaW9SWWtrYlpIZnFKMGhUTUg4cHh1enl4QldLbC1Wa3FrMmtON03SAdIBQVVfeXFMTnNUSjZMN1IwMzg4TUtzNE00dXlYOEIxQ25HNjB1Nk9INXZ0T3NhZWFiQzJvbDFDMDVMdXJUS1QtY1lWLVNHcEEwSFFfMUlaUmVRdURZc1hCMUF6bWdJSldyX2tKQ090XzlJelRuUFM5UmFKbHc4X1dTeG1oNGEzT3hfZ2ZneEF1OHA2WmFrMENGcUN4aHdpOWxOZmFBOEJ1a1dHZHprMEJ1UmdhUG9uRUJXaXR1VnhldFpIYWstcVhkNDVYdFFUZzRsaUlqZThrVnl3?oc=5",
+     "source": "Asianet Newsable",
+     "published": "2026-11-04T09:11:33+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": [
+      "The Bangladesh Monitor",
+      "Equitypandit",
+      "Moomoo",
+      "Malay Mail",
+      "NewsBytes",
+      "The 420.in",
+      "Moneycontrol.com"
+     ]
+    },
+    {
+     "title": "Singapore Airlines is Latest Global Carrier to Be Caught Up in Massive Amadeus Data Breach",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWnpMazUxUUVoQ0JES1VIOHQtMHp3bEo5cUJYX0RtZW5TQ19UOWJPYThHRlMxY29BODBBYjNGRkZiMVFPamY3S0lMSkNDb1p4bWtwNXRObW1lZVZ5dUpwOTJ4MU1kNVg3dU15ZTVER3hWanBMXzkxOW9sVmJhYVZ1WU1zdnBaS1Roc3lBZzU0alVVMUs3TkVUa1hfeENZajkyYktET2VHT1NUZUtCcWY0aDZVbUY3RWVtb21QSEpOVDF1aF90NlNpaGxDcTZqNHo5aHFF?oc=5",
+     "source": "PYOK",
+     "published": "2026-11-04T08:58:08+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "Telecom",
+      "APAC"
+     ],
+     "also": [
+      "Bloomberg.com",
+      "NST Online"
+     ]
+    },
+    {
+     "title": "Singapore Cybersecurity Warning: Hijacked WhatsApp Accounts Spread Malware to Computers",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMm0yazNra0xkUnNjaXZiYmNRWC1QSk5NdFgwZi02VmlHQTAwVWZSdWxPLXRid05TN1pXc0FJdmpLbENNelZEWkd5TmFra0tacVVULU0waVJnMFpxTEZTWFFmcDN0am5LcUFncHU2NWlFZzVVcDIzMHBMZmNtSEtlYXd5dzhNZVh5cENsTmFpNU1iRXRWanlNM3MzLUR1Wmp2RzRZVURnTk9oMzFqNnltcWZIUDRMNkxGZURJLUdkNUhuZw?oc=5",
+     "source": "Batam News Asia",
+     "published": "2026-11-04T04:55:00+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -480,6 +515,37 @@
       "APAC"
      ],
      "also": []
+    },
+    {
+     "title": "MoneySmart customers in Singapore, Hong Kong hit by data breach",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbEV2d1lsSk53VVpqQWxsTkk0Uy1GUkMwcFVFMXFVNE82RE5kbldhUHVKMGxmTnFyM1Z6Q1Z3bTJDNmlPazVCX3R1Mm9PM2h2REV1eHpCUnVaQm1LdkNQYXkwZE1sZFBzSDM3djVqbk9zZE5xSGpFUEtGN1U3MFhyN090TkdFaDduLVVmQnVnUVJpeFBEZGJxSUdqVjhBU0hfVnZzMHJYZGF5OExmRXJrdg?oc=5",
+     "source": "Hong Kong Business",
+     "published": "2026-11-04T01:54:08+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Hackers target legitimate bookings across Australia — Holidaymaker alert",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT0hfa1A2SHIzMEYtTU9TelJsTnRlc1JMQjdGTzEtMDI1OWJabU9QZl9GTTd3LUZOWjY1NVN6SWY4ZlBkaUprTkVtVERMTUI3RVJKb1FETnN3Zm5MYXRUWklTU2d5MTgzbkRNT05xWndFemo5YWR1NlFGQW5rbUVGOUppdFphWjNVWHhYdkJQX3duN2NBbW1rMHNvTlNfeUpKTll3N3lpUQ?oc=5",
+     "source": "cedarnews.net",
+     "published": "2026-11-04T01:52:57+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": [
+      "6PR"
+     ]
     },
     {
      "title": "Malaysia could be vulnerable to hybrid cyberattacks, say experts [WATCH]",
@@ -496,56 +562,11 @@
      "also": []
     },
     {
-     "title": "Japan's Asoview says data breach at email vendor Arara exposes 15.82 million member records, including purchase histories",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE96Yjd1RUpCcXdYYTVQVHF0SlgyOS1jc2tOdjZnbVgyLVRkdmJqQ0VfR21DN1JwZG1SdWZheDlmZ191WlBjU19RUWZaZFBRRjIzRVdFUjhaa0otYXc2aUpEQ3QyRVA3RlQxYmpGU3cxUG5VdTk3ZkE?oc=5",
-     "source": "BigGo Finance",
-     "published": "2026-11-03T22:35:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
      "title": "Philippines’ migrant workers agency suffers data breach",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQ1BPOXVYbkpGT1NwbWc3aWdaWUNhbWZ5Z25vMExUelFQbFNac3NzY1l1TDJFZ19jQ2l4ZDFYckRWTFQyWjdla2ZLTGF2c2lnTGpDLWtPTG0yUG5EWmNyV3J5T2Nic1pRT2RsN1o3NER3U0RheDVyMWFWR3RwMFdjNk9LZ2tEVF9la0HSAYoBQVVfeXFMTkNQTzl1WG5KRk9TcG1nN2lnWllDYW1meWdubzBMVHpRUGxTWnNzc2NZdUwyRWdfY0NpeGQxWHJEVkxUMlo3ZWtmS0xhdnNpZ0xqQy1rT0xtMlBuRFpjcldyeU9jYnNaUU9kbDdaNzREd1NEYXg1cjFhVkd0cDBXYzZPS2drRFRfZWtB?oc=5",
      "source": "SME horizon",
      "published": "2026-11-03T15:59:30+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Over 40,000 Singapore Airlines booking records affected by third-party data breach",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdU0wVTJYREc5MXBrTkhoYk1zSHJnWWhBWDBvcTRydVVpaVhVb1ZLWjN6T3prWDFvY0pFbmx4QUZHYnVYYzBXTmhybFV2Uldhb1BYcXdBZDZDMXBwVUxXc3NEYnlFUHFpMTdTdjBCV2VLU0xQYkJ3TndrYXZVMEJpWC02NzV3YlhTUnlhN1hqanpDZmljRS15Xy01cENOdw?oc=5",
-     "source": "AsiaOne.com",
-     "published": "2026-11-03T14:13:54+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Malaysia Airlines says IT systems unaffected by Amadeus data breach",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNWHJiRXE1WVZfM2xtdmV0RFAxVDUwLTVreFlaODRZby12M3Z2c2loazRNT3R4bi1pbFBYQXU1ckhxZG51NTVFZHB4M1VWUDB1cWtHX1VyUGNaeGg0V25PbUVXbEhTTG5wTnNKaldjZnlDN29DRTdNMHJ6NDhnN2txWWdHYXgzSjBGVUw5TG9TODlVdjVhZU1zUjdkejZWcmtJZ3AzZTBGU2djNWpqTTFBTWNIRWVWel9jd0RaVnVHX2lZV1IycUNtT1ltdVVQbm9hcVHSAcQBQVVfeXFMTTZTUkFmb2lFMjhnNzBGbk1nNVZUX0JVVjJ2THNXd0lEU2daQ2doVjdONGk3a1ZBVUxYOGoxQlYzdjk2MVBWcHR5R0hEZDdCd0JickxNM28wOGxVQVQ1bVh1ZmVWVlJtVm1HcTlMWm1HblR4c2pUM0NTaTNjWUMxTkNfaldxTGoyNnV4UGpxZDNjRG82aGpRRUxRNGhnVTNmaTJxS0ZVb193VGNUeTNzVm5EV3otMHdTaG1HYjQ5NDRodWhHWA?oc=5",
-     "source": "NST Online",
-     "published": "2026-11-03T13:00:00+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -568,122 +589,8 @@
       "APAC"
      ],
      "also": [
-      "The Edge Malaysia",
-      "Sarawak Tribune"
+      "The Edge Malaysia"
      ]
-    },
-    {
-     "title": "MoneySmart CEO Vinod Nair apologises for 29 Oct data breach, some S’pore & Hong Kong users affected",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVdU5fNHdZYWcwVkxvSjN1ZGc4Rl9XME5kUTFzQ1BtN0JmeERveWpqcFAxUUU0V2pRcDlOcVU5bm5GMlZjRmVYUk9BblItV2E2NGN6TndHZTZTRW9PZ1ltS1dVa081Z2PSAWdBVV95cUxQVXVOXzR3WWFnMFZMb0ozdWRnOEZfVzBOZFExc0NQbTdCZnhEb3lqanBQMVFFNFdqUXA5TnFVOW5uRjJWY0ZlWFJPQW5SLVdhNjRjek53R2U2U0VvT2dZbUtXVWtPNWdj?oc=5",
-     "source": "Must Share News",
-     "published": "2026-11-03T09:18:53+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": [
-      "The Business Times"
-     ]
-    },
-    {
-     "title": "[UPDATED] Malaysia is a cyberattack target, Anwar says [WATCH]",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORWd4Nk5DMEtmY1g4QllPZkEyenQ0Tm50bWlxV0hmcVl6MlV1T25YcmdCdHZYRTFWeUQtZVBBMmxQMjBhTkFNQ3RrN0toaGQ2Sm1scnJzS0JXUTZLeEdDS18wRXhFNGhvYTJzaGw4blFMQzZOX1hEWThaU0djZmpGMGJwNS12LU5PRjF0cnFwR3BfZG1SUGRYaWlEbEhqUWxMdDhVZTBKYzM1SlHSAasBQVVfeXFMTkVneDZOQzBLZmNYOEJZT2ZBMnp0NE5udG1pcVdIZnFZejJVdU9uWHJnQnR2WEUxVnlELWVQQTJsUDIwYU5BTUN0azdLaGhkNkptbHJyc0tCV1E2S3hHQ0tfMEV4RTRob2Eyc2hsOG5RTEM2Tl9YRFk4WlNHY2ZqRjBicDUtdi1OT0YxdHJxcEdwX2RtUlBkWGlpRGxIalFsTHQ4VWUwSmMzNUpR?oc=5",
-     "source": "NST Online",
-     "published": "2026-11-03T07:03:23+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Australian company ordered to pay $191,859 after hackers used a supplier’s compromised email account to r",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOcDRHOEItU3NpTjZzODNxOEFqSjZjblFmbS0xX3J3b0FuUEtlQTFqMWV4ZEo3eS02ZnhBNmtpakpOTENOa2ZqUDNGZ05tM1FYaHlVSXljTDhlZ3FMeG45SjhfYlZQUWhoeEhfR1BWOUlaUTlpNExfZDZ1cGNIMFRrMzVMRnF4QlBGYnVneWhWcjkweVg0aXBHWnNmaGpubUtfbkNrRTdnc2JTQ3czdXcwdlRQa2pJQ0t2bEhvakpwZDc2M2lUeU5LdzNMd2trbHh3Q0N1cmpwRHVodGpidG1pazc1dW5EeW1MUlNGNDdBU0x6N0dhMGppQjRQbklJczVkU3JZZ25DNE1Oa1hzT0d5NU9FREtlaEdyT1V6U1lhMnNQMHBndWRYTDRmN2FGUng2a0JiSktleEFEODYwdDBsZjBNNG9QSWdnMi1hSm9ZYkbSAdYCQVVfeXFMTldWdFpCTnM1Mk83eDIyOGYzbFNYNGNJT3hZa3RVWVhHRjRNbjEtN1hqenZiVW90bUIySHJURDVLVjNWUWQ4b0xXNUFFLWtzbWRGdUFOQjFESlBqcHg2TnYwOUEtX2lrZDh5ZkZWbkxobDBTMEZlVGlPVUNiQTNjbjZFMzBvb24xTTRNX1lCUWxoMTVCN0NuZnlfdU1xSHdGTC1NSncyc3dEci1KVXlCVERRbW5YUWxZMG53Z3JoRUliRjBLSHNYOGtESlVUaTJxMUVSNGc5ZnZFelVNOVlybzBHaXZoQk9WUWswTjNlelpHYlV0ZWt2Tmo2Z0RwU1lDSTRXdGE1bmxtb0hCTW0zQW1XR3NubHZNVEtHZGI3QzZZZGpVQ3dmWE5HQS0tSUNMX0RZWHpndk1SSlFsVUttVTdZMEI0X0pMVVE3eXZ2Y0VPZzFnRWRB?oc=5",
-     "source": "The Times of India",
-     "published": "2026-11-03T05:30:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Australia warned as European supermarkets come under attack",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMW8zOTlrODctTVVZRUU2dEh0ekxxMm14aFF3c1BwN3d1Ykh6ekpCTV9jZHA5TTlSam1vOU50bF9pOVUzTEJQMjVSV0trUzhuYVFhRS1tSFhaVG5uRFY1dFpIM3NMMGhTSmtsUGNFb3RtVWpzNjg1T2xKR3NLVTVWVTBwWGlhYjBIR3JjZnd6cHhDYWNFLVhHZHdSRDZYa2E3eUtPZU1UZnFDME1sc0Y5ZmxEVUt2NXBtTDlFSHhCOHV1eVlxTElR?oc=5",
-     "source": "Yahoo News Australia",
-     "published": "2026-11-03T04:51:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Malaysia to hold meetings to prepare for rising cyber and geopolitical threats, PM says",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTjdsS0VLMlNkS2JVTFFXZS1vdVotNFJfOEpvUHpDUk1ET3lzZ2ctQzBfR05OTGdiRjQwZjZyTmNVclgzaVBtUm1FMGJSTm03c2xwQWMzdFdDT0tlXzZLMzUyT04wOUlqWXZvTXB2Vi1aejJaMzc5TmpoUGhpN05wRHR1X2J0UUhfbTZEeGVhLVJrbjlmanozOVYwanVZUW8wQ043ck1Vcm1mX1BRQVZzam5LMXlhMU85aWtOUzFhUDYzYzJKVHlCMg?oc=5",
-     "source": "Awani International",
-     "published": "2026-11-03T04:39:57+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "[ED] North Korea's crypto heists threaten global security",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNX3prU3dxdzhmN1ZZb19GbFRDa2lDUGhtM0haV2Rpd0p3aWE1RDFQZDNSQVlPam1obkw3WVdNdTJxb2xtRXVYYXUyQi14Y205X1p2S2lnbjlaT0VHR0VhdGx6Qk1kSVBpODJDaXE2ZHAxZ3RtSEJhQ1FrYVlpb0JBZVJndjlRNmxvVkMxeEcxQWhrR1FTYU9TWHdqa0pDQ3I2SmhaalM1eG1jSWRmT21ocnJvT0nSAbQBQVVfeXFMTV96a1N3cXc4ZjdWWW9fRmxUQ2tpQ1BobTNIWldkaXdKd2lhNUQxUGQzUkFZT2ptaG5MN1lXTXUycW9sbUV1WGF1MkIteGNtOV9adktpZ245Wk9FR0dFYXRsekJNZElQaTgyQ2lxNmRwMWd0bUhCYUNRa2FZaW9CQWVSZ3Y5UTZsb1ZDMXhHMUFoa0dRU2FPU1h3amtKQ0NyNkpoWmpTNXhtY0lkZk9taHJyb09J?oc=5",
-     "source": "The Korea Times",
-     "published": "2026-11-03T04:14:02+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Who's behind Europe's freezer hacks — and is Australia next?",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaGJCWEhRSE9iOHhBTGgzSFJ3TVU0eTV6Wjl6QXJqbi1Jcjdad21TRzVtM1BVeDRYbW4zVVh3bG9ybHhVOENyWHhKamtsMmJTTWhzX2t1bF96YUlSU0lkZ05qc0xvZFNacWRYNGo4QWd1TnFWaUF6YnJwUS1YZnl5QzZnMEt6RzNMWE9qc1pCczR6ZDBv?oc=5",
-     "source": "SBS",
-     "published": "2026-11-03T04:02:44+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Malaysia on cyberattack radar, government steps up security measures",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQS1CV0YyTmhJNVZIT2pVc2pRQmpjOWIwU3NUdGV1SkNhQWthNjFwVnBTOUljbjl5X3JVYy1zenc4ZnhZV1VhV21EZmE4U0tqOFMyVmM2RjdGT0cxdUhzOXhCZkVqcVJZMlZ3TVIxU3ZVQnFaRzZmSnd6c0duWUpBWFdPOFptZTQ2TFdONWhOZzdfYk1uMHgxR0duRWZYbVZwSmNQYXdmcjdNQ1dockFRcGFoQQ?oc=5",
-     "source": "The Vibes",
-     "published": "2026-11-03T03:56:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
     }
    ]
   },
@@ -884,6 +791,30 @@
   {
    "name": "Government Advisories",
    "stories": [
+    {
+     "title": "Google Chrome Multiple Vulnerabilities",
+     "subtitle": "",
+     "link": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20261104",
+     "source": "HKCERT",
+     "published": "2026-11-04T03:00:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Citrix XenServer Multiple Vulnerabilities",
+     "subtitle": "",
+     "link": "https://www.hkcert.org/security-bulletin/citrix-xenserver-multiple-vulnerabilities_20261104",
+     "source": "HKCERT",
+     "published": "2026-11-04T01:00:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
     {
      "title": "Android Multiple Vulnerabilities",
      "subtitle": "",
