@@ -1,9 +1,26 @@
 {
- "generated": "2026-11-04T18:04:35+00:00",
+ "generated": "2026-11-04T23:46:39+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
    "stories": [
+    {
+     "title": "CVE-2024-27834: Apple Multiple Products",
+     "subtitle": "Apple Multiple Products Improper Authentication Vulnerability",
+     "link": "https://nvd.nist.gov/vuln/detail/CVE-2024-27834",
+     "source": "CISA KEV",
+     "published": "2026-11-04T00:00:00+00:00",
+     "date_only": true,
+     "summary": "Apple iOS, iPadOS, macOS, Safari, tvOS and watchOS 10.5 contain an improper authentication vulnerability which could allow an attacker with arbitrary read and write capability to bypass pointer authentication.",
+     "extra": "US federal patch deadline 18 Nov",
+     "tags": [
+      "Exploited"
+     ],
+     "vendor": "Apple",
+     "product": "Multiple Products",
+     "cve": "CVE-2024-27834",
+     "also": []
+    },
     {
      "title": "CVE-2026-119977: WordPress WordPress Core",
      "subtitle": "WordPress WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition Vulnerability",
@@ -128,6 +145,100 @@
   {
    "name": "Breaking Threats",
    "stories": [
+    {
+     "title": "Critical Rails Bug Threatens to Derail Vulnerable Servers",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/application-security/critical-rails-bug-derail-vulnerable-servers",
+     "source": "Dark Reading",
+     "published": "2026-11-04T21:48:18+00:00",
+     "date_only": false,
+     "summary": "An attacker could write arbitrary files and read sensitive files via images uploaded to the Rails Active Storage ImageMagick integration, possibly positioning a threat actor for lateral movement.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Vercel rolls out new protection against stolen session cookie attacks",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
+     "source": "BleepingComputer",
+     "published": "2026-11-04T21:31:18+00:00",
+     "date_only": false,
+     "summary": "Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware. [...]",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "More Asian airlines announce data breaches after attack on Spanish IT provider Amadeus",
+     "subtitle": "",
+     "link": "https://therecord.media/asian-airlines-announce-data-breach-it-provider-incident",
+     "source": "The Record",
+     "published": "2026-11-04T21:30:00+00:00",
+     "date_only": false,
+     "summary": "Japan Airlines, Cathay Pacific, Korean Air, Asiana Airlines, Singapore Airlines and Malaysia Airlines have all come forward over the last week to report data breaches traced back to Amadeus IT Group — a company that builds and maintains…",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": [
+      "The Record from Recorded Future News"
+     ]
+    },
+    {
+     "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
+     "source": "BleepingComputer",
+     "published": "2026-11-04T20:58:19+00:00",
+     "date_only": false,
+     "summary": "Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials. [...]",
+     "extra": "",
+     "tags": [
+      "Exploited",
+      "Zero-day"
+     ],
+     "also": []
+    },
+    {
+     "title": "Canadian extradited to US for allegedly hacking schools in at least four states",
+     "subtitle": "",
+     "link": "https://therecord.media/canadian-nationals-accused-us-education-hacks-cryptomining",
+     "source": "The Record",
+     "published": "2026-11-04T19:17:00+00:00",
+     "date_only": false,
+     "summary": "The Department of Justice said it identified two suspects in a case that dates back to 2016 and involved illicit cryptomining on the computers of U.S. educational institutions.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
+     "source": "BleepingComputer",
+     "published": "2026-11-04T19:05:19+00:00",
+     "date_only": false,
+     "summary": "DreamHost is warning of a data breach after attackers gained access to its File Manager platform for two months and stole customers' FTP/SFTP usernames and passwords. [...]",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": []
+    },
+    {
+     "title": "French bank confirms cyber heist, hackers suspected to have stolen an estimated $133 million",
+     "subtitle": "",
+     "link": "https://therecord.media/french-bank-confirms-cyber-heist",
+     "source": "The Record",
+     "published": "2026-11-04T18:58:00+00:00",
+     "date_only": false,
+     "summary": "Crédit Mutuel Arkéa said in a press notice that the attackers were able to make transfers using the bank’s own account after compromising an unnamed supplier.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
     {
      "title": "Cyberattack disrupts blood storage refrigeration systems in France",
      "subtitle": "",
@@ -336,18 +447,6 @@
      "also": []
     },
     {
-     "title": "French blood service hit by Europe-wide cyberattacks on refrigeration",
-     "subtitle": "",
-     "link": "https://therecord.media/france-cyberattack-blood-refrigeration",
-     "source": "The Record",
-     "published": "2026-11-04T13:45:00+00:00",
-     "date_only": false,
-     "summary": "Temperature controls were altered at three of France’s national blood service sites this week amid a wave of cyberattacks affecting refrigeration systems across Europe.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
      "title": "US charges two Canadians accused of hacking US universities",
      "subtitle": "",
      "link": "https://www.bleepingcomputer.com/news/security/us-charges-two-canadians-accused-of-hacking-us-universities/",
@@ -373,88 +472,70 @@
       "AI"
      ],
      "also": []
-    },
-    {
-     "title": "Canadian Extradited to US Over Cryptomining Hacks on University Supercomputers",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/canadian-extradited-to-us-over-cryptomining-hacks-on-university-supercomputers/",
-     "source": "SecurityWeek",
-     "published": "2026-11-04T12:27:58+00:00",
-     "date_only": false,
-     "summary": "A federal grand jury indicted two Canadian men for hijacking university supercomputers to secretly mine Electroneum cryptocurrency. The post Canadian Extradited to US Over Cryptomining Hacks on University Supercomputers appeared first on…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "CISA flags WordPress RCE flaw as actively exploited in attacks",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-wordpress-rce-flaw-as-actively-exploited-in-attacks/",
-     "source": "BleepingComputer",
-     "published": "2026-11-04T12:11:05+00:00",
-     "date_only": false,
-     "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned federal agencies that attackers have started exploiting a recently patched high-severity WordPress vulnerability in the wild. [...]",
-     "extra": "",
-     "tags": [
-      "Exploited"
-     ],
-     "also": []
-    },
-    {
-     "title": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html",
-     "source": "The Hacker News",
-     "published": "2026-11-04T12:07:04+00:00",
-     "date_only": false,
-     "summary": "A critical flaw in Ruby on Rails could allow an unauthenticated attacker to write arbitrary files on an app's server by uploading a crafted file if the app processes uploads using ImageMagick. The Rails project disclosed the flaw in an…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html",
-     "source": "The Hacker News",
-     "published": "2026-11-04T11:46:27+00:00",
-     "date_only": false,
-     "summary": "Two flaws in the Xen hypervisor allow a malicious guest virtual machine (VM) to read and write the memory of other VMs on the same host, including dom0. Dom0 is the VM that, by default, has full permissions and manages the others. Patches…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html",
-     "source": "The Hacker News",
-     "published": "2026-11-04T11:34:20+00:00",
-     "date_only": false,
-     "summary": "Nearly every agent security pitch now ends on the same promise: the product stops the bad action in real time. The promise holds for one kind of agent, the kind whose traffic passes through a gateway the enterprise owns. Most agents never…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html",
-     "source": "The Hacker News",
-     "published": "2026-11-04T11:24:31+00:00",
-     "date_only": false,
-     "summary": "A China-aligned threat actor known as SlippyNunchucks has been attributed to a Domain Name System (DNS) hijacking operation abusing insecure HTTP communications in Windows versions of Sogou Input Method as part of a surveillance campaign…",
-     "extra": "",
-     "tags": [],
-     "also": [
-      "BleepingComputer"
-     ]
     }
    ]
   },
   {
    "name": "APAC Watch",
    "stories": [
+    {
+     "title": "Securitize Japan breach exposes Sony Bank and NTT Data customer data",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQM2VIdnVHWmVQcTFkRUxObGp3M3lpQmk0RjQ5RVpGUEprYXR4R1I5aC0tWThKZUVNa2FmTVdiZ01zR2lDamVmeng5SnItZFAwSmwtU2hERkI4VGppempWYjhOckxzaV9qblQ2bFVkZU80YmFxcEY2ZlNTeWFPY243cw?oc=5",
+     "source": "Cryptopolitan",
+     "published": "2026-11-04T19:25:59+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "India Says Hackers Used 4 Public AI Tools to Hit Fintechs",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPT3kxc0U5MTNmNWp6QlJQWS1DUkdIUG1xNXFxS1ZMcEJuOE1tNTdSUFB4SkF5eE83YVd6MVh3ekszcW9tY0ZNT1Rzdml4YzZmZ2hyZEtYeVFQVEF1ODdrRWhhSS0wNUZmb19wdF9rdWR5T3FlWlZvOUxqUHJjTTZaSUtIR0Z1OWlURXB2M1NB?oc=5",
+     "source": "FourWeekMBA",
+     "published": "2026-11-04T18:34:36+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "AI",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Amadeus data breach affects 46,000 Singapore Airlines bookings",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcExYZXI0VV9vaWtZdUppT0QtVi1ITE1jTFZNb19Mbk51NGh6R0t0WHdlZGRhMTdTa3ZlSms0MzBBa2ZhendESE5xWWxoakE0aEhLcGJYVk9tcEFNV2VUZXRRdUNNZjNiTWF5RU5OQTVtSVk5MTRIVHRmOWVxU1dFV0tsYTZ2YlJkbHE3RVRtYkFva0h5eTF5OVBaTGEzekdOckVjSw?oc=5",
+     "source": "The Bangladesh Monitor",
+     "published": "2026-11-04T17:30:32+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC",
+      "Telecom"
+     ],
+     "also": [
+      "The Malaysian Reserve",
+      "Travel Weekly Asia",
+      "FTN news",
+      "Asianet Newsable",
+      "PYOK",
+      "Equitypandit",
+      "Moomoo",
+      "Malay Mail",
+      "NewsBytes",
+      "The 420.in",
+      "Moneycontrol.com"
+     ]
+    },
     {
      "title": "Japan to seek software vulnerability data from US AI firms amid cyberattack surge, Nikkei reports",
      "subtitle": "",
@@ -490,35 +571,6 @@
      ]
     },
     {
-     "title": "Singapore Airlines becomes latest carrier affected by data breach",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYURLTXJRaHo5blhMdjZyeTZFb0s3dHVIcXQtOTZDbFI2c0FsUUF2RGRLV091RThCYm1UMzA1S1NPaVpYdG9hNU9Pc2liaE9BTlgzYmZrdEZDRHo1OTY2WUZhdlZQYkxUSXNGMlpoOHFIU2pCRXZKdXlYa1huOFhKWlVRQi00SEt4dEM0OGNLUWNpRUMwNG5WLVFzd1ZoeXZfZVlENUwzM3N2VzVSWUphdWluOA?oc=5",
-     "source": "The Malaysian Reserve",
-     "published": "2026-11-04T14:36:44+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "Telecom",
-      "APAC"
-     ],
-     "also": [
-      "Travel Weekly Asia",
-      "The Bangladesh Monitor",
-      "FTN news",
-      "Asianet Newsable",
-      "PYOK",
-      "Equitypandit",
-      "Moomoo",
-      "Malay Mail",
-      "NewsBytes",
-      "The 420.in",
-      "Bloomberg.com",
-      "Moneycontrol.com"
-     ]
-    },
-    {
      "title": "Ransomware attacks on Japanese companies more than double in 5 years",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOc1RsT2V0bU8xNjlmTkRULVFJeWdkVGxjdGVxTDhRSFpVYTRURDMzTW5GMnZMS09jeUVQUEdmRU4zRFR6d3hlUEZjQnR2bEYyMWlRa09oRmFieTllVzczVGczaXlwT2NTRlRWb2p1Snp3WHhRS3RqTDdfOHc5Sl9DVThjSGJpWmZuYjV6R0VQUVVnUm1kTlJNQnBCU2VDcFRnOXozVnc1ckpmSUZPQVRadkJLTzlzUjMtR2Z0VmF1WlRRU3M4Zm9Ma29LTlNLUQ?oc=5",
@@ -533,15 +585,16 @@
      "also": []
     },
     {
-     "title": "Anwar: Malaysia Among Potential Cyberattack Targets, Proposes Closed-Door Briefing For MPs",
+     "title": "SBI Data Breach: State Bank of India Customers Have No DPDP Act Remedy",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWE4xcVZRN0RoMmRxWWd4WXF5dGJGcThHNXN6eHh6bmJqM3BjbUl4S3BqYW16UFdyZzA5bWtTTmJreVp6a0IwdEpuUXJ6MS1YRldsbm02SXZ1bzRhMG1VWVJ3SjFnb2lLdnIzOUhSR2JQOUJ5QUNWdW1mek9XLU81MV9zWTlBR2xORXEyQlpmWFZHa2xvRjlnMDNXd0pnbnVtemdXMExjZ0V6U3hDa1lTR0U4dnQybUVtOEZxTEIwdlJWT2ZuSFE?oc=5",
-     "source": "PenangToday",
-     "published": "2026-11-04T07:20:36+00:00",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE50WGx5RnpKZkpHdUZib01zSkZ1U2RINnE0clY0T09YOGUzaXVvOTdnQmM4RmgzaFNING9hdkRYZF94dHNDUlVNTVpLSjF3VDFvR190VVRPdW12QUl2ZmxHa282ZnVLVERQRmU4cGlWemVRR3k4VGNhWkh5Z9IBe0FVX3lxTE50WGx5RnpKZkpHdUZib01zSkZ1U2RINnE0clY0T09YOGUzaXVvOTdnQmM4RmgzaFNING9hdkRYZF94dHNDUlVNTVpLSjF3VDFvR190VVRPdW12QUl2ZmxHa282ZnVLVERQRmU4cGlWemVRR3k4VGNhWkh5Zw?oc=5",
+     "source": "The Probe",
+     "published": "2026-11-04T09:56:00+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
      "tags": [
+      "Breach",
       "APAC"
      ],
      "also": []
@@ -556,6 +609,22 @@
      "summary": "",
      "extra": "",
      "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Singapore Air Becomes Latest Carrier Affected by Data Breach",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT1dPdGJXRDB4YVhPYjdlZ3pDdEhvckd4aVlVdWhuRHVqMUFsV0JFVVMtNzI4d2ZNUVZWRjY1SGEzQlRfT0h6RDNYMF9iSG52SWVLOHd3UEcwSlF2emNINmZvUkE3MDJoWWdDaFNkSjlBSnk5TXA3MVE5cDNUMzcxdndCZks0Wjd5VzllX2NWRk91TkY5QnlWVkI0bXFPM3o5OGFYQXZaMGVkejNZTjNjSA?oc=5",
+     "source": "Bloomberg.com",
+     "published": "2026-11-04T03:05:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "Telecom",
       "APAC"
      ],
      "also": []
