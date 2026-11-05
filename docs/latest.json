@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05T07:00:13+00:00",
+ "generated": "2026-11-05T15:37:03+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -112,6 +112,229 @@
    "name": "Breaking Threats",
    "stories": [
     {
+     "title": "Closing the Identity Gap at the Service Desk",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/",
+     "source": "BleepingComputer",
+     "published": "2026-11-05T15:00:10+00:00",
+     "date_only": false,
+     "summary": "Attackers target IT service desks to bypass MFA by impersonating employees and convincing staff to reset passwords or register new authentication devices. Specops Software explains why traditional identity verification methods are no…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
+     "source": "The Hacker News",
+     "published": "2026-11-05T14:41:10+00:00",
+     "date_only": false,
+     "summary": "How much damage can someone do without breaking much? Quite a lot, it seems. A stolen login can open doors across several systems. A trusted setting can be used to lock people out. Even a simple file copy can reach places it shouldn't. And…",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": []
+    },
+    {
+     "title": "Bank Phishing Sites Show Fake ‘Suspended’ Pages to Evade Takedowns",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/bank-phishing-sites-show-fake-suspended-pages-to-evade-takedowns/",
+     "source": "SecurityWeek",
+     "published": "2026-11-05T13:22:12+00:00",
+     "date_only": false,
+     "summary": "More than 200 sites were seen serving phishing content to first-time visitors but not to those who revisit. The post Bank Phishing Sites Show Fake ‘Suspended’ Pages to Evade Takedowns appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [
+      "Phishing"
+     ],
+     "also": []
+    },
+    {
+     "title": "Cyberattack Hits French Blood Bank Site but No Blood Products Are Compromised",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/cyberattack-hits-french-blood-bank-site-but-no-blood-products-are-compromised/",
+     "source": "SecurityWeek",
+     "published": "2026-11-05T12:58:32+00:00",
+     "date_only": false,
+     "summary": "The incident comes after supermarkets in a number of European countries reported this week that their fridges and freezers warmed up after they were remotely hacked. The post Cyberattack Hits French Blood Bank Site but No Blood Products…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Cisco, WatchGuard Release Patches; SonicWall Won’t Fix GMS Flaws",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/cisco-watchguard-release-patches-sonicwall-wont-fix-gms-flaws/",
+     "source": "SecurityWeek",
+     "published": "2026-11-05T12:33:49+00:00",
+     "date_only": false,
+     "summary": "Cisco patched an RCE in UCS Central Software; WatchGuard fixed authentication and MitM flaws. The post Cisco, WatchGuard Release Patches; SonicWall Won’t Fix GMS Flaws appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/is-your-exposure-management-platform.html",
+     "source": "The Hacker News",
+     "published": "2026-11-05T12:25:00+00:00",
+     "date_only": false,
+     "summary": "A critical finding can move through several security tools and still leave the organization exposed. The vulnerability has a severity score, and a ticket has reached the queue. Progress then depends on information the finding may lack: who…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
+     "source": "The Hacker News",
+     "published": "2026-11-05T12:08:54+00:00",
+     "date_only": false,
+     "summary": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API costs. \"Our prototype…",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "The Agent Smith Dilemma: Governing Agentic Identities",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/the-agent-smith-dilemma-governing-agentic-identities/",
+     "source": "SecurityWeek",
+     "published": "2026-11-05T11:15:00+00:00",
+     "date_only": false,
+     "summary": "Every autonomous AI agent deployed across your enterprise today is a new proxy identity operating inside your perimeter. The post The Agent Smith Dilemma: Governing Agentic Identities appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "CISO Conversations: Ryan Davis – The Unknown Is Where Security Meets Reality",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/ciso-conversations-ryan-davis-the-unknown-is-where-security-meets-reality/",
+     "source": "SecurityWeek",
+     "published": "2026-11-05T11:00:00+00:00",
+     "date_only": false,
+     "summary": "Ryan Davis went from hacking his school’s network to running security at New Charter Technologies. What worries him now is shadow AI. The post CISO Conversations: Ryan Davis – The Unknown Is Where Security Meets Reality appeared first on…",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "Zyxel Switch Hacks Blamed on Patched Flaw Actually Exploited a Zero-Day",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/zyxel-switch-hacks-blamed-on-patched-flaw-actually-exploited-a-zero-day/",
+     "source": "SecurityWeek",
+     "published": "2026-11-05T10:56:41+00:00",
+     "date_only": false,
+     "summary": "Tracked as CVE-2026-107441, the out-of-bounds write flaw could allow attackers to execute OS commands via crafted HTTP requests. The post Zyxel Switch Hacks Blamed on Patched Flaw Actually Exploited a Zero-Day appeared first on…",
+     "extra": "",
+     "tags": [
+      "Zero-day"
+     ],
+     "also": []
+    },
+    {
+     "title": "Russia-Linked Hackers Hit iOS, Android Devices With Exploit Chains via Watering Holes",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/russia-linked-hackers-hit-ios-android-devices-with-exploit-chains-via-watering-holes/",
+     "source": "SecurityWeek",
+     "published": "2026-11-05T10:37:13+00:00",
+     "date_only": false,
+     "summary": "The large-scale watering hole campaign has been targeting entities in the US and Europe, mainly in Ukraine. The post Russia-Linked Hackers Hit iOS, Android Devices With Exploit Chains via Watering Holes appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html",
+     "source": "The Hacker News",
+     "published": "2026-11-05T10:06:19+00:00",
+     "date_only": false,
+     "summary": "October 2026 brought another wave of cyber threats targeting US businesses, with attackers exploiting trusted platforms, legitimate authentication processes, and everyday business workflows. For enterprises, these campaigns raise the…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "OpenAI Finds GPT-6 Astra Quietly Holding Back on Internal Red-Teaming, Exploit Tasks",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/openai-finds-gpt-6-astra-quietly-holding-back-on-internal-red-teaming-exploit-tasks/",
+     "source": "SecurityWeek",
+     "published": "2026-11-05T10:02:00+00:00",
+     "date_only": false,
+     "summary": "OpenAI says its Critical-rated cyber model met fewer hidden task goals when work was framed as AI safety research, often silently. The post OpenAI Finds GPT-6 Astra Quietly Holding Back on Internal Red-Teaming, Exploit Tasks appeared first…",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "GhostMap Android flaw lets malicious app trigger persistent boot loop",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/",
+     "source": "BleepingComputer",
+     "published": "2026-11-05T09:18:29+00:00",
+     "date_only": false,
+     "summary": "Attackers can force Android devices into a continuous boot loop using a specially crafted app that requires no permissions and only needs to be installed. [...]",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html",
+     "source": "The Hacker News",
+     "published": "2026-11-05T09:13:28+00:00",
+     "date_only": false,
+     "summary": "Apple has revealed that it plans to start checking public iCloud links for harmful content starting with iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3. The change specifically applies to scenarios where users share iCloud content…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html",
+     "source": "The Hacker News",
+     "published": "2026-11-05T08:42:03+00:00",
+     "date_only": false,
+     "summary": "The Indian Computer Emergency Response Team (CERT-In) has disclosed that an artificial intelligence (AI)-assisted threat actor it tracks as Crafty Falcon is targeting organizations in the Banking, Financial Services, and Insurance (BFSI)…",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
+     "source": "The Hacker News",
+     "published": "2026-11-05T07:06:33+00:00",
+     "date_only": false,
+     "summary": "Zyxel GS1900 network switches that received the vendor's earlier fix for an actively exploited flaw are still open to the exploit attackers used, researchers at Binarly found. The exploit lets anyone who can reach a switch's web management…",
+     "extra": "",
+     "tags": [
+      "Exploited",
+      "Zero-day"
+     ],
+     "also": []
+    },
+    {
      "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
      "subtitle": "",
      "link": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
@@ -136,17 +359,30 @@
      "also": []
     },
     {
-     "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
+     "title": "Chainalysis warns all users hit in cyber breach involving ‘agentic’ techniques",
      "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
-     "source": "The Hacker News",
-     "published": "2026-11-05T04:31:16+00:00",
+     "link": "https://therecord.media/chainalysis-all-users-hit-by-agentic-cyberattack",
+     "source": "The Record",
+     "published": "2026-11-05T00:00:00+00:00",
      "date_only": false,
-     "summary": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API costs. \"Our prototype…",
+     "summary": "Chainalysis, the blockchain analytics company, said Wednesday night that some information belonging to all its users — which its website says include those in the law enforcement and national security sectors — had been exposed in a…",
      "extra": "",
      "tags": [
+      "Breach",
       "AI"
      ],
+     "also": []
+    },
+    {
+     "title": "Ukraine fires two senior security officials amid corruption probe into scam call centers",
+     "subtitle": "",
+     "link": "https://therecord.media/ukraine-fires-senior-security-officials-amid-scam-center-corruption-investigation",
+     "source": "The Record",
+     "published": "2026-11-05T00:00:00+00:00",
+     "date_only": false,
+     "summary": "Ukraine's security service has fired two senior officials amid a corruption investigation into an alleged criminal network that bribed law enforcement officers to protect fraudulent call centers and other illegal operations.",
+     "extra": "",
+     "tags": [],
      "also": []
     },
     {
@@ -204,245 +440,114 @@
       "Zero-day"
      ],
      "also": []
-    },
-    {
-     "title": "Canadian extradited to US for allegedly hacking schools in at least four states",
-     "subtitle": "",
-     "link": "https://therecord.media/canadian-nationals-accused-us-education-hacks-cryptomining",
-     "source": "The Record",
-     "published": "2026-11-04T19:17:00+00:00",
-     "date_only": false,
-     "summary": "The Department of Justice said it identified two suspects in a case that dates back to 2016 and involved illicit cryptomining on the computers of U.S. educational institutions.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "DreamHost confirms data breach exposed FTP logins and webmail sessions",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/dreamhost-confirms-data-breach-exposed-ftp-logins-and-webmail-sessions/",
-     "source": "BleepingComputer",
-     "published": "2026-11-04T19:05:19+00:00",
-     "date_only": false,
-     "summary": "DreamHost is warning of a data breach after attackers gained access to its File Manager platform for two months and stole customers' FTP/SFTP usernames and passwords. [...]",
-     "extra": "",
-     "tags": [
-      "Breach"
-     ],
-     "also": []
-    },
-    {
-     "title": "French bank confirms cyber heist, hackers suspected to have stolen an estimated $133 million",
-     "subtitle": "",
-     "link": "https://therecord.media/french-bank-confirms-cyber-heist",
-     "source": "The Record",
-     "published": "2026-11-04T18:58:00+00:00",
-     "date_only": false,
-     "summary": "Crédit Mutuel Arkéa said in a press notice that the attackers were able to make transfers using the bank’s own account after compromising an unnamed supplier.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Cyberattack disrupts blood storage refrigeration systems in France",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/cyberattack-disrupts-blood-storage-refrigeration-systems-in-france/",
-     "source": "BleepingComputer",
-     "published": "2026-11-04T18:02:56+00:00",
-     "date_only": false,
-     "summary": "France's national blood service has confirmed that a cyberattack targeting a refrigeration equipment provider raised temperature and defrost settings at three of its facilities, threatening stored blood products. [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Debian and Ubuntu APT Flaw Lets MitM Attackers Swap Verified Packages and Run Code as Root",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/debian-and-ubuntu-apt-flaw-lets-mitm.html",
-     "source": "The Hacker News",
-     "published": "2026-11-04T17:00:46+00:00",
-     "date_only": false,
-     "summary": "A flaw in APT, the package manager for Debian and Ubuntu, allows an attacker who can modify package downloads to swap a checked package for their own. The attacker's code then runs as root, according to advisories that Debian, Ubuntu, and…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "SonicWall Won't Patch EoL GMS Flaws That Could Expose Files, Alter Database Records",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/sonicwall-wont-patch-eol-gms-flaws-that.html",
-     "source": "The Hacker News",
-     "published": "2026-11-04T17:00:38+00:00",
-     "date_only": false,
-     "summary": "SonicWall has warned of two vulnerabilities impacting end-of-life Global Management System (GMS) systems that it said will not be patched. Details of the security flaws, which affect SonicWall GMS 9.5.2 and earlier versions, are below -…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "NIKKE PC game launcher hacked to spread remote access, data-stealing malware",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/nikke-pc-game-launcher-hacked-to-spread-remote-access-data-stealing-malware/",
-     "source": "BleepingComputer",
-     "published": "2026-11-04T16:58:46+00:00",
-     "date_only": false,
-     "summary": "The developers of Goddess of Victory: NIKKE have confirmed that hackers tampered with the game's PC launcher scripts in a supply-chain attack, distributing malware capable of stealing credentials and cryptocurrency wallet data. [...]",
-     "extra": "",
-     "tags": [
-      "Supply chain"
-     ],
-     "also": []
-    },
-    {
-     "title": "Google, Partners Disrupt 1.3 Million-Device-Strong XCPE Botnet",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/endpoint-security/google-13-million-device-strong-xcpe-botnet",
-     "source": "Dark Reading",
-     "published": "2026-11-04T16:24:08+00:00",
-     "date_only": false,
-     "summary": "Google alleges that Android device manufacturer Videostrong ran the operation, which infected set-top boxes and IoT devices with a backdoor to create infrastructure for criminal activity.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Ukrainian news outlet Kyiv Independent hit by suspected Russian cyberattack",
-     "subtitle": "",
-     "link": "https://therecord.media/ukraine-kyiv-independent-cyberattack",
-     "source": "The Record",
-     "published": "2026-11-04T16:15:00+00:00",
-     "date_only": false,
-     "summary": "A suspected Russian cyberattack disrupted the website of The Kyiv Independent, one of Ukraine’s leading English-language news outlets.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Researchers Uncover Prompt Adware Hidden in OpenAI Codex Jailbreak Toolkit",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/researchers-uncover-prompt-adware.html",
-     "source": "The Hacker News",
-     "published": "2026-11-04T16:06:43+00:00",
-     "date_only": false,
-     "summary": "Cybersecurity researchers have disclosed details of an OpenAI Codex jailbreak bundle that's designed to modify an artificial intelligence (AI) agent's trusted instructions to insert advertisements for a third-party AI gateway. The…",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "mSecure password manager hack prompts password reset warnings",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/msecure-password-manager-hack-prompts-password-reset-warnings/",
-     "source": "BleepingComputer",
-     "published": "2026-11-04T16:00:18+00:00",
-     "date_only": false,
-     "summary": "mSeven Software is warning current and former mSecure password manager customers to change passwords, reset two-factor authentication, and remove passkeys following a cyberattack that reportedly exposed an encrypted customer database. [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Google Calendar phishing campaign hijacks sessions, bypasses MFA",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/google-calendar-phishing-campaign-hijacks-sessions-bypasses-mfa/",
-     "source": "BleepingComputer",
-     "published": "2026-11-04T15:00:10+00:00",
-     "date_only": false,
-     "summary": "A phishing campaign used Google Calendar invites, trusted redirects, and fake login pages to hijack corporate Google sessions and bypass MFA protections. Material Security examines how Operation CloudFire tracked the attacks, blocked…",
-     "extra": "",
-     "tags": [
-      "Phishing"
-     ],
-     "also": []
-    },
-    {
-     "title": "SonicWall warns of unpatched flaws in end-of-life GMS software",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-unpatched-flaws-in-end-of-life-gms-software/",
-     "source": "BleepingComputer",
-     "published": "2026-11-04T14:42:25+00:00",
-     "date_only": false,
-     "summary": "SonicWall warned customers of two security flaws affecting end-of-life Global Management System (GMS) systems that will not be patched. [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Sysdig Adds Runtime Security and Governance for AI Agents",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/sysdig-adds-runtime-security-and-governance-for-ai-agents/",
-     "source": "SecurityWeek",
-     "published": "2026-11-04T14:34:44+00:00",
-     "date_only": false,
-     "summary": "Sysdig’s platform uses runtime visibility to track AI agent actions and block risky behavior before it reaches production systems. The post Sysdig Adds Runtime Security and Governance for AI Agents appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
-     "source": "The Hacker News",
-     "published": "2026-11-04T14:27:52+00:00",
-     "date_only": false,
-     "summary": "The Russia-linked threat actor known as APT29 is presumed to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a Ukrainian web…",
-     "extra": "",
-     "tags": [
-      "Nation-state",
-      "Supply chain"
-     ],
-     "also": [
-      "BleepingComputer"
-     ]
-    },
-    {
-     "title": "Barracuda ESG Authentication Bypass Flaw Opens Path to Root",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/barracuda-email-security-gateway-authentication-bypass-opens-path-to-root/",
-     "source": "SecurityWeek",
-     "published": "2026-11-04T14:24:54+00:00",
-     "date_only": false,
-     "summary": "An authentication bypass and a command injection flaw can be chained for root access on Barracuda’s Email Security Gateway appliances. The post Barracuda ESG Authentication Bypass Flaw Opens Path to Root appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Incidents Move Too Fast for Pen & Paper",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/cybersecurity-operations/incidents-move-fast-pen-paper",
-     "source": "Dark Reading",
-     "published": "2026-11-04T14:17:00+00:00",
-     "date_only": false,
-     "summary": "Organizations may not be ready for completely autonomous communication processes, but there are places where automating information updates would alleviate pressure.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Agentic Data Security Firm Sentra Raises $150 Million",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/agentic-data-security-firm-sentra-raises-150-million/",
-     "source": "SecurityWeek",
-     "published": "2026-11-04T14:09:20+00:00",
-     "date_only": false,
-     "summary": "The company will invest in agentic data security capabilities and expand its go-to-market organization. The post Agentic Data Security Firm Sentra Raises $150 Million appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
     }
    ]
   },
   {
    "name": "APAC Watch",
    "stories": [
+    {
+     "title": "CERT-In Issues Critical Alert Over 'Crafty Falcon' AI Cyberattack Targeting India's Financial Sector",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUUtJY0pob0tIOWJwSmpkZXE3Ul9fUlo2dElHajFka1J5SUR6dVBzRzVrTTZJRjQ0VDhCOU9Ya0xabXZiOVRCekZ5d0hJVjVqZG83MTZpaEdtaXJINzlDRnAyaXU4R2YwQ0tkLUJRaG1NbXFZWUlDQXlSVGJwYTd6REZlVEJjYWVQQ3ZFQ3d4aG1yeUtWNHg3U05KeWRBd3JkR2lrRA?oc=5",
+     "source": "www.nationpathindia.com",
+     "published": "2026-11-05T14:57:28+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "AI",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "WhatsApp malware alert: Fake invoices and salary files sent from trusted contacts; CERT-In warns Indian users",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPN2Uzd3R2enltQWNRb0w5QXJ2MVVtWE9DT1lYTEFza0NpU3o1d0std2h0eDh5NlpObktqNnRvS0RSWDZzbmxHckJ5Q095bHBUeDk1NkhQVFhvVFo5bHY1MkF2QlFGZ0VvTzlLOWllN09HNHVhUG01UDJwQ0dtaUFja0FnNDVfT0REcHYtaTNVazdfTTF0aXJxa1pLMHlGTW12djVxT2ZycnlfOGpKa1JHT05WWU00ZFowb2l1d3lrdTFRRklxMTZwQ1doVW1EQUxJSVRyTmpZTkp0S01WeHc?oc=5",
+     "source": "The Live Nagpur",
+     "published": "2026-11-05T13:04:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Ukraine media outlet hit by suspected Russian cyberattack | NHK WORLD-JAPAN News",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE53S2lLTEl4OGM2NHBfeVNpbW01MzduOVlQeFBUU1VsZUR1QkRuT19lMXdRS1BIWXU1aUFfek82QndtczNOa1hQVlhPcG9HbVlsRHJ5c3ZucmVfNTV0ZnlNSTlSdw?oc=5",
+     "source": "NHKニュース",
+     "published": "2026-11-05T11:07:29+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "CERT-In flags China-Linked AI cyberattacks on Indian banks: Hackers exploit holidays, low-monitoring windows",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQeHRob2JoNzhJME4wVk1rdS1XSDZ3RmpVTkJrbjlkWkhCbDVJNC1QQ2thVlh6WVd5em40dE1lQ3Q1QndHN0Y4Yy1PUVV2NmZEbTRQTzdGV1ZrZGMyYTVmMUtDVm5uNG1UU1h2Y19IZy1laUdEaFExQ3hiT2Q1TWJwcEt3TUl5OEprNDFXdzdBRmxGUEtlaTlOTmZkV2VMRmt6QmFIYnNISzlzUjJUM2FGdGlsMFpqRlRkMGRMNWk1YVZyb2d3YUozZTBYRGF6WXo2RG9uNlJWdUF2X194TG5kNmd6My1NQmdWbFp3ejcxOU1xSmvSAfgBQVVfeXFMTmJsMm9BaUJTMGlWM1NLOUF3VkpicDBsTkJGLWhZZms2Wk95dnA3TnZFa0wtbndDME5aSmNPSXYyNDB3Q2Ntb0dESHlsUmt2Y29DUUFlTXo0dFk0Wjd3NlE1ZG5IV3pHRk5pTE1ZZXJYd1A4MS1iNWxCUFBrYWdycUw0eUs1SGJMdDFrNTVucW9uMzBkdTlGSFJGeG9yTlFjaWxYUDRxOTFCdmI3Vkt2QnNlRGlVSUl4ek9Md3FWNGtmWXhhc3dzY3F6aW5sLXNGTHFzOVFLU3FfNlJXUTZzbGE1SXdOQjJ5dGJ1dmhmU1UyYmI1ekVwWTA?oc=5",
+     "source": "Livemint",
+     "published": "2026-11-05T10:53:05+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "Dont Trust A File Just Because A Friend Sent It: WhatsApp Malware Wave Hits Asia, Indias CERT-In Also",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbmVnMThLRnFHUTdYei04cXoxTmFRdXFqQjVNMGEzc2tsSk4zUEx2V1paQjg0RUt3VTBNQWhUV0ZQeXhKdklPWGNrVFhUVVlndVRWYTNQcXpoX0dac0RCWjZMTmFJVC1rNEt6SmRnc09mcFdoQzlUcGJXOUU0aGJYNzJ0ZklXVTVDa1JNTzgzdF9Pdmlzc0kyc3A0dFlzOHdaUk9YSk9zR2pRS0VuNEN3NGxPWmxSYzVySFc5akkyUjZPRDFpWHVjUERvRnZYMGtfeDhJLWtfMlBRUdIB3wFBVV95cUxQMkV6UXJZZElmc1duaGY3VGpZRTRheXNJdHdpaHJENzhyT092bW1jbXlDdk8wUjNLRFUxYndQb2hnRm16NVBWWW1BN0xUcmVMalNUdEhkUUNNdHB5VVY1cXJyeUJsek5HdDd3d2pURndhZXJsNGlRb29XaE1zcWdqYmlybDg5cGZ5OXpFOHU2SjRtaWl0WHE3cTNQTFJ6U1kxNEdjTURhalpvUEt1YUE5bzRJTmE4aG9ybUtOaXRxNmNJUEVZck5XZDA5UU1yQXR1ejM0QldrTEFIUUt1SGNn?oc=5",
+     "source": "Free Press Journal",
+     "published": "2026-11-05T10:42:46+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Singapore Airlines latest carrier hit by Amadeus data breach",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTkN3d3cwQ2lla0NpSHNiZGhFV21CeGJPbHF4aG5mUEJXel9GbTl0OU5SNUh2VVdyazFFM01uYVBjakp1dWJzRGp4anRpSVdrb25tMVdwRE1KLWhFaHBSa1RsNHVKelY1X1l6aktJVU1Gcm1KSXFCUmFLQ3pmRnpmdThUdTJqaDQtRks3N2FRN2toUldyd1NIQ0x3RDJCVWk3OE94Zi14MVpIYlE?oc=5",
+     "source": "Travel Weekly Asia",
+     "published": "2026-11-05T09:27:37+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "Telecom",
+      "APAC"
+     ],
+     "also": [
+      "The Bangladesh Monitor",
+      "NST Online"
+     ]
+    },
+    {
+     "title": "Japan Govt to Establish Cyberattack Response Team Involving Public, Private Sectors",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWFlaZHhoX0VVZjQtYTgxdnByTzVwbE9idUU4dkVkNTFFNkt3azE0bEVvejhHNllEUkFNUjNrMVlPOUNtVXNfOXE4ZkNybjVfNDBpUVZ5UVJVcHpkZ0VJVmlwY1BJUUt2cjZ3Y2JteGtEYjlaQjFXYU83bFk3aHdRYlZkUQ?oc=5",
+     "source": "The Japan News",
+     "published": "2026-11-05T07:05:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
     {
      "title": "India’s CERT-In Warns of AI Hackers Targeting Crypto Exchanges",
      "subtitle": "",
@@ -482,7 +587,7 @@
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfa1YyS3kyVk9vbG04NW96NG1CSjV1RV9CMTludHZwWVhRS2JYY0RzX2ZjaXl4MTlPcGxWMzFhd0ZBaG1VcWk2WWYwYWxqN0ZYMmpUbXd5MDd2Mkk?oc=5",
      "source": "Wake Up Singapore",
-     "published": "2026-11-05T02:17:47+00:00",
+     "published": "2026-11-05T02:00:47+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -519,30 +624,6 @@
      "also": []
     },
     {
-     "title": "Amadeus data breach affects 46,000 Singapore Airlines bookings",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcExYZXI0VV9vaWtZdUppT0QtVi1ITE1jTFZNb19Mbk51NGh6R0t0WHdlZGRhMTdTa3ZlSms0MzBBa2ZhendESE5xWWxoakE0aEhLcGJYVk9tcEFNV2VUZXRRdUNNZjNiTWF5RU5OQTVtSVk5MTRIVHRmOWVxU1dFV0tsYTZ2YlJkbHE3RVRtYkFva0h5eTF5OVBaTGEzekdOckVjSw?oc=5",
-     "source": "The Bangladesh Monitor",
-     "published": "2026-11-04T17:30:32+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC",
-      "Telecom"
-     ],
-     "also": [
-      "NST Online",
-      "The Flight Club",
-      "The Malaysian Reserve",
-      "Travel Weekly Asia",
-      "FTN news",
-      "Asianet Newsable",
-      "PYOK"
-     ]
-    },
-    {
      "title": "Japan to seek software vulnerability data from US AI firms amid cyberattack surge, Nikkei reports",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQY1YyaDM1Qkl0SmF6Qk45bWI1ME5lc2pSTmxaYW9pMXByZTlyaW9weXNISjlMejQxci1DM3BKQzhkN1JlRVkwSGcwTE1MYVFJWGR1Z3BjcVF5NVl3VUpWVVZyVnYwMmpnZWd6S01xU1JLLTY0V2YwelNxYjVHckpUSlJFUmZKdUZ4NGQ4aFhuN09kaFRlWGE5bjBnNXVmaExidU5fczBKOGE1d3lwcUt2cE5RZVhLZlR1UG9mN3FuTmpBazFIMy11ajAyWDdtUkx3em4w?oc=5",
@@ -556,58 +637,39 @@
       "APAC"
      ],
      "also": []
-    },
-    {
-     "title": "Credit card numbers may have leaked in cyberattack on Japan’s Muji",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYUFRYXhLNENSVWp1eW5lc2tRSEo5S2ZHWDVHNGhUVUxvNEZwd3ZDYnI5MEtjaHFEUUtqdngtNGpRR2IxX0o5RzJ4UGU1ejY3VEwwanRRX0xlR2dvcjc0TWxyY3FCc2pyZUhLSjRjQm1XUmR3eVRxSHljbW95bEpvSmxpZ3dUR05uMWNWZ3ZITkRMY3pkclJoQnM5YjdmeU9DTjBnVzBrRnZHMDFSUnc?oc=5",
-     "source": "The Straits Times",
-     "published": "2026-11-04T15:04:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": [
-      "BigGo Finance"
-     ]
-    },
-    {
-     "title": "Philippine government agency suffers massive data breach",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbGs3TTFJeGt3cVRZVWJvRkJBbkhjc0J1QnNudGoxcEdCVzV4MExvbDFVb0JqQUR4dVRmdlVvaHNiejZLeFVCOUR1d2dreVljUFo1VFJibFVlbjg5RVh4SDRlZmZzZFQzNklsVmZyWldYNlR4ZC1LSTFmYkJ3NDNGVXlHOGRPamhxa2t4ZEdLMA?oc=5",
-     "source": "SC Media",
-     "published": "2026-11-04T13:37:53+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach"
-     ],
-     "also": []
-    },
-    {
-     "title": "SBI Data Breach: State Bank of India Customers Have No DPDP Act Remedy",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE50WGx5RnpKZkpHdUZib01zSkZ1U2RINnE0clY0T09YOGUzaXVvOTdnQmM4RmgzaFNING9hdkRYZF94dHNDUlVNTVpLSjF3VDFvR190VVRPdW12QUl2ZmxHa282ZnVLVERQRmU4cGlWemVRR3k4VGNhWkh5Z9IBe0FVX3lxTE50WGx5RnpKZkpHdUZib01zSkZ1U2RINnE0clY0T09YOGUzaXVvOTdnQmM4RmgzaFNING9hdkRYZF94dHNDUlVNTVpLSjF3VDFvR190VVRPdW12QUl2ZmxHa282ZnVLVERQRmU4cGlWemVRR3k4VGNhWkh5Zw?oc=5",
-     "source": "The Probe",
-     "published": "2026-11-04T09:56:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
     }
    ]
   },
   {
    "name": "Threat Research",
    "stories": [
+    {
+     "title": "ChatGPT Lockdown Mode Bypass: Phishing, Malware Delivery, and Silent Data Exfiltration",
+     "subtitle": "",
+     "link": "https://research.checkpoint.com/2026/chatgpt-lockdown-mode-bypass-phishing-malware-delivery-and-silent-data-exfiltration/",
+     "source": "Check Point Research",
+     "published": "2026-11-05T14:00:11+00:00",
+     "date_only": false,
+     "summary": "Research by: Alexey Bukhteyev Key Takeaways Introduction Earlier this year, Check Point Research disclosed a security flaw in ChatGPT’s code-execution runtime that allowed sensitive conversation data to be silently exfiltrated to an…",
+     "extra": "",
+     "tags": [
+      "AI",
+      "Phishing"
+     ],
+     "also": []
+    },
+    {
+     "title": "SlippyNunchucks hijacks Sogou Input Method’s brand promotion mechanism to distribute malware",
+     "subtitle": "",
+     "link": "https://www.welivesecurity.com/en/eset-research/slippynunchucks-hijacks-sogou-input-methods-brand-promotion-mechanism-to-distribute-malware/",
+     "source": "ESET Research",
+     "published": "2026-11-04T09:55:00+00:00",
+     "date_only": false,
+     "summary": "ESET Research analyzes a DNS hijacking operation abusing insecure HTTP communications in Windows versions of Sogou Input Method",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
     {
      "title": "Fake-download campaign uses trojanized installers to deliver monetization payloads",
      "subtitle": "",
@@ -770,32 +832,6 @@
      "extra": "",
      "tags": [],
      "also": []
-    },
-    {
-     "title": "ARTEX and Friends: Enter Agentic Offensive Frameworks",
-     "subtitle": "",
-     "link": "https://cloud.google.com/blog/topics/threat-intelligence/artex-and-friends-enter-agentic-offensive-frameworks/",
-     "source": "Google Threat Intelligence",
-     "published": "2026-10-30T14:00:00+00:00",
-     "date_only": false,
-     "summary": "Written by: Aurora Blum, David Mainor, Rohit Nambiar, Omar ElAhdan, Matthew McWhirt, Will Silverstone, Bhavesh Dhake, Chris Busse Introduction Recent intrusions in which threat actors have been observed weaponizing agentic frameworks to…",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated October 29)",
-     "subtitle": "",
-     "link": "https://unit42.paloaltonetworks.com/cve-2026-109618-cve-2026-109619/",
-     "source": "Unit 42",
-     "published": "2026-10-29T18:00:34+00:00",
-     "date_only": false,
-     "summary": "CVE-2026-109618 and CVE-2026-109619 are Critical vulnerabilities in PHP, a scripting language used globally for web servers and CMS systems. The post Threat Brief: Critical Vulnerabilities in PHP: CVE-2026-109618, CVE-2026-109619 (Updated…",
-     "extra": "",
-     "tags": [],
-     "also": []
     }
    ]
   },
@@ -836,6 +872,20 @@
      "summary": "",
      "extra": "",
      "tags": [],
+     "also": []
+    },
+    {
+     "title": "[Security Blog] HKCERT Security Incident Statistics and Cybersecurity Trends in Hong Kong for Q3 2026",
+     "subtitle": "",
+     "link": "https://www.hkcert.org/blog/hkcert-security-incident-statistics-and-cybersecurity-trends-in-hong-kong-for-q3-2026",
+     "source": "HKCERT",
+     "published": "2026-11-04T16:00:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
      "also": []
     },
     {
