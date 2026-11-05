@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-04T23:46:39+00:00",
+ "generated": "2026-11-05T07:00:13+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -105,46 +105,50 @@
      "product": "Secure Firewall ASA Software and Cisco Secure FTD Software",
      "cve": "CVE-2026-76418",
      "also": []
-    },
-    {
-     "title": "CVE-2026-41709: Broadcom VMware ESX",
-     "subtitle": "Broadcom VMWare ESX Insufficient Logging Vulnerability",
-     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-41709",
-     "source": "CISA KEV",
-     "published": "2026-10-28T00:00:00+00:00",
-     "date_only": true,
-     "summary": "Broadcom VMWare ESX contains an insufficient logging vulnerability that could allow a malicious actor with admin access to perform certain operations without being logged.",
-     "extra": "US federal patch deadline 11 Nov",
-     "tags": [
-      "Exploited"
-     ],
-     "vendor": "Broadcom",
-     "product": "VMware ESX",
-     "cve": "CVE-2026-41709",
-     "also": []
-    },
-    {
-     "title": "CVE-2026-46300: Linux Kernel",
-     "subtitle": "Linux Kernel Missing Initialization of a Variable Vulnerability",
-     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-46300",
-     "source": "CISA KEV",
-     "published": "2026-10-28T00:00:00+00:00",
-     "date_only": true,
-     "summary": "Linux Kernel contains a missing initialization of a variable vulnerability that could allow for unintended modification of page-cache-backed data via failure to preserve the shared-fragment marker during socket buffer coalescing, causing…",
-     "extra": "US federal patch deadline 31 Oct",
-     "tags": [
-      "Exploited"
-     ],
-     "vendor": "Linux",
-     "product": "Kernel",
-     "cve": "CVE-2026-46300",
-     "also": []
     }
    ]
   },
   {
    "name": "Breaking Threats",
    "stories": [
+    {
+     "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
+     "source": "The Hacker News",
+     "published": "2026-11-05T05:17:04+00:00",
+     "date_only": false,
+     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities (KEV) catalog, following reports of…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Want to Rent an Internet Address at the White House?",
+     "subtitle": "",
+     "link": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
+     "source": "Krebs on Security",
+     "published": "2026-11-05T04:36:17+00:00",
+     "date_only": false,
+     "summary": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One of the proxy services is…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
+     "source": "The Hacker News",
+     "published": "2026-11-05T04:31:16+00:00",
+     "date_only": false,
+     "summary": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API costs. \"Our prototype…",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
     {
      "title": "Critical Rails Bug Threatens to Derail Vulnerable Servers",
      "subtitle": "",
@@ -386,7 +390,7 @@
      "source": "The Hacker News",
      "published": "2026-11-04T14:27:52+00:00",
      "date_only": false,
-     "summary": "The Russia-linked threat actor known as APT29 is said to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a Ukrainian web…",
+     "summary": "The Russia-linked threat actor known as APT29 is presumed to be behind a large-scale watering hole campaign targeting iOS and Android users through compromised websites, fake domains, and a supply chain attack involving a Ukrainian web…",
      "extra": "",
      "tags": [
       "Nation-state",
@@ -433,45 +437,6 @@
       "AI"
      ],
      "also": []
-    },
-    {
-     "title": "Cyberattack wipes cloud data at major Russian hosting provider Beget",
-     "subtitle": "",
-     "link": "https://therecord.media/russia-cyberattack-beget-cloud",
-     "source": "The Record",
-     "published": "2026-11-04T14:00:00+00:00",
-     "date_only": false,
-     "summary": "A major Russian web hosting provider is struggling to restore its services after a cyberattack destroyed data across its cloud infrastructure and disrupted hundreds of websites.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "US charges two Canadians accused of hacking US universities",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/us-charges-two-canadians-accused-of-hacking-us-universities/",
-     "source": "BleepingComputer",
-     "published": "2026-11-04T13:13:20+00:00",
-     "date_only": false,
-     "summary": "A federal grand jury indicted two Canadians suspected of hacking multiple US universities and using the compromised systems to mine for cryptocurrency. [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "AI-Linked Breaches Mount as WorkOS, Northflank, Trigger.dev Disclose Hacks",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/ai-linked-breaches-mount-as-workos-northflank-trigger-dev-disclose-hacks/",
-     "source": "SecurityWeek",
-     "published": "2026-11-04T12:43:20+00:00",
-     "date_only": false,
-     "summary": "Hackers have been harvesting AI access tokens and have been using AI-assisted offensive tools to automate attacks. The post AI-Linked Breaches Mount as WorkOS, Northflank, Trigger.dev Disclose Hacks appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "AI"
-     ],
-     "also": []
     }
    ]
   },
@@ -479,18 +444,63 @@
    "name": "APAC Watch",
    "stories": [
     {
-     "title": "Securitize Japan breach exposes Sony Bank and NTT Data customer data",
+     "title": "India’s CERT-In Warns of AI Hackers Targeting Crypto Exchanges",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQM2VIdnVHWmVQcTFkRUxObGp3M3lpQmk0RjQ5RVpGUEprYXR4R1I5aC0tWThKZUVNa2FmTVdiZ01zR2lDamVmeng5SnItZFAwSmwtU2hERkI4VGppempWYjhOckxzaV9qblQ2bFVkZU80YmFxcEY2ZlNTeWFPY243cw?oc=5",
-     "source": "Cryptopolitan",
-     "published": "2026-11-04T19:25:59+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPR29RbmxFZVVLRnpRRVNFNHl3bUhVOHBzelFwektUS2hTWG1QckRpQ1F2SWVLd3dCR2x1cjJJel9lWUdxNVZCbzZHRnRINUhKajZPbml3WE1DUHZXR0FVa0VWNFp5SzVVQ3dUVk5zZ2ktMGFiY3g0dDE4RlVoZGtTemJ6S0VmQ09YNjdZZ3N5cDVCeWlFOEI1el84MVpMZkE5a0E?oc=5",
+     "source": "The Crypto Times",
+     "published": "2026-11-05T06:33:04+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
      "tags": [
-      "Breach",
+      "AI",
       "APAC"
      ],
+     "also": [
+      "Cryptonews.net",
+      "KuCoin"
+     ]
+    },
+    {
+     "title": "Japan police detect malware in Chinese-made Android TV devices",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR1ZYVDJSUFNoTEJVem80ZHdFSThVOGkzSndqSlFmWVVpcm13aEY0dGtvNml1RGdzQnNYVjVqRmZnM0QyMUtKN3l1RWxfYk84cTNrT2ZnQldBTmVOYmc4MDMzRC1BUEtxVkNPTnh4aU5uU2VERE5HbWpMYXdlcHVEd09NY2d1bzNYVkNkTUE0TWRKRE9xTEY1d1BQX0puLXV3VXgwUDJva0hHZTZIcF9qLVdEU3ctT3V1WVJ2UEQyV1R2SmM?oc=5",
+     "source": "The Star",
+     "published": "2026-11-05T04:46:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": [
+      "The Japan News"
+     ]
+    },
+    {
+     "title": "Malaysia PM Anwar Warns of Cyberattack Risks as Government Reviews National Security Defences",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfa1YyS3kyVk9vbG04NW96NG1CSjV1RV9CMTludHZwWVhRS2JYY0RzX2ZjaXl4MTlPcGxWMzFhd0ZBaG1VcWk2WWYwYWxqN0ZYMmpUbXd5MDd2Mkk?oc=5",
+     "source": "Wake Up Singapore",
+     "published": "2026-11-05T02:17:47+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "New malware attacks Windows systems specifically for government use in Asia.",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcG1nSkRnQXlWcXZQbkNmcHdGUEVzRmFKczhOLVJjTkhxbTBTQW9tSHhlZlhObWJWbF83NEl0MXJaazQ5RWRtNTNSYlpvNXN5UVVoaFpTbi11cm9LNlJCSTZRYW93SWd2cU1SaTBPbjg4Rm15WVMweTE3M09wTzVTYXpUXzVyVDlsV1dyd0xxYi0yM2Ny?oc=5",
+     "source": "Vietnam.vn",
+     "published": "2026-11-05T01:42:35+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
      "also": []
     },
     {
@@ -523,17 +533,13 @@
       "Telecom"
      ],
      "also": [
+      "NST Online",
+      "The Flight Club",
       "The Malaysian Reserve",
       "Travel Weekly Asia",
       "FTN news",
       "Asianet Newsable",
-      "PYOK",
-      "Equitypandit",
-      "Moomoo",
-      "Malay Mail",
-      "NewsBytes",
-      "The 420.in",
-      "Moneycontrol.com"
+      "PYOK"
      ]
     },
     {
@@ -549,9 +555,7 @@
       "AI",
       "APAC"
      ],
-     "also": [
-      "marketscreener.com"
-     ]
+     "also": []
     },
     {
      "title": "Credit card numbers may have leaked in cyberattack on Japan’s Muji",
@@ -571,16 +575,16 @@
      ]
     },
     {
-     "title": "Ransomware attacks on Japanese companies more than double in 5 years",
+     "title": "Philippine government agency suffers massive data breach",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOc1RsT2V0bU8xNjlmTkRULVFJeWdkVGxjdGVxTDhRSFpVYTRURDMzTW5GMnZMS09jeUVQUEdmRU4zRFR6d3hlUEZjQnR2bEYyMWlRa09oRmFieTllVzczVGczaXlwT2NTRlRWb2p1Snp3WHhRS3RqTDdfOHc5Sl9DVThjSGJpWmZuYjV6R0VQUVVnUm1kTlJNQnBCU2VDcFRnOXozVnc1ckpmSUZPQVRadkJLTzlzUjMtR2Z0VmF1WlRRU3M4Zm9Ma29LTlNLUQ?oc=5",
-     "source": "The Straits Times",
-     "published": "2026-11-04T11:35:00+00:00",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQbGs3TTFJeGt3cVRZVWJvRkJBbkhjc0J1QnNudGoxcEdCVzV4MExvbDFVb0JqQUR4dVRmdlVvaHNiejZLeFVCOUR1d2dreVljUFo1VFJibFVlbjg5RVh4SDRlZmZzZFQzNklsVmZyWldYNlR4ZC1LSTFmYkJ3NDNGVXlHOGRPamhxa2t4ZEdLMA?oc=5",
+     "source": "SC Media",
+     "published": "2026-11-04T13:37:53+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
      "tags": [
-      "Ransomware"
+      "Breach"
      ],
      "also": []
     },
@@ -598,67 +602,6 @@
       "APAC"
      ],
      "also": []
-    },
-    {
-     "title": "Singapore Cybersecurity Warning: Hijacked WhatsApp Accounts Spread Malware to Computers",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMm0yazNra0xkUnNjaXZiYmNRWC1QSk5NdFgwZi02VmlHQTAwVWZSdWxPLXRid05TN1pXc0FJdmpLbENNelZEWkd5TmFra0tacVVULU0waVJnMFpxTEZTWFFmcDN0am5LcUFncHU2NWlFZzVVcDIzMHBMZmNtSEtlYXd5dzhNZVh5cENsTmFpNU1iRXRWanlNM3MzLUR1Wmp2RzRZVURnTk9oMzFqNnltcWZIUDRMNkxGZURJLUdkNUhuZw?oc=5",
-     "source": "Batam News Asia",
-     "published": "2026-11-04T04:55:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Singapore Air Becomes Latest Carrier Affected by Data Breach",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNT1dPdGJXRDB4YVhPYjdlZ3pDdEhvckd4aVlVdWhuRHVqMUFsV0JFVVMtNzI4d2ZNUVZWRjY1SGEzQlRfT0h6RDNYMF9iSG52SWVLOHd3UEcwSlF2emNINmZvUkE3MDJoWWdDaFNkSjlBSnk5TXA3MVE5cDNUMzcxdndCZks0Wjd5VzllX2NWRk91TkY5QnlWVkI0bXFPM3o5OGFYQXZaMGVkejNZTjNjSA?oc=5",
-     "source": "Bloomberg.com",
-     "published": "2026-11-04T03:05:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "Telecom",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "MoneySmart customers in Singapore, Hong Kong hit by data breach",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbEV2d1lsSk53VVpqQWxsTkk0Uy1GUkMwcFVFMXFVNE82RE5kbldhUHVKMGxmTnFyM1Z6Q1Z3bTJDNmlPazVCX3R1Mm9PM2h2REV1eHpCUnVaQm1LdkNQYXkwZE1sZFBzSDM3djVqbk9zZE5xSGpFUEtGN1U3MFhyN090TkdFaDduLVVmQnVnUVJpeFBEZGJxSUdqVjhBU0hfVnZzMHJYZGF5OExmRXJrdg?oc=5",
-     "source": "Hong Kong Business",
-     "published": "2026-11-04T01:54:08+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Hackers target legitimate bookings across Australia — Holidaymaker alert",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQT0hfa1A2SHIzMEYtTU9TelJsTnRlc1JMQjdGTzEtMDI1OWJabU9QZl9GTTd3LUZOWjY1NVN6SWY4ZlBkaUprTkVtVERMTUI3RVJKb1FETnN3Zm5MYXRUWklTU2d5MTgzbkRNT05xWndFemo5YWR1NlFGQW5rbUVGOUppdFphWjNVWHhYdkJQX3duN2NBbW1rMHNvTlNfeUpKTll3N3lpUQ?oc=5",
-     "source": "cedarnews.net",
-     "published": "2026-11-04T01:52:57+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": [
-      "6PR"
-     ]
     }
    ]
   },
@@ -860,6 +803,42 @@
    "name": "Government Advisories",
    "stories": [
     {
+     "title": "Mozilla Firefox Denial of Service Vulnerability",
+     "subtitle": "",
+     "link": "https://www.hkcert.org/security-bulletin/mozilla-firefox-denial-of-service-vulnerability_20261105",
+     "source": "HKCERT",
+     "published": "2026-11-05T03:00:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "TP-Link Router Multiple Vulnerabilities",
+     "subtitle": "",
+     "link": "https://www.hkcert.org/security-bulletin/tp-link-router-multiple-vulnerabilities_20261105",
+     "source": "HKCERT",
+     "published": "2026-11-05T03:00:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Microsoft Edge Multiple Vulnerabilities",
+     "subtitle": "",
+     "link": "https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20261105",
+     "source": "HKCERT",
+     "published": "2026-11-05T02:00:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
      "title": "Google Chrome Multiple Vulnerabilities",
      "subtitle": "",
      "link": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20261104",
@@ -884,18 +863,6 @@
      "also": []
     },
     {
-     "title": "Android Multiple Vulnerabilities",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/android-multiple-vulnerabilities_20261103",
-     "source": "HKCERT",
-     "published": "2026-11-03T03:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
      "title": "Debian Linux Kernel Multiple Vulnerabilities",
      "subtitle": "",
      "link": "https://www.hkcert.org/security-bulletin/debian-linux-kernel-multiple-vulnerabilities_20261103",
@@ -908,49 +875,11 @@
      "also": []
     },
     {
-     "title": "Ivanti Connect Secure Multiple Vulnerabilities",
+     "title": "Samsung Products Multiple Vulnerabilities",
      "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/ivanti-connect-secure-multiple-vulnerabilities_20261102",
+     "link": "https://www.hkcert.org/security-bulletin/samsung-products-multiple-vulnerabilities_20261103",
      "source": "HKCERT",
-     "published": "2026-11-02T03:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Ransomware Alert - Ransomware Attacks Targeting Synology NAS Devices",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/security-alert-ransomware-attacks-targeting-synology-nas-devices_20261102",
-     "source": "HKCERT",
-     "published": "2026-11-02T03:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Ransomware"
-     ],
-     "also": []
-    },
-    {
-     "title": "Synology Products Multiple Vulnerabilities",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/synology-products-multiple-vulnerabilities_20261102",
-     "source": "HKCERT",
-     "published": "2026-11-02T03:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Microsoft Edge Multiple Vulnerabilities",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20261102",
-     "source": "HKCERT",
-     "published": "2026-11-02T02:00:00+00:00",
+     "published": "2026-11-03T03:00:00+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
