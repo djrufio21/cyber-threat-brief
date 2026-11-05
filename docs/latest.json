@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05T15:37:03+00:00",
+ "generated": "2026-11-05T22:06:51+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -112,6 +112,231 @@
    "name": "Breaking Threats",
    "stories": [
     {
+     "title": "US Government Email Systems Open to Abuse Thanks to Typos",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/cybersecurity-operations/us-government-email-systems-abuse-typos",
+     "source": "Dark Reading",
+     "published": "2026-11-05T21:35:05+00:00",
+     "date_only": false,
+     "summary": "Erroneous or outdated DNS records can give attackers surprising powers over organizations' email systems.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/",
+     "source": "BleepingComputer",
+     "published": "2026-11-05T21:30:30+00:00",
+     "date_only": false,
+     "summary": "Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-service platforms to steal Microsoft and Google account credentials and authentication…",
+     "extra": "",
+     "tags": [
+      "Phishing"
+     ],
+     "also": []
+    },
+    {
+     "title": "What We Missed: Knicks Phishing Test Goes Out of Bounds",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/cyber-risk/what-we-missed-knicks-phishing-test-out-of-bounds",
+     "source": "Dark Reading",
+     "published": "2026-11-05T21:00:47+00:00",
+     "date_only": false,
+     "summary": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from an ill-conceived phishing simulation to a hacktivist attack on a US government agency.",
+     "extra": "",
+     "tags": [
+      "Phishing"
+     ],
+     "also": []
+    },
+    {
+     "title": "Social media giants sue California to overturn law shielding kids 15 and under from compulsive use",
+     "subtitle": "",
+     "link": "https://therecord.media/social-media-giants-sue-california-over-social-media-law",
+     "source": "The Record",
+     "published": "2026-11-05T20:48:00+00:00",
+     "date_only": false,
+     "summary": "Google, Meta and TikTok each filed suit in federal court against an incoming California law that blocks platforms from deploying features considered “psychologically exploitative.”",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Nearly 1.5 million exposed secrets targeted in new revocation program",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/",
+     "source": "BleepingComputer",
+     "published": "2026-11-05T20:15:08+00:00",
+     "date_only": false,
+     "summary": "Truffle Security has launched the Secrets Revocation Program, a free initiative that helps API key issuers revoke 1.4 million publicly exposed secrets that remain valid. [...]",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "US issues more sanctions against Prince Group scam center affiliates",
+     "subtitle": "",
+     "link": "https://therecord.media/us-issues-more-sanctions-against-prince-group-scammers",
+     "source": "The Record",
+     "published": "2026-11-05T20:11:00+00:00",
+     "date_only": false,
+     "summary": "The sanctions target four people and 41 companies linked to the Prince Group — a Cambodian company accused of running a billion-dollar scam operation.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "APT29's Watering Holes Target Thousands of Mobile Users",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/mobile-security/apt29-watering-holes-target-mobile-users",
+     "source": "Dark Reading",
+     "published": "2026-11-05T20:05:39+00:00",
+     "date_only": false,
+     "summary": "After compromising websites, the Russian state-sponsored threat group is fingerprinting victims, then harvesting information from the interesting ones.",
+     "extra": "",
+     "tags": [
+      "Nation-state"
+     ],
+     "also": []
+    },
+    {
+     "title": "OpenAI’s GPT-6 Astra silently obstructed safety research tasks",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/",
+     "source": "BleepingComputer",
+     "published": "2026-11-05T19:24:26+00:00",
+     "date_only": false,
+     "summary": "OpenAI has disclosed another AI alignment incident where GPT-6 Astra was found to sometimes quietly withhold help on safety research. [...]",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "Harden cooling systems now, feds warn critical infrastructure operators amid attacks",
+     "subtitle": "",
+     "link": "https://therecord.media/cyberattacks-refrigeration-cisa-fbi",
+     "source": "The Record",
+     "published": "2026-11-05T19:15:00+00:00",
+     "date_only": false,
+     "summary": "The U.S. government on Thursday called on critical infrastructure operators to safeguard their cooling systems following hacks that have caused chaos in European supermarkets in recent weeks.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "OpenSSH flaw lets attackers log into password-disabled Linux accounts",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/",
+     "source": "BleepingComputer",
+     "published": "2026-11-05T17:45:29+00:00",
+     "date_only": false,
+     "summary": "A newly disclosed OpenSSH vulnerability dubbed \"*sshole\" allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts that are configured to block password authentication, simply by entering an oversized password…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "AI Agents Got Root on Linux via 948 Kernel Flaws in OpenAI Research",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/ai-agents-got-root-on-linux-via-948-kernel-flaws-in-openai-research/",
+     "source": "SecurityWeek",
+     "published": "2026-11-05T17:32:37+00:00",
+     "date_only": false,
+     "summary": "An unreleased OpenAI cyber model found and exploited 948 distinct Linux kernel privilege escalation bugs for about $1.2 million. The post AI Agents Got Root on Linux via 948 Kernel Flaws in OpenAI Research appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": [
+      "The Hacker News"
+     ]
+    },
+    {
+     "title": "Russian state-linked hackers target iPhone, Android devices in zero-click espionage campaign",
+     "subtitle": "",
+     "link": "https://therecord.media/russia-hackers-smartphone-cyberattacks",
+     "source": "The Record",
+     "published": "2026-11-05T17:00:00+00:00",
+     "date_only": false,
+     "summary": "Russian state-linked hackers targeted users in Ukraine, the United States and Europe in a campaign to steal sensitive information from iPhone and Android devices, researchers found.",
+     "extra": "",
+     "tags": [
+      "Nation-state"
+     ],
+     "also": []
+    },
+    {
+     "title": "SecurityDataPipeline.com Launches as a New Educational Resource for the AI Era",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/cybersecurity-operations/securitydatapipeline-com-launches-as-a-new-educational-resource-for-the-ai-era",
+     "source": "Dark Reading",
+     "published": "2026-11-05T16:48:36+00:00",
+     "date_only": false,
+     "summary": "The ungated resource explains how security data pipelines reduce SIEM ingestion costs, preserve detection coverage, and prepare the data layer for AI-driven security operations.",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html",
+     "source": "The Hacker News",
+     "published": "2026-11-05T16:42:46+00:00",
+     "date_only": false,
+     "summary": "Attackers can log in to accounts that have no password, such as SSH key-only accounts, on some Alpine Linux servers running the standard openssh-server package. They need network access to the server, an account name, and a password…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
+     "source": "The Hacker News",
+     "published": "2026-11-05T16:42:32+00:00",
+     "date_only": false,
+     "summary": "Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT. Lockdown Mode was introduced by the artificial intelligence (AI) company in June…",
+     "extra": "",
+     "tags": [
+      "Exploited",
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "Hackers backdoor Linux servers using trojanized CWP web server",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-linux-servers-using-trojanized-cwp-web-server/",
+     "source": "BleepingComputer",
+     "published": "2026-11-05T16:24:26+00:00",
+     "date_only": false,
+     "summary": "A new Linux malware called CWPdoor is being distributed through a trojanized version of cwpsrv, the web server behind the Control Web Panel (CWP) management interface. [...]",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "DigiCert data breach exposes customer information, identity documents",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
+     "source": "BleepingComputer",
+     "published": "2026-11-05T16:12:46+00:00",
+     "date_only": false,
+     "summary": "DigiCert warns it suffered a data breach after a server migration mistakenly exposed an internal business system to the internet, allowing unauthorized access to customer information and identity documents. [...]",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": []
+    },
+    {
      "title": "Closing the Identity Gap at the Service Desk",
      "subtitle": "",
      "link": "https://www.bleepingcomputer.com/news/security/closing-the-identity-gap-at-the-service-desk/",
@@ -188,20 +413,6 @@
      "also": []
     },
     {
-     "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
-     "source": "The Hacker News",
-     "published": "2026-11-05T12:08:54+00:00",
-     "date_only": false,
-     "summary": "OpenAI on Wednesday detailed a pipeline that employed an upcoming cyber-focused artificial intelligence (AI) model to validate and patch 948 local privilege escalation vulnerabilities in Linux for $1.2 million in API costs. \"Our prototype…",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
      "title": "The Agent Smith Dilemma: Governing Agentic Identities",
      "subtitle": "",
      "link": "https://www.securityweek.com/the-agent-smith-dilemma-governing-agentic-identities/",
@@ -228,218 +439,6 @@
       "AI"
      ],
      "also": []
-    },
-    {
-     "title": "Zyxel Switch Hacks Blamed on Patched Flaw Actually Exploited a Zero-Day",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/zyxel-switch-hacks-blamed-on-patched-flaw-actually-exploited-a-zero-day/",
-     "source": "SecurityWeek",
-     "published": "2026-11-05T10:56:41+00:00",
-     "date_only": false,
-     "summary": "Tracked as CVE-2026-107441, the out-of-bounds write flaw could allow attackers to execute OS commands via crafted HTTP requests. The post Zyxel Switch Hacks Blamed on Patched Flaw Actually Exploited a Zero-Day appeared first on…",
-     "extra": "",
-     "tags": [
-      "Zero-day"
-     ],
-     "also": []
-    },
-    {
-     "title": "Russia-Linked Hackers Hit iOS, Android Devices With Exploit Chains via Watering Holes",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/russia-linked-hackers-hit-ios-android-devices-with-exploit-chains-via-watering-holes/",
-     "source": "SecurityWeek",
-     "published": "2026-11-05T10:37:13+00:00",
-     "date_only": false,
-     "summary": "The large-scale watering hole campaign has been targeting entities in the US and Europe, mainly in Ukraine. The post Russia-Linked Hackers Hit iOS, Android Devices With Exploit Chains via Watering Holes appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "5 Active Cyber Threats That Put US Enterprises at Risk in October 2026",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/5-active-cyber-threats-that-put-us.html",
-     "source": "The Hacker News",
-     "published": "2026-11-05T10:06:19+00:00",
-     "date_only": false,
-     "summary": "October 2026 brought another wave of cyber threats targeting US businesses, with attackers exploiting trusted platforms, legitimate authentication processes, and everyday business workflows. For enterprises, these campaigns raise the…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "OpenAI Finds GPT-6 Astra Quietly Holding Back on Internal Red-Teaming, Exploit Tasks",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/openai-finds-gpt-6-astra-quietly-holding-back-on-internal-red-teaming-exploit-tasks/",
-     "source": "SecurityWeek",
-     "published": "2026-11-05T10:02:00+00:00",
-     "date_only": false,
-     "summary": "OpenAI says its Critical-rated cyber model met fewer hidden task goals when work was framed as AI safety research, often silently. The post OpenAI Finds GPT-6 Astra Quietly Holding Back on Internal Red-Teaming, Exploit Tasks appeared first…",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "GhostMap Android flaw lets malicious app trigger persistent boot loop",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/ghostmap-android-flaw-lets-malicious-app-trigger-persistent-boot-loop/",
-     "source": "BleepingComputer",
-     "published": "2026-11-05T09:18:29+00:00",
-     "date_only": false,
-     "summary": "Attackers can force Android devices into a continuous boot loop using a specially crafted app that requires no permissions and only needs to be installed. [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Apple to Start Scanning Publicly Shared iCloud Photos and Files for Harmful Content",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/apple-to-start-scanning-publicly-shared.html",
-     "source": "The Hacker News",
-     "published": "2026-11-05T09:13:28+00:00",
-     "date_only": false,
-     "summary": "Apple has revealed that it plans to start checking public iCloud links for harmful content starting with iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3. The change specifically applies to scenarios where users share iCloud content…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "CERT-In Flags AI-Driven Attacks as Backdoored ARTEX Exposes 62 Consoles to Root Access",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/backdoored-docker-image-for-artex-ai.html",
-     "source": "The Hacker News",
-     "published": "2026-11-05T08:42:03+00:00",
-     "date_only": false,
-     "summary": "The Indian Computer Emergency Response Team (CERT-In) has disclosed that an artificial intelligence (AI)-assisted threat actor it tracks as Crafty Falcon is targeting organizations in the Banking, Financial Services, and Insurance (BFSI)…",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
-     "source": "The Hacker News",
-     "published": "2026-11-05T07:06:33+00:00",
-     "date_only": false,
-     "summary": "Zyxel GS1900 network switches that received the vendor's earlier fix for an actively exploited flaw are still open to the exploit attackers used, researchers at Binarly found. The exploit lets anyone who can reach a switch's web management…",
-     "extra": "",
-     "tags": [
-      "Exploited",
-      "Zero-day"
-     ],
-     "also": []
-    },
-    {
-     "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
-     "source": "The Hacker News",
-     "published": "2026-11-05T05:17:04+00:00",
-     "date_only": false,
-     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a medium-severity security flaw impacting multiple Apple operating systems to its Known Exploited Vulnerabilities (KEV) catalog, following reports of…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Want to Rent an Internet Address at the White House?",
-     "subtitle": "",
-     "link": "https://krebsonsecurity.com/2026/11/want-to-rent-an-internet-address-at-the-white-house/",
-     "source": "Krebs on Security",
-     "published": "2026-11-05T04:36:17+00:00",
-     "date_only": false,
-     "summary": "Several staffers at the White House are using computers or mobile devices equipped with residential proxy services that render their internet address available for others to rent, security experts warned today. One of the proxy services is…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Chainalysis warns all users hit in cyber breach involving ‘agentic’ techniques",
-     "subtitle": "",
-     "link": "https://therecord.media/chainalysis-all-users-hit-by-agentic-cyberattack",
-     "source": "The Record",
-     "published": "2026-11-05T00:00:00+00:00",
-     "date_only": false,
-     "summary": "Chainalysis, the blockchain analytics company, said Wednesday night that some information belonging to all its users — which its website says include those in the law enforcement and national security sectors — had been exposed in a…",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Ukraine fires two senior security officials amid corruption probe into scam call centers",
-     "subtitle": "",
-     "link": "https://therecord.media/ukraine-fires-senior-security-officials-amid-scam-center-corruption-investigation",
-     "source": "The Record",
-     "published": "2026-11-05T00:00:00+00:00",
-     "date_only": false,
-     "summary": "Ukraine's security service has fired two senior officials amid a corruption investigation into an alleged criminal network that bribed law enforcement officers to protect fraudulent call centers and other illegal operations.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Critical Rails Bug Threatens to Derail Vulnerable Servers",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/application-security/critical-rails-bug-derail-vulnerable-servers",
-     "source": "Dark Reading",
-     "published": "2026-11-04T21:48:18+00:00",
-     "date_only": false,
-     "summary": "An attacker could write arbitrary files and read sensitive files via images uploaded to the Rails Active Storage ImageMagick integration, possibly positioning a threat actor for lateral movement.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Vercel rolls out new protection against stolen session cookie attacks",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/vercel-rolls-out-new-protection-against-stolen-session-cookie-attacks/",
-     "source": "BleepingComputer",
-     "published": "2026-11-04T21:31:18+00:00",
-     "date_only": false,
-     "summary": "Vercel is gradually rolling out Device Bound Session Credentials (DBSC) on its platform as a key defense against information stealer malware. [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "More Asian airlines announce data breaches after attack on Spanish IT provider Amadeus",
-     "subtitle": "",
-     "link": "https://therecord.media/asian-airlines-announce-data-breach-it-provider-incident",
-     "source": "The Record",
-     "published": "2026-11-04T21:30:00+00:00",
-     "date_only": false,
-     "summary": "Japan Airlines, Cathay Pacific, Korean Air, Asiana Airlines, Singapore Airlines and Malaysia Airlines have all come forward over the last week to report data breaches traced back to Amadeus IT Group — a company that builds and maintains…",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": [
-      "The Record from Recorded Future News"
-     ]
-    },
-    {
-     "title": "Zyxel fixes zero-day exploited to hack nearly 1,000 network switches",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/zyxel-fixes-zero-day-exploited-to-hack-nearly-1-000-network-switches/",
-     "source": "BleepingComputer",
-     "published": "2026-11-04T20:58:19+00:00",
-     "date_only": false,
-     "summary": "Zyxel has patched a zero-day vulnerability in its GS1900 series network switches that hackers exploited to compromise nearly 1,000 devices worldwide and steal configuration files and credentials. [...]",
-     "extra": "",
-     "tags": [
-      "Exploited",
-      "Zero-day"
-     ],
-     "also": []
     }
    ]
   },
@@ -447,9 +446,38 @@
    "name": "APAC Watch",
    "stories": [
     {
+     "title": "India warns AI-assisted hackers are stealing crypto wallet keys",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZGdTNlFXdlhOOENZeXpjUUpNZ09iWkNHaUlFSzN6VmZFN0o0czY0bmV4d3ZWWktHbktjX1Nsb1VGSVJWb2FCbDNOMG1zRi16NlFaaUtVRkNnVFNrWnN3b19GR3ltbHRZMFJPYU40RXpPRnV1alNOOWRadTdyS1RCUE1lZzJIdWlJV1pvZnoyaV9NQQ?oc=5",
+     "source": "CryptoSlate",
+     "published": "2026-11-05T17:30:59+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "AI",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Hackers used China-linked AI tools to steal from Indian financial firms",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOX1luRG5ncG1PbzlvZWlpdnZhYmoyaVNsN2hkOF8weXlxdVMyRVNfVEw5SFpWRm9ub1pJcExjNHpYSHRiSjhLUFpCV2YwbFdBQmppaEFtOWFLdnNaZzZ1enp6VE9VVWo1NUlQYW10ZGRoYWtIQjYxN1FrekhPWGF5ZnFROVJFald4R01GYjM1bHJSUWFMOGJZN2stYmJkOFdLQVpia0stUTF0d180RjFWd1J3WXB1ZnhIMndzZjlkaVdPQ2FUQzJsQUFHU3ZoeS160gHQAUFVX3lxTE5fWW5EbmdwbU9vOW9laWl2dmFiajJpU2w3aGQ4XzB5eXF1UzJFU19UTDlIWlZGb25vWklwTGM0elhIdGJKOEtQWkJXZjBsV0FCamloQW05YUt2c1pnNnV6enpUT1VVajU1SVBhbXRkZGhha0hCNjE3UWt6SE9YYXlmcVE5UkVqV3hHTUZiMzVsclJRYUw4Ylk3ay1iYmQ4V0tBWmJrSy1RMXR3XzRGMVZ3UndZcHVmeEgyd3NmOWRpV09DYVRDMmxBQUdTdmh5LXo?oc=5",
+     "source": "The Hindu",
+     "published": "2026-11-05T15:42:50+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
      "title": "CERT-In Issues Critical Alert Over 'Crafty Falcon' AI Cyberattack Targeting India's Financial Sector",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOUUtJY0pob0tIOWJwSmpkZXE3Ul9fUlo2dElHajFka1J5SUR6dVBzRzVrTTZJRjQ0VDhCOU9Ya0xabXZiOVRCekZ5d0hJVjVqZG83MTZpaEdtaXJINzlDRnAyaXU4R2YwQ0tkLUJRaG1NbXFZWUlDQXlSVGJwYTd6REZlVEJjYWVQQ3ZFQ3d4aG1yeUtWNHg3U05KeWRBd3JkR2lrRA?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSEg1QmFsSmdZYUxTc1k2SDE0ZUpwWnBkcWhORlUybS0xMXp5akV5bDNfNl9pMVRpX2lXTjlLcGJCamxLdHhwaG1ISmZHRGZGMHZPWWlodFB6RjRXem9pcURKaGZmNWpYT1dIRlhjVENjZEl6ZmhYS2pkMTBQZFJEWVctcFRlTTliUkhMZV9wVUxiQ1lGY2VFS1JlREpFcW8?oc=5",
      "source": "www.nationpathindia.com",
      "published": "2026-11-05T14:57:28+00:00",
      "date_only": false,
@@ -529,10 +557,22 @@
       "Telecom",
       "APAC"
      ],
-     "also": [
-      "The Bangladesh Monitor",
-      "NST Online"
-     ]
+     "also": []
+    },
+    {
+     "title": "Japan's SMBC Consumer Finance reports data breach affecting up to 320,000 customers after unauthorized access to card loan guarantee system",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1zSWxBRVAzVnFOTHdWXzd6YTMtMnUwaWJTUmJmRWp1cWdFaGtkVFJsSGRHcTVJSHhNdG1RYThIZUhITktMYnJkWi10OVZIUEotZnBFRW56NFYzZHVOV2k0TXNwOGVqSmxQOUcwdnR4UzFCQXpaa3c?oc=5",
+     "source": "BigGo Finance",
+     "published": "2026-11-05T09:26:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
     },
     {
      "title": "Japan Govt to Establish Cyberattack Response Team Involving Public, Private Sectors",
@@ -583,6 +623,20 @@
      ]
     },
     {
+     "title": "French bank, blood storage sites hit by cyberattacks | NHK WORLD-JAPAN News",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8tRmctbHVvNFk2cGJGOG5zcU5Jb0tuSXRnczBJem9WRy01a0xLaERpQlZVLUJ3RzVPeGhUb1RHcWtwM0ZibVBxRkpsSkVMMV9sRXczX1BfOVhjamhMOU5OMXlWSQ?oc=5",
+     "source": "NHKニュース",
+     "published": "2026-11-05T02:31:23+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
      "title": "Malaysia PM Anwar Warns of Cyberattack Risks as Government Reviews National Security Defences",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfa1YyS3kyVk9vbG04NW96NG1CSjV1RV9CMTludHZwWVhRS2JYY0RzX2ZjaXl4MTlPcGxWMzFhd0ZBaG1VcWk2WWYwYWxqN0ZYMmpUbXd5MDd2Mkk?oc=5",
@@ -595,54 +649,52 @@
       "APAC"
      ],
      "also": []
-    },
-    {
-     "title": "New malware attacks Windows systems specifically for government use in Asia.",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcG1nSkRnQXlWcXZQbkNmcHdGUEVzRmFKczhOLVJjTkhxbTBTQW9tSHhlZlhObWJWbF83NEl0MXJaazQ5RWRtNTNSYlpvNXN5UVVoaFpTbi11cm9LNlJCSTZRYW93SWd2cU1SaTBPbjg4Rm15WVMweTE3M09wTzVTYXpUXzVyVDlsV1dyd0xxYi0yM2Ny?oc=5",
-     "source": "Vietnam.vn",
-     "published": "2026-11-05T01:42:35+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "India Says Hackers Used 4 Public AI Tools to Hit Fintechs",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPT3kxc0U5MTNmNWp6QlJQWS1DUkdIUG1xNXFxS1ZMcEJuOE1tNTdSUFB4SkF5eE83YVd6MVh3ekszcW9tY0ZNT1Rzdml4YzZmZ2hyZEtYeVFQVEF1ODdrRWhhSS0wNUZmb19wdF9rdWR5T3FlWlZvOUxqUHJjTTZaSUtIR0Z1OWlURXB2M1NB?oc=5",
-     "source": "FourWeekMBA",
-     "published": "2026-11-04T18:34:36+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "AI",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Japan to seek software vulnerability data from US AI firms amid cyberattack surge, Nikkei reports",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQY1YyaDM1Qkl0SmF6Qk45bWI1ME5lc2pSTmxaYW9pMXByZTlyaW9weXNISjlMejQxci1DM3BKQzhkN1JlRVkwSGcwTE1MYVFJWGR1Z3BjcVF5NVl3VUpWVVZyVnYwMmpnZWd6S01xU1JLLTY0V2YwelNxYjVHckpUSlJFUmZKdUZ4NGQ4aFhuN09kaFRlWGE5bjBnNXVmaExidU5fczBKOGE1d3lwcUt2cE5RZVhLZlR1UG9mN3FuTmpBazFIMy11ajAyWDdtUkx3em4w?oc=5",
-     "source": "CNA",
-     "published": "2026-11-04T17:07:02+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "AI",
-      "APAC"
-     ],
-     "also": []
     }
    ]
   },
   {
    "name": "Threat Research",
    "stories": [
+    {
+     "title": "Bring a tent, I've got the coffee: Lessons from it-sa",
+     "subtitle": "",
+     "link": "https://blog.talosintelligence.com/bring-a-tent-ive-got-the-coffee-lessons-from-it-sa/",
+     "source": "Cisco Talos",
+     "published": "2026-11-05T19:00:00+00:00",
+     "date_only": false,
+     "summary": "Thorsten may have had to camp out in Nuremberg to attend it-sa, but the real story is the initiative to add a formal IT Security apprenticeship program in Germany for the thousands of young hackers ready to join our side.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Hacking on Autopilot: Inside ARTEX Cybercrime Campaigns",
+     "subtitle": "",
+     "link": "https://research.checkpoint.com/2026/hacking-on-autopilot-inside-artex-cybercrime-campaigns/",
+     "source": "Check Point Research",
+     "published": "2026-11-05T17:22:06+00:00",
+     "date_only": false,
+     "summary": "Key Points Introduction ARTEX is a Chinese open-source, AI-powered penetration testing platform designed to help security teams assess systems they own or are authorized to test. It uses large language models (LLMs) to coordinate multiple…",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "Email threat landscape: Q3 2026 trends and insights",
+     "subtitle": "",
+     "link": "https://www.microsoft.com/en-us/security/blog/2026/11/05/email-threat-landscape-q3-2026-trends-and-insights/",
+     "source": "Microsoft Threat Intelligence",
+     "published": "2026-11-05T16:00:00+00:00",
+     "date_only": false,
+     "summary": "Microsoft Threat Intelligence observed a sharp rise in email-based phishing activity at the end of Q3 2026 (July – September), even as QR code phishing declined, CAPTCHA-gated phishing recovered, and malicious messages spoofing familiar…",
+     "extra": "",
+     "tags": [
+      "Phishing"
+     ],
+     "also": []
+    },
     {
      "title": "ChatGPT Lockdown Mode Bypass: Phishing, Malware Delivery, and Silent Data Exfiltration",
      "subtitle": "",
@@ -796,48 +848,36 @@
       "AI"
      ],
      "also": []
-    },
-    {
-     "title": "Inside a malicious Claude Code-branded extension and its persistent SSH backdoor",
-     "subtitle": "",
-     "link": "https://www.microsoft.com/en-us/security/blog/2026/10/30/inside-malicious-claude-code-branded-cursor-extension-persistent-ssh-backdoor/",
-     "source": "Microsoft Threat Intelligence",
-     "published": "2026-10-31T01:02:57+00:00",
-     "date_only": false,
-     "summary": "Microsoft analyzes a malicious Claude Code–branded extension, its persistent SSH backdoor, and guidance to detect and remediate it. The post Inside a malicious Claude Code-branded extension and its persistent SSH backdoor appeared first on…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "From help desk impersonation to AD CS abuse: Investigating ESC1 and ESC8 intrusion paths",
-     "subtitle": "",
-     "link": "https://www.microsoft.com/en-us/security/blog/2026/10/30/help-desk-impersonation-ad-cs-abuse-investigating-esc1-esc8-intrusion-paths/",
-     "source": "Microsoft Threat Intelligence",
-     "published": "2026-10-30T16:11:44+00:00",
-     "date_only": false,
-     "summary": "Teams support impersonation led to remote access, malicious runtime execution, and Certificate Services abuse through authentication relay and Kerberos. The post From help desk impersonation to AD CS abuse: Investigating ESC1 and ESC8…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "This month in security with Tony Anscombe – October 2026 edition",
-     "subtitle": "",
-     "link": "https://www.welivesecurity.com/en/videos/month-security-tony-anscombe-october-2026/",
-     "source": "ESET Research",
-     "published": "2026-10-30T15:03:14+00:00",
-     "date_only": false,
-     "summary": "The PHP2Shell disclosure and other major cybersecurity news this month brought into relief the need for well-thought-out cyber-readiness plans",
-     "extra": "",
-     "tags": [],
-     "also": []
     }
    ]
   },
   {
    "name": "Government Advisories",
    "stories": [
+    {
+     "title": "Post-Quantum Questions to Ask Your Vendors",
+     "subtitle": "",
+     "link": "https://www.cisa.gov/resources-tools/resources/post-quantum-questions-ask-your-vendors",
+     "source": "CISA",
+     "published": "2026-11-05T12:00:00+00:00",
+     "date_only": false,
+     "summary": "CISA, the Australian Signals Directorate’s Australian Cyber Security Centre (ASD’s ACSC) and the National Security Agency (NSA) released joint guidance and an accompanying quick-reference list to help organizations assess vendor readiness…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems",
+     "subtitle": "",
+     "link": "https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems",
+     "source": "CISA",
+     "published": "2026-11-05T12:00:00+00:00",
+     "date_only": false,
+     "summary": "Overview The Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Health and Human Services (HHS), U.S. Department of Agriculture (USDA), and the Department of Transportation (DoT)—hereafter…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
     {
      "title": "Mozilla Firefox Denial of Service Vulnerability",
      "subtitle": "",
@@ -889,6 +929,20 @@
      "also": []
     },
     {
+     "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+     "subtitle": "",
+     "link": "https://www.cisa.gov/news-events/alerts/2026/11/04/cisa-adds-one-known-exploited-vulnerability-catalog",
+     "source": "CISA",
+     "published": "2026-11-04T12:00:00+00:00",
+     "date_only": false,
+     "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2024-27834 Apple Multiple Products Improper Authentication Vulnerability This type of vulnerability…",
+     "extra": "",
+     "tags": [
+      "Exploited"
+     ],
+     "also": []
+    },
+    {
      "title": "Google Chrome Multiple Vulnerabilities",
      "subtitle": "",
      "link": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20261104",
@@ -908,6 +962,18 @@
      "published": "2026-11-04T01:00:00+00:00",
      "date_only": false,
      "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Subnet Solutions PowerSYSTEM Center",
+     "subtitle": "",
+     "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-307-01",
+     "source": "CISA",
+     "published": "2026-11-03T12:00:00+00:00",
+     "date_only": false,
+     "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to execute unauthorized SQL commands and gain access to unauthorized resources. The following versions of Subnet Solutions PowerSYSTEM Center are…",
      "extra": "",
      "tags": [],
      "also": []
