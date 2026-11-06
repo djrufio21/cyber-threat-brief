@@ -1,9 +1,26 @@
 {
- "generated": "2026-11-06T18:06:21+00:00",
+ "generated": "2026-11-06T23:17:30+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
    "stories": [
+    {
+     "title": "CVE-2026-19868: SonicWall SonicOS SSLVPN",
+     "subtitle": "SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability",
+     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-19868",
+     "source": "CISA KEV",
+     "published": "2026-11-06T00:00:00+00:00",
+     "date_only": true,
+     "summary": "SonicWall SonicOS SSLVPN contains a use of single-factor authentication vulnerability that may allow a user with valid credentials for an alternate authentication method to bypass SAML authentication controls. Successful exploitation may…",
+     "extra": "US federal patch deadline 20 Nov",
+     "tags": [
+      "Exploited"
+     ],
+     "vendor": "SonicWall",
+     "product": "SonicOS SSLVPN",
+     "cve": "CVE-2026-19868",
+     "also": []
+    },
     {
      "title": "CVE-2024-27834: Apple Multiple Products",
      "subtitle": "Apple Multiple Products Improper Authentication Vulnerability",
@@ -77,6 +94,125 @@
   {
    "name": "Breaking Threats",
    "stories": [
+    {
+     "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/runaway-ai-hacking-agent-behind-workos-breach-after-escaping-sandbox/",
+     "source": "BleepingComputer",
+     "published": "2026-11-06T22:27:25+00:00",
+     "date_only": false,
+     "summary": "WorkOS says an AI-powered hacking agent that breached its internal sales application and accessed customer information was operated by a security researcher who claims the tool escaped its testing environment and unintentionally attacked…",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "UK Wades Into Tech Sovereignty Amid AI Policy Changes",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/cybersecurity-operations/uk-tech-sovereignty-ai-policy",
+     "source": "Dark Reading",
+     "published": "2026-11-06T21:27:36+00:00",
+     "date_only": false,
+     "summary": "The UK is betting on domestic AI and cyber investment to reduce reliance on US tech — but security leaders question whether the funding is too fragmented and too late.",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
+     "source": "BleepingComputer",
+     "published": "2026-11-06T20:24:19+00:00",
+     "date_only": false,
+     "summary": "OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct Linux kernel flaws. [...]",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": [
+      "The Hacker News"
+     ]
+    },
+    {
+     "title": "Medical services company settles with 4 states over 2023 hack of sensitive patient records",
+     "subtitle": "",
+     "link": "https://therecord.media/medical-services-company-settles-with-4-state-ags",
+     "source": "The Record",
+     "published": "2026-11-06T19:06:00+00:00",
+     "date_only": false,
+     "summary": "The case, brought by AGs in Connecticut, New Jersey, New York and Michigan, targeted the medical transcription, coding and imaging subsidiaries of the Nevada-based Perry Johnson Companies.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Certificate authority DigiCert reports data breach involving business customer info",
+     "subtitle": "",
+     "link": "https://therecord.media/digicert-certificate-authority-reports-data-breach",
+     "source": "The Record",
+     "published": "2026-11-06T18:56:00+00:00",
+     "date_only": false,
+     "summary": "DigiCert explained that over the summer, an internal business system was \"externally accessible when that was not intended,\" and someone had created an unauthorized account.",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": [
+      "SecurityWeek"
+     ]
+    },
+    {
+     "title": "Fake security tools on GitHub push backdoors and infostealers",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/",
+     "source": "BleepingComputer",
+     "published": "2026-11-06T18:46:52+00:00",
+     "date_only": false,
+     "summary": "Cybersecurity professionals are being targeted with infected security projects on GitHub that deploy a backdoor and information stealer malware. [...]",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Japan Announces Emergency Cybersecurity Package Following a Wave of Attacks",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/japan-announces-emergency-cybersecurity-package-following-a-wave-of-attacks/",
+     "source": "SecurityWeek",
+     "published": "2026-11-06T18:28:41+00:00",
+     "date_only": false,
+     "summary": "The emergency package comes after dozens of companies and government agencies were hit by unauthorized access to their systems and leaks of client data, prompting uneasiness across Japan. The post Japan Announces Emergency Cybersecurity…",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": [
+      "AP News",
+      "Bozeman Daily Chronicle",
+      "毎日新聞",
+      "Japan Wire by Kyodo News"
+     ]
+    },
+    {
+     "title": "AI Gave Your Incident Archive a Second Job",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/cyber-risk/ai-gave-your-incident-archive-second-job",
+     "source": "Dark Reading",
+     "published": "2026-11-06T18:27:30+00:00",
+     "date_only": false,
+     "summary": "Security records are increasingly being used by vendors to train their models, creating new risks for enterprises.",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
     {
      "title": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
      "subtitle": "",
@@ -154,20 +290,6 @@
      "also": []
     },
     {
-     "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
-     "source": "The Hacker News",
-     "published": "2026-11-06T14:58:32+00:00",
-     "date_only": false,
-     "summary": "OpenAI on Thursday unveiled GPT‑6 Cyber, which it described as a major step forward in security research that brings together stronger cybersecurity capabilities with a step-change improvement in model alignment. The new model is \"more…",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
      "title": "In Other News: Trezor Implant, LLMJacking Bills Hit $1M, SAP Flaws Weaponized Within Days",
      "subtitle": "",
      "link": "https://www.securityweek.com/in-other-news-trezor-implant-llmjacking-bills-hit-1m-sap-flaws-weaponized-within-days/",
@@ -212,20 +334,6 @@
      "also": [
       "The Hacker News"
      ]
-    },
-    {
-     "title": "DigiCert Data Breach Impacts Business Customer Information",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/digicert-data-breach-impacts-business-customer-information/",
-     "source": "SecurityWeek",
-     "published": "2026-11-06T14:00:07+00:00",
-     "date_only": false,
-     "summary": "Hackers created an account on an internal system and accessed names, email addresses, phone numbers, and business addresses. The post DigiCert Data Breach Impacts Business Customer Information appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [
-      "Breach"
-     ],
-     "also": []
     },
     {
      "title": "Why Europe's Freezer Hacks Spread So Far, So Fast",
@@ -326,82 +434,6 @@
      "extra": "",
      "tags": [],
      "also": []
-    },
-    {
-     "title": "Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html",
-     "source": "The Hacker News",
-     "published": "2026-11-06T12:06:35+00:00",
-     "date_only": false,
-     "summary": "A browser extension that can run scripts on claude.ai could make Claude Desktop run code on a person's computer, researchers at Forever Security, an endpoint security company, showed in a test. The attack needs Dispatch, a Claude feature…",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "The Flood is Coming And The Pipes Were Already Full",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html",
-     "source": "The Hacker News",
-     "published": "2026-11-06T11:30:00+00:00",
-     "date_only": false,
-     "summary": "An update on Athena, and some unsolicited predictions on what's coming next On Saturday, Dario Amodei published We Must Pace the Frontier. I agree with him. Go read it if you haven't. I've spent the summer looking at what these models…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "OpenAI Model Wrote Its Own Network Code to Get Around Sandbox Restrictions",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/openai-model-wrote-its-own-network-code-to-get-around-sandbox-restrictions/",
-     "source": "SecurityWeek",
-     "published": "2026-11-06T09:33:51+00:00",
-     "date_only": false,
-     "summary": "After its sandbox proxy failed, an internal OpenAI model crafted raw packets and probed AWS services trying to reach the internet. The post OpenAI Model Wrote Its Own Network Code to Get Around Sandbox Restrictions appeared first on…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "MetaMask says recent attack didn't affect wallet infrastructure",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/metamask-says-recent-attack-didnt-affect-wallet-infrastructure/",
-     "source": "BleepingComputer",
-     "published": "2026-11-06T09:22:28+00:00",
-     "date_only": false,
-     "summary": "Cryptocurrency wallet provider MetaMask said a recent security incident has not affected MetaMask wallets or its wallet infrastructure. [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "UK Warns Its Critical Infrastructure Faces Grave Risk",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/cybersecurity-operations/uk-warns-critical-infrastructure-grave-risk",
-     "source": "Dark Reading",
-     "published": "2026-11-06T09:00:00+00:00",
-     "date_only": false,
-     "summary": "Britain's new Labour-led government is making a concerted push to get ahead of the AI risks to its national networks and the industrial complex.",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html",
-     "source": "The Hacker News",
-     "published": "2026-11-06T05:58:54+00:00",
-     "date_only": false,
-     "summary": "A backdoor has been found hiding in the web server that runs Control Web Panel (CWP), a free panel for managing Linux hosting servers, researchers at QiAnXin's XLab said this week. The backdoored web server executes commands that attackers…",
-     "extra": "",
-     "tags": [],
-     "also": []
     }
    ]
   },
@@ -409,23 +441,47 @@
    "name": "APAC Watch",
    "stories": [
     {
-     "title": "Japan announces emergency cybersecurity package following a wave of massive data attacks",
+     "title": "Singapore cyber agency urges stronger defences after fridge cyberattacks in Europe",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMEhNQ3J3azVwdEMxRkZsVHA0LWQyaFJ2LTVDSjBPSzdTa2xzcTlqZlBxY0U5ZTN4eUlEZlp4VC1rV0lmaGlEWGZtREVMbmpCTDJxQTVUVEpPUzNJckRsamd2REJubjVGSU1QeHpFcG1VM1ktWXphUzJkYmpPMzl0MVFGdEk4UmxhNmhlaUpXNG1wOEtwUFhic2ZQODRZOE5rQTVpR19QOEEyZ292MTZuSEM5elF3bU42Y0t4SUxhWG50RGRX?oc=5",
-     "source": "CTV News",
-     "published": "2026-11-06T15:47:57+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ2xFeUZkZjRaQ1hsWkN0RHBVdVpIcTM2cDU0QTlOdGVVQi1KbkVsQVlPelpnY0JHQlc0MTFWYXE4RTViOThlcktDTXBSdEZEbTAyTDJrLTlFLWdxNktyYzlsZHEzREQ1TDhvWVFqUFBXb0g5WE1iMDVOWkRpWG5Da0lSakptVGcwNjhZOTZsZTMtNDZ4cDZrX0c3ZWRYNkRqVlIw?oc=5",
+     "source": "CNA",
+     "published": "2026-11-06T22:30:32+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
      "tags": [
-      "APAC",
-      "Breach"
+      "APAC"
      ],
-     "also": [
-      "Bozeman Daily Chronicle",
-      "毎日新聞",
-      "Japan Wire by Kyodo News"
-     ]
+     "also": []
+    },
+    {
+     "title": "GhostBat Android Malware Targets 60 Banking and Payment Apps in India",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNUQwUTdtUURkS1dSU1ZZOFNYR0gtU0s0WWozSnI5NXMydFY1TGU5Tk80MkxVTHg2amEwdHd1dkYzUjl4ckVJcVMxUkY2dzR1Y0tRVkJJX1MwRHY5YzFsZ0FwNW1TZ3M4RHUzSkRBdGJWRGdEU180QjVfZmp4VzZHMDlXV1JiMFVTSHBUUXBQallvY3Z1ZEY2V2VPOUdHYkhtaUhnR1UzaUlWbWFOZXFsUVV0REpIdGfSAccBQVVfeXFMTlk4NFFHY1RKLUZTVFlNUzQ4M1VrajZ4c2x1V1NRdkt6dlZmR0dGN2tNX1BtN1dPd1JmdGpkcURmUDJRaURlRk9BZG11ZGtwTHhsSEhCSl8yX1RnLVBDSXNYLUZLR3JOYktqaUVOVUlhSU8zbnpDLXpMUDhmX3I3WUJGVEEySGtQbFZzS2lLSWJzZ0xtdS1ybW9ybV9lZGE5ek5xT2poUWRHZ2hZRTYxMlRiaUJYMW9IVXVaekhDOVZ6Q1V0Z210TQ?oc=5",
+     "source": "Zimperium",
+     "published": "2026-11-06T21:31:15+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Japan unveils emergency measures to prevent data breach",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdVg5THJJVHdrT0poc2NUMTdjdEVXRUh3b0ZJeHZtYVJBUk9uOFdaZXNqODRTSVlvYkZNbXExNXNZZjh4em1salNXMTdUZWZEbHlaMGVPVjFldTR6OTJ6aVhlLXJCdXVKa3NLUm1OLWVTa0ZIcU8wMFNIZkFIWkNTVUgwcWJtdm1VMVFUbVg1UktBTGU2MTFNeA?oc=5",
+     "source": "https://dailyasianage.com/",
+     "published": "2026-11-06T18:15:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
     },
     {
      "title": "What’s next after airlines? Asia data breach raises wider cyber fears",
@@ -452,20 +508,6 @@
      "extra": "",
      "tags": [
       "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Singapore cyber agency urges stronger defences after fridge cyberattacks in Europe",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ2xFeUZkZjRaQ1hsWkN0RHBVdVpIcTM2cDU0QTlOdGVVQi1KbkVsQVlPelpnY0JHQlc0MTFWYXE4RTViOThlcktDTXBSdEZEbTAyTDJrLTlFLWdxNktyYzlsZHEzREQ1TDhvWVFqUFBXb0g5WE1iMDVOWkRpWG5Da0lSakptVGcwNjhZOTZsZTMtNDZ4cDZrX0c3ZWRYNkRqVlIw?oc=5",
-     "source": "CNA",
-     "published": "2026-11-06T10:57:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
       "APAC"
      ],
      "also": []
@@ -500,20 +542,6 @@
      "also": []
     },
     {
-     "title": "Hacker group: Japan firms leave vulnerabilities unfixed | NHK WORLD-JAPAN News",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5fRlJvb0tRTVBTX2tIN3lPMGhHMlI3SUZtNTlXTi1XV0ZBUGhENUFpaTh3aXlfX0luY3pseUhFZExXWXZDQU4yNlk5M2xvTUlzRVloQTBFSW01VDVMd25hLVFvSQ?oc=5",
-     "source": "NHKニュース",
-     "published": "2026-11-06T07:14:14+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
      "title": "Cybersecurity for Indian SMEs in 2026: From Ransomware Defence to AI, Cloud and DPDP Readiness",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOHdEUk0tOWh0YmlvWnVhVUlTVVg2bmFjX0RBNDdVRURLQzNtX1dyQXBYci1KTEl4NHRhUWxuOVRxOVRGbV9neTZLZ3d0WjNMY196WlJGNnpsYTl5V1ZiRWxtUDI5VHRBeDVWV1pNakJUb1RlTGxCRF9zNkJseTFVQ3g4X2hPM3lHZU1GSlRrNFJ5RUxFbkVVcmdyMVhfV0Iw?oc=5",
@@ -529,11 +557,11 @@
      "also": []
     },
     {
-     "title": "North Korea's army of world-class hackers is secret weapon that took down Binance",
+     "title": "North Korea’s army of world-class hackers is secret weapon that took down Binance",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONkc0a3dBSlgyaWdrN3JhdTZNTFRFeEQ2WlFpbUNHU3BXV3ZRTk5tTE5zdkJtQmtqQ1M3V1RRYnprOVh4N25zdHZwMDhqclgzcHBsUDJuX3dJTE1KOEJfTlEwZzF5b0JfS01rbWdLbllRX2EyQWpTRS1VdVVRWnpsYmFWRFFqU1d0ODk3WVZYbllMai1aOF9WRExLbUJoR0IydF9rSjBSN1Rnc3EzLVlsV2FUYm40QmRkNlpr?oc=5",
-     "source": "Japan Today",
-     "published": "2026-11-06T06:00:00+00:00",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaUllRTIxMjdUZkhFOHpEYXhBNHJsNXBGLUhHbkYzNEluVEd6NE1yVHFJN09TZ083amNiTGhoaE52aGRYUjlMb0lDcDAydndwZVhETEZsdXV1OW9tckVrN3dLQkY3Ni16amhjcjNYTHNwLTNJUDdrWkNlYXRJdlI1dGR2V1RyWVdlMGlYTHBfbnhTc0ZvR0ZDRDd1YTVCVVU3SUk4Nm1IZUFIa0VQQXl2cmktTS0?oc=5",
+     "source": "The Straits Times",
+     "published": "2026-11-06T05:08:00+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -548,6 +576,20 @@
      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOX2NYWUNRbzZqTl9PUHNGdE54VmxEaUxLVGhsaU85ekZQUGFaVkdsYkE3UTJYMWJpYjRPcmxKQXZmSGJFRVFGS3pQaVJzSmVpUXhpb0xPdjg1Y09IeXgtTG9CeU5xQVVmN1JhS1FjVjh4eENmX3JvNU1tQ3BvLVJFaV9FQW9UWHIxam5MWHZwZS11MW85VXhBdU0zTWtEOHRrclhpamIwY3VGNlRJTW9SY0toY9IBWkFVX3lxTE5FOFp2M0d5QVA3UThjSHZ5Z2Rsc1dVWElVOU54VU1vUThaRDdCVGx1Q09XTTcxR21COWVzWC0xdnVfdWtubjlHcW5JdTE0cXJsWHBjd1JPTlpsUQ?oc=5",
      "source": "MLex",
      "published": "2026-11-06T05:01:19+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Hacker group: Japan firms leave vulnerabilities unfixed | NHK WORLD-JAPAN News",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5fRlJvb0tRTVBTX2tIN3lPMGhHMlI3SUZtNTlXTi1XV0ZBUGhENUFpaTh3aXlfX0luY3pseUhFZExXWXZDQU4yNlk5M2xvTUlzRVloQTBFSW01VDVMd25hLVFvSQ?oc=5",
+     "source": "NHKニュース",
+     "published": "2026-11-06T04:14:14+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -584,27 +626,24 @@
       "APAC"
      ],
      "also": []
-    },
-    {
-     "title": "Singapore Airlines Reports Data Breach Affecting 46,000 Booking Records",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1XcGxuT0p6ZGVaNmdraEdLRER4UG1Pa2g3UFBfOUVPVEt2b1piTXVqVGc1emdHLTF6aEt3YjJQOE9PMkd3dWtWYVlra1ZHWXhPX2pYWWJyMzB2MWpKQjE5MkRPWl9BbU5DZ0JxeHFmNFRqOVo5UC1pbzc3T192dw?oc=5",
-     "source": "The 420.in",
-     "published": "2026-11-05T22:37:09+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
     }
    ]
   },
   {
    "name": "Threat Research",
    "stories": [
+    {
+     "title": "Turning Up the Heat: Inside the Attacks on Europe’s Refrigeration System",
+     "subtitle": "",
+     "link": "https://unit42.paloaltonetworks.com/europes-refrigeration-systems-attacks/",
+     "source": "Unit 42",
+     "published": "2026-11-06T21:15:09+00:00",
+     "date_only": false,
+     "summary": "Unit 42 examines recent cyberattacks targeting European refrigeration systems and outlines defense and mitigation strategies. The post Turning Up the Heat: Inside the Attacks on Europe’s Refrigeration System appeared first on Unit 42 .",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
     {
      "title": "Threat actors use agentic AI tooling to find and abuse exposed secrets",
      "subtitle": "",
@@ -786,24 +825,26 @@
      "extra": "",
      "tags": [],
      "also": []
-    },
-    {
-     "title": "When confusion reigns, trusted vendors must guide their SMB customers",
-     "subtitle": "",
-     "link": "https://www.welivesecurity.com/en/business-security/when-confusion-reigns-trusted-vendors-guide-smb-customers/",
-     "source": "ESET Research",
-     "published": "2026-11-02T09:55:00+00:00",
-     "date_only": false,
-     "summary": "SMBs need guided onboarding and supervised protection to optimize their investments",
-     "extra": "",
-     "tags": [],
-     "also": []
     }
    ]
   },
   {
    "name": "Government Advisories",
    "stories": [
+    {
+     "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+     "subtitle": "",
+     "link": "https://www.cisa.gov/news-events/alerts/2026/11/06/cisa-adds-one-known-exploited-vulnerability-catalog",
+     "source": "CISA",
+     "published": "2026-11-06T12:00:00+00:00",
+     "date_only": false,
+     "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-19868 SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability This type of…",
+     "extra": "",
+     "tags": [
+      "Exploited"
+     ],
+     "also": []
+    },
     {
      "title": "IBM WebSphere Products Multiple Vulnerabilities",
      "subtitle": "",
@@ -829,18 +870,6 @@
      "also": []
     },
     {
-     "title": "Post-Quantum Questions to Ask Your Vendors",
-     "subtitle": "",
-     "link": "https://www.cisa.gov/resources-tools/resources/post-quantum-questions-ask-your-vendors",
-     "source": "CISA",
-     "published": "2026-11-05T12:00:00+00:00",
-     "date_only": false,
-     "summary": "CISA, the Australian Signals Directorate’s Australian Cyber Security Centre (ASD’s ACSC) and the National Security Agency (NSA) released joint guidance and an accompanying quick-reference list to help organizations assess vendor readiness…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
      "title": "US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems",
      "subtitle": "",
      "link": "https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems",
@@ -848,6 +877,18 @@
      "published": "2026-11-05T12:00:00+00:00",
      "date_only": false,
      "summary": "Overview The Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Health and Human Services (HHS), U.S. Department of Agriculture (USDA), and the Department of Transportation (DoT)—hereafter…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Post-Quantum Questions to Ask Your Vendors",
+     "subtitle": "",
+     "link": "https://www.cisa.gov/resources-tools/resources/post-quantum-questions-ask-your-vendors",
+     "source": "CISA",
+     "published": "2026-11-05T12:00:00+00:00",
+     "date_only": false,
+     "summary": "CISA, the Australian Signals Directorate’s Australian Cyber Security Centre (ASD’s ACSC) and the National Security Agency (NSA) released joint guidance and an accompanying quick-reference list to help organizations assess vendor readiness…",
      "extra": "",
      "tags": [],
      "also": []
@@ -911,20 +952,6 @@
      "extra": "",
      "tags": [
       "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-     "subtitle": "",
-     "link": "https://www.cisa.gov/news-events/alerts/2026/11/04/cisa-adds-one-known-exploited-vulnerability-catalog",
-     "source": "CISA",
-     "published": "2026-11-04T12:00:00+00:00",
-     "date_only": false,
-     "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2024-27834 Apple Multiple Products Improper Authentication Vulnerability This type of vulnerability…",
-     "extra": "",
-     "tags": [
-      "Exploited"
      ],
      "also": []
     },
