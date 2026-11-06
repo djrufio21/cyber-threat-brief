@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06T11:09:52+00:00",
+ "generated": "2026-11-06T18:06:21+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -78,6 +78,282 @@
    "name": "Breaking Threats",
    "stories": [
     {
+     "title": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/",
+     "source": "BleepingComputer",
+     "published": "2026-11-06T17:04:23+00:00",
+     "date_only": false,
+     "summary": "QNAP urges users to update Plex Media Server to the latest version available in the QNAP App Center, as hackers are exploiting the Plex2Shell vulnerability chain. [...]",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "FBI agent pleads guilty to stealing $2.4 million in crypto from nation-state hackers",
+     "subtitle": "",
+     "link": "https://therecord.media/fbi-agent-pleads-guilty-to-stealing-from-nation-state-hackers",
+     "source": "The Record",
+     "published": "2026-11-06T16:53:00+00:00",
+     "date_only": false,
+     "summary": "Patrick Steven Yaroch, 37, is facing up to 20 years in prison on wire fraud and money laundering charges after admitting to using his position on an FBI investigative squad to steal more than $2.4 million in cryptocurrency to cover his…",
+     "extra": "",
+     "tags": [
+      "Nation-state"
+     ],
+     "also": []
+    },
+    {
+     "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
+     "source": "The Hacker News",
+     "published": "2026-11-06T16:08:38+00:00",
+     "date_only": false,
+     "summary": "Some WordPress sites can still be attacked while they install the fix for an actively exploited flaw, according to Umut Bayram, the Picus Security researcher who found it. The update that installs the fix still unpacks its files using the…",
+     "extra": "",
+     "tags": [
+      "Exploited"
+     ],
+     "also": []
+    },
+    {
+     "title": "Veeam warns of Software Appliance boot failures on AMD EPYC hosts",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/",
+     "source": "BleepingComputer",
+     "published": "2026-11-06T15:25:31+00:00",
+     "date_only": false,
+     "summary": "​Veeam warned customers about boot failures affecting Software Appliance virtual machines (VMs) on hosts with AMD EPYC processors. [...]",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
+     "source": "The Hacker News",
+     "published": "2026-11-06T15:21:49+00:00",
+     "date_only": false,
+     "summary": "Threat actors are attempting to exploit a recently disclosed security flaw impacting OpenSSH that can enable sign-ins to accounts that have no password set, according to Previdian. The vulnerability, tracked as CVE-2026-123158 (CVSS score…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/",
+     "source": "BleepingComputer",
+     "published": "2026-11-06T15:00:10+00:00",
+     "date_only": false,
+     "summary": "IMSI and IMEI are IDs your phone shares with networks. Learn how they differ, how attackers get them, and why rotating your IMSI blunts tracking. [...]",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
+     "source": "The Hacker News",
+     "published": "2026-11-06T14:58:32+00:00",
+     "date_only": false,
+     "summary": "OpenAI on Thursday unveiled GPT‑6 Cyber, which it described as a major step forward in security research that brings together stronger cybersecurity capabilities with a step-change improvement in model alignment. The new model is \"more…",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "In Other News: Trezor Implant, LLMJacking Bills Hit $1M, SAP Flaws Weaponized Within Days",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/in-other-news-trezor-implant-llmjacking-bills-hit-1m-sap-flaws-weaponized-within-days/",
+     "source": "SecurityWeek",
+     "published": "2026-11-06T14:40:09+00:00",
+     "date_only": false,
+     "summary": "Noteworthy stories that might have slipped under the radar: Synology warns about NAS ransomware attacks, Flowise ‘hello’ attacks, Chainalysis breach impact expands. The post In Other News: Trezor Implant, LLMJacking Bills Hit $1M, SAP…",
+     "extra": "",
+     "tags": [
+      "Ransomware",
+      "Breach"
+     ],
+     "also": []
+    },
+    {
+     "title": "CEO-spoofing scammers used AI to help steal more than $100 million, feds say",
+     "subtitle": "",
+     "link": "https://therecord.media/ceo-spoofing-scammers-charged",
+     "source": "The Record",
+     "published": "2026-11-06T14:30:00+00:00",
+     "date_only": false,
+     "summary": "The U.S. is working on extraditing three suspects from Europe in a case involving more than $100 million in fraud from CEO impersonations.",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "Chainalysis says breach exposed credentials for all customers",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/",
+     "source": "BleepingComputer",
+     "published": "2026-11-06T14:17:07+00:00",
+     "date_only": false,
+     "summary": "Blockchain intelligence firm Chainalysis says a recent attack on its systems and internal tools has exposed credentials and live tokens for all customers. [...]",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "AI"
+     ],
+     "also": [
+      "The Hacker News"
+     ]
+    },
+    {
+     "title": "DigiCert Data Breach Impacts Business Customer Information",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/digicert-data-breach-impacts-business-customer-information/",
+     "source": "SecurityWeek",
+     "published": "2026-11-06T14:00:07+00:00",
+     "date_only": false,
+     "summary": "Hackers created an account on an internal system and accessed names, email addresses, phone numbers, and business addresses. The post DigiCert Data Breach Impacts Business Customer Information appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": []
+    },
+    {
+     "title": "Why Europe's Freezer Hacks Spread So Far, So Fast",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/ics-ot-security/europes-freezer-hacks-spread-so-far-so-fast",
+     "source": "Dark Reading",
+     "published": "2026-11-06T14:00:00+00:00",
+     "date_only": false,
+     "summary": "Europe's supermarket freezer hacks show how security issues can cascade across an industry, disrupting supply chains at scale.",
+     "extra": "",
+     "tags": [
+      "Supply chain"
+     ],
+     "also": []
+    },
+    {
+     "title": "OpenAI Says New GPT-6 Cyber Model Hunts Flaws Without Crossing the Line",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/openai-says-new-gpt-6-cyber-model-hunts-flaws-without-crossing-the-line/",
+     "source": "SecurityWeek",
+     "published": "2026-11-06T13:19:52+00:00",
+     "date_only": false,
+     "summary": "Rated Critical for cybersecurity, OpenAI’s new model beats GPT-5.6 Cyber at exploitation while staying in scope more reliably. The post OpenAI Says New GPT-6 Cyber Model Hunts Flaws Without Crossing the Line appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "US Agencies Urge Organizations to Harden Refrigeration Controllers",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/us-agencies-urge-organizations-to-harden-refrigeration-controllers/",
+     "source": "SecurityWeek",
+     "published": "2026-11-06T13:02:26+00:00",
+     "date_only": false,
+     "summary": "The recommendations come amid attacks targeting fridges and freezers in supermarkets and blood banks in Europe. The post US Agencies Urge Organizations to Harden Refrigeration Controllers appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Grocery Giant Ahold Delhaize Estimates Financial Toll of October Cyberattack",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/grocery-giant-ahold-delhaize-estimates-financial-toll-of-october-cyberattack/",
+     "source": "SecurityWeek",
+     "published": "2026-11-06T12:47:55+00:00",
+     "date_only": false,
+     "summary": "The October incident will cut fourth-quarter sales by up to €250 million and has led Ahold Delhaize to lower its 2026 outlook. The post Grocery Giant Ahold Delhaize Estimates Financial Toll of October Cyberattack appeared first on…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "D-Link warns of multiple zero-days in DGS-3130 Series switches",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/",
+     "source": "BleepingComputer",
+     "published": "2026-11-06T12:37:22+00:00",
+     "date_only": false,
+     "summary": "D-Link shared mitigation measures for multiple unpatched security flaws affecting DGS-3130 series managed Gigabit stackable switches. [...]",
+     "extra": "",
+     "tags": [
+      "Zero-day"
+     ],
+     "also": []
+    },
+    {
+     "title": "Researchers Find Residential Proxies on White House Network",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/researchers-find-residential-proxies-on-white-house-network/",
+     "source": "SecurityWeek",
+     "published": "2026-11-06T12:16:13+00:00",
+     "date_only": false,
+     "summary": "In a month, 28 residential proxy services used 6 addresses, mainly between 5 p.m. and midnight, Eastern Time. The post Researchers Find Residential Proxies on White House Network appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "OpenSSH Rushes Patches for ‘SSHole’ Authentication Bypass",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/openssh-rushes-patches-for-sshole-authentication-bypass/",
+     "source": "SecurityWeek",
+     "published": "2026-11-06T12:07:42+00:00",
+     "date_only": false,
+     "summary": "On Linux distributions using musl libc without PAM, some accounts accept any password between 257 and 1024 characters. The post OpenSSH Rushes Patches for ‘SSHole’ Authentication Bypass appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
+     "source": "The Hacker News",
+     "published": "2026-11-06T12:06:43+00:00",
+     "date_only": false,
+     "summary": "A fix for CVE-2026-83844, a remote code execution flaw in Windows Paint, is now in the Microsoft Store. Paint gets this fix only through a Store update, not through Windows updates. The fixed build, 11.2609.401.0, was the newest Paint…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html",
+     "source": "The Hacker News",
+     "published": "2026-11-06T12:06:35+00:00",
+     "date_only": false,
+     "summary": "A browser extension that can run scripts on claude.ai could make Claude Desktop run code on a person's computer, researchers at Forever Security, an endpoint security company, showed in a test. The attack needs Dispatch, a Claude feature…",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "The Flood is Coming And The Pipes Were Already Full",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html",
+     "source": "The Hacker News",
+     "published": "2026-11-06T11:30:00+00:00",
+     "date_only": false,
+     "summary": "An update on Athena, and some unsolicited predictions on what's coming next On Saturday, Dario Amodei published We Must Pace the Frontier. I agree with him. Go read it if you haven't. I've spent the summer looking at what these models…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
      "title": "OpenAI Model Wrote Its Own Network Code to Get Around Sandbox Restrictions",
      "subtitle": "",
      "link": "https://www.securityweek.com/openai-model-wrote-its-own-network-code-to-get-around-sandbox-restrictions/",
@@ -116,21 +392,6 @@
      "also": []
     },
     {
-     "title": "Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html",
-     "source": "The Hacker News",
-     "published": "2026-11-06T08:04:49+00:00",
-     "date_only": false,
-     "summary": "Blockchain analysis firm Chainalysis has revealed that its ongoing investigation into the agentic cyber attack targeting its systems also exposed names, usernames, password hashes and live tokens for all users. \"While we investigated, we…",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "AI"
-     ],
-     "also": []
-    },
-    {
      "title": "Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs",
      "subtitle": "",
      "link": "https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html",
@@ -140,273 +401,6 @@
      "summary": "A backdoor has been found hiding in the web server that runs Control Web Panel (CWP), a free panel for managing Linux hosting servers, researchers at QiAnXin's XLab said this week. The backdoored web server executes commands that attackers…",
      "extra": "",
      "tags": [],
-     "also": [
-      "BleepingComputer"
-     ]
-    },
-    {
-     "title": "Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html",
-     "source": "The Hacker News",
-     "published": "2026-11-06T05:39:10+00:00",
-     "date_only": false,
-     "summary": "Two flaws in Barracuda's Email Security Gateway, an email-filtering appliance, can be chained to run commands on it as root, its highest level of access, with no login required. The company released patches on Monday, and the security firm…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/3-charged-in-scheme-to-use-ai-to-impersonate-ceos-and-attorneys-to-steal-129-million/",
-     "source": "SecurityWeek",
-     "published": "2026-11-06T03:03:29+00:00",
-     "date_only": false,
-     "summary": "The trio, who have nicknames that include “Rocky Balboa,” “Superman Cash” and “Fat Boy,” often targeted the companies’ accounting departments. The post 3 Charged in Scheme to Use AI to Impersonate CEOs and Attorneys to Steal $129 Million…",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
-     "source": "BleepingComputer",
-     "published": "2026-11-06T00:56:44+00:00",
-     "date_only": false,
-     "summary": "The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing food spoilage, equipment damage, and fire hazards. [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Queens Public Library says ransomware attack disrupted Wi-Fi, on-site computers",
-     "subtitle": "",
-     "link": "https://therecord.media/queens-library-ransomware-causes-disruptions",
-     "source": "The Record",
-     "published": "2026-11-05T22:08:00+00:00",
-     "date_only": false,
-     "summary": "The library system, which has 66 branches serving the borough’s 2.3 million residents, published multiple alerts on Wednesday confirming that the disruption was caused by a ransomware attack.",
-     "extra": "",
-     "tags": [
-      "Ransomware"
-     ],
-     "also": []
-    },
-    {
-     "title": "US Government Email Systems Open to Abuse Thanks to Typos",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/cybersecurity-operations/us-government-email-systems-abuse-typos",
-     "source": "Dark Reading",
-     "published": "2026-11-05T21:35:05+00:00",
-     "date_only": false,
-     "summary": "Erroneous or outdated DNS records can give attackers surprising powers over organizations' email systems.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Fake OpenAI, SpaceX events used to steal Microsoft, Google accounts",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/fake-openai-spacex-events-used-to-steal-microsoft-google-accounts/",
-     "source": "BleepingComputer",
-     "published": "2026-11-05T21:30:30+00:00",
-     "date_only": false,
-     "summary": "Hackers are using fake OpenAI, SpaceX, and Anthropic event invitations to lure employees into phishing attacks, using two different phishing-as-a-service platforms to steal Microsoft and Google account credentials and authentication…",
-     "extra": "",
-     "tags": [
-      "Phishing"
-     ],
-     "also": []
-    },
-    {
-     "title": "What We Missed: Knicks Phishing Test Goes Out of Bounds",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/cyber-risk/what-we-missed-knicks-phishing-test-out-of-bounds",
-     "source": "Dark Reading",
-     "published": "2026-11-05T21:00:47+00:00",
-     "date_only": false,
-     "summary": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from an ill-conceived phishing simulation to a hacktivist attack on a US government agency.",
-     "extra": "",
-     "tags": [
-      "Phishing"
-     ],
-     "also": []
-    },
-    {
-     "title": "Social media giants sue California to overturn law shielding kids 15 and under from compulsive use",
-     "subtitle": "",
-     "link": "https://therecord.media/social-media-giants-sue-california-over-social-media-law",
-     "source": "The Record",
-     "published": "2026-11-05T20:48:00+00:00",
-     "date_only": false,
-     "summary": "Google, Meta and TikTok each filed suit in federal court against an incoming California law that blocks platforms from deploying features considered “psychologically exploitative.”",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Nearly 1.5 million exposed secrets targeted in new revocation program",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/truffle-security-launches-program-to-revoke-14-million-live-secrets/",
-     "source": "BleepingComputer",
-     "published": "2026-11-05T20:15:08+00:00",
-     "date_only": false,
-     "summary": "Truffle Security has launched the Secrets Revocation Program, a free initiative that helps API key issuers revoke 1.4 million publicly exposed secrets that remain valid. [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "US issues more sanctions against Prince Group scam center affiliates",
-     "subtitle": "",
-     "link": "https://therecord.media/us-issues-more-sanctions-against-prince-group-scammers",
-     "source": "The Record",
-     "published": "2026-11-05T20:11:00+00:00",
-     "date_only": false,
-     "summary": "The sanctions target four people and 41 companies linked to the Prince Group — a Cambodian company accused of running a billion-dollar scam operation.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "APT29's Watering Holes Target Thousands of Mobile Users",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/mobile-security/apt29-watering-holes-target-mobile-users",
-     "source": "Dark Reading",
-     "published": "2026-11-05T20:05:39+00:00",
-     "date_only": false,
-     "summary": "After compromising websites, the Russian state-sponsored threat group is fingerprinting victims, then harvesting information from the interesting ones.",
-     "extra": "",
-     "tags": [
-      "Nation-state"
-     ],
-     "also": []
-    },
-    {
-     "title": "OpenAI’s GPT-6 Astra silently obstructed safety research tasks",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/openais-gpt-6-astra-silently-obstructed-safety-research-tasks/",
-     "source": "BleepingComputer",
-     "published": "2026-11-05T19:24:26+00:00",
-     "date_only": false,
-     "summary": "OpenAI has disclosed another AI alignment incident where GPT-6 Astra was found to sometimes quietly withhold help on safety research. [...]",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Harden cooling systems now, feds warn critical infrastructure operators amid attacks",
-     "subtitle": "",
-     "link": "https://therecord.media/cyberattacks-refrigeration-cisa-fbi",
-     "source": "The Record",
-     "published": "2026-11-05T19:15:00+00:00",
-     "date_only": false,
-     "summary": "The U.S. government on Thursday called on critical infrastructure operators to safeguard their cooling systems following hacks that have caused chaos in European supermarkets in recent weeks.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "OpenSSH flaw lets attackers log into password-disabled Linux accounts",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/openssh-flaw-lets-attackers-log-into-password-disabled-linux-accounts/",
-     "source": "BleepingComputer",
-     "published": "2026-11-05T17:45:29+00:00",
-     "date_only": false,
-     "summary": "A newly disclosed OpenSSH vulnerability dubbed \"*sshole\" allows attackers to log in to certain Alpine Linux and other musl-based Linux accounts that are configured to block password authentication, simply by entering an oversized password…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "AI Agents Got Root on Linux via 948 Kernel Flaws in OpenAI Research",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/ai-agents-got-root-on-linux-via-948-kernel-flaws-in-openai-research/",
-     "source": "SecurityWeek",
-     "published": "2026-11-05T17:32:37+00:00",
-     "date_only": false,
-     "summary": "An unreleased OpenAI cyber model found and exploited 948 distinct Linux kernel privilege escalation bugs for about $1.2 million. The post AI Agents Got Root on Linux via 948 Kernel Flaws in OpenAI Research appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": [
-      "The Hacker News"
-     ]
-    },
-    {
-     "title": "Russian state-linked hackers target iPhone, Android devices in zero-click espionage campaign",
-     "subtitle": "",
-     "link": "https://therecord.media/russia-hackers-smartphone-cyberattacks",
-     "source": "The Record",
-     "published": "2026-11-05T17:00:00+00:00",
-     "date_only": false,
-     "summary": "Russian state-linked hackers targeted users in Ukraine, the United States and Europe in a campaign to steal sensitive information from iPhone and Android devices, researchers found.",
-     "extra": "",
-     "tags": [
-      "Nation-state"
-     ],
-     "also": []
-    },
-    {
-     "title": "SecurityDataPipeline.com Launches as a New Educational Resource for the AI Era",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/cybersecurity-operations/securitydatapipeline-com-launches-as-a-new-educational-resource-for-the-ai-era",
-     "source": "Dark Reading",
-     "published": "2026-11-05T16:48:36+00:00",
-     "date_only": false,
-     "summary": "The ungated resource explains how security data pipelines reduce SIEM ingestion costs, preserve detection coverage, and prepare the data layer for AI-driven security operations.",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html",
-     "source": "The Hacker News",
-     "published": "2026-11-05T16:42:46+00:00",
-     "date_only": false,
-     "summary": "Attackers can log in to accounts that have no password, such as SSH key-only accounts, on some Alpine Linux servers running the standard openssh-server package. They need network access to the server, an account name, and a password…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
-     "source": "The Hacker News",
-     "published": "2026-11-05T16:42:32+00:00",
-     "date_only": false,
-     "summary": "Cybersecurity researchers have disclosed details of a now-patched vulnerability that could be exploited to bypass Lockdown Mode protections in OpenAI ChatGPT. Lockdown Mode was introduced by the artificial intelligence (AI) company in June…",
-     "extra": "",
-     "tags": [
-      "Exploited",
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "DigiCert data breach exposes customer information, identity documents",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents/",
-     "source": "BleepingComputer",
-     "published": "2026-11-05T16:12:46+00:00",
-     "date_only": false,
-     "summary": "DigiCert warns it suffered a data breach after a server migration mistakenly exposed an internal business system to the internet, allowing unauthorized access to customer information and identity documents. [...]",
-     "extra": "",
-     "tags": [
-      "Breach"
-     ],
      "also": []
     }
    ]
@@ -415,16 +409,63 @@
    "name": "APAC Watch",
    "stories": [
     {
-     "title": "Japan unveils emergency cybersecurity package amid data breach concerns",
+     "title": "Japan announces emergency cybersecurity package following a wave of massive data attacks",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zM2pKOUloXzdkR0g4N2daN3VUblduY3lNQlVXZldsY3JjUmVmOTlEVTY2NjJpS1NkX0p2YU5RcFlhanZtWlFuSGthclpsTWZGMzI5Yk1OUks3QQ?oc=5",
-     "source": "Japan Wire by Kyodo News",
-     "published": "2026-11-06T10:49:05+00:00",
+     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNMEhNQ3J3azVwdEMxRkZsVHA0LWQyaFJ2LTVDSjBPSzdTa2xzcTlqZlBxY0U5ZTN4eUlEZlp4VC1rV0lmaGlEWGZtREVMbmpCTDJxQTVUVEpPUzNJckRsamd2REJubjVGSU1QeHpFcG1VM1ktWXphUzJkYmpPMzl0MVFGdEk4UmxhNmhlaUpXNG1wOEtwUFhic2ZQODRZOE5rQTVpR19QOEEyZ292MTZuSEM5elF3bU42Y0t4SUxhWG50RGRX?oc=5",
+     "source": "CTV News",
+     "published": "2026-11-06T15:47:57+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC",
+      "Breach"
+     ],
+     "also": [
+      "Bozeman Daily Chronicle",
+      "毎日新聞",
+      "Japan Wire by Kyodo News"
+     ]
+    },
+    {
+     "title": "What’s next after airlines? Asia data breach raises wider cyber fears",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT1VLU2haU2hlNjVxTHhmSGtuRDYxd2J5aDBSb1U2d0hTV2NqbjZfMFZUR0h6cFFZSHJmM0c5dFhvczByT0dlV1BVWlF2LU9USFliQ01OZ2lzM1RCSTIxMHhvQ3g5Y3NzNXBTUUlDYlFnNjB1elBOdVZrMnR2STdiWFdsR0x4YTJPVmhRRTZWR3VvOGZRYWhTRmF1ZFZwQ0ExLU8yOHVGOEt4cDNQSWVQRGlHb1IxbXplUkYyWWpnOHLSAcABQVVfeXFMUGNCaWRXdXhQVkZ6OGxKVnlaSnJOQlhIVFZWcDRVX2UzNlI3NGpETVNaTm5pbVFCZ1hnR2Y4T3BIc1ZobVcwajRadUc3YVNaaWtxTzl3Z3BfVEdYV1drcmp6MmFSOEk4R19iXzMwOWZWS0hjSC1uS0hsSkdoV0k4LW9JSGxPNEEzaFQ3c1c2cHBCNUJIUnFKdXJub0RENFBxMEQxcEhmYmNqcDhlcU11aWNqd2R6ZGt5aUsxMUZtZE5a?oc=5",
+     "source": "South China Morning Post",
+     "published": "2026-11-06T14:30:38+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": []
+    },
+    {
+     "title": "Doctor Anywhere suffers data breach following 'malicious cyber incident', Singapore News",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBWZ2lNbG1wLXl0dElPN1VPa2JjUG4xbXJxWTZScGdCaEQyazF6S2podzJlRjRyTHhUNU5iSXdYa2laZGh4WkhuT3RzQlJtTnlqdUdpQjU3U1c3bjlDWVEwM0tVTHBHcGpBaGVsaVhn?oc=5",
+     "source": "AsiaOne.com",
+     "published": "2026-11-06T12:57:42+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
      "tags": [
       "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Singapore cyber agency urges stronger defences after fridge cyberattacks in Europe",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ2xFeUZkZjRaQ1hsWkN0RHBVdVpIcTM2cDU0QTlOdGVVQi1KbkVsQVlPelpnY0JHQlc0MTFWYXE4RTViOThlcktDTXBSdEZEbTAyTDJrLTlFLWdxNktyYzlsZHEzREQ1TDhvWVFqUFBXb0g5WE1iMDVOWkRpWG5Da0lSakptVGcwNjhZOTZsZTMtNDZ4cDZrX0c3ZWRYNkRqVlIw?oc=5",
+     "source": "CNA",
+     "published": "2026-11-06T10:57:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
       "APAC"
      ],
      "also": []
@@ -450,6 +491,20 @@
      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUWJ2MGZLaFk0aU1rc09PRkRkRFRCdm1oMDkzMnZPZUk4UEhTT3gyOFhfNEJrbU1kcXZhYUgyTS1ZWlVpcDNIc3piLUVnU3NUamY5QXM3aXVoTUNkZzNEV0ZXYVYzQjZJNEdnSVVweDNoVmpxX1d6M0ZIanFkSlZyV2NJU2pScWMxY2JnNVZ5ajQ3OVA5Unh3RkdILW9vNVdPdWpWeHoyaTJ5SWdVNmthbjZ5akRXTnlWSEN3U3RyOUg4c0FqaWFvcdIBWkFVX3lxTFAya2pfX1BGSk5HeEVDYUxuYmFRQ3Zabk5HR0tKRjRoZW9IV1JiU2xPdy1GUm1nbGpxcHFzS193ZDRwN1V6Vzh5UVB2Z2tLbTBaZ3pCbC1BWHc2dw?oc=5",
      "source": "MLex",
      "published": "2026-11-06T08:52:41+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Hacker group: Japan firms leave vulnerabilities unfixed | NHK WORLD-JAPAN News",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5fRlJvb0tRTVBTX2tIN3lPMGhHMlI3SUZtNTlXTi1XV0ZBUGhENUFpaTh3aXlfX0luY3pseUhFZExXWXZDQU4yNlk5M2xvTUlzRVloQTBFSW01VDVMd25hLVFvSQ?oc=5",
+     "source": "NHKニュース",
+     "published": "2026-11-06T07:14:14+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -516,6 +571,21 @@
      "also": []
     },
     {
+     "title": "India warns AI-assisted hackers are stealing crypto wallet keys",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55c0VnaGJTS1NyMHVlWVFTUXlKNlltVnNkdGYyeFBnS0J0eTVoeXYtSDh3d2NOMkxtZWZUQTJIa2R3Q2RUdmVfQ3NrNFkzSzR2RXU4ZW52Tl9FQQ?oc=5",
+     "source": "Cryptonews.net",
+     "published": "2026-11-05T23:22:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "AI",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
      "title": "Singapore Airlines Reports Data Breach Affecting 46,000 Booking Records",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1XcGxuT0p6ZGVaNmdraEdLRER4UG1Pa2g3UFBfOUVPVEt2b1piTXVqVGc1emdHLTF6aEt3YjJQOE9PMkd3dWtWYVlra1ZHWXhPX2pYWWJyMzB2MWpKQjE5MkRPWl9BbU5DZ0JxeHFmNFRqOVo5UC1pbzc3T192dw?oc=5",
@@ -528,62 +598,6 @@
       "Breach",
       "APAC"
      ],
-     "also": []
-    },
-    {
-     "title": "India warns AI-assisted hackers are stealing crypto wallet keys",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZGdTNlFXdlhOOENZeXpjUUpNZ09iWkNHaUlFSzN6VmZFN0o0czY0bmV4d3ZWWktHbktjX1Nsb1VGSVJWb2FCbDNOMG1zRi16NlFaaUtVRkNnVFNrWnN3b19GR3ltbHRZMFJPYU40RXpPRnV1alNOOWRadTdyS1RCUE1lZzJIdWlJV1pvZnoyaV9NQQ?oc=5",
-     "source": "CryptoSlate",
-     "published": "2026-11-05T17:30:59+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "AI",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "CERT-In Issues Critical Alert Over 'Crafty Falcon' AI Cyberattack Targeting India's Financial Sector",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxOblpjT2hqTGhQdGotVEJ5V2otM2V0ODNLSW9SWFhvVXJYUmwyUFpHY0I2ZEo1aVhtUWJXazZpUzFvakNiNjZ0T0c4M0Fmc1B6YVVDRExwaFNFUG1LS2ZvRDBVNmdjZjhUSDZkSlVvSHA0Ymw4cnFlYjFZMVpiZldteUlBOUY3OUJxWm53WXRmeG1idUZCTmJra0h4SEd0RlpKaTR0LUNXcDJLYWh4ZkxWYXo5ZjJGTU04RDJxeXNmRWlYS1RaU3d5ZDZDa3YxYTVscV9DVGd6X2pJMGhTcWZkNzlhLUZjRGJMYXdtaERpeWNHTlI0M1R5MGxZN0h1Z1VoOWRQSjVFUjg2QktQX1NlNkk5Wmg4MHJuZVdmVUZQVVUtRzNIbWQ0cmVRbFE0Zk5PczZBNTMzZE0xZ2tsUEM5OHJNbHVleC10YTRZZy1xbmkzQWpTLTlmUmFuODNiSFo4LWhHMjlrdlgweDZCejEzZEpaNU9pektLb09TcU9Fbw?oc=5",
-     "source": "www.nationpathindia.com",
-     "published": "2026-11-05T16:02:36+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "AI",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Hackers used China-linked AI tools to steal from Indian financial firms",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOX1luRG5ncG1PbzlvZWlpdnZhYmoyaVNsN2hkOF8weXlxdVMyRVNfVEw5SFpWRm9ub1pJcExjNHpYSHRiSjhLUFpCV2YwbFdBQmppaEFtOWFLdnNaZzZ1enp6VE9VVWo1NUlQYW10ZGRoYWtIQjYxN1FrekhPWGF5ZnFROVJFald4R01GYjM1bHJSUWFMOGJZN2stYmJkOFdLQVpia0stUTF0d180RjFWd1J3WXB1ZnhIMndzZjlkaVdPQ2FUQzJsQUFHU3ZoeS160gHQAUFVX3lxTE5fWW5EbmdwbU9vOW9laWl2dmFiajJpU2w3aGQ4XzB5eXF1UzJFU19UTDlIWlZGb25vWklwTGM0elhIdGJKOEtQWkJXZjBsV0FCamloQW05YUt2c1pnNnV6enpUT1VVajU1SVBhbXRkZGhha0hCNjE3UWt6SE9YYXlmcVE5UkVqV3hHTUZiMzVsclJRYUw4Ylk3ay1iYmQ4V0tBWmJrSy1RMXR3XzRGMVZ3UndZcHVmeEgyd3NmOWRpV09DYVRDMmxBQUdTdmh5LXo?oc=5",
-     "source": "The Hindu",
-     "published": "2026-11-05T15:42:50+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "WhatsApp malware alert: Fake invoices and salary files sent from trusted contacts; CERT-In warns Indian users",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPN2Uzd3R2enltQWNRb0w5QXJ2MVVtWE9DT1lYTEFza0NpU3o1d0std2h0eDh5NlpObktqNnRvS0RSWDZzbmxHckJ5Q095bHBUeDk1NkhQVFhvVFo5bHY1MkF2QlFGZ0VvTzlLOWllN09HNHVhUG01UDJwQ0dtaUFja0FnNDVfT0REcHYtaTNVazdfTTF0aXJxa1pLMHlGTW12djVxT2ZycnlfOGpKa1JHT05WWU00ZFowb2l1d3lrdTFRRklxMTZwQ1doVW1EQUxJSVRyTmpZTkp0S01WeHc?oc=5",
-     "source": "The Live Nagpur",
-     "published": "2026-11-05T13:04:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
      "also": []
     }
    ]
@@ -815,6 +829,30 @@
      "also": []
     },
     {
+     "title": "Post-Quantum Questions to Ask Your Vendors",
+     "subtitle": "",
+     "link": "https://www.cisa.gov/resources-tools/resources/post-quantum-questions-ask-your-vendors",
+     "source": "CISA",
+     "published": "2026-11-05T12:00:00+00:00",
+     "date_only": false,
+     "summary": "CISA, the Australian Signals Directorate’s Australian Cyber Security Centre (ASD’s ACSC) and the National Security Agency (NSA) released joint guidance and an accompanying quick-reference list to help organizations assess vendor readiness…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems",
+     "subtitle": "",
+     "link": "https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems",
+     "source": "CISA",
+     "published": "2026-11-05T12:00:00+00:00",
+     "date_only": false,
+     "summary": "Overview The Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Health and Human Services (HHS), U.S. Department of Agriculture (USDA), and the Department of Transportation (DoT)—hereafter…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
      "title": "Mozilla Firefox Denial of Service Vulnerability",
      "subtitle": "",
      "link": "https://www.hkcert.org/security-bulletin/mozilla-firefox-denial-of-service-vulnerability_20261105",
@@ -873,6 +911,20 @@
      "extra": "",
      "tags": [
       "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
+     "subtitle": "",
+     "link": "https://www.cisa.gov/news-events/alerts/2026/11/04/cisa-adds-one-known-exploited-vulnerability-catalog",
+     "source": "CISA",
+     "published": "2026-11-04T12:00:00+00:00",
+     "date_only": false,
+     "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2024-27834 Apple Multiple Products Improper Authentication Vulnerability This type of vulnerability…",
+     "extra": "",
+     "tags": [
+      "Exploited"
      ],
      "also": []
     },
