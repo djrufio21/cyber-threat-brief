@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-05T22:06:51+00:00",
+ "generated": "2026-11-06T02:34:30+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -71,46 +71,38 @@
      "product": "Connect Secure",
      "cve": "CVE-2026-111357",
      "also": []
-    },
-    {
-     "title": "CVE-2026-97229: GitLab Community Edition and Enterprise Edition",
-     "subtitle": "GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound Vulnerability",
-     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-97229",
-     "source": "CISA KEV",
-     "published": "2026-10-29T00:00:00+00:00",
-     "date_only": true,
-     "summary": "GitLab Community Edition and Enterprise Edition contain a integer overflow or wraparound vulnerability that could allow an unauthenticated user to execute arbitrary code on the GitLab server via a specially crafted regular expression in a…",
-     "extra": "US federal patch deadline 1 Nov",
-     "tags": [
-      "Exploited"
-     ],
-     "vendor": "GitLab",
-     "product": "Community Edition and Enterprise Edition",
-     "cve": "CVE-2026-97229",
-     "also": []
-    },
-    {
-     "title": "CVE-2026-76418: Cisco Secure Firewall ASA Software and Cisco Secure FTD Software",
-     "subtitle": "Cisco Secure Firewall ASA Software and Cisco Secure FTD Software Unchecked Return Value to NULL Pointer Dereference Vulnerability",
-     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76418",
-     "source": "CISA KEV",
-     "published": "2026-10-29T00:00:00+00:00",
-     "date_only": true,
-     "summary": "Cisco Secure Firewall ASA Software and Cisco Secure FTD Software contains an unchecked return value to NULL pointer dereference vulnerability that could allow an unauthenticated, remote attacker to cause the device to reload unexpectedly…",
-     "extra": "US federal patch deadline 1 Nov",
-     "tags": [
-      "Exploited"
-     ],
-     "vendor": "Cisco",
-     "product": "Secure Firewall ASA Software and Cisco Secure FTD Software",
-     "cve": "CVE-2026-76418",
-     "also": []
     }
    ]
   },
   {
    "name": "Breaking Threats",
    "stories": [
+    {
+     "title": "FBI, CISA warn of cyberattacks targeting refrigeration systems",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/fbi-cisa-warn-of-cyberattacks-targeting-refrigeration-systems/",
+     "source": "BleepingComputer",
+     "published": "2026-11-06T00:56:44+00:00",
+     "date_only": false,
+     "summary": "The FBI and CISA warn that hackers are actively targeting industrial refrigeration and cold-chain monitoring systems worldwide, potentially causing food spoilage, equipment damage, and fire hazards. [...]",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Queens Public Library says ransomware attack disrupted Wi-Fi, on-site computers",
+     "subtitle": "",
+     "link": "https://therecord.media/queens-library-ransomware-causes-disruptions",
+     "source": "The Record",
+     "published": "2026-11-05T22:08:00+00:00",
+     "date_only": false,
+     "summary": "The library system, which has 66 branches serving the borough’s 2.3 million residents, published multiple alerts on Wednesday confirming that the disruption was caused by a ransomware attack.",
+     "extra": "",
+     "tags": [
+      "Ransomware"
+     ],
+     "also": []
+    },
     {
      "title": "US Government Email Systems Open to Abuse Thanks to Typos",
      "subtitle": "",
@@ -411,34 +403,6 @@
      "extra": "",
      "tags": [],
      "also": []
-    },
-    {
-     "title": "The Agent Smith Dilemma: Governing Agentic Identities",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/the-agent-smith-dilemma-governing-agentic-identities/",
-     "source": "SecurityWeek",
-     "published": "2026-11-05T11:15:00+00:00",
-     "date_only": false,
-     "summary": "Every autonomous AI agent deployed across your enterprise today is a new proxy identity operating inside your perimeter. The post The Agent Smith Dilemma: Governing Agentic Identities appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "CISO Conversations: Ryan Davis – The Unknown Is Where Security Meets Reality",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/ciso-conversations-ryan-davis-the-unknown-is-where-security-meets-reality/",
-     "source": "SecurityWeek",
-     "published": "2026-11-05T11:00:00+00:00",
-     "date_only": false,
-     "summary": "Ryan Davis went from hacking his school’s network to running security at New Charter Technologies. What worries him now is shadow AI. The post CISO Conversations: Ryan Davis – The Unknown Is Where Security Meets Reality appeared first on…",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
     }
    ]
   },
@@ -446,11 +410,44 @@
    "name": "APAC Watch",
    "stories": [
     {
+     "title": "Singapore Airlines Reports Data Breach Affecting 46,000 Booking Records",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1XcGxuT0p6ZGVaNmdraEdLRER4UG1Pa2g3UFBfOUVPVEt2b1piTXVqVGc1emdHLTF6aEt3YjJQOE9PMkd3dWtWYVlra1ZHWXhPX2pYWWJyMzB2MWpKQjE5MkRPWl9BbU5DZ0JxeHFmNFRqOVo5UC1pbzc3T192dw?oc=5",
+     "source": "The 420.in",
+     "published": "2026-11-05T22:37:09+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC",
+      "Telecom"
+     ],
+     "also": [
+      "money-tourism.gr"
+     ]
+    },
+    {
      "title": "India warns AI-assisted hackers are stealing crypto wallet keys",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNZGdTNlFXdlhOOENZeXpjUUpNZ09iWkNHaUlFSzN6VmZFN0o0czY0bmV4d3ZWWktHbktjX1Nsb1VGSVJWb2FCbDNOMG1zRi16NlFaaUtVRkNnVFNrWnN3b19GR3ltbHRZMFJPYU40RXpPRnV1alNOOWRadTdyS1RCUE1lZzJIdWlJV1pvZnoyaV9NQQ?oc=5",
      "source": "CryptoSlate",
      "published": "2026-11-05T17:30:59+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "AI",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "CERT-In Issues Critical Alert Over 'Crafty Falcon' AI Cyberattack Targeting India's Financial Sector",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxOblpjT2hqTGhQdGotVEJ5V2otM2V0ODNLSW9SWFhvVXJYUmwyUFpHY0I2ZEo1aVhtUWJXazZpUzFvakNiNjZ0T0c4M0Fmc1B6YVVDRExwaFNFUG1LS2ZvRDBVNmdjZjhUSDZkSlVvSHA0Ymw4cnFlYjFZMVpiZldteUlBOUY3OUJxWm53WXRmeG1idUZCTmJra0h4SEd0RlpKaTR0LUNXcDJLYWh4ZkxWYXo5ZjJGTU04RDJxeXNmRWlYS1RaU3d5ZDZDa3YxYTVscV9DVGd6X2pJMGhTcWZkNzlhLUZjRGJMYXdtaERpeWNHTlI0M1R5MGxZN0h1Z1VoOWRQSjVFUjg2QktQX1NlNkk5Wmg4MHJuZVdmVUZQVVUtRzNIbWQ0cmVRbFE0Zk5PczZBNTMzZE0xZ2tsUEM5OHJNbHVleC10YTRZZy1xbmkzQWpTLTlmUmFuODNiSFo4LWhHMjlrdlgweDZCejEzZEpaNU9pektLb09TcU9Fbw?oc=5",
+     "source": "www.nationpathindia.com",
+     "published": "2026-11-05T16:02:36+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -475,21 +472,6 @@
      "also": []
     },
     {
-     "title": "CERT-In Issues Critical Alert Over 'Crafty Falcon' AI Cyberattack Targeting India's Financial Sector",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSEg1QmFsSmdZYUxTc1k2SDE0ZUpwWnBkcWhORlUybS0xMXp5akV5bDNfNl9pMVRpX2lXTjlLcGJCamxLdHhwaG1ISmZHRGZGMHZPWWlodFB6RjRXem9pcURKaGZmNWpYT1dIRlhjVENjZEl6ZmhYS2pkMTBQZFJEWVctcFRlTTliUkhMZV9wVUxiQ1lGY2VFS1JlREpFcW8?oc=5",
-     "source": "www.nationpathindia.com",
-     "published": "2026-11-05T14:57:28+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "AI",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
      "title": "WhatsApp malware alert: Fake invoices and salary files sent from trusted contacts; CERT-In warns Indian users",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPN2Uzd3R2enltQWNRb0w5QXJ2MVVtWE9DT1lYTEFza0NpU3o1d0std2h0eDh5NlpObktqNnRvS0RSWDZzbmxHckJ5Q095bHBUeDk1NkhQVFhvVFo5bHY1MkF2QlFGZ0VvTzlLOWllN09HNHVhUG01UDJwQ0dtaUFja0FnNDVfT0REcHYtaTNVazdfTTF0aXJxa1pLMHlGTW12djVxT2ZycnlfOGpKa1JHT05WWU00ZFowb2l1d3lrdTFRRklxMTZwQ1doVW1EQUxJSVRyTmpZTkp0S01WeHc?oc=5",
@@ -499,20 +481,6 @@
      "summary": "",
      "extra": "",
      "tags": [],
-     "also": []
-    },
-    {
-     "title": "Ukraine media outlet hit by suspected Russian cyberattack | NHK WORLD-JAPAN News",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE53S2lLTEl4OGM2NHBfeVNpbW01MzduOVlQeFBUU1VsZUR1QkRuT19lMXdRS1BIWXU1aUFfek82QndtczNOa1hQVlhPcG9HbVlsRHJ5c3ZucmVfNTV0ZnlNSTlSdw?oc=5",
-     "source": "NHKニュース",
-     "published": "2026-11-05T11:07:29+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
      "also": []
     },
     {
@@ -539,22 +507,6 @@
      "summary": "",
      "extra": "",
      "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Singapore Airlines latest carrier hit by Amadeus data breach",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTkN3d3cwQ2lla0NpSHNiZGhFV21CeGJPbHF4aG5mUEJXel9GbTl0OU5SNUh2VVdyazFFM01uYVBjakp1dWJzRGp4anRpSVdrb25tMVdwRE1KLWhFaHBSa1RsNHVKelY1X1l6aktJVU1Gcm1KSXFCUmFLQ3pmRnpmdThUdTJqaDQtRks3N2FRN2toUldyd1NIQ0x3RDJCVWk3OE94Zi14MVpIYlE?oc=5",
-     "source": "Travel Weekly Asia",
-     "published": "2026-11-05T09:27:37+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "Telecom",
       "APAC"
      ],
      "also": []
@@ -621,40 +573,26 @@
      "also": [
       "The Japan News"
      ]
-    },
-    {
-     "title": "French bank, blood storage sites hit by cyberattacks | NHK WORLD-JAPAN News",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8tRmctbHVvNFk2cGJGOG5zcU5Jb0tuSXRnczBJem9WRy01a0xLaERpQlZVLUJ3RzVPeGhUb1RHcWtwM0ZibVBxRkpsSkVMMV9sRXczX1BfOVhjamhMOU5OMXlWSQ?oc=5",
-     "source": "NHKニュース",
-     "published": "2026-11-05T02:31:23+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Malaysia PM Anwar Warns of Cyberattack Risks as Government Reviews National Security Defences",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBfa1YyS3kyVk9vbG04NW96NG1CSjV1RV9CMTludHZwWVhRS2JYY0RzX2ZjaXl4MTlPcGxWMzFhd0ZBaG1VcWk2WWYwYWxqN0ZYMmpUbXd5MDd2Mkk?oc=5",
-     "source": "Wake Up Singapore",
-     "published": "2026-11-05T02:00:47+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
     }
    ]
   },
   {
    "name": "Threat Research",
    "stories": [
+    {
+     "title": "Threat actors use agentic AI tooling to find and abuse exposed secrets",
+     "subtitle": "",
+     "link": "https://www.microsoft.com/en-us/security/blog/2026/11/05/threat-actors-use-agentic-ai-tooling-to-find-and-abuse-exposed-secrets/",
+     "source": "Microsoft Threat Intelligence",
+     "published": "2026-11-05T23:46:50+00:00",
+     "date_only": false,
+     "summary": "Microsoft Threat Intelligence has observed threat actors using the agentic offensive security framework ARTEX to search GitHub for OAuth application secrets, which can be used to compromise the associated OAuth application and perform…",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
     {
      "title": "Bring a tent, I've got the coffee: Lessons from it-sa",
      "subtitle": "",
@@ -834,26 +772,24 @@
      "extra": "",
      "tags": [],
      "also": []
-    },
-    {
-     "title": "Appraisal by AI: Model-driven victim prioritization in the VOLTA infostealer",
-     "subtitle": "",
-     "link": "https://blog.talosintelligence.com/appraisal-by-ai-model-driven-victim-prioritization-in-the-volta-infostealer/",
-     "source": "Cisco Talos",
-     "published": "2026-10-31T12:00:00+00:00",
-     "date_only": false,
-     "summary": "The self-deleting VOLTA infostealer steals credentials, sessions, and cryptocurrency wallets. Then, it uses LLMs to profile victims and rank their most valuable assets.",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
     }
    ]
   },
   {
    "name": "Government Advisories",
    "stories": [
+    {
+     "title": "IBM WebSphere Products Multiple Vulnerabilities",
+     "subtitle": "",
+     "link": "https://www.hkcert.org/security-bulletin/ibm-websphere-products-multiple-vulnerabilities_20261106",
+     "source": "HKCERT",
+     "published": "2026-11-06T03:00:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
     {
      "title": "Post-Quantum Questions to Ask Your Vendors",
      "subtitle": "",
