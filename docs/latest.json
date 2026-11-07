@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T10:27:21+00:00",
+ "generated": "2026-11-07T16:54:49+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -60,6 +60,30 @@
   {
    "name": "Breaking Threats",
    "stories": [
+    {
+     "title": "Hackers pull off $133 million French bank heist via service provider",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
+     "source": "BleepingComputer",
+     "published": "2026-11-07T15:25:35+00:00",
+     "date_only": false,
+     "summary": "French cooperative bank Crédit Mutuel Arkéa was targeted in a cyberattack that enabled fraudulent transactions of up to $133 million, forcing it to respond by suspending certain systems.v [...]",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/",
+     "source": "BleepingComputer",
+     "published": "2026-11-07T14:10:19+00:00",
+     "date_only": false,
+     "summary": "Scammers are impersonating major brands and celebrities to lure consumers into fake gift card giveaways that collect personal information and trigger unwanted subscriptions. CTM360 reveals how these campaigns use deceptive verification…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
     {
      "title": "SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins",
      "subtitle": "",
@@ -139,9 +163,7 @@
      "tags": [
       "AI"
      ],
-     "also": [
-      "The Hacker News"
-     ]
+     "also": []
     },
     {
      "title": "Medical services company settles with 4 states over 2023 hack of sensitive patient records",
@@ -167,9 +189,7 @@
      "tags": [
       "Breach"
      ],
-     "also": [
-      "SecurityWeek"
-     ]
+     "also": []
     },
     {
      "title": "Fake security tools on GitHub push backdoors and infostealers",
@@ -196,11 +216,7 @@
       "Breach",
       "APAC"
      ],
-     "also": [
-      "AP News",
-      "Bozeman Daily Chronicle",
-      "毎日新聞"
-     ]
+     "also": []
     },
     {
      "title": "AI Gave Your Incident Archive a Second Job",
@@ -227,183 +243,41 @@
      "extra": "",
      "tags": [],
      "also": []
-    },
-    {
-     "title": "FBI agent pleads guilty to stealing $2.4 million in crypto from nation-state hackers",
-     "subtitle": "",
-     "link": "https://therecord.media/fbi-agent-pleads-guilty-to-stealing-from-nation-state-hackers",
-     "source": "The Record",
-     "published": "2026-11-06T16:53:00+00:00",
-     "date_only": false,
-     "summary": "Patrick Steven Yaroch, 37, is facing up to 20 years in prison on wire fraud and money laundering charges after admitting to using his position on an FBI investigative squad to steal more than $2.4 million in cryptocurrency to cover his…",
-     "extra": "",
-     "tags": [
-      "Nation-state"
-     ],
-     "also": []
-    },
-    {
-     "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
-     "source": "The Hacker News",
-     "published": "2026-11-06T16:08:38+00:00",
-     "date_only": false,
-     "summary": "Some WordPress sites can still be attacked while they install the fix for an actively exploited flaw, according to Umut Bayram, the Picus Security researcher who found it. The update that installs the fix still unpacks its files using the…",
-     "extra": "",
-     "tags": [
-      "Exploited"
-     ],
-     "also": []
-    },
-    {
-     "title": "Veeam warns of Software Appliance boot failures on AMD EPYC hosts",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/veeam-software-appliance-vms-fail-to-boot-on-amd-epyc-hosts/",
-     "source": "BleepingComputer",
-     "published": "2026-11-06T15:25:31+00:00",
-     "date_only": false,
-     "summary": "​Veeam warned customers about boot failures affecting Software Appliance virtual machines (VMs) on hosts with AMD EPYC processors. [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
-     "source": "The Hacker News",
-     "published": "2026-11-06T15:21:49+00:00",
-     "date_only": false,
-     "summary": "Threat actors are attempting to exploit a recently disclosed security flaw impacting OpenSSH that can enable sign-ins to accounts that have no password set, according to Previdian. The vulnerability, tracked as CVE-2026-123158 (CVSS score…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "IMSI vs IMEI: What Your Phone Broadcasts and Who Can Read It",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/imsi-vs-imei-what-your-phone-broadcasts-and-who-can-read-it/",
-     "source": "BleepingComputer",
-     "published": "2026-11-06T15:00:10+00:00",
-     "date_only": false,
-     "summary": "IMSI and IMEI are IDs your phone shares with networks. Learn how they differ, how attackers get them, and why rotating your IMSI blunts tracking. [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "In Other News: Trezor Implant, LLMJacking Bills Hit $1M, SAP Flaws Weaponized Within Days",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/in-other-news-trezor-implant-llmjacking-bills-hit-1m-sap-flaws-weaponized-within-days/",
-     "source": "SecurityWeek",
-     "published": "2026-11-06T14:40:09+00:00",
-     "date_only": false,
-     "summary": "Noteworthy stories that might have slipped under the radar: Synology warns about NAS ransomware attacks, Flowise ‘hello’ attacks, Chainalysis breach impact expands. The post In Other News: Trezor Implant, LLMJacking Bills Hit $1M, SAP…",
-     "extra": "",
-     "tags": [
-      "Ransomware",
-      "Breach"
-     ],
-     "also": []
-    },
-    {
-     "title": "CEO-spoofing scammers used AI to help steal more than $100 million, feds say",
-     "subtitle": "",
-     "link": "https://therecord.media/ceo-spoofing-scammers-charged",
-     "source": "The Record",
-     "published": "2026-11-06T14:30:00+00:00",
-     "date_only": false,
-     "summary": "The U.S. is working on extraditing three suspects from Europe in a case involving more than $100 million in fraud from CEO impersonations.",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Chainalysis says breach exposed credentials for all customers",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/chainalysis-says-breach-exposed-credentials-for-all-customers/",
-     "source": "BleepingComputer",
-     "published": "2026-11-06T14:17:07+00:00",
-     "date_only": false,
-     "summary": "Blockchain intelligence firm Chainalysis says a recent attack on its systems and internal tools has exposed credentials and live tokens for all customers. [...]",
-     "extra": "",
-     "tags": [
-      "Breach"
-     ],
-     "also": []
-    },
-    {
-     "title": "Why Europe's Freezer Hacks Spread So Far, So Fast",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/ics-ot-security/europes-freezer-hacks-spread-so-far-so-fast",
-     "source": "Dark Reading",
-     "published": "2026-11-06T14:00:00+00:00",
-     "date_only": false,
-     "summary": "Europe's supermarket freezer hacks show how security issues can cascade across an industry, disrupting supply chains at scale.",
-     "extra": "",
-     "tags": [
-      "Supply chain"
-     ],
-     "also": []
-    },
-    {
-     "title": "OpenAI Says New GPT-6 Cyber Model Hunts Flaws Without Crossing the Line",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/openai-says-new-gpt-6-cyber-model-hunts-flaws-without-crossing-the-line/",
-     "source": "SecurityWeek",
-     "published": "2026-11-06T13:19:52+00:00",
-     "date_only": false,
-     "summary": "Rated Critical for cybersecurity, OpenAI’s new model beats GPT-5.6 Cyber at exploitation while staying in scope more reliably. The post OpenAI Says New GPT-6 Cyber Model Hunts Flaws Without Crossing the Line appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "US Agencies Urge Organizations to Harden Refrigeration Controllers",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/us-agencies-urge-organizations-to-harden-refrigeration-controllers/",
-     "source": "SecurityWeek",
-     "published": "2026-11-06T13:02:26+00:00",
-     "date_only": false,
-     "summary": "The recommendations come amid attacks targeting fridges and freezers in supermarkets and blood banks in Europe. The post US Agencies Urge Organizations to Harden Refrigeration Controllers appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Grocery Giant Ahold Delhaize Estimates Financial Toll of October Cyberattack",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/grocery-giant-ahold-delhaize-estimates-financial-toll-of-october-cyberattack/",
-     "source": "SecurityWeek",
-     "published": "2026-11-06T12:47:55+00:00",
-     "date_only": false,
-     "summary": "The October incident will cut fourth-quarter sales by up to €250 million and has led Ahold Delhaize to lower its 2026 outlook. The post Grocery Giant Ahold Delhaize Estimates Financial Toll of October Cyberattack appeared first on…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "D-Link warns of multiple zero-days in DGS-3130 Series switches",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/d-link-warns-of-multiple-zero-days-in-dgs-3130-series-switches/",
-     "source": "BleepingComputer",
-     "published": "2026-11-06T12:37:22+00:00",
-     "date_only": false,
-     "summary": "D-Link shared mitigation measures for multiple unpatched security flaws affecting DGS-3130 series managed Gigabit stackable switches. [...]",
-     "extra": "",
-     "tags": [
-      "Zero-day"
-     ],
-     "also": []
     }
    ]
   },
   {
    "name": "APAC Watch",
    "stories": [
+    {
+     "title": "Japan's SMBC Consumer Finance hacked, Resona and Bank of Yokohama hit",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWl83b0h4Z2dZQkQzVlRVUTMtaTZ4aWtYY1hwcDhYT2x6M3d3eVkxaXg5aHRfZmdlaEVjcFZXSjk1TkM5NWdpUVo3RDB4M3g0VDVhZkpkV0c4c3p1QVYzbkdaM3dycE95SkVoOUp3SDI4TXg1c0Iyc0FPRFgyUUx3LWJtRmp4MDE1Y19NdzRfUUZQcm1RaGI5YkVfWW0?oc=5",
+     "source": "Pasquale Pillitteri",
+     "published": "2026-11-07T13:36:06+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "South Korea's Largest Brokerage Suffers Data Breach, Exposing Info of Some 39,000",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hLUpQZnFWVHNPWXlGb3hDU3BXQTE0VENhdkpxdF9QQVpaVk43OU5VRTF2M0RkZUVkVTR1ZDhSOVFIenpMRWRqTlJmUG5acGNyckp0UHBRek1IakZDYzloNnZWMkFod9IBZkFVX3lxTE5hLUpQZnFWVHNPWXlGb3hDU3BXQTE0VENhdkpxdF9QQVpaVk43OU5VRTF2M0RkZUVkVTR1ZDhSOVFIenpMRWRqTlJmUG5acGNyckp0UHBRek1IakZDYzloNnZWMkFodw?oc=5",
+     "source": "SBS 뉴스",
+     "published": "2026-11-07T11:11:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
     {
      "title": "Malaysia bank disruptions coincide with surge in cyberattacks, says expert",
      "subtitle": "",
@@ -448,11 +322,11 @@
      "also": []
     },
     {
-     "title": "Malaysia a potential cyberattack target, Anwar warns",
+     "title": "Singapore MAS Warns Public Against Crypto Trading After Binance Hack",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE04cXJXZEdQZ01HZW9QbnUxQnRDbTFadHZVeUlBWG9QLV8xVTVERjFIOFM2c2ZrUFZnLXBkQ1YxTldMWUMwRDRwWWNESGJtMFhL?oc=5",
-     "source": "The Edge Malaysia",
-     "published": "2026-11-07T06:12:42+00:00",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUE95LVBkUnVJSUoyYkRZclJKX05wX3FBYTRuTE5WWWRCV1dsUklDd3JicmNMOURHakF0Rlh4bkgydmVfWFJCeDJOMnpNc3V2cENjWUJlbERnMWdOUHp6THAxSWt2QTduQzhFN3oyeTBDVXJUUkYzMk90OFBHM24zMl9wWjRqbzRqTnE4Szg2Zks2cWphOGhr?oc=5",
+     "source": "Blockonomi",
+     "published": "2026-11-07T05:10:45+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -466,7 +340,7 @@
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYXljd1hIVjRJRDlnaXRUWFpoblpDM2tnTHVlMDYyZms3UzViclZxVGMyWXVwclFIdi1yMUxveVZrZGw2ZUowY0YxbEZULXpjQUFON2t1bUE5dVdNcGk0NUVQNWlncHhoTGJ3M0xWalhoTzBIaGg2aVM3eUV1dDJpRFMyNEVVSWxDa1A5cF9pZ0VxWEZTUjJoOFRQS1NjRFBNTGFFdGY1NXNxQ2NyU0VqTmpWYzU4c3AwMGgwMHdR?oc=5",
      "source": "Focus Malaysia",
-     "published": "2026-11-07T04:02:25+00:00",
+     "published": "2026-11-07T03:36:18+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -478,8 +352,8 @@
     {
      "title": "Massive Data Breach Hits Six Major Asian Airlines",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ01JNEF6bnJHeXFMcHp2dC1ndDUtX2tjOW9aVi1DMTlCa2FJbUFMS3ZieWJhMmk3WFkxYXBHX0hDYTJBYlphaGwxRmdCVFUzQnhHeTIyNDBPYmc5SS1GaTVWeVh2RWkyVzZaakdlQ3NwcnlWSjVSZnp0NUEwbkpCUEhrYzhQNHJpVktLeXJVckdBZVF1aWs2dkdHM1l1VUxu?oc=5",
-     "source": "https://travelhost.com/",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOX094UmQzMjZXX2g2alRVamZxZGVNeGJITjluNWdKTDNFQTFKTkhrdkpKWUV1NW45TElJVFhfUURpTU9pRWJGSU4tZ2hCQWhxUUhqd01FUFVoQjVFWkJoQ2V0MDkyM0hwWTIzNjhOSFhqU3UwS0MxUU9PaFpCalpfSEV0bnFrQTQ3RVE?oc=5",
+     "source": "Yahoo",
      "published": "2026-11-07T01:33:00+00:00",
      "date_only": false,
      "summary": "",
@@ -510,49 +384,6 @@
      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcmdDdEFkREJmOWxWakpWdmVmbG9WcTVsUF9QVkFhR1hrejJ5dThFbWZBNDBvVDQyWGZBcmtCeTRRQ3BhZGpnWEhITXFMTDMxWk91YTM1MjhhSG1JcnJvY3V5d1lEeXY1djFtSldaZ3dEZzVSQVVMMDBEbmZkR1d6SWpyeHFKYUhlSl9fREVsTUlWV1FUNlRObWRKc1pUakkw?oc=5",
      "source": "Arise News",
      "published": "2026-11-06T18:01:26+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "What’s next after airlines? Asia data breach raises wider cyber fears",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNT1VLU2haU2hlNjVxTHhmSGtuRDYxd2J5aDBSb1U2d0hTV2NqbjZfMFZUR0h6cFFZSHJmM0c5dFhvczByT0dlV1BVWlF2LU9USFliQ01OZ2lzM1RCSTIxMHhvQ3g5Y3NzNXBTUUlDYlFnNjB1elBOdVZrMnR2STdiWFdsR0x4YTJPVmhRRTZWR3VvOGZRYWhTRmF1ZFZwQ0ExLU8yOHVGOEt4cDNQSWVQRGlHb1IxbXplUkYyWWpnOHLSAcABQVVfeXFMUGNCaWRXdXhQVkZ6OGxKVnlaSnJOQlhIVFZWcDRVX2UzNlI3NGpETVNaTm5pbVFCZ1hnR2Y4T3BIc1ZobVcwajRadUc3YVNaaWtxTzl3Z3BfVEdYV1drcmp6MmFSOEk4R19iXzMwOWZWS0hjSC1uS0hsSkdoV0k4LW9JSGxPNEEzaFQ3c1c2cHBCNUJIUnFKdXJub0RENFBxMEQxcEhmYmNqcDhlcU11aWNqd2R6ZGt5aUsxMUZtZE5a?oc=5",
-     "source": "South China Morning Post",
-     "published": "2026-11-06T14:30:38+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach"
-     ],
-     "also": []
-    },
-    {
-     "title": "Doctor Anywhere suffers data breach following 'malicious cyber incident', Singapore News",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBWZ2lNbG1wLXl0dElPN1VPa2JjUG4xbXJxWTZScGdCaEQyazF6S2podzJlRjRyTHhUNU5iSXdYa2laZGh4WkhuT3RzQlJtTnlqdUdpQjU3U1c3bjlDWVEwM0tVTHBHcGpBaGVsaVhn?oc=5",
-     "source": "AsiaOne.com",
-     "published": "2026-11-06T12:57:42+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Singapore cyber agency urges stronger defences after fridge cyberattacks in Europe",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ2xFeUZkZjRaQ1hsWkN0RHBVdVpIcTM2cDU0QTlOdGVVQi1KbkVsQVlPelpnY0JHQlc0MTFWYXE4RTViOThlcktDTXBSdEZEbTAyTDJrLTlFLWdxNktyYzlsZHEzREQ1TDhvWVFqUFBXb0g5WE1iMDVOWkRpWG5Da0lSakptVGcwNjhZOTZsZTMtNDZ4cDZrX0c3ZWRYNkRqVlIw?oc=5",
-     "source": "CNA",
-     "published": "2026-11-06T10:57:00+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -863,32 +694,6 @@
      "summary": "",
      "extra": "",
      "tags": [],
-     "also": []
-    },
-    {
-     "title": "[Security Blog] Connected Vehicles: Cybersecurity Risks Every Driver Should Know",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/blog/connected-vehicles-cybersecurity-risks-every-driver-should-know",
-     "source": "HKCERT",
-     "published": "2026-11-04T16:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "[Security Blog] HKCERT Security Incident Statistics and Cybersecurity Trends in Hong Kong for Q3 2026",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/blog/hkcert-security-incident-statistics-and-cybersecurity-trends-in-hong-kong-for-q3-2026",
-     "source": "HKCERT",
-     "published": "2026-11-04T16:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
      "also": []
     }
    ]
