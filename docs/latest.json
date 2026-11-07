@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T16:54:49+00:00",
+ "generated": "2026-11-07T20:58:23+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -150,99 +150,6 @@
       "AI"
      ],
      "also": []
-    },
-    {
-     "title": "OpenAI's new GPT-6 Cyber AI finds 81 Firefox flaws, 948 Linux bugs",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/openais-new-gpt-6-cyber-ai-finds-81-firefox-flaws-948-linux-bugs/",
-     "source": "BleepingComputer",
-     "published": "2026-11-06T20:24:19+00:00",
-     "date_only": false,
-     "summary": "OpenAI has revealed GPT-6 Cyber, a new artificial intelligence model that has discovered 81 previously unknown high-severity Firefox vulnerabilities and developed working exploits for 948 distinct Linux kernel flaws. [...]",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Medical services company settles with 4 states over 2023 hack of sensitive patient records",
-     "subtitle": "",
-     "link": "https://therecord.media/medical-services-company-settles-with-4-state-ags",
-     "source": "The Record",
-     "published": "2026-11-06T19:06:00+00:00",
-     "date_only": false,
-     "summary": "The case, brought by AGs in Connecticut, New Jersey, New York and Michigan, targeted the medical transcription, coding and imaging subsidiaries of the Nevada-based Perry Johnson Companies.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Certificate authority DigiCert reports data breach involving business customer info",
-     "subtitle": "",
-     "link": "https://therecord.media/digicert-certificate-authority-reports-data-breach",
-     "source": "The Record",
-     "published": "2026-11-06T18:56:00+00:00",
-     "date_only": false,
-     "summary": "DigiCert explained that over the summer, an internal business system was \"externally accessible when that was not intended,\" and someone had created an unauthorized account.",
-     "extra": "",
-     "tags": [
-      "Breach"
-     ],
-     "also": []
-    },
-    {
-     "title": "Fake security tools on GitHub push backdoors and infostealers",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/fake-security-tools-on-github-push-backdoors-and-infostealers/",
-     "source": "BleepingComputer",
-     "published": "2026-11-06T18:46:52+00:00",
-     "date_only": false,
-     "summary": "Cybersecurity professionals are being targeted with infected security projects on GitHub that deploy a backdoor and information stealer malware. [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Japan Announces Emergency Cybersecurity Package Following a Wave of Attacks",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/japan-announces-emergency-cybersecurity-package-following-a-wave-of-attacks/",
-     "source": "SecurityWeek",
-     "published": "2026-11-06T18:28:41+00:00",
-     "date_only": false,
-     "summary": "The emergency package comes after dozens of companies and government agencies were hit by unauthorized access to their systems and leaks of client data, prompting uneasiness across Japan. The post Japan Announces Emergency Cybersecurity…",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "AI Gave Your Incident Archive a Second Job",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/cyber-risk/ai-gave-your-incident-archive-second-job",
-     "source": "Dark Reading",
-     "published": "2026-11-06T18:27:30+00:00",
-     "date_only": false,
-     "summary": "Security records are increasingly being used by vendors to train their models, creating new risks for enterprises.",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "QNAP says hackers breaching NAS devices in Plex2Shell attacks",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/qnap-says-hackers-breaching-nas-devices-in-plex2shell-attacks/",
-     "source": "BleepingComputer",
-     "published": "2026-11-06T17:04:23+00:00",
-     "date_only": false,
-     "summary": "QNAP urges users to update Plex Media Server to the latest version available in the QNAP App Center, as hackers are exploiting the Plex2Shell vulnerability chain. [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
     }
    ]
   },
@@ -264,6 +171,21 @@
      "also": []
     },
     {
+     "title": "Japan seeks early access to software vulnerabilities from US AI firms for cybersecurity",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSTVPdHhaMVJLTmQwVDh2WXh0V3k3MTR5X2pyMG94NHZTUXJFMlJQQ3h4LWhmbHhWUU1uazRoNzJaVkJRbzdSTTZHNWhoTVc3dEdCeWxDUVZLbVl4S3RSR24taDhaZkN1VHhGZmJzU0ZVdldENC1IWWx1bENpZXlUZkdjMUg5cGpWT2hXWVlHSmhwbUVo?oc=5",
+     "source": "Beinsure",
+     "published": "2026-11-07T12:47:21+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "AI",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
      "title": "South Korea's Largest Brokerage Suffers Data Breach, Exposing Info of Some 39,000",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hLUpQZnFWVHNPWXlGb3hDU3BXQTE0VENhdkpxdF9QQVpaVk43OU5VRTF2M0RkZUVkVTR1ZDhSOVFIenpMRWRqTlJmUG5acGNyckp0UHBRek1IakZDYzloNnZWMkFod9IBZkFVX3lxTE5hLUpQZnFWVHNPWXlGb3hDU3BXQTE0VENhdkpxdF9QQVpaVk43OU5VRTF2M0RkZUVkVTR1ZDhSOVFIenpMRWRqTlJmUG5acGNyckp0UHBRek1IakZDYzloNnZWMkFodw?oc=5",
@@ -279,11 +201,11 @@
      "also": []
     },
     {
-     "title": "Malaysia bank disruptions coincide with surge in cyberattacks, says expert",
+     "title": "Japan announces emergency cybersecurity package following a wave of attacks",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON1REajFYZmUyX1J1YWlHVTZINWpyTlhSSmh0Y1dXR0Q4SDQ0YjJSQVh0QkFnYzhmUTAwdXA1d3RFWVhTRWR2eXpBVm1oMXhmdHdMVDlDb1RhZTZ5dXNBUGkyWGZDaW1LTVQzcnpKdHlYYjltZ3RJcmRONUl3WTFuUDhqYktEMmdicTIyQUlYSnVLbWJYZUZ4R0RNZ2F1QnJkaVl1VXJud3dyZHFxM0Fwa0xuOG1nN3fSAbwBQVVfeXFMT2VzRDA5cURvZWNlbjA5NG9LR3RRUW5jV0ZkNlJIVDE3RlJCdzFZLXowUGg0cjRHOFBrTE52eHhxbXl1UUkzOXlMYU9KVktjNGt3cFZYdzUzdVYyYXFGM2xLelhscWc2Um9mQ0l6Yjl4ZXpGenFBdWt3cTBRMHlaMlFGWW5yMXJGVEgtRHJILTN0UkNvTUJPcDhGTVFfNGZ2UUxvaXViUk5WOHFIbDZPXzN2cHFmUDM1TjRKYUc?oc=5",
-     "source": "NST Online",
-     "published": "2026-11-07T08:24:51+00:00",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOXV4cUdzNmxHZzlobFlqSG9ONWVBSHF0YTdscWRoT1YyMVBRYjdmWWNtZnlQLUZjWTJ1bVQ3RVZPOVZYYTRCa3g4UDh1THQtMG1Lcm41bE02RWRkVnZfWVYydVJjUldIdkN3OG03RUNLNjNySU9WNzRwVEJlOGNLUWpHaVQ?oc=5",
+     "source": "Tech Xplore",
+     "published": "2026-11-07T11:05:38+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -293,11 +215,11 @@
      "also": []
     },
     {
-     "title": "Japan Launches ¥10 Billion Cyberattack Response Package",
+     "title": "Malaysia bank disruptions coincide with surge in cyberattacks, says expert",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTFhFX3BhMEJiVDlxRWFNZ2ktMHUtWWVjempKRjFiTjNXZy1pZE85ZDFzZjdXeHBrODhUcElwT3IyNFh5MjFCT2hJMzVwMHk3VUNEdDFqRFZRNW1vLU55TU9QUmt5MWtkdXd5Tll6QUFXTVQzY2JnZC10X0s2bjJuRGZlTGF6SVprMHBvQQ?oc=5",
-     "source": "GK Today",
-     "published": "2026-11-07T08:03:13+00:00",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON1REajFYZmUyX1J1YWlHVTZINWpyTlhSSmh0Y1dXR0Q4SDQ0YjJSQVh0QkFnYzhmUTAwdXA1d3RFWVhTRWR2eXpBVm1oMXhmdHdMVDlDb1RhZTZ5dXNBUGkyWGZDaW1LTVQzcnpKdHlYYjltZ3RJcmRONUl3WTFuUDhqYktEMmdicTIyQUlYSnVLbWJYZUZ4R0RNZ2F1QnJkaVl1VXJud3dyZHFxM0Fwa0xuOG1nN3fSAbwBQVVfeXFMT2VzRDA5cURvZWNlbjA5NG9LR3RRUW5jV0ZkNlJIVDE3RlJCdzFZLXowUGg0cjRHOFBrTE52eHhxbXl1UUkzOXlMYU9KVktjNGt3cFZYdzUzdVYyYXFGM2xLelhscWc2Um9mQ0l6Yjl4ZXpGenFBdWt3cTBRMHlaMlFGWW5yMXJGVEgtRHJILTN0UkNvTUJPcDhGTVFfNGZ2UUxvaXViUk5WOHFIbDZPXzN2cHFmUDM1TjRKYUc?oc=5",
+     "source": "NST Online",
+     "published": "2026-11-07T08:24:51+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -370,20 +292,6 @@
      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNUQwUTdtUURkS1dSU1ZZOFNYR0gtU0s0WWozSnI5NXMydFY1TGU5Tk80MkxVTHg2amEwdHd1dkYzUjl4ckVJcVMxUkY2dzR1Y0tRVkJJX1MwRHY5YzFsZ0FwNW1TZ3M4RHUzSkRBdGJWRGdEU180QjVfZmp4VzZHMDlXV1JiMFVTSHBUUXBQallvY3Z1ZEY2V2VPOUdHYkhtaUhnR1UzaUlWbWFOZXFsUVV0REpIdGfSAccBQVVfeXFMTlk4NFFHY1RKLUZTVFlNUzQ4M1VrajZ4c2x1V1NRdkt6dlZmR0dGN2tNX1BtN1dPd1JmdGpkcURmUDJRaURlRk9BZG11ZGtwTHhsSEhCSl8yX1RnLVBDSXNYLUZLR3JOYktqaUVOVUlhSU8zbnpDLXpMUDhmX3I3WUJGVEEySGtQbFZzS2lLSWJzZ0xtdS1ybW9ybV9lZGE5ek5xT2poUWRHZ2hZRTYxMlRiaUJYMW9IVXVaekhDOVZ6Q1V0Z210TQ?oc=5",
      "source": "Zimperium",
      "published": "2026-11-06T21:31:15+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "North Korea’s Elite Hackers Emerge As Secret Weapon Behind $6.3bn Binance Heist",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcmdDdEFkREJmOWxWakpWdmVmbG9WcTVsUF9QVkFhR1hrejJ5dThFbWZBNDBvVDQyWGZBcmtCeTRRQ3BhZGpnWEhITXFMTDMxWk91YTM1MjhhSG1JcnJvY3V5d1lEeXY1djFtSldaZ3dEZzVSQVVMMDBEbmZkR1d6SWpyeHFKYUhlSl9fREVsTUlWV1FUNlRObWRKc1pUakkw?oc=5",
-     "source": "Arise News",
-     "published": "2026-11-06T18:01:26+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
