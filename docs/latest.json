@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-06T23:17:30+00:00",
+ "generated": "2026-11-07T02:55:19+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -54,46 +54,24 @@
      "product": "WordPress Core",
      "cve": "CVE-2026-119977",
      "also": []
-    },
-    {
-     "title": "CVE-2026-118527: Ivanti Connect Secure",
-     "subtitle": "Ivanti Connect Secure Generation of Predictable Numbers or Identifiers Vulnerability",
-     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-118527",
-     "source": "CISA KEV",
-     "published": "2026-10-30T00:00:00+00:00",
-     "date_only": true,
-     "summary": "Ivanti Connect Secure contains a generation of predictable numbers or identifiers vulnerability that allows a remote authenticated attacker to upload files with attacker-controlled content to a known location on disk. This vulnerability…",
-     "extra": "US federal patch deadline 13 Nov",
-     "tags": [
-      "Exploited"
-     ],
-     "vendor": "Ivanti",
-     "product": "Connect Secure",
-     "cve": "CVE-2026-118527",
-     "also": []
-    },
-    {
-     "title": "CVE-2026-111357: Ivanti Connect Secure",
-     "subtitle": "Ivanti Connect Secure Missing Authentication for Critical Function Vulnerability",
-     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-111357",
-     "source": "CISA KEV",
-     "published": "2026-10-30T00:00:00+00:00",
-     "date_only": true,
-     "summary": "Ivanti Connect Secure contains a missing authentication for critical function vulnerability that could allow a local authenticated attacker to escalate their privileges. This vulnerability can be chained with CVE-2026-104935 and…",
-     "extra": "US federal patch deadline 2 Nov",
-     "tags": [
-      "Exploited"
-     ],
-     "vendor": "Ivanti",
-     "product": "Connect Secure",
-     "cve": "CVE-2026-111357",
-     "also": []
     }
    ]
   },
   {
    "name": "Breaking Threats",
    "stories": [
+    {
+     "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-new-ssl-vpn-mfa-bypass-flaw-exploited-in-attacks/",
+     "source": "BleepingComputer",
+     "published": "2026-11-07T00:00:55+00:00",
+     "date_only": false,
+     "summary": "SonicWall has released security updates to fix seven vulnerabilities in SonicOS firewalls, including an SSL-VPN authentication bypass flaw exploited in attacks. [...]",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
     {
      "title": "Runaway AI hacking agent behind WorkOS breach after escaping sandbox",
      "subtitle": "",
@@ -193,8 +171,8 @@
       "APAC"
      ],
      "also": [
-      "AP News",
       "Bozeman Daily Chronicle",
+      "AP News",
       "毎日新聞",
       "Japan Wire by Kyodo News"
      ]
@@ -422,18 +400,6 @@
      "extra": "",
      "tags": [],
      "also": []
-    },
-    {
-     "title": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
-     "source": "The Hacker News",
-     "published": "2026-11-06T12:06:43+00:00",
-     "date_only": false,
-     "summary": "A fix for CVE-2026-83844, a remote code execution flaw in Windows Paint, is now in the Microsoft Store. Paint gets this fix only through a Store update, not through Windows updates. The fixed build, 11.2609.401.0, was the newest Paint…",
-     "extra": "",
-     "tags": [],
-     "also": []
     }
    ]
   },
@@ -441,29 +407,16 @@
    "name": "APAC Watch",
    "stories": [
     {
-     "title": "Singapore cyber agency urges stronger defences after fridge cyberattacks in Europe",
+     "title": "Massive Data Breach Hits Six Major Asian Airlines",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ2xFeUZkZjRaQ1hsWkN0RHBVdVpIcTM2cDU0QTlOdGVVQi1KbkVsQVlPelpnY0JHQlc0MTFWYXE4RTViOThlcktDTXBSdEZEbTAyTDJrLTlFLWdxNktyYzlsZHEzREQ1TDhvWVFqUFBXb0g5WE1iMDVOWkRpWG5Da0lSakptVGcwNjhZOTZsZTMtNDZ4cDZrX0c3ZWRYNkRqVlIw?oc=5",
-     "source": "CNA",
-     "published": "2026-11-06T22:30:32+00:00",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ01JNEF6bnJHeXFMcHp2dC1ndDUtX2tjOW9aVi1DMTlCa2FJbUFMS3ZieWJhMmk3WFkxYXBHX0hDYTJBYlphaGwxRmdCVFUzQnhHeTIyNDBPYmc5SS1GaTVWeVh2RWkyVzZaakdlQ3NwcnlWSjVSZnp0NUEwbkpCUEhrYzhQNHJpVktLeXJVckdBZVF1aWs2dkdHM1l1VUxu?oc=5",
+     "source": "https://travelhost.com/",
+     "published": "2026-11-07T01:33:00+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
      "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "GhostBat Android Malware Targets 60 Banking and Payment Apps in India",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNUQwUTdtUURkS1dSU1ZZOFNYR0gtU0s0WWozSnI5NXMydFY1TGU5Tk80MkxVTHg2amEwdHd1dkYzUjl4ckVJcVMxUkY2dzR1Y0tRVkJJX1MwRHY5YzFsZ0FwNW1TZ3M4RHUzSkRBdGJWRGdEU180QjVfZmp4VzZHMDlXV1JiMFVTSHBUUXBQallvY3Z1ZEY2V2VPOUdHYkhtaUhnR1UzaUlWbWFOZXFsUVV0REpIdGfSAccBQVVfeXFMTlk4NFFHY1RKLUZTVFlNUzQ4M1VrajZ4c2x1V1NRdkt6dlZmR0dGN2tNX1BtN1dPd1JmdGpkcURmUDJRaURlRk9BZG11ZGtwTHhsSEhCSl8yX1RnLVBDSXNYLUZLR3JOYktqaUVOVUlhSU8zbnpDLXpMUDhmX3I3WUJGVEEySGtQbFZzS2lLSWJzZ0xtdS1ybW9ybV9lZGE5ek5xT2poUWRHZ2hZRTYxMlRiaUJYMW9IVXVaekhDOVZ6Q1V0Z210TQ?oc=5",
-     "source": "Zimperium",
-     "published": "2026-11-06T21:31:15+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
+      "Breach",
       "APAC"
      ],
      "also": []
@@ -473,7 +426,7 @@
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdVg5THJJVHdrT0poc2NUMTdjdEVXRUh3b0ZJeHZtYVJBUk9uOFdaZXNqODRTSVlvYkZNbXExNXNZZjh4em1salNXMTdUZWZEbHlaMGVPVjFldTR6OTJ6aVhlLXJCdXVKa3NLUm1OLWVTa0ZIcU8wMFNIZkFIWkNTVUgwcWJtdm1VMVFUbVg1UktBTGU2MTFNeA?oc=5",
      "source": "https://dailyasianage.com/",
-     "published": "2026-11-06T18:15:00+00:00",
+     "published": "2026-11-07T00:20:01+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -482,6 +435,36 @@
       "APAC"
      ],
      "also": []
+    },
+    {
+     "title": "GhostBat Android Malware Targets 60 Banking and Payment Apps in India",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWTg0UUdjVEotRlNUWU1TNDgzVWtqNnhzbHVXU1F2S3p2VmZHR0Y3a01fUG03V093UmZ0amRxRGZQMlFpRGVGT0FkbXVka3BMeGxISEJKXzJfVGctUENJc1gtRktHck5iS2ppRU5VSWFJTzNuekMtekxQOGZfcjdZQkZUQTJIa1BsVnNLaUtJYnNnTG11LXJtb3JtX2VkYTl6TnFPamhRZEdnaFlFNjEyVGJpQlgxb0hVdVp6SEM5VnpDVXRnbXRN0gHHAUFVX3lxTE5ZODRRR2NUSi1GU1RZTVM0ODNVa2o2eHNsdVdTUXZLenZWZkdHRjdrTV9QbTdXT3dSZnRqZHFEZlAyUWlEZUZPQWRtdWRrcEx4bEhIQkpfMl9UZy1QQ0lzWC1GS0dyTmJLamlFTlVJYUlPM256Qy16TFA4Zl9yN1lCRlRBMkhrUGxWc0tpS0lic2dMbXUtcm1vcm1fZWRhOXpOcU9qaFFkR2doWUU2MTJUYmlCWDFvSFV1WnpIQzlWekNVdGdtdE0?oc=5",
+     "source": "Zimperium",
+     "published": "2026-11-06T21:31:16+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "North Korea’s Elite Hackers Emerge As Secret Weapon Behind $6.3bn Binance Heist",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcmdDdEFkREJmOWxWakpWdmVmbG9WcTVsUF9QVkFhR1hrejJ5dThFbWZBNDBvVDQyWGZBcmtCeTRRQ3BhZGpnWEhITXFMTDMxWk91YTM1MjhhSG1JcnJvY3V5d1lEeXY1djFtSldaZ3dEZzVSQVVMMDBEbmZkR1d6SWpyeHFKYUhlSl9fREVsTUlWV1FUNlRObWRKc1pUakkw?oc=5",
+     "source": "Arise News",
+     "published": "2026-11-06T18:01:26+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": [
+      "The Straits Times"
+     ]
     },
     {
      "title": "What’s next after airlines? Asia data breach raises wider cyber fears",
@@ -508,6 +491,20 @@
      "extra": "",
      "tags": [
       "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Singapore cyber agency urges stronger defences after fridge cyberattacks in Europe",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZ2xFeUZkZjRaQ1hsWkN0RHBVdVpIcTM2cDU0QTlOdGVVQi1KbkVsQVlPelpnY0JHQlc0MTFWYXE4RTViOThlcktDTXBSdEZEbTAyTDJrLTlFLWdxNktyYzlsZHEzREQ1TDhvWVFqUFBXb0g5WE1iMDVOWkRpWG5Da0lSakptVGcwNjhZOTZsZTMtNDZ4cDZrX0c3ZWRYNkRqVlIw?oc=5",
+     "source": "CNA",
+     "published": "2026-11-06T10:57:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
       "APAC"
      ],
      "also": []
@@ -557,39 +554,11 @@
      "also": []
     },
     {
-     "title": "North Korea’s army of world-class hackers is secret weapon that took down Binance",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOaUllRTIxMjdUZkhFOHpEYXhBNHJsNXBGLUhHbkYzNEluVEd6NE1yVHFJN09TZ083amNiTGhoaE52aGRYUjlMb0lDcDAydndwZVhETEZsdXV1OW9tckVrN3dLQkY3Ni16amhjcjNYTHNwLTNJUDdrWkNlYXRJdlI1dGR2V1RyWVdlMGlYTHBfbnhTc0ZvR0ZDRDd1YTVCVVU3SUk4Nm1IZUFIa0VQQXl2cmktTS0?oc=5",
-     "source": "The Straits Times",
-     "published": "2026-11-06T05:08:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
      "title": "Japan's Muji faces questions over retained card data after cyberattack",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOX2NYWUNRbzZqTl9PUHNGdE54VmxEaUxLVGhsaU85ekZQUGFaVkdsYkE3UTJYMWJpYjRPcmxKQXZmSGJFRVFGS3pQaVJzSmVpUXhpb0xPdjg1Y09IeXgtTG9CeU5xQVVmN1JhS1FjVjh4eENmX3JvNU1tQ3BvLVJFaV9FQW9UWHIxam5MWHZwZS11MW85VXhBdU0zTWtEOHRrclhpamIwY3VGNlRJTW9SY0toY9IBWkFVX3lxTE5FOFp2M0d5QVA3UThjSHZ5Z2Rsc1dVWElVOU54VU1vUThaRDdCVGx1Q09XTTcxR21COWVzWC0xdnVfdWtubjlHcW5JdTE0cXJsWHBjd1JPTlpsUQ?oc=5",
      "source": "MLex",
      "published": "2026-11-06T05:01:19+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Hacker group: Japan firms leave vulnerabilities unfixed | NHK WORLD-JAPAN News",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5fRlJvb0tRTVBTX2tIN3lPMGhHMlI3SUZtNTlXTi1XV0ZBUGhENUFpaTh3aXlfX0luY3pseUhFZExXWXZDQU4yNlk5M2xvTUlzRVloQTBFSW01VDVMd25hLVFvSQ?oc=5",
-     "source": "NHKニュース",
-     "published": "2026-11-06T04:14:14+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -608,21 +577,6 @@
      "summary": "",
      "extra": "",
      "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "India warns AI-assisted hackers are stealing crypto wallet keys",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE55c0VnaGJTS1NyMHVlWVFTUXlKNlltVnNkdGYyeFBnS0J0eTVoeXYtSDh3d2NOMkxtZWZUQTJIa2R3Q2RUdmVfQ3NrNFkzSzR2RXU4ZW52Tl9FQQ?oc=5",
-     "source": "Cryptonews.net",
-     "published": "2026-11-05T23:22:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "AI",
       "APAC"
      ],
      "also": []
@@ -961,18 +915,6 @@
      "link": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20261104",
      "source": "HKCERT",
      "published": "2026-11-04T03:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Citrix XenServer Multiple Vulnerabilities",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/citrix-xenserver-multiple-vulnerabilities_20261104",
-     "source": "HKCERT",
-     "published": "2026-11-04T01:00:00+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
