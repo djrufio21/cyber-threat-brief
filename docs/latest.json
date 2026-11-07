@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-07T02:55:19+00:00",
+ "generated": "2026-11-07T10:27:21+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -60,6 +60,32 @@
   {
    "name": "Breaking Threats",
    "stories": [
+    {
+     "title": "SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/",
+     "source": "SecurityWeek",
+     "published": "2026-11-07T10:16:23+00:00",
+     "date_only": false,
+     "summary": "CVE-2026-19868 can let attackers holding credentials for a different login method get past SAML checks, including SAML-enforced MFA. The post SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins appeared first on…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
+     "source": "The Hacker News",
+     "published": "2026-11-07T06:44:17+00:00",
+     "date_only": false,
+     "summary": "Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them. When a user selects \"Yes, and don't ask again,\" Anthropic's AI coding assistant…",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
     {
      "title": "SonicWall warns of new SSL-VPN MFA bypass flaw exploited in attacks",
      "subtitle": "",
@@ -171,10 +197,9 @@
       "APAC"
      ],
      "also": [
-      "Bozeman Daily Chronicle",
       "AP News",
-      "毎日新聞",
-      "Japan Wire by Kyodo News"
+      "Bozeman Daily Chronicle",
+      "毎日新聞"
      ]
     },
     {
@@ -306,12 +331,9 @@
      "summary": "Blockchain intelligence firm Chainalysis says a recent attack on its systems and internal tools has exposed credentials and live tokens for all customers. [...]",
      "extra": "",
      "tags": [
-      "Breach",
-      "AI"
+      "Breach"
      ],
-     "also": [
-      "The Hacker News"
-     ]
+     "also": []
     },
     {
      "title": "Why Europe's Freezer Hacks Spread So Far, So Fast",
@@ -376,36 +398,83 @@
       "Zero-day"
      ],
      "also": []
-    },
-    {
-     "title": "Researchers Find Residential Proxies on White House Network",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/researchers-find-residential-proxies-on-white-house-network/",
-     "source": "SecurityWeek",
-     "published": "2026-11-06T12:16:13+00:00",
-     "date_only": false,
-     "summary": "In a month, 28 residential proxy services used 6 addresses, mainly between 5 p.m. and midnight, Eastern Time. The post Researchers Find Residential Proxies on White House Network appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "OpenSSH Rushes Patches for ‘SSHole’ Authentication Bypass",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/openssh-rushes-patches-for-sshole-authentication-bypass/",
-     "source": "SecurityWeek",
-     "published": "2026-11-06T12:07:42+00:00",
-     "date_only": false,
-     "summary": "On Linux distributions using musl libc without PAM, some accounts accept any password between 257 and 1024 characters. The post OpenSSH Rushes Patches for ‘SSHole’ Authentication Bypass appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [],
-     "also": []
     }
    ]
   },
   {
    "name": "APAC Watch",
    "stories": [
+    {
+     "title": "Malaysia bank disruptions coincide with surge in cyberattacks, says expert",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON1REajFYZmUyX1J1YWlHVTZINWpyTlhSSmh0Y1dXR0Q4SDQ0YjJSQVh0QkFnYzhmUTAwdXA1d3RFWVhTRWR2eXpBVm1oMXhmdHdMVDlDb1RhZTZ5dXNBUGkyWGZDaW1LTVQzcnpKdHlYYjltZ3RJcmRONUl3WTFuUDhqYktEMmdicTIyQUlYSnVLbWJYZUZ4R0RNZ2F1QnJkaVl1VXJud3dyZHFxM0Fwa0xuOG1nN3fSAbwBQVVfeXFMT2VzRDA5cURvZWNlbjA5NG9LR3RRUW5jV0ZkNlJIVDE3RlJCdzFZLXowUGg0cjRHOFBrTE52eHhxbXl1UUkzOXlMYU9KVktjNGt3cFZYdzUzdVYyYXFGM2xLelhscWc2Um9mQ0l6Yjl4ZXpGenFBdWt3cTBRMHlaMlFGWW5yMXJGVEgtRHJILTN0UkNvTUJPcDhGTVFfNGZ2UUxvaXViUk5WOHFIbDZPXzN2cHFmUDM1TjRKYUc?oc=5",
+     "source": "NST Online",
+     "published": "2026-11-07T08:24:51+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Japan Launches ¥10 Billion Cyberattack Response Package",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPTFhFX3BhMEJiVDlxRWFNZ2ktMHUtWWVjempKRjFiTjNXZy1pZE85ZDFzZjdXeHBrODhUcElwT3IyNFh5MjFCT2hJMzVwMHk3VUNEdDFqRFZRNW1vLU55TU9QUmt5MWtkdXd5Tll6QUFXTVQzY2JnZC10X0s2bjJuRGZlTGF6SVprMHBvQQ?oc=5",
+     "source": "GK Today",
+     "published": "2026-11-07T08:03:13+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Japan unveils emergency measures to prevent data breach",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdVg5THJJVHdrT0poc2NUMTdjdEVXRUh3b0ZJeHZtYVJBUk9uOFdaZXNqODRTSVlvYkZNbXExNXNZZjh4em1salNXMTdUZWZEbHlaMGVPVjFldTR6OTJ6aVhlLXJCdXVKa3NLUm1OLWVTa0ZIcU8wMFNIZkFIWkNTVUgwcWJtdm1VMVFUbVg1UktBTGU2MTFNeA?oc=5",
+     "source": "https://dailyasianage.com/",
+     "published": "2026-11-07T06:20:01+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Malaysia a potential cyberattack target, Anwar warns",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE04cXJXZEdQZ01HZW9QbnUxQnRDbTFadHZVeUlBWG9QLV8xVTVERjFIOFM2c2ZrUFZnLXBkQ1YxTldMWUMwRDRwWWNESGJtMFhL?oc=5",
+     "source": "The Edge Malaysia",
+     "published": "2026-11-07T06:12:42+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "A sign of escalating cyberattack in Malaysia after Bank Rakyat becomes latest victim of hacking?",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYXljd1hIVjRJRDlnaXRUWFpoblpDM2tnTHVlMDYyZms3UzViclZxVGMyWXVwclFIdi1yMUxveVZrZGw2ZUowY0YxbEZULXpjQUFON2t1bUE5dVdNcGk0NUVQNWlncHhoTGJ3M0xWalhoTzBIaGg2aVM3eUV1dDJpRFMyNEVVSWxDa1A5cF9pZ0VxWEZTUjJoOFRQS1NjRFBNTGFFdGY1NXNxQ2NyU0VqTmpWYzU4c3AwMGgwMHdR?oc=5",
+     "source": "Focus Malaysia",
+     "published": "2026-11-07T04:02:25+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
     {
      "title": "Massive Data Breach Hits Six Major Asian Airlines",
      "subtitle": "",
@@ -422,26 +491,11 @@
      "also": []
     },
     {
-     "title": "Japan unveils emergency measures to prevent data breach",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdVg5THJJVHdrT0poc2NUMTdjdEVXRUh3b0ZJeHZtYVJBUk9uOFdaZXNqODRTSVlvYkZNbXExNXNZZjh4em1salNXMTdUZWZEbHlaMGVPVjFldTR6OTJ6aVhlLXJCdXVKa3NLUm1OLWVTa0ZIcU8wMFNIZkFIWkNTVUgwcWJtdm1VMVFUbVg1UktBTGU2MTFNeA?oc=5",
-     "source": "https://dailyasianage.com/",
-     "published": "2026-11-07T00:20:01+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
      "title": "GhostBat Android Malware Targets 60 Banking and Payment Apps in India",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWTg0UUdjVEotRlNUWU1TNDgzVWtqNnhzbHVXU1F2S3p2VmZHR0Y3a01fUG03V093UmZ0amRxRGZQMlFpRGVGT0FkbXVka3BMeGxISEJKXzJfVGctUENJc1gtRktHck5iS2ppRU5VSWFJTzNuekMtekxQOGZfcjdZQkZUQTJIa1BsVnNLaUtJYnNnTG11LXJtb3JtX2VkYTl6TnFPamhRZEdnaFlFNjEyVGJpQlgxb0hVdVp6SEM5VnpDVXRnbXRN0gHHAUFVX3lxTE5ZODRRR2NUSi1GU1RZTVM0ODNVa2o2eHNsdVdTUXZLenZWZkdHRjdrTV9QbTdXT3dSZnRqZHFEZlAyUWlEZUZPQWRtdWRrcEx4bEhIQkpfMl9UZy1QQ0lzWC1GS0dyTmJLamlFTlVJYUlPM256Qy16TFA4Zl9yN1lCRlRBMkhrUGxWc0tpS0lic2dMbXUtcm1vcm1fZWRhOXpOcU9qaFFkR2doWUU2MTJUYmlCWDFvSFV1WnpIQzlWekNVdGdtdE0?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNUQwUTdtUURkS1dSU1ZZOFNYR0gtU0s0WWozSnI5NXMydFY1TGU5Tk80MkxVTHg2amEwdHd1dkYzUjl4ckVJcVMxUkY2dzR1Y0tRVkJJX1MwRHY5YzFsZ0FwNW1TZ3M4RHUzSkRBdGJWRGdEU180QjVfZmp4VzZHMDlXV1JiMFVTSHBUUXBQallvY3Z1ZEY2V2VPOUdHYkhtaUhnR1UzaUlWbWFOZXFsUVV0REpIdGfSAccBQVVfeXFMTlk4NFFHY1RKLUZTVFlNUzQ4M1VrajZ4c2x1V1NRdkt6dlZmR0dGN2tNX1BtN1dPd1JmdGpkcURmUDJRaURlRk9BZG11ZGtwTHhsSEhCSl8yX1RnLVBDSXNYLUZLR3JOYktqaUVOVUlhSU8zbnpDLXpMUDhmX3I3WUJGVEEySGtQbFZzS2lLSWJzZ0xtdS1ybW9ybV9lZGE5ek5xT2poUWRHZ2hZRTYxMlRiaUJYMW9IVXVaekhDOVZ6Q1V0Z210TQ?oc=5",
      "source": "Zimperium",
-     "published": "2026-11-06T21:31:16+00:00",
+     "published": "2026-11-06T21:31:15+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -462,9 +516,7 @@
      "tags": [
       "APAC"
      ],
-     "also": [
-      "The Straits Times"
-     ]
+     "also": []
     },
     {
      "title": "What’s next after airlines? Asia data breach raises wider cyber fears",
@@ -508,84 +560,26 @@
       "APAC"
      ],
      "also": []
-    },
-    {
-     "title": "Japan deploys AI, specialist teams to counter cyberattack wave",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQ0hNYXIyWnVrUDI0NlhZZzRCVnRwa25CYzZCSzR1X0g5ZGQtZFk4eENmZ29OSGZld3kyVHhnUWcyT2o5aFk0UHVYSi1xdXBQMmxOcUFHVXdXT2J4TzRlenhvS0RLclFkc1ctZExoSVRoMWF6Q1BzMzM5Tkx1WkotZkg5V3d5bTRIWEhtNTlCQ1NLQXprZ01QN1RWZlduYlVPRVJfckNCdnVUMDhXNXJjYzBpSWtBUdIBtgFBVV95cUxQSTBHaGtma1ZQWUNaT2d2T3hFMmxPM1lsSmxiTmhsd1JadjlNU0JDRURuc0lkMHRvR2tKWVFOOE04NV9xSmEtZE1SOEh2ZVJxNmszaGZLa1JBU0F1VDR6NUhERnZSbmlfTHBlTGQzSnVLVDZpOFJFWlJOWUlVb19BQkc4UFRidTBPMi04M2FGcXBKekh6NWh3M3dYcHhkeTBXbmZXcFBOSlRKZHhzUnpsZi1mWUotQQ?oc=5",
-     "source": "South China Morning Post",
-     "published": "2026-11-06T09:37:42+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "AI",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Muji says Chinese customer data safe after Japan app cyberattack",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUWJ2MGZLaFk0aU1rc09PRkRkRFRCdm1oMDkzMnZPZUk4UEhTT3gyOFhfNEJrbU1kcXZhYUgyTS1ZWlVpcDNIc3piLUVnU3NUamY5QXM3aXVoTUNkZzNEV0ZXYVYzQjZJNEdnSVVweDNoVmpxX1d6M0ZIanFkSlZyV2NJU2pScWMxY2JnNVZ5ajQ3OVA5Unh3RkdILW9vNVdPdWpWeHoyaTJ5SWdVNmthbjZ5akRXTnlWSEN3U3RyOUg4c0FqaWFvcdIBWkFVX3lxTFAya2pfX1BGSk5HeEVDYUxuYmFRQ3Zabk5HR0tKRjRoZW9IV1JiU2xPdy1GUm1nbGpxcHFzS193ZDRwN1V6Vzh5UVB2Z2tLbTBaZ3pCbC1BWHc2dw?oc=5",
-     "source": "MLex",
-     "published": "2026-11-06T08:52:41+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Cybersecurity for Indian SMEs in 2026: From Ransomware Defence to AI, Cloud and DPDP Readiness",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOHdEUk0tOWh0YmlvWnVhVUlTVVg2bmFjX0RBNDdVRURLQzNtX1dyQXBYci1KTEl4NHRhUWxuOVRxOVRGbV9neTZLZ3d0WjNMY196WlJGNnpsYTl5V1ZiRWxtUDI5VHRBeDVWV1pNakJUb1RlTGxCRF9zNkJseTFVQ3g4X2hPM3lHZU1GSlRrNFJ5RUxFbkVVcmdyMVhfV0Iw?oc=5",
-     "source": "SMEStreet",
-     "published": "2026-11-06T07:11:24+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Ransomware",
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Japan's Muji faces questions over retained card data after cyberattack",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOX2NYWUNRbzZqTl9PUHNGdE54VmxEaUxLVGhsaU85ekZQUGFaVkdsYkE3UTJYMWJpYjRPcmxKQXZmSGJFRVFGS3pQaVJzSmVpUXhpb0xPdjg1Y09IeXgtTG9CeU5xQVVmN1JhS1FjVjh4eENmX3JvNU1tQ3BvLVJFaV9FQW9UWHIxam5MWHZwZS11MW85VXhBdU0zTWtEOHRrclhpamIwY3VGNlRJTW9SY0toY9IBWkFVX3lxTE5FOFp2M0d5QVA3UThjSHZ5Z2Rsc1dVWElVOU54VU1vUThaRDdCVGx1Q09XTTcxR21COWVzWC0xdnVfdWtubjlHcW5JdTE0cXJsWHBjd1JPTlpsUQ?oc=5",
-     "source": "MLex",
-     "published": "2026-11-06T05:01:19+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Japan to establish cyberattack response team involving public, private sectors",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaVNQb1dlQWRxQVZoc0tkWkE1WTdfYU1FTXdyVUN1MXpQLUhMZDVkWU9xZ1dUd0VUNTFtaVFEYmtWRUxwVWV4N1VPMFdwSEFzX0Q0SjVPMENCck9ZcUxVWGtvZ2Nha2c3bk41WGxBdlQtMVh5SzN6NG5MdWcyRklGYXJhUFlJX0t2U1laa0ZwTFpOTGl3M0RmMnlEQ2Y0X0xILXJNckFR?oc=5",
-     "source": "Asia News Network",
-     "published": "2026-11-06T03:23:26+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
     }
    ]
   },
   {
    "name": "Threat Research",
    "stories": [
+    {
+     "title": "ARTEX abuse expands as cybercriminals target financial sector",
+     "subtitle": "",
+     "link": "https://www.microsoft.com/en-us/security/blog/2026/11/06/artex-abuse-expands-as-cybercriminals-target-financial-sector/",
+     "source": "Microsoft Threat Intelligence",
+     "published": "2026-11-07T02:44:34+00:00",
+     "date_only": false,
+     "summary": "In October 2026, the financially motivated threat actor Storm-3358 began targeting organizations in the financial sector using the agentic AI offensive framework ARTEX. The post ARTEX abuse expands as cybercriminals target financial sector…",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
     {
      "title": "Turning Up the Heat: Inside the Attacks on Europe’s Refrigeration System",
      "subtitle": "",
@@ -767,18 +761,6 @@
      "extra": "",
      "tags": [],
      "also": []
-    },
-    {
-     "title": "The Rise of LLMJacking: How Threat Actors Monetize Compromised Cloud and Model Resources",
-     "subtitle": "",
-     "link": "https://cloud.google.com/blog/topics/threat-intelligence/llmjacking-monetizing-compromised-cloud-models/",
-     "source": "Google Threat Intelligence",
-     "published": "2026-11-02T14:00:00+00:00",
-     "date_only": false,
-     "summary": "Written by: Christopher Romano, Codi Starks, Garrett Mahoney, John Wolfram, Josh Murchie, K Singh, Mathew Potaczek, Mike Lombardi, Rik Dolfing Introduction Mandiant responded to multiple incidents in 2026 in which threat actors hijacked…",
-     "extra": "",
-     "tags": [],
-     "also": []
     }
    ]
   },
@@ -907,18 +889,6 @@
      "tags": [
       "APAC"
      ],
-     "also": []
-    },
-    {
-     "title": "Google Chrome Multiple Vulnerabilities",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20261104",
-     "source": "HKCERT",
-     "published": "2026-11-04T03:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
      "also": []
     }
    ]
