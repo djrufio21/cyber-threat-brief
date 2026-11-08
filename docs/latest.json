@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T19:49:58+00:00",
+ "generated": "2026-11-08T23:49:13+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -94,6 +94,18 @@
    "name": "APAC Watch",
    "stories": [
     {
+     "title": "Binance Cyberattack Raises Security Concerns for Indian Businesses",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSejhyVmtWTUhDdEc2ODZINURUNlFFd1p5aUlWeWtrOGl3alpJaUJYZkRVOTV6Rlp6LVVraXVkNjNDbXVoaE5jc0ljclFXR25Dd1NseUo5Zkw4bTkwYmZhcTFXTmE5SUJNOENTRkw3Zw?oc=5",
+     "source": "The 420.in",
+     "published": "2026-11-08T14:15:45+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
      "title": "Arcadia hacked, Japan's disaster alerts used to send 1.4 million phishing emails",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZnJDUXpMcVc1ZnJkeVk3cUREOXQ4Z01VeWtRM0Rlc0d2ZHhFZ3UzTUVCblNBNmZVVlFoTnJERVdMUTM3b1U2TGlnU3I3aVBpWEk3S0V5V0tFbEtNa2R6SmNJOF9XbEowOGlTekRBTktmb0tKTWhFOHNnc0FJRk4wUzN5RTBUX0hqcG90RVBSSjU?oc=5",
@@ -109,20 +121,6 @@
      "also": []
     },
     {
-     "title": "Hackers turn billboards in Egypt, Malaysia, Brazil into porn screens",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNajlpa1oxczN6VnVFemYwYzhfeTh3RWZUYkhMMW9WNFZ2SnpoaXdqMUg0bzFtdzN0T3JkYWNjTmpVQ2NBWm5TZ2FlcVhTbTBmblpRSHl4U0wxUGhxaWFERlRlWFJNS2xEUU5zWkdJbG0yeUNLbTMtRGkwOEVXRU5ETk5ZczBraTd5aXAwaFBUZ0txcHgt0gGaAUFVX3lxTE5mQnBNZUs2eFR5eVFtRnFIM3NydEJpT3paOVFmSEd1UzFrTmRnNTBYZjNCTzZhOGZLNENEaXpodlR3THFOaDhQbGxoNlJUYjFtUjgyNVlTS0ptU1RMS3RpVy1yTmtwUnRHV0dsRkhZTFdyYVV5TFdyeE9NQ2F6THo1XzBzWjkweFNqanNsY3ZBREtJOXpFU3FUQUE?oc=5",
-     "source": "TheStar",
-     "published": "2026-11-08T13:29:54+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
      "title": "CERT-In Issues Critical Warning on AI-Driven ‘Crafty Falcon’ Cyberattacks Targeting Indian Financial Firms",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRHJBbTRsNjNnX01KQW5RMDhsd2JSMFFfUzBrVEZXX0FrYjB0emF4cEQzZFVlQ3MtaU9mV25ncmR5bWRPWnNoUkNtWkNGYkxZaUhGQkt2OW9pRDRReTZFNU13WGNtcGtPSzUxNkZHR2pKX2dWRURLQXMzMy1FMlBoZDFTSHY3MDI5ZERKSDBZN3dWeHMwVzF1a3ExSUE3bTJlOTdLUk82bUE1a2JPWVVVb0ZZQTI0ZlE?oc=5",
@@ -133,21 +131,6 @@
      "extra": "",
      "tags": [
       "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Japan Approves ¥10 Billion Cybersecurity Package After Major Data Breaches",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcUcxZU9BeXRZOVJ6a0pyNE03X2NuVmJNbzRlcFFPd0diVi1Pd0dqc3pkUWNyY1NKNjJzb2sxVzZDQ0JEeEFObFQ4a0djWVVqNXRCMDJjdzBnRmd2QjdDYjl4MnZvZk5RSlRhX0l4ZG1qM2pKNHhLU3pnREpubFQweUhfcnlteTYwakdXRUs3V2puMVRPd1lKOWl2Qk9GSmc?oc=5",
-     "source": "The 420.in",
-     "published": "2026-11-08T09:30:09+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
      ],
      "also": []
     },
@@ -213,20 +196,6 @@
      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeUhJVWdvamJMTDRWZ2k1QjAyMkVFMUFQanJOS2NUY0FVWnRNRlhURGpDS0FkOXVaNUY3TGt2VjJHZDhDZ1owb3ZOVFBycVlZcHRMdnJJRndZVEVFZnluRmp0eWRaT2xZdDNqNHdjNkJ6aGVRNmhfZHkyZXRGQWoweTBpUms4V0xjQU1xN2xsRE5VTG5kUGVOcnhsTXZ3MU10VzBZdFlB?oc=5",
      "source": "联合早报",
      "published": "2026-11-08T00:58:06+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Baffling Hackers… Japan and Indonesia Also Extend Offers to 'Moving K-Security Technology'",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jU2w4ZVRkQzRveUNhM0tCVzBqdEJHNXVxcEYyeGVBQjNOenFDaFM0NHZzTy03MURBYktMM01aSjZsYWtZOE1yNkxoeFZ6ak96RllSakxtdVRPN1JfaE01aGRlWWxaYlZJQXl0MVln?oc=5",
-     "source": "머니투데이",
-     "published": "2026-11-07T21:00:00+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
