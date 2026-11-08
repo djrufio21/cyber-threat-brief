@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T15:22:54+00:00",
+ "generated": "2026-11-08T19:49:58+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -61,6 +61,20 @@
    "name": "Breaking Threats",
    "stories": [
     {
+     "title": "Iris Ohyama data cloud breach exposes info of 7.7 million customers",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
+     "source": "BleepingComputer",
+     "published": "2026-11-08T15:43:08+00:00",
+     "date_only": false,
+     "summary": "Japanese manufacturer Iris Ohyama, the operator of the Iris Plaza shopping platform, disclosed that personal information belonging to about 7.7 million people may have been exposed after unauthorized access to a third-party cloud service…",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": []
+    },
+    {
      "title": "Brava Security Emerges From Stealth With $15 Million in Funding",
      "subtitle": "",
      "link": "https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/",
@@ -73,36 +87,12 @@
       "AI"
      ],
      "also": []
-    },
-    {
-     "title": "Hackers pull off $133 million French bank heist via service provider",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
-     "source": "BleepingComputer",
-     "published": "2026-11-07T15:25:35+00:00",
-     "date_only": false,
-     "summary": "French cooperative bank Crédit Mutuel Arkéa was targeted in a cyberattack that enabled fraudulent transactions of up to $133 million, forcing it to respond by suspending certain systems.v [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
     }
    ]
   },
   {
    "name": "APAC Watch",
    "stories": [
-    {
-     "title": "Binance Cyberattack Raises Security Concerns for Indian Businesses",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSejhyVmtWTUhDdEc2ODZINURUNlFFd1p5aUlWeWtrOGl3alpJaUJYZkRVOTV6Rlp6LVVraXVkNjNDbXVoaE5jc0ljclFXR25Dd1NseUo5Zkw4bTkwYmZhcTFXTmE5SUJNOENTRkw3Zw?oc=5",
-     "source": "The 420.in",
-     "published": "2026-11-08T14:15:45+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
     {
      "title": "Arcadia hacked, Japan's disaster alerts used to send 1.4 million phishing emails",
      "subtitle": "",
@@ -119,6 +109,20 @@
      "also": []
     },
     {
+     "title": "Hackers turn billboards in Egypt, Malaysia, Brazil into porn screens",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNajlpa1oxczN6VnVFemYwYzhfeTh3RWZUYkhMMW9WNFZ2SnpoaXdqMUg0bzFtdzN0T3JkYWNjTmpVQ2NBWm5TZ2FlcVhTbTBmblpRSHl4U0wxUGhxaWFERlRlWFJNS2xEUU5zWkdJbG0yeUNLbTMtRGkwOEVXRU5ETk5ZczBraTd5aXAwaFBUZ0txcHgt0gGaAUFVX3lxTE5mQnBNZUs2eFR5eVFtRnFIM3NydEJpT3paOVFmSEd1UzFrTmRnNTBYZjNCTzZhOGZLNENEaXpodlR3THFOaDhQbGxoNlJUYjFtUjgyNVlTS0ptU1RMS3RpVy1yTmtwUnRHV0dsRkhZTFdyYVV5TFdyeE9NQ2F6THo1XzBzWjkweFNqanNsY3ZBREtJOXpFU3FUQUE?oc=5",
+     "source": "TheStar",
+     "published": "2026-11-08T13:29:54+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
      "title": "CERT-In Issues Critical Warning on AI-Driven ‘Crafty Falcon’ Cyberattacks Targeting Indian Financial Firms",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRHJBbTRsNjNnX01KQW5RMDhsd2JSMFFfUzBrVEZXX0FrYjB0emF4cEQzZFVlQ3MtaU9mV25ncmR5bWRPWnNoUkNtWkNGYkxZaUhGQkt2OW9pRDRReTZFNU13WGNtcGtPSzUxNkZHR2pKX2dWRURLQXMzMy1FMlBoZDFTSHY3MDI5ZERKSDBZN3dWeHMwVzF1a3ExSUE3bTJlOTdLUk82bUE1a2JPWVVVb0ZZQTI0ZlE?oc=5",
@@ -129,6 +133,21 @@
      "extra": "",
      "tags": [
       "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "Japan Approves ¥10 Billion Cybersecurity Package After Major Data Breaches",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcUcxZU9BeXRZOVJ6a0pyNE03X2NuVmJNbzRlcFFPd0diVi1Pd0dqc3pkUWNyY1NKNjJzb2sxVzZDQ0JEeEFObFQ4a0djWVVqNXRCMDJjdzBnRmd2QjdDYjl4MnZvZk5RSlRhX0l4ZG1qM2pKNHhLU3pnREpubFQweUhfcnlteTYwakdXRUs3V2puMVRPd1lKOWl2Qk9GSmc?oc=5",
+     "source": "The 420.in",
+     "published": "2026-11-08T09:30:09+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
      ],
      "also": []
     },
@@ -208,20 +227,6 @@
      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9jU2w4ZVRkQzRveUNhM0tCVzBqdEJHNXVxcEYyeGVBQjNOenFDaFM0NHZzTy03MURBYktMM01aSjZsYWtZOE1yNkxoeFZ6ak96RllSakxtdVRPN1JfaE01aGRlWWxaYlZJQXl0MVln?oc=5",
      "source": "머니투데이",
      "published": "2026-11-07T21:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Malaysia Orders Cybersecurity Review After Bank Rakyat Website Hack",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWTZFVlo0RTI5cUhZQXJGcTNiYzZYZ2ZjT1NMb3p1eVI0Wll6ejVkQXVKZzlSREhYOS0xd3FITG1BM1VlQ0pMTTNQNFZxeGpvRjU4ZlM5ZWZZWWF4b3dnWmxnUFJ5cHp4dHotVDVjT001MjV4eW5hbE5oTE5CQ3p3bkNMUmdLSXFRQ0VZMW15QQ?oc=5",
-     "source": "The 420.in",
-     "published": "2026-11-07T17:51:16+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",

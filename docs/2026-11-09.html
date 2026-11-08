@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Cyber Threat Brief · 9 Nov 2026</title>
+<style>
+:root{--bg:#f5f6f8;--card:#fff;--ink:#16191d;--muted:#5f6670;--line:#e2e5ea;--accent:#0a5bb5;--chip:#e9ecf1;
+--red:#b42318;--redbg:#fde8e6;--amber:#9a5b00;--amberbg:#fff1d6;--violet:#5b3cc4;--violetbg:#ece8fb}
+@media (prefers-color-scheme:dark){:root{--bg:#0f1216;--card:#171b21;--ink:#e7e9ec;--muted:#98a0aa;--line:#262c34;
+--accent:#79b2f2;--chip:#232831;--red:#ff8a80;--redbg:#3a1714;--amber:#f2c063;--amberbg:#33270f;--violet:#b8a6ff;--violetbg:#251e3d}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif}
+main{max-width:780px;margin:0 auto;padding:28px 16px 48px}
+h1{margin:0;font-size:1.7rem;letter-spacing:-.01em}
+.date{margin:2px 0 0;font-weight:600}
+.meta{margin:4px 0 0;color:var(--muted);font-size:.9rem}
+.stats{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin:16px 0 4px}
+.stat{background:var(--card);border:1px solid var(--line);border-radius:10px;padding:8px 10px}
+.stat b{display:block;font-size:1.35rem;line-height:1.2}
+.stat span{color:var(--muted);font-size:.8rem}
+.stat.hot b{color:var(--red)}
+.filters{display:flex;flex-wrap:wrap;gap:6px;margin:16px 0 0}
+.filters button{border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:999px;padding:4px 11px;
+font:inherit;font-size:.84rem;cursor:pointer}
+.filters button[aria-pressed=true]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+nav{display:flex;flex-wrap:wrap;gap:8px;margin:12px 0 0}
+nav a{color:var(--accent);font-size:.88rem;text-decoration:none}
+section{margin-top:28px}
+h2{font-size:1rem;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);border-bottom:1px solid var(--line);
+padding-bottom:6px;margin:0 0 2px}
+.note{color:var(--muted);font-size:.85rem;margin:4px 0 0}
+ol{list-style:none;margin:0;padding:0}
+li{padding:13px 0;border-bottom:1px solid var(--line)}
+li[hidden]{display:none}
+a.t{color:var(--ink);text-decoration:none;font-weight:600;font-size:1.01rem}
+a.t:hover{color:var(--accent);text-decoration:underline}
+.sub{margin:2px 0 0;font-weight:500;font-size:.93rem}
+.s{margin:4px 0 0;color:var(--muted);font-size:.92rem}
+.src{margin:6px 0 0;font-size:.8rem;color:var(--muted);display:flex;flex-wrap:wrap;gap:4px 8px;align-items:center}
+.src b{color:var(--accent);font-weight:600}
+.tag{font-size:.72rem;font-weight:600;padding:1px 7px;border-radius:5px;background:var(--chip);color:var(--ink)}
+.tag.Exploited,.tag.Zero-day{background:var(--redbg);color:var(--red)}
+.tag.Ransomware{background:var(--amberbg);color:var(--amber)}
+.tag.Nation-state,.tag.Telecom{background:var(--violetbg);color:var(--violet)}
+.empty{color:var(--muted);padding:12px 0}
+footer{margin-top:36px;color:var(--muted);font-size:.85rem}
+footer a,.archive a{color:var(--accent)}
+.archive li a{text-decoration:none;font-weight:600}
+</style>
+</head>
+<body><main>
+<header><h1>Cyber Threat Brief</h1>
+<p class='date'>Monday, 9 November 2026</p>
+<p class='meta'>Updated 3:49 AM MYT · 17 of 17 sources responded</p></header>
+<div class='stats'><div class='stat hot'><b>3</b><span>exploited CVEs added (7 days)</span></div><div class='stat'><b>0</b><span>linked to ransomware</span></div><div class='stat'><b>30</b><span>threat stories</span></div></div>
+<div class='filters' role='group' aria-label='Filter by tag'><button data-tag='all' aria-pressed='true'>All</button><button data-tag='exploited' aria-pressed='false'>Exploited 4</button><button data-tag='ransomware' aria-pressed='false'>Ransomware 1</button><button data-tag='breach' aria-pressed='false'>Breach 3</button><button data-tag='ai' aria-pressed='false'>AI 7</button><button data-tag='phishing' aria-pressed='false'>Phishing 3</button><button data-tag='apac' aria-pressed='false'>APAC 9</button></div>
+<nav><a href='#actively-exploited'>Actively Exploited</a> · <a href='#breaking-threats'>Breaking Threats</a> · <a href='#apac-watch'>APAC Watch</a> · <a href='#threat-research'>Threat Research</a> · <a href='#government-advisories'>Government Advisories</a></nav>
+<section id='actively-exploited'><h2>Actively Exploited</h2>
+<p class='note'>Confirmed exploited in the wild by CISA. Patch these first.</p>
+<ol>
+<li data-tags='exploited'><a class='t' href='https://nvd.nist.gov/vuln/detail/CVE-2026-19868' target='_blank' rel='noopener noreferrer'>CVE-2026-19868: SonicWall SonicOS SSLVPN</a><p class='sub'>SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability</p><p class='s'>SonicWall SonicOS SSLVPN contains a use of single-factor authentication vulnerability that may allow a user with valid credentials for an alternate authentication method to bypass SAML authentication controls. Successful exploitation may…</p><p class='src'><b>CISA KEV</b> · Added 6 Nov · US federal patch deadline 20 Nov <span class='tag Exploited'>Exploited</span></p></li>
+<li data-tags='exploited'><a class='t' href='https://nvd.nist.gov/vuln/detail/CVE-2024-27834' target='_blank' rel='noopener noreferrer'>CVE-2024-27834: Apple Multiple Products</a><p class='sub'>Apple Multiple Products Improper Authentication Vulnerability</p><p class='s'>Apple iOS, iPadOS, macOS, Safari, tvOS and watchOS 10.5 contain an improper authentication vulnerability which could allow an attacker with arbitrary read and write capability to bypass pointer authentication.</p><p class='src'><b>CISA KEV</b> · Added 4 Nov · US federal patch deadline 18 Nov <span class='tag Exploited'>Exploited</span></p></li>
+<li data-tags='exploited'><a class='t' href='https://nvd.nist.gov/vuln/detail/CVE-2026-119977' target='_blank' rel='noopener noreferrer'>CVE-2026-119977: WordPress WordPress Core</a><p class='sub'>WordPress WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition Vulnerability</p><p class='s'>WordPress WordPress Core contains a time-of-check time-of-use (TOCTOU) race condition vulnerability that could allow unauthenticated attackers to execute code on the server during the upgrade window. This is due to predictable…</p><p class='src'><b>CISA KEV</b> · Added 3 Nov · US federal patch deadline 6 Nov <span class='tag Exploited'>Exploited</span></p></li>
+</ol></section>
+<section id='breaking-threats'><h2>Breaking Threats</h2>
+<ol>
+<li data-tags='breach'><a class='t' href='https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/' target='_blank' rel='noopener noreferrer'>Iris Ohyama data cloud breach exposes info of 7.7 million customers</a><p class='s'>Japanese manufacturer Iris Ohyama, the operator of the Iris Plaza shopping platform, disclosed that personal information belonging to about 7.7 million people may have been exposed after unauthorized access to a third-party cloud service…</p><p class='src'><b>BleepingComputer</b> · Yesterday 11:43 PM <span class='tag Breach'>Breach</span></p></li>
+<li data-tags='ai'><a class='t' href='https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/' target='_blank' rel='noopener noreferrer'>Brava Security Emerges From Stealth With $15 Million in Funding</a><p class='s'>Its multi-agent AI platform generates the telemetry an attack would produce to fix gaps in enterprise defenses. The post Brava Security Emerges From Stealth With $15 Million in Funding appeared first on SecurityWeek .</p><p class='src'><b>SecurityWeek</b> · Yesterday 8:14 PM <span class='tag AI'>AI</span></p></li>
+</ol></section>
+<section id='apac-watch'><h2>APAC Watch</h2>
+<ol>
+<li data-tags='phishing apac'><a class='t' href='https://news.google.com/rss/articles/CBMikAFBVV95cUxOZnJDUXpMcVc1ZnJkeVk3cUREOXQ4Z01VeWtRM0Rlc0d2ZHhFZ3UzTUVCblNBNmZVVlFoTnJERVdMUTM3b1U2TGlnU3I3aVBpWEk3S0V5V0tFbEtNa2R6SmNJOF9XbEowOGlTekRBTktmb0tKTWhFOHNnc0FJRk4wUzN5RTBUX0hqcG90RVBSSjU?oc=5' target='_blank' rel='noopener noreferrer'>Arcadia hacked, Japan&#x27;s disaster alerts used to send 1.4 million phishing emails</a><p class='src'><b>Pasquale Pillitteri</b> · Yesterday 9:46 PM <span class='tag Phishing'>Phishing</span><span class='tag APAC'>APAC</span></p></li>
+<li data-tags='apac'><a class='t' href='https://news.google.com/rss/articles/CBMilAFBVV95cUxNajlpa1oxczN6VnVFemYwYzhfeTh3RWZUYkhMMW9WNFZ2SnpoaXdqMUg0bzFtdzN0T3JkYWNjTmpVQ2NBWm5TZ2FlcVhTbTBmblpRSHl4U0wxUGhxaWFERlRlWFJNS2xEUU5zWkdJbG0yeUNLbTMtRGkwOEVXRU5ETk5ZczBraTd5aXAwaFBUZ0txcHgt0gGaAUFVX3lxTE5mQnBNZUs2eFR5eVFtRnFIM3NydEJpT3paOVFmSEd1UzFrTmRnNTBYZjNCTzZhOGZLNENEaXpodlR3THFOaDhQbGxoNlJUYjFtUjgyNVlTS0ptU1RMS3RpVy1yTmtwUnRHV0dsRkhZTFdyYVV5TFdyeE9NQ2F6THo1XzBzWjkweFNqanNsY3ZBREtJOXpFU3FUQUE?oc=5' target='_blank' rel='noopener noreferrer'>Hackers turn billboards in Egypt, Malaysia, Brazil into porn screens</a><p class='src'><b>TheStar</b> · Yesterday 9:29 PM <span class='tag APAC'>APAC</span></p></li>
+<li data-tags='ai'><a class='t' href='https://news.google.com/rss/articles/CBMitwFBVV95cUxNRHJBbTRsNjNnX01KQW5RMDhsd2JSMFFfUzBrVEZXX0FrYjB0emF4cEQzZFVlQ3MtaU9mV25ncmR5bWRPWnNoUkNtWkNGYkxZaUhGQkt2OW9pRDRReTZFNU13WGNtcGtPSzUxNkZHR2pKX2dWRURLQXMzMy1FMlBoZDFTSHY3MDI5ZERKSDBZN3dWeHMwVzF1a3ExSUE3bTJlOTdLUk82bUE1a2JPWVVVb0ZZQTI0ZlE?oc=5' target='_blank' rel='noopener noreferrer'>CERT-In Issues Critical Warning on AI-Driven ‘Crafty Falcon’ Cyberattacks Targeting Indian Financial Firms</a><p class='src'><b>www.nationpathindia.com</b> · Yesterday 8:29 PM <span class='tag AI'>AI</span></p></li>
+<li data-tags='breach apac'><a class='t' href='https://news.google.com/rss/articles/CBMinwFBVV95cUxNcUcxZU9BeXRZOVJ6a0pyNE03X2NuVmJNbzRlcFFPd0diVi1Pd0dqc3pkUWNyY1NKNjJzb2sxVzZDQ0JEeEFObFQ4a0djWVVqNXRCMDJjdzBnRmd2QjdDYjl4MnZvZk5RSlRhX0l4ZG1qM2pKNHhLU3pnREpubFQweUhfcnlteTYwakdXRUs3V2puMVRPd1lKOWl2Qk9GSmc?oc=5' target='_blank' rel='noopener noreferrer'>Japan Approves ¥10 Billion Cybersecurity Package After Major Data Breaches</a><p class='src'><b>The 420.in</b> · Yesterday 5:30 PM <span class='tag Breach'>Breach</span><span class='tag APAC'>APAC</span></p></li>
+<li data-tags='apac'><a class='t' href='https://news.google.com/rss/articles/CBMimAFBVV95cUxNVzVWejZZaGpIb3d2V0RGX0RDWUpjaFBBeU5yTWptY1V5WXBTR3pOLTk0cGUza2NrcnhwWWQ3LWNpQk12MDk4Y1JCQTJVN3Q1SDhDM0VXODNXT3RFanAzT3pMUGV0dGdXbm8yMl9LbTAtVDBFMEF3amQyR2NyUmIxMndIaXEybXgwRnlkdVJxUTZiU0R0THFBbg?oc=5' target='_blank' rel='noopener noreferrer'>How North Korea Trains the Hackers Behind the $6.3 Billion Binance Heist</a><p class='src'><b>Technology Org</b> · Yesterday 4:18 PM <span class='tag APAC'>APAC</span></p></li>
+<li data-tags='apac'><a class='t' href='https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZndsbTY0Y2lhM1ZLbUZMdkgwWXpST3d5NnRTQUJBY2ZlT3dlQTBRMUpYeGotSHRTaWRrR01zTmJEa21LMEw1bV9keDhYeVdqZXpESkp4YWFETy1SRU9EQWFrb0ZGanNNUmQzcE1KSGtDdEZTSEpMaGttZ2dRTVB6RHVpcDBSVWNBVkl0NndabjE5UEQ1VWtZdzlfeVhCTlZmbXk0amFqeWlSSHNEaUJ1TmxDUXNPMFhpaklmdDZlbUM1dw?oc=5' target='_blank' rel='noopener noreferrer'>North Korea’s Army of World-Class Hackers Is Secret Weapon That Took Down Binance</a><p class='src'><b>ASHARQ AL-AWSAT English</b> · Yesterday 3:09 PM <span class='tag APAC'>APAC</span></p></li>
+<li data-tags='apac'><a class='t' href='https://news.google.com/rss/articles/CBMisgFBVV95cUxPdnBxbXZNdHRHMjQ1aFI5QmczUTl0N2FhZ0hFOW5tX1ZXSDBQdlZDc2pzekl1a3NYX0x4ZzkwUWtYR1VhQ3N5c1FsOFI3UFJuWkpBMWZCZm1hV0ZKTWhVeXR4a25GTUNBaDh3SU96OVFjSlZ3RHY4VTVMS3lwZmJhLVNOb0ZUdWZOck5Dam1BTl9mYjZRMlBUVzFYSjBRbFlXenM4aWRKaDJkZU5LVDdmcmtn?oc=5' target='_blank' rel='noopener noreferrer'>Japan forms elite ‘Top Gun’ team to counter hackers and bolster cybersecurity</a><p class='src'><b>联合早报</b> · Yesterday 1:49 PM <span class='tag APAC'>APAC</span></p></li>
+<li data-tags='apac'><a class='t' href='https://news.google.com/rss/articles/CBMitgFBVV95cUxOSWt6T0pKU1Zrak1IMEVEaDFLZXYxUlRXQ0Jrb2ZUREpidm5GcXl5RmFkNjBkZG9qNXpkNWV4WGptd2RrN0F1TjlNc3ZiaTFpUjN3YXo5ZlNzWTlPa2dYaDJlU0N3aFRwc1pmWDA0Q0EySHFNOXdLRG12U3F4cFhYdmc3aTZlTlhNMWRTQlZSVzJ2X2c4Q3pFT1ZUT2UxLVZMY2I5NFBBblUxQndCTGFfbUxwQ0w3QQ?oc=5' target='_blank' rel='noopener noreferrer'>32.3 million WhatsApp users in Malaysia face malware threat</a><p class='src'><b>The Vibes</b> · Yesterday 12:01 PM <span class='tag APAC'>APAC</span></p></li>
+<li data-tags='apac'><a class='t' href='https://news.google.com/rss/articles/CBMipgFBVV95cUxNeUhJVWdvamJMTDRWZ2k1QjAyMkVFMUFQanJOS2NUY0FVWnRNRlhURGpDS0FkOXVaNUY3TGt2VjJHZDhDZ1owb3ZOVFBycVlZcHRMdnJJRndZVEVFZnluRmp0eWRaT2xZdDNqNHdjNkJ6aGVRNmhfZHkyZXRGQWoweTBpUms4V0xjQU1xN2xsRE5VTG5kUGVOcnhsTXZ3MU10VzBZdFlB?oc=5' target='_blank' rel='noopener noreferrer'>Service disruptions at three Malaysian banks spark cyberattack fears</a><p class='src'><b>联合早报</b> · Yesterday 8:58 AM <span class='tag APAC'>APAC</span></p></li>
+<li data-tags='apac'><a class='t' href='https://news.google.com/rss/articles/CBMibkFVX3lxTE9jU2w4ZVRkQzRveUNhM0tCVzBqdEJHNXVxcEYyeGVBQjNOenFDaFM0NHZzTy03MURBYktMM01aSjZsYWtZOE1yNkxoeFZ6ak96RllSakxtdVRPN1JfaE01aGRlWWxaYlZJQXl0MVln?oc=5' target='_blank' rel='noopener noreferrer'>Baffling Hackers… Japan and Indonesia Also Extend Offers to &#x27;Moving K-Security Technology&#x27;</a><p class='src'><b>머니투데이</b> · Yesterday 5:00 AM <span class='tag APAC'>APAC</span></p></li>
+</ol></section>
+<section id='threat-research'><h2>Threat Research</h2>
+<ol>
+<li data-tags='ai'><a class='t' href='https://www.microsoft.com/en-us/security/blog/2026/11/06/artex-abuse-expands-as-cybercriminals-target-financial-sector/' target='_blank' rel='noopener noreferrer'>ARTEX abuse expands as cybercriminals target financial sector</a><p class='s'>In October 2026, the financially motivated threat actor Storm-3358 began targeting organizations in the financial sector using the agentic AI offensive framework ARTEX. The post ARTEX abuse expands as cybercriminals target financial sector…</p><p class='src'><b>Microsoft Threat Intelligence</b> · 7 Nov <span class='tag AI'>AI</span></p></li>
+<li data-tags=''><a class='t' href='https://unit42.paloaltonetworks.com/europes-refrigeration-systems-attacks/' target='_blank' rel='noopener noreferrer'>Turning Up the Heat: Inside the Attacks on Europe’s Refrigeration System</a><p class='s'>Unit 42 examines recent cyberattacks targeting European refrigeration systems and outlines defense and mitigation strategies. The post Turning Up the Heat: Inside the Attacks on Europe’s Refrigeration System appeared first on Unit 42 .</p><p class='src'><b>Unit 42</b> · 7 Nov </p></li>
+<li data-tags='ai'><a class='t' href='https://www.microsoft.com/en-us/security/blog/2026/11/05/threat-actors-use-agentic-ai-tooling-to-find-and-abuse-exposed-secrets/' target='_blank' rel='noopener noreferrer'>Threat actors use agentic AI tooling to find and abuse exposed secrets</a><p class='s'>Microsoft Threat Intelligence has observed threat actors using the agentic offensive security framework ARTEX to search GitHub for OAuth application secrets, which can be used to compromise the associated OAuth application and perform…</p><p class='src'><b>Microsoft Threat Intelligence</b> · 6 Nov <span class='tag AI'>AI</span></p></li>
+<li data-tags=''><a class='t' href='https://blog.talosintelligence.com/bring-a-tent-ive-got-the-coffee-lessons-from-it-sa/' target='_blank' rel='noopener noreferrer'>Bring a tent, I&#x27;ve got the coffee: Lessons from it-sa</a><p class='s'>Thorsten may have had to camp out in Nuremberg to attend it-sa, but the real story is the initiative to add a formal IT Security apprenticeship program in Germany for the thousands of young hackers ready to join our side.</p><p class='src'><b>Cisco Talos</b> · 6 Nov </p></li>
+<li data-tags='ai'><a class='t' href='https://research.checkpoint.com/2026/hacking-on-autopilot-inside-artex-cybercrime-campaigns/' target='_blank' rel='noopener noreferrer'>Hacking on Autopilot: Inside ARTEX Cybercrime Campaigns</a><p class='s'>Key Points Introduction ARTEX is a Chinese open-source, AI-powered penetration testing platform designed to help security teams assess systems they own or are authorized to test. It uses large language models (LLMs) to coordinate multiple…</p><p class='src'><b>Check Point Research</b> · 6 Nov <span class='tag AI'>AI</span></p></li>
+<li data-tags='phishing'><a class='t' href='https://www.microsoft.com/en-us/security/blog/2026/11/05/email-threat-landscape-q3-2026-trends-and-insights/' target='_blank' rel='noopener noreferrer'>Email threat landscape: Q3 2026 trends and insights</a><p class='s'>Microsoft Threat Intelligence observed a sharp rise in email-based phishing activity at the end of Q3 2026 (July – September), even as QR code phishing declined, CAPTCHA-gated phishing recovered, and malicious messages spoofing familiar…</p><p class='src'><b>Microsoft Threat Intelligence</b> · 6 Nov <span class='tag Phishing'>Phishing</span></p></li>
+<li data-tags='ai phishing'><a class='t' href='https://research.checkpoint.com/2026/chatgpt-lockdown-mode-bypass-phishing-malware-delivery-and-silent-data-exfiltration/' target='_blank' rel='noopener noreferrer'>ChatGPT Lockdown Mode Bypass: Phishing, Malware Delivery, and Silent Data Exfiltration</a><p class='s'>Research by: Alexey Bukhteyev Key Takeaways Introduction Earlier this year, Check Point Research disclosed a security flaw in ChatGPT’s code-execution runtime that allowed sensitive conversation data to be silently exfiltrated to an…</p><p class='src'><b>Check Point Research</b> · 5 Nov <span class='tag AI'>AI</span><span class='tag Phishing'>Phishing</span></p></li>
+<li data-tags=''><a class='t' href='https://www.welivesecurity.com/en/eset-research/slippynunchucks-hijacks-sogou-input-methods-brand-promotion-mechanism-to-distribute-malware/' target='_blank' rel='noopener noreferrer'>SlippyNunchucks hijacks Sogou Input Method’s brand promotion mechanism to distribute malware</a><p class='s'>ESET Research analyzes a DNS hijacking operation abusing insecure HTTP communications in Windows versions of Sogou Input Method</p><p class='src'><b>ESET Research</b> · 4 Nov </p></li>
+<li data-tags=''><a class='t' href='https://www.microsoft.com/en-us/security/blog/2026/11/03/fake-download-campaign-uses-trojanized-installers-deliver-monetization-payloads/' target='_blank' rel='noopener noreferrer'>Fake-download campaign uses trojanized installers to deliver monetization payloads</a><p class='s'>Microsoft Threat Intelligence tracks a fake-download campaign that uses trojanized Inno installers to deliver multiple monetization offers and provides detection and investigation guidance across the complete installer session. The post…</p><p class='src'><b>Microsoft Threat Intelligence</b> · 4 Nov </p></li>
+<li data-tags=''><a class='t' href='https://research.checkpoint.com/2026/free-the-model-sell-the-gateway-prompt-adware-hidden-in-jailbreak-bundles/' target='_blank' rel='noopener noreferrer'>Free the Model, Sell the Gateway: Prompt Adware hidden in Jailbreak Bundles</a><p class='s'>Key Points Free the Model, Sell the Gateway: Prompt Adware hidden in Jailbreak Bundles Check Point Research found a misconfigured webserver of a threat actor operating the Cobalt Strike framework. Besides an open Cobalt Strike server…</p><p class='src'><b>Check Point Research</b> · 3 Nov </p></li>
+<li data-tags=''><a class='t' href='https://www.welivesecurity.com/en/eset-research/gorbag-orcs-border-harvesting-intelligence-ukraine/' target='_blank' rel='noopener noreferrer'>Gorbag: Orcs at the border harvesting intelligence from Ukraine</a><p class='s'>ESET researchers uncover Gorbag, a Russia-aligned group using simple infostealers to harvest data from Ukrainian organizations near the front line</p><p class='src'><b>ESET Research</b> · 3 Nov </p></li>
+<li data-tags='ransomware ai'><a class='t' href='https://unit42.paloaltonetworks.com/u42-threat-intelligence-highlights-oct-2026/' target='_blank' rel='noopener noreferrer'>Unit 42 Threat Intelligence Highlights - Nov. 2, 2026</a><p class='s'>Unit 42 details recent threat intelligence, highlighting cyberespionage, financial extortion, and the rapid adoption of AI across offensive workflows. The post Unit 42 Threat Intelligence Highlights - Nov. 2, 2026 appeared first on Unit 42…</p><p class='src'><b>Unit 42</b> · 3 Nov <span class='tag Ransomware'>Ransomware</span><span class='tag AI'>AI</span></p></li>
+<li data-tags=''><a class='t' href='https://www.microsoft.com/en-us/security/blog/2026/11/02/exploited-vulnerabilities-common-data-driven-analysis-real-world-attacks/' target='_blank' rel='noopener noreferrer'>What exploited vulnerabilities have in common: A data-driven analysis of real-world attacks</a><p class='s'>Real-world exploitation concentrates in a small, high-impact subset of CVEs. Learn how defenders can prioritize vulnerabilities based on exploitation likelihood, exposure, and potential blast radius. The post What exploited vulnerabilities…</p><p class='src'><b>Microsoft Threat Intelligence</b> · 3 Nov </p></li>
+<li data-tags='breach'><a class='t' href='https://research.checkpoint.com/2026/2nd-november-threat-intelligence-report/' target='_blank' rel='noopener noreferrer'>2nd November – Threat Intelligence Report</a><p class='s'>For the latest discoveries in cyber research for the week of 2nd November, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES Binance, a global cryptocurrency exchange, has suffered a cyberattack resulting in the…</p><p class='src'><b>Check Point Research</b> · 2 Nov <span class='tag Breach'>Breach</span></p></li>
+<li data-tags=''><a class='t' href='https://cloud.google.com/blog/topics/threat-intelligence/shutting-the-door-on-the-xcpe-botnet/' target='_blank' rel='noopener noreferrer'>Shutting the Door on the XCPE Botnet</a><p class='s'>Introduction Last week, Google and industry partners dismantled the XCPE backdoor which enrolled more than 1.3 million set-top boxes into a botnet. We assess with high confidence that the backdoor and botnet were intentionally developed…</p><p class='src'><b>Google Threat Intelligence</b> · 2 Nov </p></li>
+</ol></section>
+<section id='government-advisories'><h2>Government Advisories</h2>
+<ol>
+<li data-tags='exploited'><a class='t' href='https://www.cisa.gov/news-events/alerts/2026/11/06/cisa-adds-one-known-exploited-vulnerability-catalog' target='_blank' rel='noopener noreferrer'>CISA Adds One Known Exploited Vulnerability to Catalog</a><p class='s'>CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-19868 SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability This type of…</p><p class='src'><b>CISA</b> · 6 Nov <span class='tag Exploited'>Exploited</span></p></li>
+<li data-tags=''><a class='t' href='https://www.hkcert.org/security-bulletin/ibm-websphere-products-multiple-vulnerabilities_20261106' target='_blank' rel='noopener noreferrer'>IBM WebSphere Products Multiple Vulnerabilities</a><p class='src'><b>HKCERT</b> · 6 Nov </p></li>
+<li data-tags=''><a class='t' href='https://www.hkcert.org/security-bulletin/openssh-multiple-vulnerabilities_20261106' target='_blank' rel='noopener noreferrer'>OpenSSH Security Restriction Bypass Vulnerability</a><p class='src'><b>HKCERT</b> · 6 Nov </p></li>
+</ol></section>
+<footer><p><a href='archive.html'>Past briefs</a></p>
+</footer>
+</main>
+<script>
+(function(){
+  var buttons=document.querySelectorAll('.filters button');
+  buttons.forEach(function(btn){btn.addEventListener('click',function(){
+    var tag=btn.getAttribute('data-tag');
+    buttons.forEach(function(b){b.setAttribute('aria-pressed',b===btn?'true':'false')});
+    document.querySelectorAll('li[data-tags]').forEach(function(li){
+      li.hidden = tag!=='all' && (' '+li.getAttribute('data-tags')+' ').indexOf(' '+tag+' ')<0;
+    });
+  });});
+})();
+</script>
+</body>
+</html>
