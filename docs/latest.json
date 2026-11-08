@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T07:30:12+00:00",
+ "generated": "2026-11-08T15:22:54+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -61,6 +61,20 @@
    "name": "Breaking Threats",
    "stories": [
     {
+     "title": "Brava Security Emerges From Stealth With $15 Million in Funding",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/",
+     "source": "SecurityWeek",
+     "published": "2026-11-08T12:14:00+00:00",
+     "date_only": false,
+     "summary": "Its multi-agent AI platform generates the telemetry an attack would produce to fix gaps in enterprise defenses. The post Brava Security Emerges From Stealth With $15 Million in Funding appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
      "title": "Hackers pull off $133 million French bank heist via service provider",
      "subtitle": "",
      "link": "https://www.bleepingcomputer.com/news/security/hackers-pull-off-133-million-french-bank-heist-via-service-provider/",
@@ -71,36 +85,81 @@
      "extra": "",
      "tags": [],
      "also": []
-    },
-    {
-     "title": "CTM360 Exposes Fake Gift Card Scams Exploiting Trusted Brands",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/ctm360-exposes-fake-gift-card-scams-exploiting-trusted-brands/",
-     "source": "BleepingComputer",
-     "published": "2026-11-07T14:10:19+00:00",
-     "date_only": false,
-     "summary": "Scammers are impersonating major brands and celebrities to lure consumers into fake gift card giveaways that collect personal information and trigger unwanted subscriptions. CTM360 reveals how these campaigns use deceptive verification…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/sonicwall-patches-exploited-sonicos-bug-that-weakens-vpn-logins/",
-     "source": "SecurityWeek",
-     "published": "2026-11-07T10:16:23+00:00",
-     "date_only": false,
-     "summary": "CVE-2026-19868 can let attackers holding credentials for a different login method get past SAML checks, including SAML-enforced MFA. The post SonicWall Patches Exploited SonicOS Vulnerability That Weakens VPN Logins appeared first on…",
-     "extra": "",
-     "tags": [],
-     "also": []
     }
    ]
   },
   {
    "name": "APAC Watch",
    "stories": [
+    {
+     "title": "Binance Cyberattack Raises Security Concerns for Indian Businesses",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSejhyVmtWTUhDdEc2ODZINURUNlFFd1p5aUlWeWtrOGl3alpJaUJYZkRVOTV6Rlp6LVVraXVkNjNDbXVoaE5jc0ljclFXR25Dd1NseUo5Zkw4bTkwYmZhcTFXTmE5SUJNOENTRkw3Zw?oc=5",
+     "source": "The 420.in",
+     "published": "2026-11-08T14:15:45+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Arcadia hacked, Japan's disaster alerts used to send 1.4 million phishing emails",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZnJDUXpMcVc1ZnJkeVk3cUREOXQ4Z01VeWtRM0Rlc0d2ZHhFZ3UzTUVCblNBNmZVVlFoTnJERVdMUTM3b1U2TGlnU3I3aVBpWEk3S0V5V0tFbEtNa2R6SmNJOF9XbEowOGlTekRBTktmb0tKTWhFOHNnc0FJRk4wUzN5RTBUX0hqcG90RVBSSjU?oc=5",
+     "source": "Pasquale Pillitteri",
+     "published": "2026-11-08T13:46:50+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Phishing",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "CERT-In Issues Critical Warning on AI-Driven ‘Crafty Falcon’ Cyberattacks Targeting Indian Financial Firms",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRHJBbTRsNjNnX01KQW5RMDhsd2JSMFFfUzBrVEZXX0FrYjB0emF4cEQzZFVlQ3MtaU9mV25ncmR5bWRPWnNoUkNtWkNGYkxZaUhGQkt2OW9pRDRReTZFNU13WGNtcGtPSzUxNkZHR2pKX2dWRURLQXMzMy1FMlBoZDFTSHY3MDI5ZERKSDBZN3dWeHMwVzF1a3ExSUE3bTJlOTdLUk82bUE1a2JPWVVVb0ZZQTI0ZlE?oc=5",
+     "source": "www.nationpathindia.com",
+     "published": "2026-11-08T12:29:08+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "How North Korea Trains the Hackers Behind the $6.3 Billion Binance Heist",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVzVWejZZaGpIb3d2V0RGX0RDWUpjaFBBeU5yTWptY1V5WXBTR3pOLTk0cGUza2NrcnhwWWQ3LWNpQk12MDk4Y1JCQTJVN3Q1SDhDM0VXODNXT3RFanAzT3pMUGV0dGdXbm8yMl9LbTAtVDBFMEF3amQyR2NyUmIxMndIaXEybXgwRnlkdVJxUTZiU0R0THFBbg?oc=5",
+     "source": "Technology Org",
+     "published": "2026-11-08T08:18:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "North Korea’s Army of World-Class Hackers Is Secret Weapon That Took Down Binance",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZndsbTY0Y2lhM1ZLbUZMdkgwWXpST3d5NnRTQUJBY2ZlT3dlQTBRMUpYeGotSHRTaWRrR01zTmJEa21LMEw1bV9keDhYeVdqZXpESkp4YWFETy1SRU9EQWFrb0ZGanNNUmQzcE1KSGtDdEZTSEpMaGttZ2dRTVB6RHVpcDBSVWNBVkl0NndabjE5UEQ1VWtZdzlfeVhCTlZmbXk0amFqeWlSSHNEaUJ1TmxDUXNPMFhpaklmdDZlbUM1dw?oc=5",
+     "source": "ASHARQ AL-AWSAT English",
+     "published": "2026-11-08T07:09:08+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
     {
      "title": "Japan forms elite ‘Top Gun’ team to counter hackers and bolster cybersecurity",
      "subtitle": "",
@@ -118,8 +177,8 @@
     {
      "title": "32.3 million WhatsApp users in Malaysia face malware threat",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONUhNQUhhSkVaUjF2MmhvUlJpVE1SNlJnMFFVQzJGM203SUhyWElDb1VRTlgtWDN6UzFkMmhUa3ctYy1wVWE4bEMtbXk2T2wyeXNQRm9tUlFNQXNKRTRmZFU3TXhhSXUzR0VXcXhOOHNSRUZwTV9FaTBiWVpYdVF3WFFzNWs3ejhCa2dwcmpTd2xuSzJ0Qi04UkxMS3lPTlZHSHc?oc=5",
-     "source": "Newswav",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSWt6T0pKU1Zrak1IMEVEaDFLZXYxUlRXQ0Jrb2ZUREpidm5GcXl5RmFkNjBkZG9qNXpkNWV4WGptd2RrN0F1TjlNc3ZiaTFpUjN3YXo5ZlNzWTlPa2dYaDJlU0N3aFRwc1pmWDA0Q0EySHFNOXdLRG12U3F4cFhYdmc3aTZlTlhNMWRTQlZSVzJ2X2c4Q3pFT1ZUT2UxLVZMY2I5NFBBblUxQndCTGFfbUxwQ0w3QQ?oc=5",
+     "source": "The Vibes",
      "published": "2026-11-08T04:01:00+00:00",
      "date_only": false,
      "summary": "",
@@ -158,69 +217,11 @@
      "also": []
     },
     {
-     "title": "Japan's SMBC Consumer Finance hacked, Resona and Bank of Yokohama hit",
+     "title": "Malaysia Orders Cybersecurity Review After Bank Rakyat Website Hack",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWl83b0h4Z2dZQkQzVlRVUTMtaTZ4aWtYY1hwcDhYT2x6M3d3eVkxaXg5aHRfZmdlaEVjcFZXSjk1TkM5NWdpUVo3RDB4M3g0VDVhZkpkV0c4c3p1QVYzbkdaM3dycE95SkVoOUp3SDI4TXg1c0Iyc0FPRFgyUUx3LWJtRmp4MDE1Y19NdzRfUUZQcm1RaGI5YkVfWW0?oc=5",
-     "source": "Pasquale Pillitteri",
-     "published": "2026-11-07T13:36:06+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Japan seeks early access to software vulnerabilities from US AI firms for cybersecurity",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSTVPdHhaMVJLTmQwVDh2WXh0V3k3MTR5X2pyMG94NHZTUXJFMlJQQ3h4LWhmbHhWUU1uazRoNzJaVkJRbzdSTTZHNWhoTVc3dEdCeWxDUVZLbVl4S3RSR24taDhaZkN1VHhGZmJzU0ZVdldENC1IWWx1bENpZXlUZkdjMUg5cGpWT2hXWVlHSmhwbUVo?oc=5",
-     "source": "Beinsure",
-     "published": "2026-11-07T12:47:21+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "AI",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "South Korea's Largest Brokerage Suffers Data Breach, Exposing Info of Some 39,000",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hLUpQZnFWVHNPWXlGb3hDU3BXQTE0VENhdkpxdF9QQVpaVk43OU5VRTF2M0RkZUVkVTR1ZDhSOVFIenpMRWRqTlJmUG5acGNyckp0UHBRek1IakZDYzloNnZWMkFod9IBZkFVX3lxTE5hLUpQZnFWVHNPWXlGb3hDU3BXQTE0VENhdkpxdF9QQVpaVk43OU5VRTF2M0RkZUVkVTR1ZDhSOVFIenpMRWRqTlJmUG5acGNyckp0UHBRek1IakZDYzloNnZWMkFodw?oc=5",
-     "source": "SBS 뉴스",
-     "published": "2026-11-07T11:11:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Japan announces emergency cybersecurity package following a wave of attacks",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOXV4cUdzNmxHZzlobFlqSG9ONWVBSHF0YTdscWRoT1YyMVBRYjdmWWNtZnlQLUZjWTJ1bVQ3RVZPOVZYYTRCa3g4UDh1THQtMG1Lcm41bE02RWRkVnZfWVYydVJjUldIdkN3OG03RUNLNjNySU9WNzRwVEJlOGNLUWpHaVQ?oc=5",
-     "source": "Tech Xplore",
-     "published": "2026-11-07T11:05:38+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Malaysia bank disruptions coincide with surge in cyberattacks, says expert",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxON1REajFYZmUyX1J1YWlHVTZINWpyTlhSSmh0Y1dXR0Q4SDQ0YjJSQVh0QkFnYzhmUTAwdXA1d3RFWVhTRWR2eXpBVm1oMXhmdHdMVDlDb1RhZTZ5dXNBUGkyWGZDaW1LTVQzcnpKdHlYYjltZ3RJcmRONUl3WTFuUDhqYktEMmdicTIyQUlYSnVLbWJYZUZ4R0RNZ2F1QnJkaVl1VXJud3dyZHFxM0Fwa0xuOG1nN3fSAbwBQVVfeXFMT2VzRDA5cURvZWNlbjA5NG9LR3RRUW5jV0ZkNlJIVDE3RlJCdzFZLXowUGg0cjRHOFBrTE52eHhxbXl1UUkzOXlMYU9KVktjNGt3cFZYdzUzdVYyYXFGM2xLelhscWc2Um9mQ0l6Yjl4ZXpGenFBdWt3cTBRMHlaMlFGWW5yMXJGVEgtRHJILTN0UkNvTUJPcDhGTVFfNGZ2UUxvaXViUk5WOHFIbDZPXzN2cHFmUDM1TjRKYUc?oc=5",
-     "source": "NST Online",
-     "published": "2026-11-07T08:24:51+00:00",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWTZFVlo0RTI5cUhZQXJGcTNiYzZYZ2ZjT1NMb3p1eVI0Wll6ejVkQXVKZzlSREhYOS0xd3FITG1BM1VlQ0pMTTNQNFZxeGpvRjU4ZlM5ZWZZWWF4b3dnWmxnUFJ5cHp4dHotVDVjT001MjV4eW5hbE5oTE5CQ3p3bkNMUmdLSXFRQ0VZMW15QQ?oc=5",
+     "source": "The 420.in",
+     "published": "2026-11-07T17:51:16+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -469,30 +470,6 @@
      "published": "2026-11-06T01:00:00+00:00",
      "date_only": false,
      "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "US Government Partners Urge Hardening Industrial Refrigeration and Cold Chain Monitoring Systems",
-     "subtitle": "",
-     "link": "https://www.cisa.gov/resources-tools/resources/us-government-partners-urge-hardening-industrial-refrigeration-and-cold-chain-monitoring-systems",
-     "source": "CISA",
-     "published": "2026-11-05T12:00:00+00:00",
-     "date_only": false,
-     "summary": "Overview The Cybersecurity and Infrastructure Security Agency (CISA), Federal Bureau of Investigation (FBI), Health and Human Services (HHS), U.S. Department of Agriculture (USDA), and the Department of Transportation (DoT)—hereafter…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Post-Quantum Questions to Ask Your Vendors",
-     "subtitle": "",
-     "link": "https://www.cisa.gov/resources-tools/resources/post-quantum-questions-ask-your-vendors",
-     "source": "CISA",
-     "published": "2026-11-05T12:00:00+00:00",
-     "date_only": false,
-     "summary": "CISA, the Australian Signals Directorate’s Australian Cyber Security Centre (ASD’s ACSC) and the National Security Agency (NSA) released joint guidance and an accompanying quick-reference list to help organizations assess vendor readiness…",
      "extra": "",
      "tags": [],
      "also": []
