@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-08T00:46:48+00:00",
+ "generated": "2026-11-08T07:30:12+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -95,26 +95,54 @@
      "extra": "",
      "tags": [],
      "also": []
-    },
-    {
-     "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
-     "source": "The Hacker News",
-     "published": "2026-11-07T06:44:17+00:00",
-     "date_only": false,
-     "summary": "Passwords and API keys that developers typed into commands they approved in Claude Code are sitting in public GitHub repositories, where anyone can read them. When a user selects \"Yes, and don't ask again,\" Anthropic's AI coding assistant…",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
     }
    ]
   },
   {
    "name": "APAC Watch",
    "stories": [
+    {
+     "title": "Japan forms elite ‘Top Gun’ team to counter hackers and bolster cybersecurity",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdnBxbXZNdHRHMjQ1aFI5QmczUTl0N2FhZ0hFOW5tX1ZXSDBQdlZDc2pzekl1a3NYX0x4ZzkwUWtYR1VhQ3N5c1FsOFI3UFJuWkpBMWZCZm1hV0ZKTWhVeXR4a25GTUNBaDh3SU96OVFjSlZ3RHY4VTVMS3lwZmJhLVNOb0ZUdWZOck5Dam1BTl9mYjZRMlBUVzFYSjBRbFlXenM4aWRKaDJkZU5LVDdmcmtn?oc=5",
+     "source": "联合早报",
+     "published": "2026-11-08T05:49:19+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "32.3 million WhatsApp users in Malaysia face malware threat",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONUhNQUhhSkVaUjF2MmhvUlJpVE1SNlJnMFFVQzJGM203SUhyWElDb1VRTlgtWDN6UzFkMmhUa3ctYy1wVWE4bEMtbXk2T2wyeXNQRm9tUlFNQXNKRTRmZFU3TXhhSXUzR0VXcXhOOHNSRUZwTV9FaTBiWVpYdVF3WFFzNWs3ejhCa2dwcmpTd2xuSzJ0Qi04UkxMS3lPTlZHSHc?oc=5",
+     "source": "Newswav",
+     "published": "2026-11-08T04:01:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Service disruptions at three Malaysian banks spark cyberattack fears",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeUhJVWdvamJMTDRWZ2k1QjAyMkVFMUFQanJOS2NUY0FVWnRNRlhURGpDS0FkOXVaNUY3TGt2VjJHZDhDZ1owb3ZOVFBycVlZcHRMdnJJRndZVEVFZnluRmp0eWRaT2xZdDNqNHdjNkJ6aGVRNmhfZHkyZXRGQWoweTBpUms4V0xjQU1xN2xsRE5VTG5kUGVOcnhsTXZ3MU10VzBZdFlB?oc=5",
+     "source": "联合早报",
+     "published": "2026-11-08T00:58:06+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
     {
      "title": "Baffling Hackers… Japan and Indonesia Also Extend Offers to 'Moving K-Security Technology'",
      "subtitle": "",
@@ -197,64 +225,6 @@
      "summary": "",
      "extra": "",
      "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Japan unveils emergency measures to prevent data breach",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdVg5THJJVHdrT0poc2NUMTdjdEVXRUh3b0ZJeHZtYVJBUk9uOFdaZXNqODRTSVlvYkZNbXExNXNZZjh4em1salNXMTdUZWZEbHlaMGVPVjFldTR6OTJ6aVhlLXJCdXVKa3NLUm1OLWVTa0ZIcU8wMFNIZkFIWkNTVUgwcWJtdm1VMVFUbVg1UktBTGU2MTFNeA?oc=5",
-     "source": "https://dailyasianage.com/",
-     "published": "2026-11-07T06:20:01+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Singapore MAS Warns Public Against Crypto Trading After Binance Hack",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUE95LVBkUnVJSUoyYkRZclJKX05wX3FBYTRuTE5WWWRCV1dsUklDd3JicmNMOURHakF0Rlh4bkgydmVfWFJCeDJOMnpNc3V2cENjWUJlbERnMWdOUHp6THAxSWt2QTduQzhFN3oyeTBDVXJUUkYzMk90OFBHM24zMl9wWjRqbzRqTnE4Szg2Zks2cWphOGhr?oc=5",
-     "source": "Blockonomi",
-     "published": "2026-11-07T05:10:45+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "A sign of escalating cyberattack in Malaysia after Bank Rakyat becomes latest victim of hacking?",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYXljd1hIVjRJRDlnaXRUWFpoblpDM2tnTHVlMDYyZms3UzViclZxVGMyWXVwclFIdi1yMUxveVZrZGw2ZUowY0YxbEZULXpjQUFON2t1bUE5dVdNcGk0NUVQNWlncHhoTGJ3M0xWalhoTzBIaGg2aVM3eUV1dDJpRFMyNEVVSWxDa1A5cF9pZ0VxWEZTUjJoOFRQS1NjRFBNTGFFdGY1NXNxQ2NyU0VqTmpWYzU4c3AwMGgwMHdR?oc=5",
-     "source": "Focus Malaysia",
-     "published": "2026-11-07T04:49:29+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Massive Data Breach Hits Six Major Asian Airlines",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOX094UmQzMjZXX2g2alRVamZxZGVNeGJITjluNWdKTDNFQTFKTkhrdkpKWUV1NW45TElJVFhfUURpTU9pRWJGSU4tZ2hCQWhxUUhqd01FUFVoQjVFWkJoQ2V0MDkyM0hwWTIzNjhOSFhqU3UwS0MxUU9PaFpCalpfSEV0bnFrQTQ3RVE?oc=5",
-     "source": "Yahoo",
-     "published": "2026-11-07T01:33:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
       "APAC"
      ],
      "also": []
@@ -523,42 +493,6 @@
      "published": "2026-11-05T12:00:00+00:00",
      "date_only": false,
      "summary": "CISA, the Australian Signals Directorate’s Australian Cyber Security Centre (ASD’s ACSC) and the National Security Agency (NSA) released joint guidance and an accompanying quick-reference list to help organizations assess vendor readiness…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Mozilla Firefox Denial of Service Vulnerability",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/mozilla-firefox-denial-of-service-vulnerability_20261105",
-     "source": "HKCERT",
-     "published": "2026-11-05T03:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "TP-Link Router Multiple Vulnerabilities",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/tp-link-router-multiple-vulnerabilities_20261105",
-     "source": "HKCERT",
-     "published": "2026-11-05T03:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Microsoft Edge Multiple Vulnerabilities",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20261105",
-     "source": "HKCERT",
-     "published": "2026-11-05T02:00:00+00:00",
-     "date_only": false,
-     "summary": "",
      "extra": "",
      "tags": [],
      "also": []
