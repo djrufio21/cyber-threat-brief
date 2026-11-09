@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T06:52:26+00:00",
+ "generated": "2026-11-09T17:39:46+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -61,25 +61,27 @@
    "name": "Breaking Threats",
    "stories": [
     {
-     "title": "CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation",
+     "title": "PwC's CISO on AI, Robots & What's Next for Security",
      "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html",
-     "source": "The Hacker News",
-     "published": "2026-11-09T06:05:24+00:00",
+     "link": "https://www.darkreading.com/cybersecurity-operations/pwc-ciso-ai-robots-security",
+     "source": "Dark Reading",
+     "published": "2026-11-09T17:17:23+00:00",
      "date_only": false,
-     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has added a high-severity vulnerability impacting SonicWall SonicOS to its Known Exploited Vulnerabilities (KEV) catalog, following reports that it said may have been…",
+     "summary": "As AI accelerates change across the enterprise, PwC's James Shira explains why security teams must rethink their approach to risk and adapt their strategies.",
      "extra": "",
-     "tags": [],
+     "tags": [
+      "AI"
+     ],
      "also": []
     },
     {
-     "title": "Iris Ohyama data cloud breach exposes info of 7.7 million customers",
+     "title": "Binance denies data breach after alleged ShinyHunters claims",
      "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/iris-ohyama-data-cloud-breach-exposes-info-of-77-million-customers/",
+     "link": "https://www.bleepingcomputer.com/news/security/binance-denies-data-breach-after-alleged-shinyhunters-claims/",
      "source": "BleepingComputer",
-     "published": "2026-11-08T15:43:08+00:00",
+     "published": "2026-11-09T16:12:39+00:00",
      "date_only": false,
-     "summary": "Japanese manufacturer Iris Ohyama, the operator of the Iris Plaza shopping platform, disclosed that personal information belonging to about 7.7 million people may have been exposed after unauthorized access to a third-party cloud service…",
+     "summary": "Binance, the world's largest crypto exchange, has denied claims of a new security breach made by a threat actor using the 'ShinyHunters' handle on a newly emerged underground cybercrime forum. [...]",
      "extra": "",
      "tags": [
       "Breach"
@@ -87,17 +89,312 @@
      "also": []
     },
     {
-     "title": "Brava Security Emerges From Stealth With $15 Million in Funding",
+     "title": "Hackers exploit SSHole OpenSSH flaw to breach Linux systems",
      "subtitle": "",
-     "link": "https://www.securityweek.com/brava-security-emerges-from-stealth-with-15-million-in-funding/",
-     "source": "SecurityWeek",
-     "published": "2026-11-08T12:14:00+00:00",
+     "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-sshole-openssh-flaw-to-breach-linux-systems/",
+     "source": "BleepingComputer",
+     "published": "2026-11-09T16:04:57+00:00",
      "date_only": false,
-     "summary": "Its multi-agent AI platform generates the telemetry an attack would produce to fix gaps in enterprise defenses. The post Brava Security Emerges From Stealth With $15 Million in Funding appeared first on SecurityWeek .",
+     "summary": "Hackers are actively exploiting the \"SSHole\" vulnerability (CVE-2026-123158) in OpenSSH to execute commands, steal credentials, and establish persistent access. [...]",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": []
+    },
+    {
+     "title": "NIST: Solo Shouldn't Mean Less Secure",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/cybersecurity-operations/nist-solo-shouldnt-mean-less-secure",
+     "source": "Dark Reading",
+     "published": "2026-11-09T15:46:10+00:00",
+     "date_only": false,
+     "summary": "New guidance provides a basic framework for less-technical solo business owners, but it may miss the mark on how to secure technology that requires no human oversight.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Ukraine arrests four in $5 million crypto scam targeting Germans",
+     "subtitle": "",
+     "link": "https://therecord.media/ukraine-arrests-scam-call-centers-germany",
+     "source": "The Record",
+     "published": "2026-11-09T15:24:00+00:00",
+     "date_only": false,
+     "summary": "Ukraine's cyber police said the four arrested men included the alleged leader of the scam call centers.",
+     "extra": "",
+     "tags": [],
+     "also": [
+      "BleepingComputer"
+     ]
+    },
+    {
+     "title": "The Biggest Threat to Your GRC Job Isn’t AI. It’s Ignoring AI.",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/the-biggest-threat-to-your-grc-job-isnt-ai-its-ignoring-ai/",
+     "source": "BleepingComputer",
+     "published": "2026-11-09T15:05:15+00:00",
+     "date_only": false,
+     "summary": "AI agents are taking over routine governance, risk, and compliance tasks, forcing GRC professionals to rethink the skills needed to stay relevant. Anecdotes examines three essential skills for the AI-driven GRC workplace: data literacy…",
      "extra": "",
      "tags": [
       "AI"
      ],
+     "also": []
+    },
+    {
+     "title": "FBI agent stole $2.5 million in crypto from hackers under investigation",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/fbi-agent-stole-25-million-in-crypto-from-hackers-fraud-victims/",
+     "source": "BleepingComputer",
+     "published": "2026-11-09T14:34:03+00:00",
+     "date_only": false,
+     "summary": "A former FBI agent has pleaded guilty to stealing nearly $2.5 million from the wallets of fraud victims and nation-state hackers under investigation. [...]",
+     "extra": "",
+     "tags": [
+      "Nation-state"
+     ],
+     "also": []
+    },
+    {
+     "title": "Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html",
+     "source": "The Hacker News",
+     "published": "2026-11-09T14:31:29+00:00",
+     "date_only": false,
+     "summary": "The South Asian cyber espionage group known as Bitter (aka APT-C-08, APT-Q-37, Hazy Tiger, Orange Yali, T-APT-17, and TA397) has been observed targeting South Asian organizations with a previously unreported remote access trojan called…",
+     "extra": "",
+     "tags": [
+      "Nation-state",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Alleged AI-aided cyberattack exploits assistant interface to breach German web host",
+     "subtitle": "",
+     "link": "https://therecord.media/cyberattack-germany-ai-mittwald",
+     "source": "The Record",
+     "published": "2026-11-09T14:15:00+00:00",
+     "date_only": false,
+     "summary": "Hackers allegedly assisted by AI breached a German web hosting company through a tool designed to allow customers to connect AI assistants to their accounts, the company disclosed.",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "Revolve Puts Data Breach Victim Count at 1.5 Million",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/revolve-puts-data-breach-victim-count-at-1-5-million/",
+     "source": "SecurityWeek",
+     "published": "2026-11-09T14:08:08+00:00",
+     "date_only": false,
+     "summary": "Online fashion retailer Revolve has told regulators that the September cyberattack affected more than 1.5 million individuals. The post Revolve Puts Data Breach Victim Count at 1.5 Million appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": []
+    },
+    {
+     "title": "US bans MEXC crypto exchange over sanctions evasion, cybercrime links",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/us-bans-mexc-crypto-exchange-over-sanctions-evasion-cybercrime-links/",
+     "source": "BleepingComputer",
+     "published": "2026-11-09T13:28:56+00:00",
+     "date_only": false,
+     "summary": "The US Department of the Treasury has cut off the MEXC Global crypto exchange from the US financial system over sanctions evasion and links with cybercrime gangs. [...]",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html",
+     "source": "The Hacker News",
+     "published": "2026-11-09T13:28:25+00:00",
+     "date_only": false,
+     "summary": "A system doesn't always need a complicated bug to let someone in. Sometimes, a blank password is enough. That's one of the bigger stories this week. And it gets worse when the tools meant to keep systems updated or running safely become…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Pro-Russian hackers target European officials, offer rewards for personal information",
+     "subtitle": "",
+     "link": "https://therecord.media/hackers-russia-italy-noname",
+     "source": "The Record",
+     "published": "2026-11-09T13:15:00+00:00",
+     "date_only": false,
+     "summary": "Pro-Russian hackers published the personal information of Italian Foreign Minister Antonio Tajani and other senior European officials on the dark web, offering cryptocurrency rewards for additional details about them and their families.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Plex2Shell Exploited Against QNAP NAS Users",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/plex2shell-exploited-against-qnap-nas-users/",
+     "source": "SecurityWeek",
+     "published": "2026-11-09T13:13:28+00:00",
+     "date_only": false,
+     "summary": "Threat actors are exploiting the four-flaw chain to hack the Plex Media Server application on QNAP NAS devices. The post Plex2Shell Exploited Against QNAP NAS Users appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [
+      "Exploited"
+     ],
+     "also": []
+    },
+    {
+     "title": "Iris Plaza Breach May Have Exposed Data of 7.7 Million Customers",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/iris-plaza-breach-may-have-exposed-data-of-7-7-million-customers/",
+     "source": "SecurityWeek",
+     "published": "2026-11-09T12:41:27+00:00",
+     "date_only": false,
+     "summary": "Hackers compromised an external cloud service used by the shopping platform and may have stolen personal information from it. The post Iris Plaza Breach May Have Exposed Data of 7.7 Million Customers appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": []
+    },
+    {
+     "title": "Italy’s Meloni Blames Pro-Russian Hackers for Leak of Foreign Minister’s Data on the Dark Web",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/italys-meloni-blames-pro-russian-hackers-for-leak-of-foreign-ministers-data-on-the-dark-web/",
+     "source": "SecurityWeek",
+     "published": "2026-11-09T12:22:12+00:00",
+     "date_only": false,
+     "summary": "Italian Foreign Minister Antonio Tajani said Saturday that his personal data had been disseminated on the dark web. The post Italy’s Meloni Blames Pro-Russian Hackers for Leak of Foreign Minister’s Data on the Dark Web appeared first on…",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": []
+    },
+    {
+     "title": "Hackers Exploiting ‘SSHole’ Authentication Bypass in OpenSSH",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/hackers-exploiting-sshole-authentication-bypass-in-openssh/",
+     "source": "SecurityWeek",
+     "published": "2026-11-09T12:13:32+00:00",
+     "date_only": false,
+     "summary": "The initial exploitation attempts are attributed to botnets and crypto miners, but other threat actors are expected to follow suit. The post Hackers Exploiting ‘SSHole’ Authentication Bypass in OpenSSH appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/default-adminadmin-server-password.html",
+     "source": "The Hacker News",
+     "published": "2026-11-09T11:27:53+00:00",
+     "date_only": false,
+     "summary": "The login systems behind two car brands' mobile apps could be taken over completely, two security researchers found, allowing them to access any customer's account and, for an owner with a connected car, unlock the doors and start the…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Amplifon Americas Data Breach Impacts 1.3 Million",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/amplifon-americas-data-breach-impacts-1-3-million/",
+     "source": "SecurityWeek",
+     "published": "2026-11-09T11:20:09+00:00",
+     "date_only": false,
+     "summary": "Hackers stole personal, health, and insurance information, including Social Security numbers, from the company’s internal systems. The post Amplifon Americas Data Breach Impacts 1.3 Million appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": []
+    },
+    {
+     "title": "Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html",
+     "source": "The Hacker News",
+     "published": "2026-11-09T10:56:25+00:00",
+     "date_only": false,
+     "summary": "Some people who set up a Keplr crypto wallet with their Google or Apple account have had money stolen by an attacker. Keplr uses a company called Web3Auth to run that Google and Apple sign-in. The attacker used a security flaw at that…",
+     "extra": "",
+     "tags": [
+      "Exploited"
+     ],
+     "also": []
+    },
+    {
+     "title": "Over 3 Million People Hit by Frontline Education Data Breach",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/3-million-people-hit-by-frontline-education-data-breach/",
+     "source": "SecurityWeek",
+     "published": "2026-11-09T10:09:02+00:00",
+     "date_only": false,
+     "summary": "Frontline Education told Indiana regulators that its August data breach affected over 3 million school district staff and students. The post Over 3 Million People Hit by Frontline Education Data Breach appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": []
+    },
+    {
+     "title": "LNbits Urges All Operators to Shut Down Their Bitcoin Lightning Wallet Servers Amid Attacks",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html",
+     "source": "The Hacker News",
+     "published": "2026-11-09T10:01:21+00:00",
+     "date_only": false,
+     "summary": "Everyone running LNbits, a free, open-source Bitcoin Lightning wallet system, should shut down their servers now because of a wave of attacks, the project said yesterday. It has several security fixes to release and asked operators to be…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Taiwan-Based Hacker Used BOSSAI AI Agents to Steal Taipei Emergency Dispatch Records",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html",
+     "source": "The Hacker News",
+     "published": "2026-11-09T09:01:50+00:00",
+     "date_only": false,
+     "summary": "A single attacker using AI agents pulled emergency dispatch records covering seven Taipei districts, researchers at Acronis's Threat Research Unit said last week. The agents also found a Taipei fire department platform exposing patient…",
+     "extra": "",
+     "tags": [
+      "AI",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Google DeepMind’s AI Agents Make 1024-Bit RSA Keys Cheaper to Attack",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/google-deepminds-ai-agents-make-1024-bit-rsa-keys-cheaper-to-attack/",
+     "source": "SecurityWeek",
+     "published": "2026-11-09T08:35:50+00:00",
+     "date_only": false,
+     "summary": "Working with cryptographers, DeepMind’s AI agents cut the cost of forging RSA-1024 signatures and found a cheaper way to factor keys. The post Google DeepMind’s AI Agents Make 1024-Bit RSA Keys Cheaper to Attack appeared first on…",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html",
+     "source": "The Hacker News",
+     "published": "2026-11-09T07:05:48+00:00",
+     "date_only": false,
+     "summary": "The OpenAI engineer who was arrested and charged last month for planting a covert audio recording device in the company's office has pleaded not guilty. According to reports from Bloomberg and CNBC, Saudi national Abdulrahman Alfozan made…",
+     "extra": "",
+     "tags": [],
      "also": []
     }
    ]
@@ -105,6 +402,109 @@
   {
    "name": "APAC Watch",
    "stories": [
+    {
+     "title": "SEC Philippines Confirms Data Breach on Digital Platforms",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16ZWlBaktZMmtpTDlBanl2OWJQX0RveU4tanpyZlNfa3NNTGVrdnlwNkFBeEpLOHQtU3ZQWTJvYTlORnpWLU5NSXhtdEwwYkVaNERKTlRwMks0Z3FfdklkWXNkR1dYR1M5N2h3eXBkZjlFWV9jWEE?oc=5",
+     "source": "SQ Magazine",
+     "published": "2026-11-09T17:12:44+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Thailand faces daily cyberattacks as AI helps hackers exploit system weaknesses",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbHo3SXhYY1BvOWtBS3V2QjBCQlB4NlBUR20yUW56Zy1vVDFkV0R6d1BzQnBMNnh6ZUR6Wmp1d2VZcHphQVhrOXRwc2ZNTGg1UW1IY0c1dHoxRUF5LURpczZzZWtNT1huWW1KTU9HN2FHRGpJRjVrRHFvb2c1d25MUm9ZMGp2Wll2bWMySXB5X3RLRlRXaDJKTXNzVlktcnV6RTA4N1I1VGJLMWpRa0tmMzRPVDhQNXc5bEU1OUVjN2xhbDFJWUNtTGpsWGFJSDhPenFsUnM2MnFqUQ?oc=5",
+     "source": "The Star",
+     "published": "2026-11-09T13:37:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "AI",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "NSC Sec-Gen: Thailand faces daily cyber threats",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQODFQVGZrbDZ4QXUyQVpKYnBxSXZYdEFWNWdyd09velZMdXJSYXdKTkY1X0pDNjNXR01HcERwOVhaeWhxN1B2R1NYLVpkUTJHVTdRQV8wZjFTTUNWZmt5aFpDR1lfak9peVNZYVJPbEMtRzBQclhVMzRZRlFSYU1abENiVUM5TzA4ZVJya2ZEeUNZUUN0M2lJUUZiZzU2QVU?oc=5",
+     "source": "Bangkok Post",
+     "published": "2026-11-09T11:34:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Who Gives A Crap: Data breach at ethical toilet paper company exposes customer information across UK, US and Australia",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPVi1FSHRrNUlXcW9qRXFtU3dpN2w5Zk5WVVl6NkJaSThhR3Nxd1pvS1pmbk45SjRQc3RuLVRPM2ZLQktwRGpITzV0ZWRWOG5oMVNfODFlb2o4SzRFMFZTVXNQd1JWNU5zT0RXWFJNa2wzTUI0eGNEQjM3TGF3M2JUZUdFOWZ4U3Y0VDBwbUtleHJCcklvOXRnMDBYMEduSmV5YzdOZWNXREp6eV9mNm1TbHczRWd6SHRlYWNLQk9naUhCRU1FWGxFakxBUFBPNjZGQmlra1VDU29HdEFyTkNiTUROdlpSMTFwSWl3?oc=5",
+     "source": "TechRadar",
+     "published": "2026-11-09T10:53:40+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "News - Data breach at reservation partner exposes Singapore Airlines customer data",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOZWlmQVB3TEg4bEwtQmNXa2dBdjJVU1ppZm1OeU9UMG8yMGc4SEdoZE1hS2dZMlRrZnZlSWdUeVRrLVlyN2U4X3dwdnFmVk5qcFN1NjJ0dkNDMkpIREc5SXg3N3EyZXJoYkN3YUJJRktKZ0gxbXNvTW01X0JNMldoZ2VSY2pxaWlCOExISXFIb3pvN3VKWkZFZkhmVzdWdjJsRUhqeVM3OGRIajgwTGpr?oc=5",
+     "source": "teiss",
+     "published": "2026-11-09T10:41:20+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "South Korea's Daishin Securities to Compensate 38,000 Data-Breach Victims: 10,000 Won Each, Full Fee Waivers",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sakpvaWNuazZFZTJ4OUszMHUtMHlMb3RrVWZRQlFsSnhaUGlUaGJlTkZqZXB1RW81RFkwNklETTBaaUlObUFvOTQzVkdhckUtOUFYM2kzcEpFc1QtMlZ2eHIxVWk2ZzhUYVVRUlIxZEUycVR5YXc?oc=5",
+     "source": "BigGo Finance",
+     "published": "2026-11-09T08:35:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Japan's Trade Works tightens security as cyberattack highlights outsourcing risks",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQdHFQV2JMZ1JuVERjZl9VSGszS1plX2pzc3oxWXY3d2ZyUzJ2NnRMTEo4QWRfOVdKMFc3Vm0wazlzMUh0RmlOWm45NlFOaWstY2VuNTFvdkp1enFzcnFLTmFaYnZvUF94YVFfQTZLeTFJWFN6T2ozNE1BRFlWZFh4eExPV2wyTUZfTlRCNHJSRUk1ZENJWGJEMmlhYVdhWTFyLU5PZFF3TmlDVmdfV3RBWkNkbEdDV3d0SEdVUEFMSEVQQ0xtVmx4YzRndFlCLWM0cUlGaFVVRkVmaDdzXzAw0gFaQVVfeXFMUDlXT1Z5Q1dfamhxRDdremdMRXBodG1ocDVtTUtKeDFZa1JlWmk2ckN0S0l2b1FwdlhjZTFxZDB6QlVqTmtqbExqanc1Z05jQmZ0N29JQmxPLXRR?oc=5",
+     "source": "MLex",
+     "published": "2026-11-09T06:53:34+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
     {
      "title": "South Korea's Largest Apartment App Hacked, Phone Numbers Leaked",
      "subtitle": "",
@@ -116,6 +516,20 @@
      "extra": "",
      "tags": [
       "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Malaysia keeps cyber threat level at ‘moderate’, says situation under control",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPb2xhNnJnSjc0Q1JXMkdQSWRVQWpWN0MyazQtV29DZlhjc0NfWDVEVjZTVVBuemdzcWlTV0R2aDQ4TUhFTTRjSnhfTVhGQzcyN21kcTh0WjhwS2V0bjdCNHpjZnRoUU5nb0xNWmY2MG4weFRpcUpDNFpxY2xhelpBbUxFNFpIQkdSWnBvdmRPSERTdzhIYXY2Rm1KdkVRdHdlMzA4WDU5bGltNVVnQ0E?oc=5",
+     "source": "联合早报",
+     "published": "2026-11-09T03:38:14+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
       "APAC"
      ],
      "also": []
@@ -148,83 +562,26 @@
       "APAC"
      ],
      "also": []
-    },
-    {
-     "title": "Arcadia hacked, Japan's disaster alerts used to send 1.4 million phishing emails",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZnJDUXpMcVc1ZnJkeVk3cUREOXQ4Z01VeWtRM0Rlc0d2ZHhFZ3UzTUVCblNBNmZVVlFoTnJERVdMUTM3b1U2TGlnU3I3aVBpWEk3S0V5V0tFbEtNa2R6SmNJOF9XbEowOGlTekRBTktmb0tKTWhFOHNnc0FJRk4wUzN5RTBUX0hqcG90RVBSSjU?oc=5",
-     "source": "Pasquale Pillitteri",
-     "published": "2026-11-08T13:46:50+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Phishing",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Hackers turn billboards in Egypt, Malaysia, Brazil into porn screens",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNajlpa1oxczN6VnVFemYwYzhfeTh3RWZUYkhMMW9WNFZ2SnpoaXdqMUg0bzFtdzN0T3JkYWNjTmpVQ2NBWm5TZ2FlcVhTbTBmblpRSHl4U0wxUGhxaWFERlRlWFJNS2xEUU5zWkdJbG0yeUNLbTMtRGkwOEVXRU5ETk5ZczBraTd5aXAwaFBUZ0txcHgt0gGaAUFVX3lxTE5mQnBNZUs2eFR5eVFtRnFIM3NydEJpT3paOVFmSEd1UzFrTmRnNTBYZjNCTzZhOGZLNENEaXpodlR3THFOaDhQbGxoNlJUYjFtUjgyNVlTS0ptU1RMS3RpVy1yTmtwUnRHV0dsRkhZTFdyYVV5TFdyeE9NQ2F6THo1XzBzWjkweFNqanNsY3ZBREtJOXpFU3FUQUE?oc=5",
-     "source": "TheStar",
-     "published": "2026-11-08T13:29:54+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "CERT-In Issues Critical Warning on AI-Driven ‘Crafty Falcon’ Cyberattacks Targeting Indian Financial Firms",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRHJBbTRsNjNnX01KQW5RMDhsd2JSMFFfUzBrVEZXX0FrYjB0emF4cEQzZFVlQ3MtaU9mV25ncmR5bWRPWnNoUkNtWkNGYkxZaUhGQkt2OW9pRDRReTZFNU13WGNtcGtPSzUxNkZHR2pKX2dWRURLQXMzMy1FMlBoZDFTSHY3MDI5ZERKSDBZN3dWeHMwVzF1a3ExSUE3bTJlOTdLUk82bUE1a2JPWVVVb0ZZQTI0ZlE?oc=5",
-     "source": "www.nationpathindia.com",
-     "published": "2026-11-08T12:29:08+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "How North Korea Trains the Hackers Behind the $6.3 Billion Binance Heist",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVzVWejZZaGpIb3d2V0RGX0RDWUpjaFBBeU5yTWptY1V5WXBTR3pOLTk0cGUza2NrcnhwWWQ3LWNpQk12MDk4Y1JCQTJVN3Q1SDhDM0VXODNXT3RFanAzT3pMUGV0dGdXbm8yMl9LbTAtVDBFMEF3amQyR2NyUmIxMndIaXEybXgwRnlkdVJxUTZiU0R0THFBbg?oc=5",
-     "source": "Technology Org",
-     "published": "2026-11-08T08:18:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "North Korea’s Army of World-Class Hackers Is Secret Weapon That Took Down Binance",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZndsbTY0Y2lhM1ZLbUZMdkgwWXpST3d5NnRTQUJBY2ZlT3dlQTBRMUpYeGotSHRTaWRrR01zTmJEa21LMEw1bV9keDhYeVdqZXpESkp4YWFETy1SRU9EQWFrb0ZGanNNUmQzcE1KSGtDdEZTSEpMaGttZ2dRTVB6RHVpcDBSVWNBVkl0NndabjE5UEQ1VWtZdzlfeVhCTlZmbXk0amFqeWlSSHNEaUJ1TmxDUXNPMFhpaklmdDZlbUM1dw?oc=5",
-     "source": "ASHARQ AL-AWSAT English",
-     "published": "2026-11-08T07:09:08+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
     }
    ]
   },
   {
    "name": "Threat Research",
    "stories": [
+    {
+     "title": "9th November – Threat Intelligence Report",
+     "subtitle": "",
+     "link": "https://research.checkpoint.com/2026/9th-november-threat-intelligence-report/",
+     "source": "Check Point Research",
+     "published": "2026-11-09T16:15:41+00:00",
+     "date_only": false,
+     "summary": "For the latest discoveries in cyber research for the week of 9th November, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES Queens Public Library, a New York City public library system serving approximately 2.3…",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": []
+    },
     {
      "title": "ARTEX abuse expands as cybercriminals target financial sector",
      "subtitle": "",
@@ -240,13 +597,13 @@
      "also": []
     },
     {
-     "title": "Turning Up the Heat: Inside the Attacks on Europe’s Refrigeration System",
+     "title": "Turning Up the Heat: Inside the Attacks on Europe’s Refrigeration Systems",
      "subtitle": "",
      "link": "https://unit42.paloaltonetworks.com/europes-refrigeration-systems-attacks/",
      "source": "Unit 42",
      "published": "2026-11-06T21:15:09+00:00",
      "date_only": false,
-     "summary": "Unit 42 examines recent cyberattacks targeting European refrigeration systems and outlines defense and mitigation strategies. The post Turning Up the Heat: Inside the Attacks on Europe’s Refrigeration System appeared first on Unit 42 .",
+     "summary": "Unit 42 examines recent cyberattacks targeting European refrigeration systems and outlines defense and mitigation strategies. The post Turning Up the Heat: Inside the Attacks on Europe’s Refrigeration Systems appeared first on Unit 42 .",
      "extra": "",
      "tags": [],
      "also": []
@@ -394,32 +751,6 @@
      "extra": "",
      "tags": [],
      "also": []
-    },
-    {
-     "title": "2nd November – Threat Intelligence Report",
-     "subtitle": "",
-     "link": "https://research.checkpoint.com/2026/2nd-november-threat-intelligence-report/",
-     "source": "Check Point Research",
-     "published": "2026-11-02T15:57:23+00:00",
-     "date_only": false,
-     "summary": "For the latest discoveries in cyber research for the week of 2nd November, please download our Threat Intelligence Bulletin. TOP ATTACKS AND BREACHES Binance, a global cryptocurrency exchange, has suffered a cyberattack resulting in the…",
-     "extra": "",
-     "tags": [
-      "Breach"
-     ],
-     "also": []
-    },
-    {
-     "title": "Shutting the Door on the XCPE Botnet",
-     "subtitle": "",
-     "link": "https://cloud.google.com/blog/topics/threat-intelligence/shutting-the-door-on-the-xcpe-botnet/",
-     "source": "Google Threat Intelligence",
-     "published": "2026-11-02T14:00:00+00:00",
-     "date_only": false,
-     "summary": "Introduction Last week, Google and industry partners dismantled the XCPE backdoor which enrolled more than 1.3 million set-top boxes into a botnet. We assess with high confidence that the backdoor and botnet were intentionally developed…",
-     "extra": "",
-     "tags": [],
-     "also": []
     }
    ]
   },
@@ -472,20 +803,6 @@
      "summary": "",
      "extra": "",
      "tags": [],
-     "also": []
-    },
-    {
-     "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-     "subtitle": "",
-     "link": "https://www.cisa.gov/news-events/alerts/2026/11/06/cisa-adds-one-known-exploited-vulnerability-catalog",
-     "source": "CISA",
-     "published": "2026-11-06T12:00:00+00:00",
-     "date_only": false,
-     "summary": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-19868 SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability This type of…",
-     "extra": "",
-     "tags": [
-      "Exploited"
-     ],
      "also": []
     }
    ]
