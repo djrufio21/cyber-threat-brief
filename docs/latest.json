@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-10T23:32:48+00:00",
+ "generated": "2026-11-11T06:46:11+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -207,29 +207,26 @@
      "product": "Multiple Products",
      "cve": "CVE-2024-27834",
      "also": []
-    },
-    {
-     "title": "CVE-2026-119977: WordPress WordPress Core",
-     "subtitle": "WordPress WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition Vulnerability",
-     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-119977",
-     "source": "CISA KEV",
-     "published": "2026-11-03T00:00:00+00:00",
-     "date_only": true,
-     "summary": "WordPress WordPress Core contains a time-of-check time-of-use (TOCTOU) race condition vulnerability that could allow unauthenticated attackers to execute code on the server during the upgrade window. This is due to predictable…",
-     "extra": "US federal patch deadline 6 Nov",
-     "tags": [
-      "Exploited"
-     ],
-     "vendor": "WordPress",
-     "product": "WordPress Core",
-     "cve": "CVE-2026-119977",
-     "also": []
     }
    ]
   },
   {
    "name": "Breaking Threats",
    "stories": [
+    {
+     "title": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html",
+     "source": "The Hacker News",
+     "published": "2026-11-11T06:04:02+00:00",
+     "date_only": false,
+     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) Tuesday added two security flaws impacting Cisco BroadWorks and Openwave Messaging Webtop Media Transcoder to its Known Exploited Vulnerabilities (KEV) catalog, citing…",
+     "extra": "",
+     "tags": [
+      "Exploited"
+     ],
+     "also": []
+    },
     {
      "title": "November Patch Tuesday: An Overflowing Cornucopia of CVEs",
      "subtitle": "",
@@ -444,7 +441,9 @@
       "Exploited",
       "Zero-day"
      ],
-     "also": []
+     "also": [
+      "Cisco Talos"
+     ]
     },
     {
      "title": "AI Coding Agents Leak Thousands of Secrets to GitHub",
@@ -558,18 +557,6 @@
       "AI"
      ],
      "also": []
-    },
-    {
-     "title": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html",
-     "source": "The Hacker News",
-     "published": "2026-11-10T16:00:55+00:00",
-     "date_only": false,
-     "summary": "Cybersecurity researchers have disclosed details of an attack that exploited two now-patched vulnerabilities in AhsayCBS to deliver a Python-based implant. The activity, observed by Huntress in early October 2026, involves the exploitation…",
-     "extra": "",
-     "tags": [],
-     "also": []
     }
    ]
   },
@@ -577,32 +564,64 @@
    "name": "APAC Watch",
    "stories": [
     {
-     "title": "South Korea's financial security regulator found personal information stolen in cyberattack, Yonhap reports",
+     "title": "Cyberattack on Singapore school meal app exposes children’s personal data across four schools",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQYlBSTS1Sa2ExVzZJZThxdFNwN29EYmR0a2N5dkhtXzBKeHRxVFVCLXB0NDRaUUtkTmVZWUhBVVRSbk9hSGp2SnY4aFJ1RzNpMmlhSVVUWkZTVXFRdC1xdFZkUmRCellfWHNtVTdneTFsLTVSeTdpTHhrX3hFd2N4M2UyV1NBRkI2SkpMWHRmekFRZlRycXhiRnZaVTM1bC1fbnhsTGFtUWhva1E5Uk1uMkVyZVd5T1Z1N1VlUzdOYXdPLVRXdkVkZjYxSFlvaEI1U2t1d1lkdmNqeHAwNW9UdXJ2bUR1eExmWi10M1djUFpUTlNxT0lHTnZLMU9UMnRtanA1dkFLTXBxd1JaVmpwbVJQaHAwRnU2ckhiYk5GV1ZVR1JKM0FpSlZ0VnQ?oc=5",
-     "source": "Central Oregon Daily",
-     "published": "2026-11-10T22:42:27+00:00",
+     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSDdPLWZCd2YzckVXWW45SExLNEVPNGRHQi1aaDRjb0lmT1ZBZGtDOWJVMnZJdnh3TmFsQjhSMC1LeVJaeERuNUVOYl9zV1JYQ0g4Mmx2RXhnMnpRWTNZOTJNUmlhRVRULXdDcERLQ0EtbktXdjFvRHJvX0dSVlpIbWM5UU15U2xjUURXdURIU2N0T2lrX2FhdWFzVGpFU2ctZmdSdWxTUjZWVDNTNEZCSjBVLVZfeUpWbkM4WS04dmNtNUZ2OUtyX2lmRHJDcXo1Y3p6MWtFSEJZdHBwYmo4QWhRdU5lZ9IB6wFBVV95cUxONF9xdS1xMFdrU2dWMWk3YU1SMVNhVEpzMTN2MUpHMm96VE5DLU5zQkdBalRodGRWQkNkZEI3V3hBLTBqcnZaSks4RHFVVTh1bFBEVVJYTjFtdTBrOFRBdXgweDdpWXFHMEZpck5kSUhCM3NYdmNPUElYVENXcGsxcS1ZQm5OVXB5aTBVU09wSDh4Vy1fcVExcFRJM1dSTjcyc1lBbF85Z0lVWkFiNHFRZ25nWWVkNW8zSzlrRy12S3NnX0l6cDdsXzRRdG0yRHYydm8yZEJlRXRrZFJBR296T19jcDVURVZveEo4?oc=5",
+     "source": "Malay Mail",
+     "published": "2026-11-11T04:08:12+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
      "tags": [
-      "APAC"
+      "APAC",
+      "Breach"
      ],
      "also": [
-      "www.marketscreener.com"
+      "Goody Feed"
      ]
     },
     {
-     "title": "Tappee Data Breach Exposes Student Details at Four Singapore Schools",
+     "title": "SPH Media is latest Singapore firm impacted by data breach, report says",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPeFVRejhHeUctMmNteGlwUHM2UGFLeGlFUVVPOHpEQnFVRGRmWlZNOHktRnpCWjd5XzhNSkJ3VU5ZVy1mUUc1aFVEcFhka0tVQ1JGbEcxcW11VE5rTUMxRUctbUJHVDJ0QW5VajlvOWlzSVV2bjJ5cFRpZThFWUpuUEl2My14eDVkd2lZdnhSVTRDalhUREE?oc=5",
-     "source": "Goody Feed",
-     "published": "2026-11-10T20:15:00+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQjI3bllDSllBRGJKWWJGMUxGV0JHVThsWlgwVl96QURndWVWRzJpck5lOHpIM1NxbFdvc1JaVEx1QW04ZmVjR05TMk1mMHM2MnRmMFVfellobGhqdkh6bGRwSjk0NmRiSHZJRV9UTVlxZ0EyWFRPMHZZSkowWkkya0IxSmQtV04xbmpFZWdaWmRhZmpnSTcwd3BEb1E2dnk4cEdzcEJkY2toZjQ?oc=5",
+     "source": "The Edge Singapore",
+     "published": "2026-11-11T02:57:14+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
      "tags": [
       "Breach",
+      "APAC"
+     ],
+     "also": [
+      "Bloomberg.com"
+     ]
+    },
+    {
+     "title": "Philippines SEC confirms data breach as BIR investigates 340K record leak claims",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWUE4cDI5Tnk4SzBKMTU4bEN0YWNpeGNZeDh0QVpBQ0RNMEFWVVJMU2RuWER0NGpTZC1Gc092Uk9sako0bkpMSURhNFJBNkc1QnZyaUMzWjlnXy1oYTZwMnJOVWZJcEJKa05yMWFGZEJCMUxhN3BJZWJCckxtUXZwZkhwdm9hNVJIbU9rUHJhLXoxM1EwUFFFYTIxUEt5bTRkS0lES2p3?oc=5",
+     "source": "AMBCrypto",
+     "published": "2026-11-11T01:00:52+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "South Korea's financial security regulator found personal information stolen in cyberattack, Yonhap reports",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNcmFRU3JpeTlUbzFCVnZLZDlxOE01UzdnNXZYWElHZ3NYVDk3V0dWT3l1QjdyZ05kR2tGNzVkTHNZbTQxeW1jaDgyV1BpdkI5S1hCTTVObGFLcnVvM0k3SmxKbzZSQ0ZSRzRMcHRrUmZxdFhIRXNvRWhFZnU4VW8yQ1Y0VlR0amRMSEdUdC1qTzQ2amMtWUFvMWUwemRiZmQtRTBObS1zdEVJMGRDMzl5emthZ2VaSHRmWk9HWVRvbm1aNmxsa3Q5U0FRaE44SlNyVzlzWFlQdHZpejNiMWtBWWRRQTlfdw?oc=5",
+     "source": "www.marketscreener.com",
+     "published": "2026-11-10T22:40:24+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
       "APAC"
      ],
      "also": []
@@ -694,64 +713,6 @@
       "AI",
       "APAC"
      ],
-     "also": [
-      "Region Canberra"
-     ]
-    },
-    {
-     "title": "Australia mulls tougher tech laws after AI health breach",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObm9vMDk4anZQS0xSaENMYkxzU1BoTkRNdlFMS1E3V3B3SzlUN1RYQjQxajVTc01qejBUYWJxUVNKN1phczdULWJDd1QtZzBHV1h3ajlQYnpUTFNOeWpnVnc2alJiR2RpMktUUzNxdDVpMi1UWk5MVmJmS2RMR1hWaVBYSENEYWNJVmRRaTNtT3B3R1lTb0U2eTk4b203OGlyRHU2Rm1BLWdxLVU2bE5GZF9UbEFnb2lTbVY4eGpDTUhCWnN2d3h2aVVFejc2eEpTUjhENA?oc=5",
-     "source": "The Nightly",
-     "published": "2026-11-10T04:31:23+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "AI",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Thailand under attack in cyber war between the West and an axis of adversarial countries. Crisis feared",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPa2RlYm9Ca3hNc0gzS2hqVFB1bGhjdm83SDg4SzFKRS12TllWbWIzRHlxWE5kUEU3d0xfcmY2T1VYbGZBQklobjlfSkh4Z3pyVHhtVjB6ME9XS1V4WDZTNUZvT2oxRmlRM0lxRnRiNDFmdjlianpvZ2R3aV8wZXdaSUtjb18wODdCSDFScHluV1FOcWEzQmRwQWJ2RXZfOVFRWU01aUVUT00yWlM0N0VuMnVKSHBqR2diZjFpNXRZMm5QNGh3Y05URXoxZnNjQ0lZZHhCNEFlZVMtZkpPTEk1dXRwZ3RQSTcyOGNqSV9NdHFOWHljZHNj?oc=5",
-     "source": "Thai Examiner",
-     "published": "2026-11-10T03:26:44+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Yomiuri: Japan to Strengthen Cyberattack Support for Underfunded SMEs",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPM3BiWkV5S2hYNWhkb1FreVk5MzdDbTNLMFBFcVk1R0Q3WmRyb3YwLWZzUGtPSDU3Z0ZrMWE2aXpaSW5JSUVIZ3BjSzE0alg1Q21xcXpjNzJfSURwLXVSRHdUcG8zYkxNVVJXV09LWW5Cd2x0T1Y4VTg4dzRRbnhZY0p2VEhqa2xJazdEX2dYblFMVWY4ZUEzOG1haFowLUd3Z003MURPeEZDeFhiREFQaHRNV2Q2WTBVREdvbEJZYjJlLXl1MWlZ?oc=5",
-     "source": "MarketWatch",
-     "published": "2026-11-10T02:54:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Indonesian banks pummeled in sudden cyberattack wave",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOTVZPUXRmcEFBMEJDTUh2T2FVMzQyaFpTcFZ2Vlo2NGNycmVxelo4R0hidG8wcHZXOUJEd1QycUg2T08tbV9wNFpYbWMzTDdlcTE2RllOQk5zbnJ4NS1DNjhsaElqbFB0aUJ2RW9RU0gtU2NwYnAxWVNOaFRMczdESjVVN2M?oc=5",
-     "source": "Asia News Network",
-     "published": "2026-11-10T02:00:46+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
      "also": []
     }
    ]
@@ -759,6 +720,20 @@
   {
    "name": "Threat Research",
    "stories": [
+    {
+     "title": "Detecting sleeper agents hiding in AI model neurons",
+     "subtitle": "",
+     "link": "https://www.microsoft.com/en-us/security/blog/2026/11/10/detecting-sleeper-agents-hiding-in-ai-model-neurons/",
+     "source": "Microsoft Threat Intelligence",
+     "published": "2026-11-10T23:00:00+00:00",
+     "date_only": false,
+     "summary": "Microsoft Research has released new threat research detailing how a capable agent model could be turned into a sleeper agent by editing fewer than ten neurons to inject a short payload; Microsoft Research has also found that this threat is…",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
     {
      "title": "Not All That Glitters Is Gold: Tracking CopperDragon’s Sparrow Framework Around the Globe",
      "subtitle": "",
@@ -769,6 +744,20 @@
      "summary": "Key Points Introduction Over the past year, Check Point Research investigated a series of intrusion campaigns targeting several dozens of high-profile organizations across Latin America, Asia, and Europe. These campaigns initially appeared…",
      "extra": "",
      "tags": [],
+     "also": []
+    },
+    {
+     "title": "Exchange for breakfast: Turla’s Cereal tricks are not for kids",
+     "subtitle": "",
+     "link": "https://www.welivesecurity.com/en/eset-research/exchange-for-breakfast-turlas-cereal-tricks-are-not-for-kids/",
+     "source": "ESET Research",
+     "published": "2026-11-10T09:57:00+00:00",
+     "date_only": false,
+     "summary": "ESET Research describes Turla’s Cereal toolset, featuring a novel Exchange email collection module, a unique C&C mechanism, and sophisticated .NET execution tricks",
+     "extra": "",
+     "tags": [
+      "Nation-state"
+     ],
      "also": []
     },
     {
@@ -898,6 +887,42 @@
    "name": "Government Advisories",
    "stories": [
     {
+     "title": "Adobe Monthly Security Update (November 2026)",
+     "subtitle": "",
+     "link": "https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-november-2026",
+     "source": "HKCERT",
+     "published": "2026-11-11T03:00:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Fortinet Products Multiple Vulnerabilities",
+     "subtitle": "",
+     "link": "https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20261111",
+     "source": "HKCERT",
+     "published": "2026-11-11T03:00:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "MongoDB Multiple Vulnerabilities",
+     "subtitle": "",
+     "link": "https://www.hkcert.org/security-bulletin/mongodb-multiple-vulnerabilities_20261111",
+     "source": "HKCERT",
+     "published": "2026-11-11T03:00:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
      "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
      "subtitle": "",
      "link": "https://www.cisa.gov/news-events/alerts/2026/11/10/cisa-adds-six-known-exploited-vulnerabilities-catalog",
@@ -909,18 +934,6 @@
      "tags": [
       "Exploited"
      ],
-     "also": []
-    },
-    {
-     "title": "Apple Products Multiple Vulnerabilities",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/apple-products-multiple-vulnerabilities_20261110",
-     "source": "HKCERT",
-     "published": "2026-11-10T03:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
      "also": []
     },
     {
@@ -953,18 +966,6 @@
      "link": "https://www.hkcert.org/security-bulletin/veeam-products-denial-of-service-vulnerability_20261109",
      "source": "HKCERT",
      "published": "2026-11-09T03:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Microsoft Edge Multiple Vulnerabilities",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20261109",
-     "source": "HKCERT",
-     "published": "2026-11-09T02:00:00+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
