@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T06:46:11+00:00",
+ "generated": "2026-11-11T15:25:56+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -214,120 +214,137 @@
    "name": "Breaking Threats",
    "stories": [
     {
-     "title": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches",
+     "title": "Hackers use AntiFox AI agents in AWS credential-theft attacks",
      "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html",
-     "source": "The Hacker News",
-     "published": "2026-11-11T06:04:02+00:00",
+     "link": "https://www.bleepingcomputer.com/news/security/hackers-use-antifox-ai-agents-in-aws-credential-theft-attacks/",
+     "source": "BleepingComputer",
+     "published": "2026-11-11T15:12:59+00:00",
      "date_only": false,
-     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) Tuesday added two security flaws impacting Cisco BroadWorks and Openwave Messaging Webtop Media Transcoder to its Known Exploited Vulnerabilities (KEV) catalog, citing…",
+     "summary": "Attackers are using Alibaba Cloud to host self-managed instances of AntiFox, an open-source agentic penetration testing platform, to target web services and AWS environments. [...]",
      "extra": "",
      "tags": [
-      "Exploited"
+      "AI"
      ],
      "also": []
     },
     {
-     "title": "November Patch Tuesday: An Overflowing Cornucopia of CVEs",
+     "title": "eBPF Rootkits: Why Underground Actors Are Taking Notice",
      "subtitle": "",
-     "link": "https://www.darkreading.com/vulnerabilities-threats/november-patch-tuesday-cornucopia-cves",
-     "source": "Dark Reading",
-     "published": "2026-11-10T22:26:51+00:00",
+     "link": "https://www.bleepingcomputer.com/news/security/ebpf-rootkits-why-underground-actors-are-taking-notice/",
+     "source": "BleepingComputer",
+     "published": "2026-11-11T15:01:11+00:00",
      "date_only": false,
-     "summary": "Microsoft serves up an actively exploited Outlook zero-day, and a wave of critical Exchange, SharePoint, Windows Search, and LDAP bugs that exhausted defenders need to prioritize fast.",
+     "summary": "Linux eBPF rootkits can hide malicious activity and evade traditional detection methods without loading kernel modules. Flare reveals how these techniques are spreading through underground forums, where threat actors are sharing rootkit…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html",
+     "source": "The Hacker News",
+     "published": "2026-11-11T14:01:00+00:00",
+     "date_only": false,
+     "summary": "Threat actors have been observed targeting Qlik Sense servers to unsuccessfully deliver PowerShell reverse shell commands against multiple environments in October 2026. Cynet's CyOps and Research teams said they identified the suspicious…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Asus, Zoom Release Security Patches",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/asus-zoom-release-security-patches/",
+     "source": "SecurityWeek",
+     "published": "2026-11-11T13:58:38+00:00",
+     "date_only": false,
+     "summary": "Attackers could exploit them for command execution, memory overwrites, and privilege escalation. The post Asus, Zoom Release Security Patches appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Citrix, Ivanti Patch Critical and High-Severity Vulnerabilities",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/citrix-ivanti-patch-critical-and-high-severity-vulnerabilities/",
+     "source": "SecurityWeek",
+     "published": "2026-11-11T13:37:19+00:00",
+     "date_only": false,
+     "summary": "Attackers could exploit the bugs to tamper with certificate entries, achieve remote code execution, and compromise hosts. The post Citrix, Ivanti Patch Critical and High-Severity Vulnerabilities appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Poland shuts down government services platform ePUAP following cyberattack",
+     "subtitle": "",
+     "link": "https://therecord.media/poland-shuts-down-government-services-platform-cyberattack",
+     "source": "The Record",
+     "published": "2026-11-11T13:18:00+00:00",
+     "date_only": false,
+     "summary": "The attack targeted a nationwide system that allows users to submit official documents, communicate with government agencies and complete administrative procedures online.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Britain, France set out first guidelines for commercial hacking firms",
+     "subtitle": "",
+     "link": "https://therecord.media/britain-france-set-out-guidelines-for-commercial-hacking-firms",
+     "source": "The Record",
+     "published": "2026-11-11T13:11:00+00:00",
+     "date_only": false,
+     "summary": "The guidelines call on businesses that develop, sell or finance CCICs to vet their customers, establish technical safeguards against misuse and to maintain systems for monitoring and reporting abuses.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "N-able releases security hotfixes for zero-day vulnerabilities",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/n-able-releases-security-hotfixes-for-zero-day-vulnerabilities/",
+     "source": "BleepingComputer",
+     "published": "2026-11-11T12:32:27+00:00",
+     "date_only": false,
+     "summary": "N-able released hotfixes to address zero-day bugs affecting its N-central remote monitoring and management (RMM) platform, which were publicly disclosed over the weekend and forced it to take vulnerable hosted environments offline. [...]",
      "extra": "",
      "tags": [
-      "Exploited",
       "Zero-day"
      ],
      "also": []
     },
     {
-     "title": "Railway breach leads to $740,000 in fraudulent AI charges",
+     "title": "Finite State Raises $27 Million to Secure Software and Firmware in Connected Devices",
      "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/apple/railway-breach-leads-to-740-000-in-fraudulent-ai-charges/",
-     "source": "BleepingComputer",
-     "published": "2026-11-10T22:20:19+00:00",
+     "link": "https://www.securityweek.com/finite-state-raises-27-million-to-secure-software-and-firmware-in-connected-devices/",
+     "source": "SecurityWeek",
+     "published": "2026-11-11T12:24:33+00:00",
      "date_only": false,
-     "summary": "Cloud hosting provider Railway says hackers exploited vulnerabilities in its infrastructure to steal customer authentication secrets and generate approximately $740,000 in fraudulent AI usage, potentially exposing credentials for up to…",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Microsoft Fixes Nearly 1,100 Security Vulnerabilities",
-     "subtitle": "",
-     "link": "https://krebsonsecurity.com/2026/11/microsoft-fixes-nearly-1100-security-vulnerabilities/",
-     "source": "Krebs on Security",
-     "published": "2026-11-10T21:55:03+00:00",
-     "date_only": false,
-     "summary": "Microsoft did another four-digit patch drop today, releasing updates to fix almost 1,100 security vulnerabilities in its Windows operating systems and supported software. This month's Patch Tuesday addresses 63 critical flaws -- including…",
+     "summary": "The Series C round will fund international expansion and more autonomous features for the firm’s device security platform. The post Finite State Raises $27 Million to Secure Software and Firmware in Connected Devices appeared first on…",
      "extra": "",
      "tags": [],
      "also": []
     },
     {
-     "title": "US Army member arrested in UK over allegations of spying for Russia",
+     "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
      "subtitle": "",
-     "link": "https://therecord.media/us-army-member-arrested-in-uk-spying-for-russia",
-     "source": "The Record",
-     "published": "2026-11-10T21:13:00+00:00",
+     "link": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
+     "source": "The Hacker News",
+     "published": "2026-11-11T12:19:40+00:00",
      "date_only": false,
-     "summary": "The unnamed soldier was arrested by British counterterrorism police “working closely” with U.S. authorities, including the FBI and the military, the Metropolitan Police said in a statement.",
+     "summary": "Of the 37,571 Grok-built apps that security company Claroc found online, 35,578 were open to anyone without a sign-in, the researchers said yesterday. They included 24 apps built by staff at the social network X and at SpaceXSI, the…",
      "extra": "",
      "tags": [],
      "also": []
     },
     {
-     "title": "Artex: The AI Pen-Test Tool Hackers Turned Into a Weapon",
+     "title": "Fortinet Patches Nearly 100 Vulnerabilities",
      "subtitle": "",
-     "link": "https://www.darkreading.com/cyberattacks-data-breaches/artex-ai-pen-test-tool-hackers-weapon",
-     "source": "Dark Reading",
-     "published": "2026-11-10T21:01:14+00:00",
+     "link": "https://www.securityweek.com/fortinet-patches-nearly-100-vulnerabilities/",
+     "source": "SecurityWeek",
+     "published": "2026-11-11T12:10:14+00:00",
      "date_only": false,
-     "summary": "Forks of the open source Artex framework, along with 45 similar pen-testing tools, remain capable of executing credential attacks and cloud breaches at machine speed across multiple industries.",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Microsoft’s Patch Tuesday surpasses 1,000 bugs for second month in a row",
-     "subtitle": "",
-     "link": "https://therecord.media/patch-tuesday-microsoft-1000-bugs-again",
-     "source": "The Record",
-     "published": "2026-11-10T20:55:00+00:00",
-     "date_only": false,
-     "summary": "An exploited Outlook vulnerability drew most of the attention in Microsoft's latest Patch Tuesday, which listed 1,093 bugs total.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Japanese furniture giant Nitori says hackers stole 37.6M customer records",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/japanese-furniture-giant-nitori-says-hackers-stole-376m-customer-records/",
-     "source": "BleepingComputer",
-     "published": "2026-11-10T20:54:55+00:00",
-     "date_only": false,
-     "summary": "Nitori, a major Japanese furniture and home accessories retailer, discovered that an attacker accessed a system on its network and may have stolen 37.62 million customer records. [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "F-Secure Identifies 26 Ways AI Can Harm Consumers, and Where to Stop Them",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/application-security/f-secure-26-ways-ai-harm-consumers-where-to-stop-them",
-     "source": "Dark Reading",
-     "published": "2026-11-10T20:41:45+00:00",
-     "date_only": false,
-     "summary": "New AI Harms Taxonomy traces how harm moves through AI systems, from misleading chatbot answers to compromised autonomous agents, and identifies where defenses can intervene.",
+     "summary": "The massive drop comes after the company integrated frontier AI models into its product security testing. The post Fortinet Patches Nearly 100 Vulnerabilities appeared first on SecurityWeek .",
      "extra": "",
      "tags": [
       "AI"
@@ -335,13 +352,13 @@
      "also": []
     },
     {
-     "title": "Checkmarx Appoints Kobi Sivilya as Chief Information Security Officer",
+     "title": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.",
      "subtitle": "",
-     "link": "https://www.darkreading.com/cybersecurity-careers/checkmarx-appoints-kobi-sivilya-chief-information-security-officer",
-     "source": "Dark Reading",
-     "published": "2026-11-10T20:35:34+00:00",
+     "link": "https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html",
+     "source": "The Hacker News",
+     "published": "2026-11-11T12:01:59+00:00",
      "date_only": false,
-     "summary": "Sivilya brings deep cybersecurity and technology leadership to Checkmarx as AI transforms software development.",
+     "summary": "We tell customers three things about securing AI agents: they need their own identities, access that fits the job they’re given, and traceability that’s separate from any human’s. That was true for us at Token as well. Then, we built an…",
      "extra": "",
      "tags": [
       "AI"
@@ -349,37 +366,103 @@
      "also": []
     },
     {
-     "title": "How to Assess OT Incident Response Preparedness",
+     "title": "eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise",
      "subtitle": "",
-     "link": "https://www.darkreading.com/ics-ot-security/assess-ot-incident-response-preparedness",
-     "source": "Dark Reading",
-     "published": "2026-11-10T20:18:43+00:00",
+     "link": "https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html",
+     "source": "The Hacker News",
+     "published": "2026-11-11T12:00:53+00:00",
      "date_only": false,
-     "summary": "Cloud Range's free 28-question OT Cyber Readiness Assessment helps organizations identify gaps in operational technology (OT) incident response.",
+     "summary": "The in-house Python script behind eMudhra's October key compromise has now cost the company 8 more of its intermediate certificate authorities (CAs), even though it did not weaken their keys. Each intermediate CA has its own private key…",
      "extra": "",
      "tags": [],
      "also": []
     },
     {
-     "title": "Microsoft releases Windows 10 KB5131096 extended security update",
+     "title": "Bay Raises $50 Million to Control What Enterprise AI Agents Can Do",
      "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5131096-extended-security-update/",
-     "source": "BleepingComputer",
-     "published": "2026-11-10T20:04:36+00:00",
+     "link": "https://www.securityweek.com/bay-raises-50-million-to-control-what-enterprise-ai-agents-can-do/",
+     "source": "SecurityWeek",
+     "published": "2026-11-11T11:30:00+00:00",
      "date_only": false,
-     "summary": "Microsoft released the Windows 10 KB5131096 extended security update, which includes this month's November 2026 Patch Tuesday fixes and a few bug fixes and changes. [...]",
+     "summary": "Founded by three ex-IDF Unit 8200 intelligence officers, Bay is launched to provide a control plane for AI agents. The post Bay Raises $50 Million to Control What Enterprise AI Agents Can Do appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "Microsoft fixes audio issues caused by September security updates",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-usb-audio-issues-caused-by-september-security-updates/",
+     "source": "BleepingComputer",
+     "published": "2026-11-11T11:18:36+00:00",
+     "date_only": false,
+     "summary": "Microsoft says the November 2026 cumulative updates resolve USB audio issues plaguing Windows users who have installed security updates released since September. [...]",
      "extra": "",
      "tags": [],
      "also": []
     },
     {
-     "title": "Hackers exploit trusted AWS access to breach multiple cloud environments",
+     "title": "Dreeze Emerges From Stealth With $33M to Rebuild Cloud Apps After Cyberattacks",
      "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-trusted-aws-access-to-breach-multiple-cloud-environments/",
-     "source": "BleepingComputer",
-     "published": "2026-11-10T19:31:11+00:00",
+     "link": "https://www.securityweek.com/dreeze-emerges-from-stealth-with-33m-to-rebuild-cloud-apps-after-cyberattacks/",
+     "source": "SecurityWeek",
+     "published": "2026-11-11T11:16:40+00:00",
      "date_only": false,
-     "summary": "A threat actor used compromised identity and access management (IAM) credentials for a Qubole big data platform's AWS account to access and exfiltrate data from multiple customers' AWS environments. [...]",
+     "summary": "Created by Zerto and Kashya veterans, the startup has launched a platform designed to recover whole cloud applications. The post Dreeze Emerges From Stealth With $33M to Rebuild Cloud Apps After Cyberattacks appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "ICS Patch Tuesday: Siemens Flags High-Severity Flaws, Node2Shell Exposure",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/ics-patch-tuesday-siemens-flags-high-severity-flaws-node2shell-exposure/",
+     "source": "SecurityWeek",
+     "published": "2026-11-11T10:35:15+00:00",
+     "date_only": false,
+     "summary": "Pre-Patch Tuesday advisories were published by VDE CERT, Phoenix Contact, Johnson Controls, and Hitachi Energy. The post ICS Patch Tuesday: Siemens Flags High-Severity Flaws, Node2Shell Exposure appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "CISA flags Cisco BroadWorks flaw as actively exploited in attacks",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/cisa-flags-cisco-broadworks-flaw-as-actively-exploited-in-attacks/",
+     "source": "BleepingComputer",
+     "published": "2026-11-11T10:12:08+00:00",
+     "date_only": false,
+     "summary": "The US Cybersecurity and Infrastructure Security Agency (CISA) warned on Tuesday that hackers are now exploiting a high-severity Cisco BroadWorks vulnerability in attacks. [...]",
+     "extra": "",
+     "tags": [
+      "Exploited"
+     ],
+     "also": [
+      "The Hacker News"
+     ]
+    },
+    {
+     "title": "Microsoft fixes Exchange sign-ins broken by Windows Server updates",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-exchange-sign-ins-broken-by-october-windows-server-updates/",
+     "source": "BleepingComputer",
+     "published": "2026-11-11T09:07:27+00:00",
+     "date_only": false,
+     "summary": "Microsoft has fixed Outlook sign-in and mail delivery issues on Exchange Server systems after installing the October 2026 Windows Server security updates. [...]",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Threat Actors Exploit Openwave, Cisco BroadWorks Vulnerabilities",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/threat-actors-exploit-openwave-cisco-broadworks-vulnerabilities/",
+     "source": "SecurityWeek",
+     "published": "2026-11-11T09:01:07+00:00",
+     "date_only": false,
+     "summary": "The flaws, CVE-2026-111793 and CVE-2026-20320, let attackers leak sensitive information, including configuration data. The post Threat Actors Exploit Openwave, Cisco BroadWorks Vulnerabilities appeared first on SecurityWeek .",
      "extra": "",
      "tags": [
       "Breach"
@@ -387,40 +470,49 @@
      "also": []
     },
     {
-     "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
+     "title": "Chipmaker Patch Tuesday: Over 200 Vulnerabilities Addressed by Intel, AMD",
      "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
-     "source": "The Hacker News",
-     "published": "2026-11-10T19:23:10+00:00",
+     "link": "https://www.securityweek.com/chipmaker-patch-tuesday-over-200-vulnerabilities-addressed-by-intel-amd/",
+     "source": "SecurityWeek",
+     "published": "2026-11-11T08:42:44+00:00",
      "date_only": false,
-     "summary": "A flaw in Git can let a malicious repository run an attacker's code on a computer that clones it recursively, together with its submodules. The Git project fixed it this week in Git 2.56.1, with matching fixes for the 2.50 through 2.55…",
+     "summary": "Intel and AMD disclose more than 200 vulnerabilities, including critical flaws in Intel TDX software and numerous AMD graphics bugs. The post Chipmaker Patch Tuesday: Over 200 Vulnerabilities Addressed by Intel, AMD appeared first on…",
      "extra": "",
      "tags": [],
      "also": []
     },
     {
-     "title": "Exploited Outlook Zero-Day Among 1,094 Flaws Patched by Microsoft",
+     "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
      "subtitle": "",
-     "link": "https://www.securityweek.com/exploited-outlook-zero-day-among-1094-flaws-patched-by-microsoft/",
-     "source": "SecurityWeek",
-     "published": "2026-11-10T19:19:46+00:00",
+     "link": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
+     "source": "The Hacker News",
+     "published": "2026-11-11T08:17:53+00:00",
      "date_only": false,
-     "summary": "CVE-2026-124194 is the Outlook zero-day for which Microsoft says it’s aware of active exploitation. The post Exploited Outlook Zero-Day Among 1,094 Flaws Patched by Microsoft appeared first on SecurityWeek .",
+     "summary": "Microsoft on Tuesday released patches for a total of 1,259 vulnerabilities spanning its software portfolio, the second consecutive month where the patch volume has exceeded 1,000 flaws. These cover 726 flaws in Windows, 174 in Office, 61…",
      "extra": "",
-     "tags": [
-      "Exploited",
-      "Zero-day"
-     ],
+     "tags": [],
      "also": []
     },
     {
-     "title": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users",
+     "title": "Recently Patched Barracuda Vulnerabilities Exploited in Attacks",
      "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html",
-     "source": "The Hacker News",
-     "published": "2026-11-10T19:19:39+00:00",
+     "link": "https://www.securityweek.com/recently-patched-barracuda-vulnerabilities-exploited-in-attacks/",
+     "source": "SecurityWeek",
+     "published": "2026-11-11T07:53:51+00:00",
      "date_only": false,
-     "summary": "An attacker exploited a remote code execution flaw in SGLang, an open-source inference engine, and ran code on one of NEAR AI's inference servers last Sunday. The attacker could also have seen requests being processed on that server that…",
+     "summary": "The security defects could allow attackers to bypass authorization and gain root access to devices. The post Recently Patched Barracuda Vulnerabilities Exploited in Attacks appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html",
+     "source": "The Hacker News",
+     "published": "2026-11-11T07:49:04+00:00",
+     "date_only": false,
+     "summary": "AI provider keys that customers stored on Railway were stolen in an October breach and used to commit an estimated $740,000 in unauthorized spending, the platform-as-a-service provider said yesterday. It has promised to pay those charges…",
      "extra": "",
      "tags": [
       "Breach",
@@ -429,131 +521,15 @@
      "also": []
     },
     {
-     "title": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day",
+     "title": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons",
      "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-november-2026-patch-tuesday-fixes-1-235-flaws-outlook-zero-day/",
-     "source": "BleepingComputer",
-     "published": "2026-11-10T19:07:36+00:00",
-     "date_only": false,
-     "summary": "Today is Microsoft's November 2026 Patch Tuesday, with security updates addressing a record-breaking 1,235 flaws, including one actively exploited Microsoft Outlook zero-day vulnerability. [...]",
-     "extra": "",
-     "tags": [
-      "Exploited",
-      "Zero-day"
-     ],
-     "also": [
-      "Cisco Talos"
-     ]
-    },
-    {
-     "title": "AI Coding Agents Leak Thousands of Secrets to GitHub",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/cyber-risk/ai-coding-agents-leak-secrets-github",
-     "source": "Dark Reading",
-     "published": "2026-11-10T18:46:22+00:00",
-     "date_only": false,
-     "summary": "A command in Claude Code inadvertently saves files with credentials and other sensitive data to public Git repositories, creating security gaps for organizations.",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Windows 11 KB5132061 & KB5131087 cumulative updates released",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5132061-and-kb5131087-cumulative-updates-released/",
-     "source": "BleepingComputer",
-     "published": "2026-11-10T18:33:26+00:00",
-     "date_only": false,
-     "summary": "Microsoft has released the Patch Tuesday Windows 11 and cumulative updates for versions 26H2/25H2/24H2 and 23H2 to fix security vulnerabilities and bugs, and add new features. [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html",
+     "link": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html",
      "source": "The Hacker News",
-     "published": "2026-11-10T18:12:21+00:00",
+     "published": "2026-11-11T07:21:05+00:00",
      "date_only": false,
-     "summary": "French software company Vates VMS has warned of a critical security vulnerability in Xen Orchestra that it said is being actively exploited in the wild. The authentication bypass flaw, which does not yet have a CVE identifier, is tracked…",
+     "summary": "An AI model can be given a hidden backdoor by editing fewer than 10 of its rarely used neurons, without retraining the model, Microsoft researchers have shown. When a chosen trigger appears, the model outputs an attacker's command, which…",
      "extra": "",
      "tags": [
-      "Exploited"
-     ],
-     "also": [
-      "BleepingComputer"
-     ]
-    },
-    {
-     "title": "Adobe Patches 110 Vulnerabilities Across 9 Products",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/adobe-patches-110-vulnerabilities-across-9-products/",
-     "source": "SecurityWeek",
-     "published": "2026-11-10T18:11:54+00:00",
-     "date_only": false,
-     "summary": "Adobe has fixed vulnerabilities in AEM, Premiere, Photoshop, After Effects, Connect, Audition, Dimension, Content Credentials SDK, and Media Encoder. The post Adobe Patches 110 Vulnerabilities Across 9 Products appeared first on…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html",
-     "source": "The Hacker News",
-     "published": "2026-11-10T17:43:23+00:00",
-     "date_only": false,
-     "summary": "Three distinct threat activity clusters with shared infrastructure and malware code similarities have been observed targeting telecommunications providers, government organizations, military entities, research institutions, and critical…",
-     "extra": "",
-     "tags": [
-      "Nation-state"
-     ],
-     "also": []
-    },
-    {
-     "title": "Software Transparency Is Changing: Allan Friedman on SBOM, AI BOMs and What Comes Next",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/software-transparency-is-changing-allan-friedman-on-sbom-ai-boms-and-what-comes-next/",
-     "source": "SecurityWeek",
-     "published": "2026-11-10T16:45:00+00:00",
-     "date_only": false,
-     "summary": "SBOM pioneer Allan Friedman joined the SecurityWeek Podcast to discuss why knowing what is inside software is only the beginning, how AI is complicating software supply chain visibility, and what organizations should be doing with SBOM…",
-     "extra": "",
-     "tags": [
-      "Supply chain",
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Google Widens Gemini 4 Carbon Access After AI Agents Verify Signal Code",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/google-widens-gemini-4-carbon-access-after-ai-agents-verify-signal-code/",
-     "source": "SecurityWeek",
-     "published": "2026-11-10T16:42:02+00:00",
-     "date_only": false,
-     "summary": "Google opened Carbon to paying developers and businesses as DeepMind used agents built on it to prove libsignal security guarantees. The post Google Widens Gemini 4 Carbon Access After AI Agents Verify Signal Code appeared first on…",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "AI company Fireworks says hackers stole data, billing info during October breaches",
-     "subtitle": "",
-     "link": "https://therecord.media/ai-company-fireworks-says-hackers-stole-data-in-oct-attacks",
-     "source": "The Record",
-     "published": "2026-11-10T16:08:00+00:00",
-     "date_only": false,
-     "summary": "Fireworks said the incident affected a “limited number of customer accounts” — all of whom were notified of the attack.",
-     "extra": "",
-     "tags": [
-      "Breach",
       "AI"
      ],
      "also": []
@@ -564,21 +540,97 @@
    "name": "APAC Watch",
    "stories": [
     {
-     "title": "Cyberattack on Singapore school meal app exposes children’s personal data across four schools",
+     "title": "South Korea’s financial cyber watchdog breached as attacks spread",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOSDdPLWZCd2YzckVXWW45SExLNEVPNGRHQi1aaDRjb0lmT1ZBZGtDOWJVMnZJdnh3TmFsQjhSMC1LeVJaeERuNUVOYl9zV1JYQ0g4Mmx2RXhnMnpRWTNZOTJNUmlhRVRULXdDcERLQ0EtbktXdjFvRHJvX0dSVlpIbWM5UU15U2xjUURXdURIU2N0T2lrX2FhdWFzVGpFU2ctZmdSdWxTUjZWVDNTNEZCSjBVLVZfeUpWbkM4WS04dmNtNUZ2OUtyX2lmRHJDcXo1Y3p6MWtFSEJZdHBwYmo4QWhRdU5lZ9IB6wFBVV95cUxONF9xdS1xMFdrU2dWMWk3YU1SMVNhVEpzMTN2MUpHMm96VE5DLU5zQkdBalRodGRWQkNkZEI3V3hBLTBqcnZaSks4RHFVVTh1bFBEVVJYTjFtdTBrOFRBdXgweDdpWXFHMEZpck5kSUhCM3NYdmNPUElYVENXcGsxcS1ZQm5OVXB5aTBVU09wSDh4Vy1fcVExcFRJM1dSTjcyc1lBbF85Z0lVWkFiNHFRZ25nWWVkNW8zSzlrRy12S3NnX0l6cDdsXzRRdG0yRHYydm8yZEJlRXRrZFJBR296T19jcDVURVZveEo4?oc=5",
-     "source": "Malay Mail",
-     "published": "2026-11-11T04:08:12+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE40TzdIRUVhX3dnWW0wZmJkMWFsaEZ1MFJsMTNnN21qSUk1UUMtd2l0d1l5akt1LUI3QU1kZnJvSkJRVlhyX2xtVy15bktYX29vWVAyZ2ROMzRoUzhSakRuSGwxMF9hWWdzeVpteDhKZXJrRmNlVHRLcndR?oc=5",
+     "source": "Cryptopolitan",
+     "published": "2026-11-11T13:10:23+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
      "tags": [
-      "APAC",
-      "Breach"
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Meal ordering app Tappee hit by data breach; SATS says four schools affected, Singapore News",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQekdlc29IdHdRYjNaLTBfY2pJNmgzdW13QWJnTHI0dm9aTkdBeFlUYzFCbjhVMDM0TW11amZDSXZmYlpoTEhTa3F1eG4wVTZrWHZOSjIwR3FURS0xSjdhNEZDenhwX3ZxTmVCaUlQaE5lUXBUOXBVSW54RXhQZWJVNGpSSEpVZ1oyV3Y5TkQ0cw?oc=5",
+     "source": "AsiaOne.com",
+     "published": "2026-11-11T09:35:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
      ],
      "also": [
+      "Yahoo",
       "Goody Feed"
      ]
+    },
+    {
+     "title": "Japan's PPC reports 21% rise in data-breach notifications in April-September",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPejVpLUY0aXRrSmFQOXhUckZTQ1Y3amhPY1U4QmlNN21ieHhEaHRFME50akYwdHdETEEzSEJxLTVEWDhOVTFwcTVZYnp0T2ZwdFZxbVdfejAtM1pleGJENmNOUGpvZWEzbFZwTzdES1VyZUdYZU8yaEFDN21VUUhyd0VsTGVTckZONGFfQnBxU1Z5LWRUNk1waDlRc3ZjVEpqQ1ZTa2lrRUh0dmFhR3VpYV9LME5yell0SnB4cUJUN1I5M0lQSVFKZ2ZzMU1xRnExVVZzQy1Na9IBWkFVX3lxTE1UamZMenNYX2Ytdlgwb01NMEpHdkdSWlBfZnZXYWtUTUhvR1B2b2liV1BESTFkbEdXX3lmXzNnaGJqV0J6bk1nYnJkellOVTBWZjlPQ0VJSHBQUQ?oc=5",
+     "source": "MLex",
+     "published": "2026-11-11T09:12:48+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "After Bithumb, hackers hit South Korea’s financial security agency",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPWmdFOGdvTEpEc1haeldWSWN1MVJUZDVSQzVVMk03QXQ1RG84ODNpMFJucHdKY2tfbXpnOTREZlI4VUJES1llbmZsUmwwQVV6eGNNbmdjRXRmM0N5Q2o0SVNtWkFQdmtfSU5nRE16Q1BKOHlhRFRHZll4MklQM2lCRFMxb0JqSzlwLWhsMjVB?oc=5",
+     "source": "Crypto News",
+     "published": "2026-11-11T08:13:50+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": [
+      "www.marketscreener.com"
+     ]
+    },
+    {
+     "title": "Malaysia must step up vigilance against state-linked hackers — association",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1xeld2S3JUNE9id01GendSNjhxNDRmdlhyWk4xYWFDdHBKcHJDQWxiNVJUQUVkaHV2RVB6ZFJxV2dVOHp5SC1mOVNFMThCZ0ZQ?oc=5",
+     "source": "The Edge Malaysia",
+     "published": "2026-11-11T07:42:01+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Thailand'a PDPC investigates Thai Airways data breach affecting 65,029 passengers",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObXpSN3d3aWxXY2Z4dURPNklnREdzNHFSaFRLXzRnc1RkVGd6WHlWbVI5cllobGVVc1F4d3ZBUy03TlRXNWZfcjRBWEl5X09NcEoyaVhWbTcwSUlRZ3JTY0J5YVdrWjROdWlvdTFIU3F2bUlCeXYzZmxoMEE3bDNla29WS3VsMjJnbEk3djAwc2Y0bWw1UTF1WEFBTFlUZDNwV1p0c25TVGVSNW1wZEw2Sk91N0pOM0d0QU5TbU4tVnV3S3BkTHZwcnE4Q09zOXVnV3oyOXNoRkk0NnpNZ09j0gFaQVVfeXFMTWZfOTh6MWZwZllweEU3dmlHZHBTWHFONUh5ZkRRV3YyS3R2OF9pMEhNb2NuMC16RU9jMG85QjJvZnlHUHdpUUZqWlpqMDA0dlg5a21BOVctZWRR?oc=5",
+     "source": "MLex",
+     "published": "2026-11-11T03:54:12+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
     },
     {
      "title": "SPH Media is latest Singapore firm impacted by data breach, report says",
@@ -611,115 +663,24 @@
       "APAC"
      ],
      "also": []
-    },
-    {
-     "title": "South Korea's financial security regulator found personal information stolen in cyberattack, Yonhap reports",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNcmFRU3JpeTlUbzFCVnZLZDlxOE01UzdnNXZYWElHZ3NYVDk3V0dWT3l1QjdyZ05kR2tGNzVkTHNZbTQxeW1jaDgyV1BpdkI5S1hCTTVObGFLcnVvM0k3SmxKbzZSQ0ZSRzRMcHRrUmZxdFhIRXNvRWhFZnU4VW8yQ1Y0VlR0amRMSEdUdC1qTzQ2amMtWUFvMWUwemRiZmQtRTBObS1zdEVJMGRDMzl5emthZ2VaSHRmWk9HWVRvbm1aNmxsa3Q5U0FRaE44SlNyVzlzWFlQdHZpejNiMWtBWWRRQTlfdw?oc=5",
-     "source": "www.marketscreener.com",
-     "published": "2026-11-10T22:40:24+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Japan’s data breach surge puts cyber insurance adequacy in focus",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNd0dhQ0lCcGNZRUtNbHJJMW8zLWJqRlAzSmkxdzhUd0FicDgtZEtsUkQ0Ynk0SThxQzBEMFNZZDhsdUpzTXVNV3hHRzhLVzMyUTJiZmxVZFc5U2dEWTgtSXh2bHNGbXcwbGFVWW1qREZwMDBUa0gtMG1vb3FWZnpwU1dPRlBvUHBKY0JLelh6VlRxcUt3c29oRW1QR3hkaFZKLTNIdjRWWVVkZVVkd2Ezc0cyZXI2cmRxN1ZMYUl0SklpdTBlc1p3?oc=5",
-     "source": "Insurance Business",
-     "published": "2026-11-10T14:26:01+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Singapore’s blood bank systems unaffected by French cyberattack: HSA",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTVZWUERmaVgwRXFOT19jX3JmQjlXQmRfR1dZUWJnUlRxM0dpRzRGY3R1SnZGbXRNNGI4RDQ5bDE1Q2tnd0MxeGFWTjM0aVN4Rk5QRlVBeUdmSWN5Z1VYVzJUSVdQcVpsTDVtQ0xiT1BUN3N5NVZtbWV6bFd4VmJramJ1OHN3b2RHSkxUck9wR3RZWi00RHpJR2JLcXZVaDQ5QkE?oc=5",
-     "source": "The Straits Times",
-     "published": "2026-11-10T11:02:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Japan telecom panel to examine site blocking to curb data-breach harms",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNc2p1S0tVVDE5cm5rVWtrZnZ1Q1JadGlqS1JkczJTQm1Sa2o0ZnR3OHp3OWVkYkhYTUxIUVNPQ1o1MjgtQWM4QmJESlJhVlBDSmgxVUlvcjRSRkoySGRUZUR4MVlTdWRPdjZoQVdfUkR5dUFZZVdzRkZIM0otcXNENDRic0JiOVdKUzF5THdmMTJSYlQzdkxtUnpoQVVjMjBLS2E0VHpROEpTVmRYVUo4UzdKUUwwOXZaV1FuWkYzVTJPOHF5OGltZjl4WHhobUx20gFaQVVfeXFMTl9QbUdlYnRKbnBIYThfa2Y4cmx1emNvQ0N2cWJqZUtRLU1qQ05yQXdKQy1IZDBTa084MjczcnMwSTJBaXdlR2huUGpxTkVWRGdVQVRORHNRMHhR?oc=5",
-     "source": "MLex",
-     "published": "2026-11-10T09:35:54+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "Telecom",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "AFP investigates alleged Philippine Air Force data breach",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSDJiRFdXdTFzWWY3eGVlSExzaW42R2loTEdTaXZIdXVQSVgwQVgwV1RsMWx3MTA0Y3RKUHg2U3hBRnhLR0JKN3hfSWFBN19rSGh5V19waVFaUUNlcjZKb2NrbjE5R2dVbXNmbDFKVXU1Wkp3elJTVllsdVZ1dW5GSGM5bm1lTGxFV3ozWUJUay14OEcyR3pON0VXVi0xWWF6azB0azY5cXZOaUVkOVBYUEhFV21JZTRoZDY4cQ?oc=5",
-     "source": "The Star",
-     "published": "2026-11-10T08:48:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach"
-     ],
-     "also": []
-    },
-    {
-     "title": "France blames Iran for supermarket fridge cyberattack | NHK WORLD-JAPAN News",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA1T0JRSnFqOE03T2RRWFlBSkU2WDloRl8zTUxGNG80Zk80b3NBLTN0MDNNQk0xZG5vbll2TGtFRHAxczgyVTEyUEp1MHRrVTJFd0g2UmRacnNyS0pvVk9meFI2cw?oc=5",
-     "source": "NHKニュース",
-     "published": "2026-11-10T08:39:30+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Australia announces mandatory AI safeguards following alleged OpenAI data breach",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNVElCa3U4ZldhVXZuWWdQTV9ERDc2N21CRmdjUWVvOWlsalk2bjk4dHlQT0dGNTZKb29KSEVYcXYyTmFRazhFU25FdzdyVXdzbkJ2M0xEZzdXXzE5ZV9mSjNqaVk2TUtCc0VSNE04RXhwLVJwcUVtcHZDT0lXRU93R05IOGlUem16R0RLOHRWdGRwOE5RMmVGYkYwZ3R3SUlNZTFTSW9TMVdiczlJYnVKcDc4MEhBTkl4MFJFSmpuUHQ5S1Fx?oc=5",
-     "source": "Anadolu Ajansı",
-     "published": "2026-11-10T07:20:50+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "AI",
-      "APAC"
-     ],
-     "also": []
     }
    ]
   },
   {
    "name": "Threat Research",
    "stories": [
+    {
+     "title": "The XG Files: Falcon C2 Flying Under The (Browser) Radar",
+     "subtitle": "",
+     "link": "https://unit42.paloaltonetworks.com/falcon-c2-browser-compromise/",
+     "source": "Unit 42",
+     "published": "2026-11-11T15:00:23+00:00",
+     "date_only": false,
+     "summary": "We uncover Falcon C2, a browser-based threat framework targeting governments via malicious scripts, extensions, and the Antino implant. The post The XG Files: Falcon C2 Flying Under The (Browser) Radar appeared first on Unit 42 .",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
     {
      "title": "Detecting sleeper agents hiding in AI model neurons",
      "subtitle": "",
@@ -867,18 +828,6 @@
       "AI",
       "Phishing"
      ],
-     "also": []
-    },
-    {
-     "title": "SlippyNunchucks hijacks Sogou Input Method’s brand promotion mechanism to distribute malware",
-     "subtitle": "",
-     "link": "https://www.welivesecurity.com/en/eset-research/slippynunchucks-hijacks-sogou-input-methods-brand-promotion-mechanism-to-distribute-malware/",
-     "source": "ESET Research",
-     "published": "2026-11-04T09:55:00+00:00",
-     "date_only": false,
-     "summary": "ESET Research analyzes a DNS hijacking operation abusing insecure HTTP communications in Windows versions of Sogou Input Method",
-     "extra": "",
-     "tags": [],
      "also": []
     }
    ]
