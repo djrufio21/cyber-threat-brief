@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-11T22:49:16+00:00",
+ "generated": "2026-11-12T03:55:02+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -190,29 +190,71 @@
      "product": "SonicOS SSLVPN",
      "cve": "CVE-2026-19868",
      "also": []
-    },
-    {
-     "title": "CVE-2024-27834: Apple Multiple Products",
-     "subtitle": "Apple Multiple Products Improper Authentication Vulnerability",
-     "link": "https://nvd.nist.gov/vuln/detail/CVE-2024-27834",
-     "source": "CISA KEV",
-     "published": "2026-11-04T00:00:00+00:00",
-     "date_only": true,
-     "summary": "Apple iOS, iPadOS, macOS, Safari, tvOS and watchOS 10.5 contain an improper authentication vulnerability which could allow an attacker with arbitrary read and write capability to bypass pointer authentication.",
-     "extra": "US federal patch deadline 18 Nov",
-     "tags": [
-      "Exploited"
-     ],
-     "vendor": "Apple",
-     "product": "Multiple Products",
-     "cve": "CVE-2024-27834",
-     "also": []
     }
    ]
   },
   {
    "name": "Breaking Threats",
    "stories": [
+    {
+     "title": "Chinese AI Project Scouts Spies in Taiwan Chip Industry",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/threat-intelligence/chinese-ai-project-scouts-spies-taiwan-chip-industry",
+     "source": "Dark Reading",
+     "published": "2026-11-12T01:00:00+00:00",
+     "date_only": false,
+     "summary": "The CCP built a Big Data system to scrape reams of information and learn about individuals abroad, to potentially target and exploit them. Think Alice Huang Lite.",
+     "extra": "",
+     "tags": [
+      "AI",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Japan Pushes Emergency Funding for Cybersecurity as AI-Assisted Breaches Rise",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/cybersecurity-operations/japan-emergency-funding-cybersecurity-ai-assisted-breaches",
+     "source": "Dark Reading",
+     "published": "2026-11-12T00:00:00+00:00",
+     "date_only": false,
+     "summary": "The package adds public-private cyber responders, an AI-focused team run by the economic ministry, and more leeway to use the government's new active cyber-defense powers.",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "AI",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Baker Tilly notifies clients of data breach at third-party provider",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/",
+     "source": "BleepingComputer",
+     "published": "2026-11-11T23:01:31+00:00",
+     "date_only": false,
+     "summary": "The Baker Tilly Advisory Group is notifying clients that a data breach has compromised certain personal information about them and their dependents. [...]",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": []
+    },
+    {
+     "title": "Active ScreenConnect attacks breach MSPs, impact dozens of organizations",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
+     "source": "BleepingComputer",
+     "published": "2026-11-11T22:56:21+00:00",
+     "date_only": false,
+     "summary": "ConnectWise is investigating an active malware campaign targeting managed service providers (MSPs) that uses compromised ScreenConnect environments to deploy rogue remote-access clients to customer devices. [...]",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": []
+    },
     {
      "title": "Attackers Say 'Hello' to a Different Scale of Cloud Attack",
      "subtitle": "",
@@ -484,66 +526,58 @@
      "extra": "",
      "tags": [],
      "also": []
-    },
-    {
-     "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
-     "source": "The Hacker News",
-     "published": "2026-11-11T12:19:40+00:00",
-     "date_only": false,
-     "summary": "Of the 37,571 Grok-built apps that security company Claroc found online, 35,578 were open to anyone without a sign-in, the researchers said yesterday. They included 24 apps built by staff at the social network X and at SpaceXSI, the…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Fortinet Patches Nearly 100 Vulnerabilities",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/fortinet-patches-nearly-100-vulnerabilities/",
-     "source": "SecurityWeek",
-     "published": "2026-11-11T12:10:14+00:00",
-     "date_only": false,
-     "summary": "The massive drop comes after the company integrated frontier AI models into its product security testing. The post Fortinet Patches Nearly 100 Vulnerabilities appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html",
-     "source": "The Hacker News",
-     "published": "2026-11-11T12:01:59+00:00",
-     "date_only": false,
-     "summary": "We tell customers three things about securing AI agents: they need their own identities, access that fits the job they’re given, and traceability that’s separate from any human’s. That was true for us at Token as well. Then, we built an…",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Bay Raises $50 Million to Control What Enterprise AI Agents Can Do",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/bay-raises-50-million-to-control-what-enterprise-ai-agents-can-do/",
-     "source": "SecurityWeek",
-     "published": "2026-11-11T11:30:00+00:00",
-     "date_only": false,
-     "summary": "Founded by three ex-IDF Unit 8200 intelligence officers, Bay is launched to provide a control plane for AI agents. The post Bay Raises $50 Million to Control What Enterprise AI Agents Can Do appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
     }
    ]
   },
   {
    "name": "APAC Watch",
    "stories": [
+    {
+     "title": "Australia cyber attacks rise 39% as ransomware grows",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWHRidkhlTEhDYm8xUkgxUFpmODVlSno4Wm84TFdxY21hZzYyamRhSThlckNhcGdmSnRGN1ZXVVRBUWg4MlA1dVBQN0VuM2h6TmQ3OURZMGxXTWtkVm5WS0VLV3RINFhVaXZPMUdHMkdBZXpBdWoxTzlBekluR1hYUmxwTWxtSDg?oc=5",
+     "source": "IT Brief Australia",
+     "published": "2026-11-12T01:28:45+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Ransomware",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Potential Data Breach on Japan Post's LINE Official Account Following Unauthorized Access to Dentsu Digital Service",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1rODFnOXJENWtRQ295UnJ4SW1zOG1Ocl95eGJDYWxvRUpSU3U3Xy0zTW1qSUY0UVZuMlVQWl9VLWQ4SE4xSDZVMkdtUnlhY19Pd0NNZzhDaEQ?oc=5",
+     "source": "ASCII.jp",
+     "published": "2026-11-12T00:40:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Australia mulls tougher tech laws after AI health breach",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObm9vMDk4anZQS0xSaENMYkxzU1BoTkRNdlFMS1E3V3B3SzlUN1RYQjQxajVTc01qejBUYWJxUVNKN1phczdULWJDd1QtZzBHV1h3ajlQYnpUTFNOeWpnVnc2alJiR2RpMktUUzNxdDVpMi1UWk5MVmJmS2RMR1hWaVBYSENEYWNJVmRRaTNtT3B3R1lTb0U2eTk4b203OGlyRHU2Rm1BLWdxLVU2bE5GZF9UbEFnb2lTbVY4eGpDTUhCWnN2d3h2aVVFejc2eEpTUjhENA?oc=5",
+     "source": "The Nightly",
+     "published": "2026-11-12T00:32:45+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "AI",
+      "APAC"
+     ],
+     "also": []
+    },
     {
      "title": "South Korea’s financial cyber watchdog breached as attacks spread",
      "subtitle": "",
@@ -573,7 +607,7 @@
       "APAC"
      ],
      "also": [
-      "Yahoo"
+      "Malay Mail"
      ]
     },
     {
@@ -603,9 +637,7 @@
      "tags": [
       "APAC"
      ],
-     "also": [
-      "SRN News"
-     ]
+     "also": []
     },
     {
      "title": "Malaysia must step up vigilance against state-linked hackers — association",
@@ -622,43 +654,11 @@
      "also": []
     },
     {
-     "title": "Thailand'a PDPC investigates Thai Airways data breach affecting 65,029 passengers",
+     "title": "Singapore migrant workers’ ID numbers, home addresses at risk after Fullerton Health cyber breach",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObXpSN3d3aWxXY2Z4dURPNklnREdzNHFSaFRLXzRnc1RkVGd6WHlWbVI5cllobGVVc1F4d3ZBUy03TlRXNWZfcjRBWEl5X09NcEoyaVhWbTcwSUlRZ3JTY0J5YVdrWjROdWlvdTFIU3F2bUlCeXYzZmxoMEE3bDNla29WS3VsMjJnbEk3djAwc2Y0bWw1UTF1WEFBTFlUZDNwV1p0c25TVGVSNW1wZEw2Sk91N0pOM0d0QU5TbU4tVnV3S3BkTHZwcnE4Q09zOXVnV3oyOXNoRkk0NnpNZ09j0gFaQVVfeXFMTWZfOTh6MWZwZllweEU3dmlHZHBTWHFONUh5ZkRRV3YyS3R2OF9pMEhNb2NuMC16RU9jMG85QjJvZnlHUHdpUUZqWlpqMDA0dlg5a21BOVctZWRR?oc=5",
-     "source": "MLex",
-     "published": "2026-11-11T03:54:12+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "SPH Media is latest Singapore firm impacted by data breach, report says",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQjI3bllDSllBRGJKWWJGMUxGV0JHVThsWlgwVl96QURndWVWRzJpck5lOHpIM1NxbFdvc1JaVEx1QW04ZmVjR05TMk1mMHM2MnRmMFVfellobGhqdkh6bGRwSjk0NmRiSHZJRV9UTVlxZ0EyWFRPMHZZSkowWkkya0IxSmQtV04xbmpFZWdaWmRhZmpnSTcwd3BEb1E2dnk4cEdzcEJkY2toZjQ?oc=5",
-     "source": "The Edge Singapore",
-     "published": "2026-11-11T02:57:14+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": [
-      "Bloomberg.com"
-     ]
-    },
-    {
-     "title": "Philippines SEC confirms data breach as BIR investigates 340K record leak claims",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWUE4cDI5Tnk4SzBKMTU4bEN0YWNpeGNZeDh0QVpBQ0RNMEFWVVJMU2RuWER0NGpTZC1Gc092Uk9sako0bkpMSURhNFJBNkc1QnZyaUMzWjlnXy1oYTZwMnJOVWZJcEJKa05yMWFGZEJCMUxhN3BJZWJCckxtUXZwZkhwdm9hNVJIbU9rUHJhLXoxM1EwUFFFYTIxUEt5bTRkS0lES2p3?oc=5",
-     "source": "AMBCrypto",
-     "published": "2026-11-11T01:00:52+00:00",
+     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMFZzWUZMTnFidHYtQmdaczF5eVZnYnBSRTBrNG1xTWdvRUlSUVc1Z3ZBVjJXblF6X2JJemJUeUMyWkZVRk5OS2drMnhNZS1UemtYWWNBOFptXzlvVVFLdVZtRmFWLU5Md0R0MDNDdTJzdGt6UXhoWXRZWEFzbkdFWVRkNElSU2R0Q1l2VkRrVU5tQ2FvcEhuMWN6T0NXSzdrZmdDNXljcFpteC0waWJCMlp4ZTZMZGtjU19GbUpBODRmQmk5TXlOLXNSZjVrSTBUbzZWdkR6VGhuT3AwUExCaC16TWJ3eEpRYUHSAe8BQVVfeXFMTTFEZHhjc1VyXzNrU1dYN2NZbTRRZFJDUHF6cWR3Ums3Nm5TczFRSEVTU0h1bERGZHlqRVh3ZGVfeWFDeEtTdy10ZjRXakwzd2V2YzNEeVphQzU3U20xQnZsQTdiTGIzY21mcWJzakQ5TXlUcnQ0RmNYdWllQjNfcVRIanRBQlRuYnc0VHVEX3FyTmY1N0ktb0EyVmFNc1RHYmlGSDY2NHdFeTV0d0hSRGFBOTBVVExsRFhOWl9jMHRldl80WHBHYXI3Y1plUmJ2a1FiS293ODBjQV9DYjJ4MXJPb1dib2o1b1h0a3ZDd2s?oc=5",
+     "source": "Malay Mail",
+     "published": "2026-11-11T06:13:16+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -673,6 +673,32 @@
   {
    "name": "Threat Research",
    "stories": [
+    {
+     "title": "ARTEX and AI-Powered Red Teaming Tools: What Defenders Need to Know",
+     "subtitle": "",
+     "link": "https://unit42.paloaltonetworks.com/artex-and-ai-powered-red-teaming-tools/",
+     "source": "Unit 42",
+     "published": "2026-11-11T23:00:53+00:00",
+     "date_only": false,
+     "summary": "Learn what Unit 42 discovered about attacker use of AI-powered red team tools, and how to mitigate these attacks. The post ARTEX and AI-Powered Red Teaming Tools: What Defenders Need to Know appeared first on Unit 42 .",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "The global socket: how threat actors are weaponizing GSocket for stealthy C2",
+     "subtitle": "",
+     "link": "https://www.microsoft.com/en-us/security/blog/2026/11/11/global-socket-how-threat-actors-weaponizing-gsocket-stealthy-c2/",
+     "source": "Microsoft Threat Intelligence",
+     "published": "2026-11-11T19:49:57+00:00",
+     "date_only": false,
+     "summary": "Threat actors are deploying GSocket on compromised Linux servers to keep encrypted remote access after the original vulnerability is patched. Learn how to detect, investigate, and remediate this activity. The post The global socket: how…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
     {
      "title": "The XG Files: Falcon C2 Flying Under The (Browser) Radar",
      "subtitle": "",
@@ -852,33 +878,69 @@
    "name": "Government Advisories",
    "stories": [
     {
+     "title": "Google Chrome Multiple Vulnerabilities",
+     "subtitle": "",
+     "link": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20261112",
+     "source": "HKCERT",
+     "published": "2026-11-12T03:00:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Mozilla Products Multiple Vulnerabilities",
+     "subtitle": "",
+     "link": "https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20261112",
+     "source": "HKCERT",
+     "published": "2026-11-12T03:00:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Node.js Multiple Vulnerabilities",
+     "subtitle": "",
+     "link": "https://www.hkcert.org/security-bulletin/node-js-multiple-vulnerabilities_20261112",
+     "source": "HKCERT",
+     "published": "2026-11-12T02:00:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Citrix XenServer Multiple Vulnerabilities",
+     "subtitle": "",
+     "link": "https://www.hkcert.org/security-bulletin/citrix-xenserver-multiple-vulnerabilities_20261112",
+     "source": "HKCERT",
+     "published": "2026-11-12T01:00:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Ubuntu Linux Kernel Multiple Vulnerabilities",
+     "subtitle": "",
+     "link": "https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20261111",
+     "source": "HKCERT",
+     "published": "2026-11-12T01:00:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
      "title": "Adobe Monthly Security Update (November 2026)",
      "subtitle": "",
      "link": "https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-november-2026",
-     "source": "HKCERT",
-     "published": "2026-11-11T03:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Fortinet Products Multiple Vulnerabilities",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/fortinet-products-multiple-vulnerabilities_20261111",
-     "source": "HKCERT",
-     "published": "2026-11-11T03:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "MongoDB Multiple Vulnerabilities",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/mongodb-multiple-vulnerabilities_20261111",
      "source": "HKCERT",
      "published": "2026-11-11T03:00:00+00:00",
      "date_only": false,
@@ -899,66 +961,6 @@
      "tags": [
       "Exploited"
      ],
-     "also": []
-    },
-    {
-     "title": "Google Chrome Multiple Vulnerabilities",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20261110",
-     "source": "HKCERT",
-     "published": "2026-11-10T03:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Mozilla Firefox Multiple Vulnerabilities",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/mozilla-firefox-multiple-vulnerabilities_20261110",
-     "source": "HKCERT",
-     "published": "2026-11-10T03:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Veeam Products Denial of Service Vulnerability",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/veeam-products-denial-of-service-vulnerability_20261109",
-     "source": "HKCERT",
-     "published": "2026-11-09T03:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "SonicWall SonicOS Multiple Vulnerabilities",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/sonicwall-sonicos-sslvpn-security-restriction-bypass-vulnerability_20261109",
-     "source": "HKCERT",
-     "published": "2026-11-09T02:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "ModSecurity Security Restriction Bypass Vulnerability",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/modsecurity-security-restriction-bypass-vulnerability_20261109",
-     "source": "HKCERT",
-     "published": "2026-11-09T01:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
      "also": []
     }
    ]
