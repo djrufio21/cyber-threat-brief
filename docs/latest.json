@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-12T12:56:30+00:00",
+ "generated": "2026-11-12T20:56:12+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -197,6 +197,301 @@
    "name": "Breaking Threats",
    "stories": [
     {
+     "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/",
+     "source": "BleepingComputer",
+     "published": "2026-11-12T20:15:16+00:00",
+     "date_only": false,
+     "summary": "Microsoft is investigating a widespread outage affecting multiple Microsoft 365 services, including Outlook, Microsoft Teams, and Copilot, as users report connectivity problems worldwide. [...]",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "Extortion Group Luna Moth Flits Into Law Firms a Second Time",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/data-privacy/extortion-luna-moth-law-firms-second-time",
+     "source": "Dark Reading",
+     "published": "2026-11-12T20:09:41+00:00",
+     "date_only": false,
+     "summary": "The cybercriminals are re-targeting law firms that refused to pay its first ransom, with a social engineering con aimed at stealing Microsoft access tokens.",
+     "extra": "",
+     "tags": [
+      "Ransomware"
+     ],
+     "also": []
+    },
+    {
+     "title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
+     "source": "BleepingComputer",
+     "published": "2026-11-12T19:51:16+00:00",
+     "date_only": false,
+     "summary": "Hackers are actively exploiting a newly disclosed N-able N-central zero-day vulnerability dubbed \"4EverAble2Shell\" to compromise servers and deploy cryptocurrency miners, with researchers reporting at least 21 affected systems, including…",
+     "extra": "",
+     "tags": [
+      "Zero-day"
+     ],
+     "also": []
+    },
+    {
+     "title": "United to block customers from using AI agents, citing cyber threats",
+     "subtitle": "",
+     "link": "https://therecord.media/united-airlines-to-block-customers-using-ai-agents",
+     "source": "The Record",
+     "published": "2026-11-12T19:20:00+00:00",
+     "date_only": false,
+     "summary": "“Sharing account credentials with personal, third-party, AI assistants can expose sensitive information, and actions taken by these tools may result in unintended purchases\" and more, United Airlines said.",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
+     "source": "BleepingComputer",
+     "published": "2026-11-12T19:12:55+00:00",
+     "date_only": false,
+     "summary": "A critical vulnerability in the HTTP/2 module of Apache HTTP Server could be exploited by an unauthenticated attacker to obtain remote code execution (RCE). [...]",
+     "extra": "",
+     "tags": [
+      "Exploited"
+     ],
+     "also": [
+      "SecurityWeek",
+      "The Hacker News"
+     ]
+    },
+    {
+     "title": "Shipping giant Maersk says recent cyber incident affected legacy system",
+     "subtitle": "",
+     "link": "https://therecord.media/shipping-giant-maersk-says-recent-incident-affected-legacy-system",
+     "source": "The Record",
+     "published": "2026-11-12T18:28:00+00:00",
+     "date_only": false,
+     "summary": "The incident is the latest in a string of attacks on ports and other shipping organizations worldwide, with Brazil’s largest port hit with ransomware last week.",
+     "extra": "",
+     "tags": [
+      "Ransomware"
+     ],
+     "also": []
+    },
+    {
+     "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
+     "source": "The Hacker News",
+     "published": "2026-11-12T18:07:15+00:00",
+     "date_only": false,
+     "summary": "Security teams have more alerts, logs, and monitoring tools than ever. Yet when an attack happens, one simple question can still take too long to answer: Who or what is behind this activity, and what can they access? A suspicious login…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html",
+     "source": "The Hacker News",
+     "published": "2026-11-12T18:02:51+00:00",
+     "date_only": false,
+     "summary": "A search result isn't always safe. An access request isn't always harmless. And a familiar account doesn't always mean a familiar person is using it. Simple things to remember. Yet a surprising amount of this week's trouble starts right…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html",
+     "source": "The Hacker News",
+     "published": "2026-11-12T17:50:27+00:00",
+     "date_only": false,
+     "summary": "Public exploit code released earlier this week claims that a local Windows user can gain SYSTEM privileges through the Common Log File System driver. The proof of concept, called SignDrop, targets a log-authentication feature added to the…",
+     "extra": "",
+     "tags": [
+      "Zero-day"
+     ],
+     "also": [
+      "BleepingComputer"
+     ]
+    },
+    {
+     "title": "Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html",
+     "source": "The Hacker News",
+     "published": "2026-11-12T16:27:01+00:00",
+     "date_only": false,
+     "summary": "A critical flaw in Red Hat Quay allows an attacker who can access a Quay registry to read and overwrite private container images in every repository. Quay enables anonymous access by default, and while it is enabled, the attacker needs no…",
+     "extra": "",
+     "tags": [],
+     "also": [
+      "SecurityWeek"
+     ]
+    },
+    {
+     "title": "European authorities take down SteaIC malware servers for second time this year",
+     "subtitle": "",
+     "link": "https://therecord.media/european-authorities-take-down-stealic-malware-second-time",
+     "source": "The Record",
+     "published": "2026-11-12T16:21:00+00:00",
+     "date_only": false,
+     "summary": "German authorities on Thursday said investigators traced the rebuilt network to the Virtualine bulletproof hosting provider, seized by the FBI in October, with the assistance of police in Frankfurt and the Dutch National High Tech Crime…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "ConnectWise investigates ScreenConnect breaches after reports of incidents at nearly 50 organizations",
+     "subtitle": "",
+     "link": "https://therecord.media/connectwise-screenconnect-breaches-third-party-tool",
+     "source": "The Record",
+     "published": "2026-11-12T16:16:00+00:00",
+     "date_only": false,
+     "summary": "Abuse of an independent third-party tool led to breaches at ScreenConnect customers, confirmed the software's maker, ConnectWise. Cybersecurity researchers had spotted intrusions at nearly 50.",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": []
+    },
+    {
+     "title": "Citrix Patches 12 NetScaler and Secure Access Client Flaws, Including Authentication Bypass",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html",
+     "source": "The Hacker News",
+     "published": "2026-11-12T15:38:49+00:00",
+     "date_only": false,
+     "summary": "Citrix has released patches for multiple critical security flaws impacting NetScaler ADC, Citrix NetScaler Gateway, and NetScaler Console that could lead to denial-of-service (DoS) or an authentication bypass. The critical vulnerabilities…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "186 Fake AI Domains Redirect Users to ClickFix Lures, Browser Malware, and Search Hijackers",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html",
+     "source": "The Hacker News",
+     "published": "2026-11-12T15:15:40+00:00",
+     "date_only": false,
+     "summary": "Cybersecurity researchers have found that lookalike domains masquerading as artificial intelligence (AI) tools are being used to serve ClickFix-style lures, browser-hijacking malware, and a set of extensions that hijack user searches. This…",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "Police dismantle Gootloader, CastleRAT, StealC malware infrastructure",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/",
+     "source": "BleepingComputer",
+     "published": "2026-11-12T15:07:20+00:00",
+     "date_only": false,
+     "summary": "Europol and law enforcement partners from nine countries have seized hundreds of servers and domains used by the Gootloader, CastleRAT, and StealC malware operations. [...]",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Your Endpoint Management Platform Could Be Your Biggest Security Risk",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/your-endpoint-management-platform-could-be-your-biggest-security-risk/",
+     "source": "BleepingComputer",
+     "published": "2026-11-12T15:00:10+00:00",
+     "date_only": false,
+     "summary": "Endpoint management platforms can become powerful attack tools when compromised, allowing hackers to deploy malware, execute commands, and disrupt thousands of devices. Action1 explains how customer-controlled cryptographic authorization…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Hijacked email accounts complicate investigations into European bomb hoaxes",
+     "subtitle": "",
+     "link": "https://therecord.media/europe-hoax-email-threats",
+     "source": "The Record",
+     "published": "2026-11-12T14:45:00+00:00",
+     "date_only": false,
+     "summary": "Bomb threats sent to thousands of schools across Europe this week came from a compromised email account at a Taiwanese university, the latest incident in a series of hoax threats that have targeted airports and newsrooms using messages…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Apify rotates API tokens, prompts 2FA resets after breach",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/apify-rotates-api-tokens-prompts-2fa-resets-after-breach/",
+     "source": "BleepingComputer",
+     "published": "2026-11-12T14:36:47+00:00",
+     "date_only": false,
+     "summary": "Apify has rotated critical internal secrets and revoked some third-party OAuth connections after detecting unauthorized access to its internal systems. [...]",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": []
+    },
+    {
+     "title": "Chrome, Firefox Updates Patch Over 180 Vulnerabilities",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/chrome-firefox-updates-patch-180-vulnerabilities/",
+     "source": "SecurityWeek",
+     "published": "2026-11-12T13:42:09+00:00",
+     "date_only": false,
+     "summary": "Google fixed 83 flaws with a new Chrome 157 release, and Mozilla addressed 99 bugs in Firefox 160. The post Chrome, Firefox Updates Patch Over 180 Vulnerabilities appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Attacker Targets 60,000 GitHub Repositories in Credential Theft Campaign",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/attacker-targets-60000-github-repositories-in-credential-theft-campaign/",
+     "source": "SecurityWeek",
+     "published": "2026-11-12T13:39:03+00:00",
+     "date_only": false,
+     "summary": "Using thousands of hijacked accounts, the wfx-loot campaign planted a CI secret stealer that ran in over 1,800 GitHub repositories. The post Attacker Targets 60,000 GitHub Repositories in Credential Theft Campaign appeared first on…",
+     "extra": "",
+     "tags": [
+      "Phishing"
+     ],
+     "also": []
+    },
+    {
+     "title": "Daylight Lands $80 Million for AI-Powered Security Operations",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/daylight-lands-80-million-for-ai-powered-security-operations/",
+     "source": "SecurityWeek",
+     "published": "2026-11-12T13:12:11+00:00",
+     "date_only": false,
+     "summary": "The company plans to accelerate product development, hire new talent, expand its US presence, and enter new markets. The post Daylight Lands $80 Million for AI-Powered Security Operations appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "SCKit Malware Turns ScreenConnect Support Sessions Into Potential MSP Attack Paths",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/sckit-malware-targets-screenconnect.html",
+     "source": "The Hacker News",
+     "published": "2026-11-12T13:08:28+00:00",
+     "date_only": false,
+     "summary": "The ongoing campaign targeting ConnectWise ScreenConnect deployments involves the exploitation of a now-patched critical security flaw in the remote access software, and not a new vulnerability, it has emerged. Blackpoint Cyber's Adversary…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
      "title": "Microsoft: Recent Windows updates cause SQL Server performance issues",
      "subtitle": "",
      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-sql-server-performance-issues/",
@@ -223,18 +518,6 @@
      "also": []
     },
     {
-     "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
-     "source": "The Hacker News",
-     "published": "2026-11-12T12:02:51+00:00",
-     "date_only": false,
-     "summary": "Security teams have more alerts, logs, and monitoring tools than ever. Yet when an attack happens, one simple question can still take too long to answer: Who or what is behind this activity, and what can they access? A suspicious login…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
      "title": "New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access",
      "subtitle": "",
      "link": "https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html",
@@ -245,289 +528,6 @@
      "extra": "",
      "tags": [],
      "also": []
-    },
-    {
-     "title": "Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html",
-     "source": "The Hacker News",
-     "published": "2026-11-12T11:51:31+00:00",
-     "date_only": false,
-     "summary": "Since mid-August 2026, a phishing operation has been stealing live Google sessions from corporate users. Every check defenders normally lean on to judge a link came back clean, and the operator designed it that way on purpose. The Threat…",
-     "extra": "",
-     "tags": [
-      "Phishing"
-     ],
-     "also": []
-    },
-    {
-     "title": "PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html",
-     "source": "The Hacker News",
-     "published": "2026-11-12T11:33:15+00:00",
-     "date_only": false,
-     "summary": "PTC has released patches for a new critical vulnerability impacting Windchill and FlexPLM software that, if successfully exploited, could result in remote code execution. The security flaw, tracked as CVE-2026-126325, carries a CVSS v4…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Notion Customer Data Compromised in Fireworks AI Hack",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/notion-customer-data-compromised-in-fireworks-ai-hack/",
-     "source": "SecurityWeek",
-     "published": "2026-11-12T11:08:52+00:00",
-     "date_only": false,
-     "summary": "The attackers accessed chat transcripts for fewer than 1% of Notion workspaces. Most transcripts were unattributable. The post Notion Customer Data Compromised in Fireworks AI Hack appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Inside an AI Attack Against a US Retailer",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/cyberattacks-data-breaches/inside-ai-attack-us-retailer",
-     "source": "Dark Reading",
-     "published": "2026-11-12T11:00:00+00:00",
-     "date_only": false,
-     "summary": "When hand-typed commands failed to breach a US retailer, the attacker turned to AI-generated scripts, achieving lateral movement in minutes.",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Hackers Deploy Malware in Fresh ScreenConnect Campaign",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/hackers-deploy-malware-in-fresh-screenconnect-campaign/",
-     "source": "SecurityWeek",
-     "published": "2026-11-12T10:39:34+00:00",
-     "date_only": false,
-     "summary": "The attackers exploited a vulnerability in a legitimate extension to bypass ScreenConnect authentication. The post Hackers Deploy Malware in Fresh ScreenConnect Campaign appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Hackers Target N-central Zero-Days as N-able Rushes Patches",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/hackers-target-n-central-zero-days-as-n-able-rushes-patches/",
-     "source": "SecurityWeek",
-     "published": "2026-11-12T09:39:55+00:00",
-     "date_only": false,
-     "summary": "The malicious activity started shortly after a researcher dropped over 30 zero-days. N-able patched the unauthenticated ones. The post Hackers Target N-central Zero-Days as N-able Rushes Patches appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [
-      "Zero-day"
-     ],
-     "also": []
-    },
-    {
-     "title": "Hackers plant GSocket on Linux servers for persistent access",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/hackers-plant-gsocket-on-linux-servers-for-persistent-access/",
-     "source": "BleepingComputer",
-     "published": "2026-11-12T09:38:00+00:00",
-     "date_only": false,
-     "summary": "Multiple threat actors are abusing GSocket, a legitimate open-source remote access tool, to maintain access to Linux servers even after patching the vulnerabilities exploited to gain initial access. [...]",
-     "extra": "",
-     "tags": [
-      "Exploited"
-     ],
-     "also": []
-    },
-    {
-     "title": "Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html",
-     "source": "The Hacker News",
-     "published": "2026-11-12T09:25:00+00:00",
-     "date_only": false,
-     "summary": "A critical flaw in MongoDB Server allows an unauthenticated attacker to send two requests that trigger a crash on the database server. The crash occurs only if that server is later chosen to take over as the main server while it still…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Critical Red Hat Quay Vulnerability Could Expose Private Container Images",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/critical-red-hat-quay-vulnerability-could-expose-private-container-images/",
-     "source": "SecurityWeek",
-     "published": "2026-11-12T09:23:21+00:00",
-     "date_only": false,
-     "summary": "Attackers could exploit a critical Red Hat Quay flaw to steal private container images, overwrite repositories and maintain persistent access. The post Critical Red Hat Quay Vulnerability Could Expose Private Container Images appeared…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Maersk Confirms Data Theft Amid $5 Million Extortion Attempt",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/maersk-confirms-data-theft-amid-5-million-extortion-attempt/",
-     "source": "SecurityWeek",
-     "published": "2026-11-12T08:38:47+00:00",
-     "date_only": false,
-     "summary": "The WhiteArmor ransomware group claims it stole 100GB of data from the shipping giant’s systems. The post Maersk Confirms Data Theft Amid $5 Million Extortion Attempt appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [
-      "Ransomware",
-      "Breach"
-     ],
-     "also": [
-      "BleepingComputer"
-     ]
-    },
-    {
-     "title": "Node.js Fixes 16 Flaws, Including HTTP/2 Bugs That Crash Servers and Leak Other Connections' Data",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html",
-     "source": "The Hacker News",
-     "published": "2026-11-12T08:20:37+00:00",
-     "date_only": false,
-     "summary": "A flaw fixed in Node.js this week lets unauthenticated clients crash servers that use the runtime's built-in HTTP/2 support on the 24.x and 26.x release lines. A second HTTP/2 flaw can cause a server to send a client pieces of its memory…",
-     "extra": "",
-     "tags": [
-      "Breach"
-     ],
-     "also": []
-    },
-    {
-     "title": "Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html",
-     "source": "The Hacker News",
-     "published": "2026-11-12T06:42:47+00:00",
-     "date_only": false,
-     "summary": "Starting Tuesday, an attacker used stolen credentials for 4,837 GitHub accounts to plant a secret stealer in repositories those accounts could write to, according to Aikido Security, a security software company. The stealer is built to…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html",
-     "source": "The Hacker News",
-     "published": "2026-11-12T05:12:26+00:00",
-     "date_only": false,
-     "summary": "A critical flaw in Apache HTTP Server's HTTP/2 module, mod_http2, can let a remote attacker run code on the server. Tracked as CVE-2026-119618, it affects versions 2.4.55 through 2.4.70 and is fixed in version 2.4.71, released yesterday…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html",
-     "source": "The Hacker News",
-     "published": "2026-11-12T04:39:48+00:00",
-     "date_only": false,
-     "summary": "ConnectWise has taken the precautionary step of disabling five third-party extensions in partner environments following reports of unauthorized access. In an advisory posted on its site, the company said there is no evidence that the…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Chinese AI Project Scouts Spies in Taiwan Chip Industry",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/threat-intelligence/chinese-ai-project-scouts-spies-taiwan-chip-industry",
-     "source": "Dark Reading",
-     "published": "2026-11-12T01:00:00+00:00",
-     "date_only": false,
-     "summary": "The CCP built a Big Data system to scrape reams of information and learn about individuals abroad, to potentially target and exploit them. Think Alice Huang Lite.",
-     "extra": "",
-     "tags": [
-      "AI",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Japan Pushes Emergency Funding for Cybersecurity as AI-Assisted Breaches Rise",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/cybersecurity-operations/japan-emergency-funding-cybersecurity-ai-assisted-breaches",
-     "source": "Dark Reading",
-     "published": "2026-11-12T00:00:00+00:00",
-     "date_only": false,
-     "summary": "The package adds public-private cyber responders, an AI-focused team run by the economic ministry, and more leeway to use the government's new active cyber-defense powers.",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "AI",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Baker Tilly notifies clients of data breach at third-party provider",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/baker-tilly-notifies-clients-of-data-breach-at-third-party-provider/",
-     "source": "BleepingComputer",
-     "published": "2026-11-11T23:01:31+00:00",
-     "date_only": false,
-     "summary": "The Baker Tilly Advisory Group is notifying clients that a data breach has compromised certain personal information about them and their dependents. [...]",
-     "extra": "",
-     "tags": [
-      "Breach"
-     ],
-     "also": []
-    },
-    {
-     "title": "Active ScreenConnect attacks breach MSPs, impact dozens of organizations",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/active-screenconnect-attacks-breach-msps-impact-dozens-of-organizations/",
-     "source": "BleepingComputer",
-     "published": "2026-11-11T22:56:21+00:00",
-     "date_only": false,
-     "summary": "ConnectWise is investigating an active malware campaign targeting managed service providers (MSPs) that uses compromised ScreenConnect environments to deploy rogue remote-access clients to customer devices. [...]",
-     "extra": "",
-     "tags": [
-      "Breach"
-     ],
-     "also": []
-    },
-    {
-     "title": "Attackers Say 'Hello' to a Different Scale of Cloud Attack",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/cloud-security/attackers-hello-scale-cloud-attack",
-     "source": "Dark Reading",
-     "published": "2026-11-11T21:44:04+00:00",
-     "date_only": false,
-     "summary": "Researchers dubbed an attack chain \"Greeter\" after discovering that attackers deliberately covered their trail by leaving \"hello\" messages in logs.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "eMudhra revokes 8 more CA certificates after private key mishap",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/emudhra-revokes-8-more-ca-certificates-after-private-key-mishap/",
-     "source": "BleepingComputer",
-     "published": "2026-11-11T21:27:40+00:00",
-     "date_only": false,
-     "summary": "Certificate authority eMudhra has revoked eight additional intermediate CA certificates after an investigation into its recent certificate security incident found improper handling of private keys during the certificate-generation process…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "AI Raises the Stakes for Cyber Resilience",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/cyber-risk/ai-raises-stakes-cyber-resilience",
-     "source": "Dark Reading",
-     "published": "2026-11-11T21:20:41+00:00",
-     "date_only": false,
-     "summary": "An organization's ability to quickly recover from a business disruption will be a competitive advantage in an era of AI-driven threats and business enablement.",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
     }
    ]
   },
@@ -535,7 +535,50 @@
    "name": "APAC Watch",
    "stories": [
     {
-     "title": "South Korea’s FSI Reports Data Breach After Cyberattack",
+     "title": "Ransomware Without Data Theft Can Still Trigger Mandatory Breach Reporting Under India’s DPDP Law: K7 CyberSecurity",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNREI1LTBiV0tGNVFBOHlBUjhtbVBHUDhoaHBGMk9uanliZ1c2d1ZaaHp1dFV0LXhxN0FfeXJPblF1c0ZhX2pQT19faUlUSzZ6ZEhKY2dYNXB5MnNIS3lLUmRJeVVxR0Rjc2FPZHU0SkRsS2hzTzY0TzU3ZzFobVExOXNKdjlubFZLTGhfQTlJRXJlRzIzbVhZY1VReTNkU3gwUk9kaHlxVDVWc2lMX1ZoRlo0X0JxTmFFNlpaRm5uZ1ZPRDVvb044TnFqQWtJYjRTUGYtZmJtMmZNbnRlRm12VEtTaw?oc=5",
+     "source": "CXOToday.com",
+     "published": "2026-11-12T20:18:45+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Ransomware",
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Local Malware Threats on Indian SMB Devices and USB Drives Surge 78% : Kaspersky H1 2026 Report",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQV05SVUhta2xMMXlkN3ZyMk96bHZjeTF2VkVnMVFPb2xrd1ExSlZ5b1VoUWV2ZlNGRDBtOGV3X0UzRm1jMkJidGlSaUs0dDBsRFAzaTluRTctdkstVmRQZ2otRXlMZ3VPUVBMSTFNR1VaRUtuT3pTWk9ESHdvX3BldUtjSEZ4X0dqM1FCczdJb0ZrQjZxXzhqV0p6a1FqcHZQV29zcWxCaDdaRXhpUlVIa3JOc3AyTEpSQ1hxYUxTb2c4OTQ5OExR?oc=5",
+     "source": "CXOToday.com",
+     "published": "2026-11-12T14:54:27+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Kazakhstan-linked hackers used AI agent to spy on Central Asian governments",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BMmQxVW5YQU93REtjT2NDd0twSGNYbjFZVmY3cXNmS1lwT3ItUXJwMHpJNGl4aXpZNHJBRl82UHBvTHp1Vm1obFY3WXhtN1h5cFktSFR5cTQzeEN6eTJUOXFGTzlCdw?oc=5",
+     "source": "The Record from Recorded Future News",
+     "published": "2026-11-12T13:10:08+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "AI",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "South Korea’s Financial Security Institute reports data breach exposing personal information",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9UQ3JOMjhyNVpycWJTb3VMV284N3dhWUpJV09UamJ4WUtiSWU4VVZtd1FvYWhaZURLbzJwVWV4empLeVpBZ0NETkpaTGZxNmpKQ2kwbnp6Qk5HYVA5RVZyUlBZc2t6QVVmc1pyc29vNTlJRWc?oc=5",
      "source": "Digital Watch Observatory",
@@ -547,16 +590,14 @@
       "Breach",
       "APAC"
      ],
-     "also": [
-      "BigGo Finance"
-     ]
+     "also": []
     },
     {
-     "title": "Muji operator apologizes for data breach | NHK WORLD-JAPAN News",
+     "title": "Why data breaches are surging in Singapore, and why firms owe victims more than an apology",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9SWnRRQmZORC1KMTE0dGlkQTZtTVBvREhna2ZGM3pJNXFyNlVmbGNWRXU2Mk4tRy1IYTVFR3V3cE9YeGgyT25XandZM1lqV2w4MmkwcWhjUFZlcUJqcmRSd2I0QQ?oc=5",
-     "source": "NHKニュース",
-     "published": "2026-11-12T11:31:35+00:00",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQTR6Wm0yUy1KLUFOY0NOWXFscUZFazZ5a1M4NWlfQVVkWWVTMEp6MUk5NldVNU9EV2FSdWZTZWpfcFpwcGVYTGx0YW5wMWlWSEU3UVZJTl9wRkNrNTFSTjZwYmRZeGFkelZES1hua19wdm1pWldLSVVmLTRuQTBJdTU5S2o5MEFCMzhLZURrTllGcEVzQnBZNy0wTm5qekFabTdaQXY2cU1jUmJFZ0VOeHpnMGQ5cFJEVWl2YzRR?oc=5",
+     "source": "The Business Times",
+     "published": "2026-11-12T11:43:00+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -567,9 +608,9 @@
      "also": []
     },
     {
-     "title": "Hackers strike Thailand as airlines and banks’ Data are targeted | The Next Move EP.39",
+     "title": "Video Hackers strike Thailand as airlines and banks’ Data are targeted | The Next Move EP.39",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE11QzhKaUhrc1NJZ1dWX1hneEx2dVdidWJQdks1YWUwRWNmX1p2eU1YcXFnZmVpZE9HTWNHM3RvYkV3WVg0SWI4emFSb1hQTk5lbk9tSi1aa3prREc2UURSNzZkQjMzaE9X?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KQlF5aTZVR2MtS0hNVnFvNGVUYzRBcnhLTUYtN01vdlNjNlozMHo5U3VXaVBfNkptU25TOGM1LThZd01SUXhHeTJSbXpYcDM4eGJNOWZFbkRSbjE4?oc=5",
      "source": "Nation Thailand",
      "published": "2026-11-12T09:31:00+00:00",
      "date_only": false,
@@ -590,6 +631,21 @@
      "summary": "",
      "extra": "",
      "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Muji operator apologizes for data breach | NHK WORLD-JAPAN News",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9SWnRRQmZORC1KMTE0dGlkQTZtTVBvREhna2ZGM3pJNXFyNlVmbGNWRXU2Mk4tRy1IYTVFR3V3cE9YeGgyT25XandZM1lqV2w4MmkwcWhjUFZlcUJqcmRSd2I0QQ?oc=5",
+     "source": "NHKニュース",
+     "published": "2026-11-12T08:32:35+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
       "APAC"
      ],
      "also": []
@@ -654,6 +710,35 @@
      "also": []
     },
     {
+     "title": "Cyberattacks hit a third of Japan firms or their service providers this year: Reuters poll, Asia News",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbzFwd3RGQU0xZ2xLaFNwSG9vbm5tR0pRV1VlWlVHZGpLRUh0bm5yNU4xYU1IalRUMDZqb3JxNFhpUHA1VmV5eTdtVU1BRUdEdUtpYXJiQW0ySklnNUVya0lOMHAtSmI2WmJsUkc2TXhfQ19yS3R0ZTJNRWtvcmtCd3dwS3NWMm5lc2VqNVpuaFlWLTBVa3dhakdRNVNTTExqZHZTdEJ4SEE2NXN2?oc=5",
+     "source": "AsiaOne.com",
+     "published": "2026-11-12T03:05:31+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "South Korea's Samyang Group Units Fined approximately $410,000 Over Data Breach Affecting 150,000 People",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SbFk5TmQ1NVFQYUc4aWJ1M0QzVWx5Y0Y3RDBDTjJzd3pVVnNQVWxERDJyeXhJT05oaE4zMWU5dVVfaktXOTlkRDR4NXJWQ28xSUk1cVU4NC1jU2lhbTFvbE05bTFIbWVFZlVsS2hwTnBBcGJGTWc?oc=5",
+     "source": "BigGo Finance",
+     "published": "2026-11-12T01:35:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
      "title": "Australia cyber attacks rise 39% as ransomware grows",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWHRidkhlTEhDYm8xUkgxUFpmODVlSno4Wm84TFdxY21hZzYyamRhSThlckNhcGdmSnRGN1ZXVVRBUWg4MlA1dVBQN0VuM2h6TmQ3OURZMGxXTWtkVm5WS0VLV3RINFhVaXZPMUdHMkdBZXpBdWoxTzlBekluR1hYUmxwTWxtSDg?oc=5",
@@ -667,42 +752,66 @@
       "APAC"
      ],
      "also": []
-    },
-    {
-     "title": "Potential Data Breach on Japan Post's LINE Official Account Following Unauthorized Access to Dentsu Digital Service",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1rODFnOXJENWtRQ295UnJ4SW1zOG1Ocl95eGJDYWxvRUpSU3U3Xy0zTW1qSUY0UVZuMlVQWl9VLWQ4SE4xSDZVMkdtUnlhY19Pd0NNZzhDaEQ?oc=5",
-     "source": "ASCII.jp",
-     "published": "2026-11-12T00:40:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "South Korea’s financial cyber watchdog breached as attacks spread",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE40TzdIRUVhX3dnWW0wZmJkMWFsaEZ1MFJsMTNnN21qSUk1UUMtd2l0d1l5akt1LUI3QU1kZnJvSkJRVlhyX2xtVy15bktYX29vWVAyZ2ROMzRoUzhSakRuSGwxMF9hWWdzeVpteDhKZXJrRmNlVHRLcndR?oc=5",
-     "source": "Cryptopolitan",
-     "published": "2026-11-11T13:10:23+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
     }
    ]
   },
   {
    "name": "Threat Research",
    "stories": [
+    {
+     "title": "Never be afraid to ask questions",
+     "subtitle": "",
+     "link": "https://blog.talosintelligence.com/never-be-afraid-to-ask-questions/",
+     "source": "Cisco Talos",
+     "published": "2026-11-12T19:00:00+00:00",
+     "date_only": false,
+     "summary": "Amy reflects on a formative college anthropology course that taught her the power of asking questions to bridge cultural gaps.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Trained to betray: How post-training supply chain attacks hijack coding agents",
+     "subtitle": "",
+     "link": "https://www.microsoft.com/en-us/security/blog/2026/11/12/trained-to-betray-how-post-training-supply-chain-attacks-hijack-coding-agents/",
+     "source": "Microsoft Threat Intelligence",
+     "published": "2026-11-12T17:00:00+00:00",
+     "date_only": false,
+     "summary": "Microsoft Defender Research and the AI Red Team discuss how poisoned datasets and poisoned model checkpoints can trigger remote code execution and other malicious activities. The post Trained to betray: How post-training supply chain…",
+     "extra": "",
+     "tags": [
+      "Supply chain",
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "Attackers Use Autonomous AI to Target Semiconductor, Defense and Civil Society Sectors",
+     "subtitle": "",
+     "link": "https://unit42.paloaltonetworks.com/cairn-framework-ai-autonomous-attacks/",
+     "source": "Unit 42",
+     "published": "2026-11-12T15:00:31+00:00",
+     "date_only": false,
+     "summary": "Our analysis of how attackers used the open-source Cairn AI agent framework to autonomously breach semiconductor, defense and civic targets. The post Attackers Use Autonomous AI to Target Semiconductor, Defense and Civil Society Sectors…",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "PHP2Shell Exploitation on Check Point Gateway",
+     "subtitle": "",
+     "link": "https://research.checkpoint.com/2026/php2shell-exploitation-on-check-point-gateway/",
+     "source": "Check Point Research",
+     "published": "2026-11-12T13:56:37+00:00",
+     "date_only": false,
+     "summary": "Key findings Introduction We have now confirmed that, in late October 2026, approximately one week after a security fix became available, activity originating from 130.94.19[.]204 targeted Israeli organizations through vulnerable Mobile…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
     {
      "title": "ARTEX and AI-Powered Red Teaming Tools: What Defenders Need to Know",
      "subtitle": "",
@@ -846,67 +955,60 @@
       "AI"
      ],
      "also": []
-    },
-    {
-     "title": "Bring a tent, I've got the coffee: Lessons from it-sa",
-     "subtitle": "",
-     "link": "https://blog.talosintelligence.com/bring-a-tent-ive-got-the-coffee-lessons-from-it-sa/",
-     "source": "Cisco Talos",
-     "published": "2026-11-05T19:00:00+00:00",
-     "date_only": false,
-     "summary": "Thorsten may have had to camp out in Nuremberg to attend it-sa, but the real story is the initiative to add a formal IT Security apprenticeship program in Germany for the thousands of young hackers ready to join our side.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Hacking on Autopilot: Inside ARTEX Cybercrime Campaigns",
-     "subtitle": "",
-     "link": "https://research.checkpoint.com/2026/hacking-on-autopilot-inside-artex-cybercrime-campaigns/",
-     "source": "Check Point Research",
-     "published": "2026-11-05T17:22:06+00:00",
-     "date_only": false,
-     "summary": "Key Points Introduction ARTEX is a Chinese open-source, AI-powered penetration testing platform designed to help security teams assess systems they own or are authorized to test. It uses large language models (LLMs) to coordinate multiple…",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Email threat landscape: Q3 2026 trends and insights",
-     "subtitle": "",
-     "link": "https://www.microsoft.com/en-us/security/blog/2026/11/05/email-threat-landscape-q3-2026-trends-and-insights/",
-     "source": "Microsoft Threat Intelligence",
-     "published": "2026-11-05T16:00:00+00:00",
-     "date_only": false,
-     "summary": "Microsoft Threat Intelligence observed a sharp rise in email-based phishing activity at the end of Q3 2026 (July – September), even as QR code phishing declined, CAPTCHA-gated phishing recovered, and malicious messages spoofing familiar…",
-     "extra": "",
-     "tags": [
-      "Phishing"
-     ],
-     "also": []
-    },
-    {
-     "title": "ChatGPT Lockdown Mode Bypass: Phishing, Malware Delivery, and Silent Data Exfiltration",
-     "subtitle": "",
-     "link": "https://research.checkpoint.com/2026/chatgpt-lockdown-mode-bypass-phishing-malware-delivery-and-silent-data-exfiltration/",
-     "source": "Check Point Research",
-     "published": "2026-11-05T14:00:11+00:00",
-     "date_only": false,
-     "summary": "Research by: Alexey Bukhteyev Key Takeaways Introduction Earlier this year, Check Point Research disclosed a security flaw in ChatGPT’s code-execution runtime that allowed sensitive conversation data to be silently exfiltrated to an…",
-     "extra": "",
-     "tags": [
-      "AI",
-      "Phishing"
-     ],
-     "also": []
     }
    ]
   },
   {
    "name": "Government Advisories",
    "stories": [
+    {
+     "title": "Siemens Desigo, Gridscale",
+     "subtitle": "",
+     "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-02",
+     "source": "CISA",
+     "published": "2026-11-12T12:00:00+00:00",
+     "date_only": false,
+     "summary": "View CSAF Summary On October 21, 2026, the Node.js project released security updates addressing a critical vulnerability in the Brotli decoder bundled with Node.js, commonly referred to as \"Node2Shell\" (tracked as CVE-2026-111497). The…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Siemens RUGGEDCOM APE1808",
+     "subtitle": "",
+     "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-05",
+     "source": "CISA",
+     "published": "2026-11-12T12:00:00+00:00",
+     "date_only": false,
+     "summary": "View CSAF Summary Palo Alto Networks has published information on vulnerabilities in PAN-OS related to PHP2Shell vulnerabilities. This advisory lists the related Siemens Industrial products affected by these vulnerabilities. Customers are…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Siemens Building Automation and Energy Products",
+     "subtitle": "",
+     "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-01",
+     "source": "CISA",
+     "published": "2026-11-12T12:00:00+00:00",
+     "date_only": false,
+     "summary": "View CSAF Summary On October 21, 2026, the PHP project and security researchers disclosed two critical, unauthenticated remote code execution vulnerabilities in the core PHP language runtime known as \"php2shell\" (tracked as CVE-2026-109618…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Siemens Industrial Edge Management",
+     "subtitle": "",
+     "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-03",
+     "source": "CISA",
+     "published": "2026-11-12T12:00:00+00:00",
+     "date_only": false,
+     "summary": "View CSAF Summary Siemens is currently assessing the impact of Node2Shell (CVE-2026-111497) on Industrial Edge. Please check your Industrial Edge Management (IEM) setup: - No Management Applications installed: No action is required…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
     {
      "title": "Google Chrome Multiple Vulnerabilities",
      "subtitle": "",
