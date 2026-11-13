@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-12T20:56:12+00:00",
+ "generated": "2026-11-13T01:56:59+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -197,18 +197,72 @@
    "name": "Breaking Threats",
    "stories": [
     {
-     "title": "Massive Microsoft 365 outage disrupts Outlook, Teams, Copilot worldwide",
+     "title": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks",
      "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/microsoft/massive-microsoft-365-outage-disrupts-outlook-teams-copilot-worldwide/",
+     "link": "https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/",
      "source": "BleepingComputer",
-     "published": "2026-11-12T20:15:16+00:00",
+     "published": "2026-11-12T22:53:10+00:00",
      "date_only": false,
-     "summary": "Microsoft is investigating a widespread outage affecting multiple Microsoft 365 services, including Outlook, Microsoft Teams, and Copilot, as users report connectivity problems worldwide. [...]",
+     "summary": "A new worm-like malware toolkit named SCKit was deployed in the recent ScreenConnect attacks targeting managed service providers (MSPs), designed to spread from infected customer devices to MSP technicians' computers and compromise…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Hackers compromise 4,800 GitHub accounts to steal cloud credentials",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/",
+     "source": "BleepingComputer",
+     "published": "2026-11-12T22:25:30+00:00",
+     "date_only": false,
+     "summary": "A new campaign dubbed 'wfx-loot' has unfolded on GitHub where threat actors used 4,837 compromised accounts to probe 61,764 repositories, open pull requests, and push secrets-stealing malware. [...]",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Feds announce seizure of $1.2 billion from Binance theft; also takedown of ‘FaceStealer’ tools",
+     "subtitle": "",
+     "link": "https://therecord.media/stolen-binance-crypto-recovered-doj-facestealer-disrupted",
+     "source": "The Record",
+     "published": "2026-11-12T21:42:00+00:00",
+     "date_only": false,
+     "summary": "The Department of Justice and FBI announced two separate actions in response to North Korea-linked cryptocurrency theft operations.",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Cyber Experts Weigh In: How to Fight Artex & AntiFox",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/cybersecurity-operations/cyber-experts-fight-artex-antifox",
+     "source": "Dark Reading",
+     "published": "2026-11-12T21:18:52+00:00",
+     "date_only": false,
+     "summary": "Cybercriminals using agentic pen-testing tools is a proverbial genie out of the bottle at this point, so enterprises need to get a defense plan in place right away.",
      "extra": "",
      "tags": [
       "AI"
      ],
      "also": []
+    },
+    {
+     "title": "Microsoft 365 Outage Disrupts Outlook, Exchange Online and Teams",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/microsoft-365-outage-disrupts-outlook-exchange-online-and-teams/",
+     "source": "SecurityWeek",
+     "published": "2026-11-12T20:55:30+00:00",
+     "date_only": false,
+     "summary": "Microsoft says failed server health checks disrupted Outlook and other Microsoft 365 services. The company is still investigating the cause and has disclosed no evidence of a cyberattack. The post Microsoft 365 Outage Disrupts Outlook…",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": [
+      "BleepingComputer"
+     ]
     },
     {
      "title": "Extortion Group Luna Moth Flits Into Law Firms a Second Time",
@@ -217,7 +271,7 @@
      "source": "Dark Reading",
      "published": "2026-11-12T20:09:41+00:00",
      "date_only": false,
-     "summary": "The cybercriminals are re-targeting law firms that refused to pay its first ransom, with a social engineering con aimed at stealing Microsoft access tokens.",
+     "summary": "The cybercriminals are retargeting law firms that refused to pay its first ransom, with a social engineering con aimed at stealing Microsoft access tokens.",
      "extra": "",
      "tags": [
       "Ransomware"
@@ -414,18 +468,6 @@
      "also": []
     },
     {
-     "title": "Hijacked email accounts complicate investigations into European bomb hoaxes",
-     "subtitle": "",
-     "link": "https://therecord.media/europe-hoax-email-threats",
-     "source": "The Record",
-     "published": "2026-11-12T14:45:00+00:00",
-     "date_only": false,
-     "summary": "Bomb threats sent to thousands of schools across Europe this week came from a compromised email account at a Taiwanese university, the latest incident in a series of hoax threats that have targeted airports and newsrooms using messages…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
      "title": "Apify rotates API tokens, prompts 2FA resets after breach",
      "subtitle": "",
      "link": "https://www.bleepingcomputer.com/news/security/apify-rotates-api-tokens-prompts-2fa-resets-after-breach/",
@@ -490,50 +532,41 @@
      "extra": "",
      "tags": [],
      "also": []
-    },
-    {
-     "title": "Microsoft: Recent Windows updates cause SQL Server performance issues",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-sql-server-performance-issues/",
-     "source": "BleepingComputer",
-     "published": "2026-11-12T12:11:11+00:00",
-     "date_only": false,
-     "summary": "Microsoft has confirmed that Windows updates released since the October 2026 Patch Tuesday are causing SQL Server performance and stability issues. [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html",
-     "source": "The Hacker News",
-     "published": "2026-11-12T12:09:14+00:00",
-     "date_only": false,
-     "summary": "Google Cloud VMs on AMD Turin chips need a guest OS patch and a stop-and-start to protect against three CPU side-channel flaws, Google said this week. The company has already applied mitigations against attacks between VMs, and between VMs…",
-     "extra": "",
-     "tags": [
-      "Breach"
-     ],
-     "also": []
-    },
-    {
-     "title": "New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html",
-     "source": "The Hacker News",
-     "published": "2026-11-12T11:51:43+00:00",
-     "date_only": false,
-     "summary": "N-able on Thursday said it's investigating a new public disclosure containing claims of additional vulnerabilities in on-premise versions of N-central running version 2026.4.1 HF2. \"Based on our initial review, the server issue described…",
-     "extra": "",
-     "tags": [],
-     "also": []
     }
    ]
   },
   {
    "name": "APAC Watch",
    "stories": [
+    {
+     "title": "Burger King Japan's Data Breach Leaked 11 Million Customer Details – Here's What We Can Learn From It",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vVzJKLWxna2JXMVdPMHd5bDBRc01KR1Q0eDB4dXQtSWM3bFQzMmR0eksyeTFlQWFTUUdmcEtsb1FrMXFiWGI4aEZJS0JOQlFMWGNBbEVUSUdHRU9NX3c5M0w5S2lGam1YaE95b0ZtU3hkNDdYTHdtSHlERm9TRXM?oc=5",
+     "source": "AOL.com",
+     "published": "2026-11-12T23:17:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "White Hackers Lead Japan's Fight Against Relentless Cyberattacks",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1TVEZsa1UtOHgxQ0RIQ0NXOFhpQjBRQ2toSDVvXy1UbUJiYmYza0sxSHlma2c3WXJhaU84SnBUS0p1RTFNTllva2lQd2I4YlpWWUgzTA?oc=5",
+     "source": "News On Japan",
+     "published": "2026-11-12T21:14:08+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
     {
      "title": "Ransomware Without Data Theft Can Still Trigger Mandatory Breach Reporting Under India’s DPDP Law: K7 CyberSecurity",
      "subtitle": "",
@@ -551,31 +584,34 @@
      "also": []
     },
     {
-     "title": "Local Malware Threats on Indian SMB Devices and USB Drives Surge 78% : Kaspersky H1 2026 Report",
+     "title": "South Korea Financial Security Portal Hacked, Employee Data Exposed",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQV05SVUhta2xMMXlkN3ZyMk96bHZjeTF2VkVnMVFPb2xrd1ExSlZ5b1VoUWV2ZlNGRDBtOGV3X0UzRm1jMkJidGlSaUs0dDBsRFAzaTluRTctdkstVmRQZ2otRXlMZ3VPUVBMSTFNR1VaRUtuT3pTWk9ESHdvX3BldUtjSEZ4X0dqM1FCczdJb0ZrQjZxXzhqV0p6a1FqcHZQV29zcWxCaDdaRXhpUlVIa3JOc3AyTEpSQ1hxYUxTb2c4OTQ5OExR?oc=5",
-     "source": "CXOToday.com",
-     "published": "2026-11-12T14:54:27+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Kazakhstan-linked hackers used AI agent to spy on Central Asian governments",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9BMmQxVW5YQU93REtjT2NDd0twSGNYbjFZVmY3cXNmS1lwT3ItUXJwMHpJNGl4aXpZNHJBRl82UHBvTHp1Vm1obFY3WXhtN1h5cFktSFR5cTQzeEN6eTJUOXFGTzlCdw?oc=5",
-     "source": "The Record from Recorded Future News",
-     "published": "2026-11-12T13:10:08+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdXlqaFU0RDd6RWpaU0RpWWF2dzQ3c04zN3ZvdHBCVjB3Szd2QzZJM0ZURlJ5V0tldnB0aWIxM09MS0VYdHdLV1ZiUGJMd1Y5M2RpcGlwMnJJYk5Sb1JGUVFyblZqdzc2b1ZLY1czNmZMUW83dkxfbXZiVEFDNmlQdUZXNnFEMnlnNG9EMkRXZDRNbm9pVmtiWjhRQzdxdjRMRkE?oc=5",
+     "source": "eSecurity Planet",
+     "published": "2026-11-12T19:58:59+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
      "tags": [
-      "AI",
       "APAC"
      ],
      "also": []
+    },
+    {
+     "title": "North Korean Hackers Earned Millions Building Illegal Gambling Websites",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObndDVEg0RmJkUTdqMEYtUlZjT1RqNnNodE9wOS1MZExUMzgzUk5uRENJdnhsSzIxcVFVVm1WUi1IdUs2QW1pNHBPTXpzOTVldjVvcW93a2NYRkY4eVNwWEdDcWt0aTM2aW12c0pHVzVsZUlyTjlsVklCdzNWcFJ4ZUJiVTM4a3NnS0FmOVFoLWNWQ2dBTGpxNDFzNTJCLUI4N1E?oc=5",
+     "source": "Casino.org",
+     "published": "2026-11-12T16:54:26+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": [
+      "Korea JoongAng Daily"
+     ]
     },
     {
      "title": "South Korea’s Financial Security Institute reports data breach exposing personal information",
@@ -593,11 +629,26 @@
      "also": []
     },
     {
+     "title": "Muji operator apologizes for data breach | NHK WORLD-JAPAN News",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9SWnRRQmZORC1KMTE0dGlkQTZtTVBvREhna2ZGM3pJNXFyNlVmbGNWRXU2Mk4tRy1IYTVFR3V3cE9YeGgyT25XandZM1lqV2w4MmkwcWhjUFZlcUJqcmRSd2I0QQ?oc=5",
+     "source": "NHKニュース",
+     "published": "2026-11-12T11:31:35+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
      "title": "Why data breaches are surging in Singapore, and why firms owe victims more than an apology",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQTR6Wm0yUy1KLUFOY0NOWXFscUZFazZ5a1M4NWlfQVVkWWVTMEp6MUk5NldVNU9EV2FSdWZTZWpfcFpwcGVYTGx0YW5wMWlWSEU3UVZJTl9wRkNrNTFSTjZwYmRZeGFkelZES1hua19wdm1pWldLSVVmLTRuQTBJdTU5S2o5MEFCMzhLZURrTllGcEVzQnBZNy0wTm5qekFabTdaQXY2cU1jUmJFZ0VOeHpnMGQ5cFJEVWl2YzRR?oc=5",
-     "source": "The Business Times",
-     "published": "2026-11-12T11:43:00+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUS11THVhTnpidEhUQVpNaGRaY056N2RRWl9aWWpnUkpNNHFpMHZOYV8tZEpXYnEyRVNVVk5lNmgwMHhvMTR3V1FIaXlNUmkwWlN3RnJtWVVOWTlUbmxHbXBBR1hGdkR2T3hTRE5FdnRmWm1BaEFZVldLYzZtZHBzWWNB?oc=5",
+     "source": "Yahoo News Singapore",
+     "published": "2026-11-12T10:30:00+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -636,21 +687,6 @@
      "also": []
     },
     {
-     "title": "Muji operator apologizes for data breach | NHK WORLD-JAPAN News",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9SWnRRQmZORC1KMTE0dGlkQTZtTVBvREhna2ZGM3pJNXFyNlVmbGNWRXU2Mk4tRy1IYTVFR3V3cE9YeGgyT25XandZM1lqV2w4MmkwcWhjUFZlcUJqcmRSd2I0QQ?oc=5",
-     "source": "NHKニュース",
-     "published": "2026-11-12T08:32:35+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
      "title": "Indias DPDP Rules Put Ransomware Attacks Under The Scanner, K7 CyberSecurity Flags Hidden Compliance Risks",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNSEFueUpLOHVEQ0NXVTJfX3llRzBJU2hSaEJwclZxOVhMUUlVVjVEWHRmWmlaX3d6cGhKZEV1V1NXVjdYM1JRVjZ5enI1ckc2cHdPLTdqNV82R3ZnWTNpaWpIYV81SGo3ZmJPbUFSa0lJVjI2amU5YzA5S0FDNE5rUnVfN3FGNHp4M1Blc0k1MmM4Z0tMV2xBYUQ1WmRCNXZmOXIzdVhrdnl0SHRXVlhVYnJPRGUwT0hpdG9rODZqekRzMjRGNWo5YzhVNGJDamhvVXl5cXl0MEVybkhEUncyaWRIQkpVdHh4aVBWTE1HNFdMVGfSAfgBQVVfeXFMT1ROSzJ1dVV5MGtpbTB3alZGaDVudU1VTVAzWHpLZlFUdDdFWlpaNGV2bGI1ZXNlZXhEVmtxaW1Bak5lVDhSX282emNNdnhJcUpvLWJCeGNKZ2FPVEtnd09sOVRMOEI2U09GcWc5NzNUZzJUdE9rNzJha3pPX3BwSUgySC1pQUJScngzMXhrV0EyUDY3YW5MOHo1YW1DLVNNVUlzVXBSemFuTDdxTmhPc01GM1Z0VzBtQ1hMQk5vMG9lMVNEdFJJQ3JiWDRBWTVNQjhQT2dYTXZIWlY1aElGb1NxVzI0dW9qMGpsZ2pIMG1uamVwS2hZY00?oc=5",
@@ -666,89 +702,16 @@
      "also": []
     },
     {
-     "title": "SPH Media is latest Singapore firm impacted by data breach, report says",
+     "title": "Amadeus data breach affects 46,000 Singapore Airlines bookings",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE43QVFMREYyS3VWbHFiOTdFTWJ3ZkJzTUhkY0RZd2hHa0ZwYVZCdGNrUWFOcXJMXzR2Mjl3Y3dvOHJoUGkweWNzblFRNHVTc0pU?oc=5",
-     "source": "The Edge Malaysia",
-     "published": "2026-11-12T06:48:23+00:00",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcExYZXI0VV9vaWtZdUppT0QtVi1ITE1jTFZNb19Mbk51NGh6R0t0WHdlZGRhMTdTa3ZlSms0MzBBa2ZhendESE5xWWxoakE0aEhLcGJYVk9tcEFNV2VUZXRRdUNNZjNiTWF5RU5OQTVtSVk5MTRIVHRmOWVxU1dFV0tsYTZ2YlJkbHE3RVRtYkFva0h5eTF5OVBaTGEzekdOckVjSw?oc=5",
+     "source": "The Bangladesh Monitor",
+     "published": "2026-11-12T05:49:27+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
      "tags": [
       "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Three jailed for helping North Korean hackers profit from illegal gambling sites in South Korea",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNMWJPSExZSnpMSDB1NE13MjQyN0RSLXRmbW5COWJwanRTeU5GcVB1QnY0VmRHaUZjNkJ6M1NGdmJKcE1TcGVxUllheHE3dEFoeW9ZdXlabGxYeGEzQUVzcHRNM1FhRDk1LXBncHRINGVrWEsxZjRwRmdJRmV1Y2Qyc0xEU1lWbUVFd3JYVTVQWjJvSjY4ZHA3MzhiTVRwYlZQUmw1dEVIalpxRHBNemlLcER4RVdMdV9xbnl1dmNmTW5rLXkyTjRPdjFYNDk4ODRZaWNRR3lnMHZ6ZmpZMHc?oc=5",
-     "source": "Korea JoongAng Daily",
-     "published": "2026-11-12T05:58:22+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Philippines faces twin data breaches and $2.2B scam toll",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNMG5odzI2VEY0UGpiSkdUVzd5NnNnRFpBOEx0S0VGQ0h1eTh6a1g5ek5tYXUyNVFab25XWkpFOTFaaU9qc3lWMkN6dTd3TmU0VnA1OTJFUW9Xc2J6SHdoVkZ0R0laWmhlT2x0Z2RtSUt4VGwyMXVDcW5VWWtKbjBWUzg3RQ?oc=5",
-     "source": "CoinGeek",
-     "published": "2026-11-12T04:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Cyberattacks hit a third of Japan firms or their service providers this year: Reuters poll, Asia News",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbzFwd3RGQU0xZ2xLaFNwSG9vbm5tR0pRV1VlWlVHZGpLRUh0bm5yNU4xYU1IalRUMDZqb3JxNFhpUHA1VmV5eTdtVU1BRUdEdUtpYXJiQW0ySklnNUVya0lOMHAtSmI2WmJsUkc2TXhfQ19yS3R0ZTJNRWtvcmtCd3dwS3NWMm5lc2VqNVpuaFlWLTBVa3dhakdRNVNTTExqZHZTdEJ4SEE2NXN2?oc=5",
-     "source": "AsiaOne.com",
-     "published": "2026-11-12T03:05:31+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "South Korea's Samyang Group Units Fined approximately $410,000 Over Data Breach Affecting 150,000 People",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9SbFk5TmQ1NVFQYUc4aWJ1M0QzVWx5Y0Y3RDBDTjJzd3pVVnNQVWxERDJyeXhJT05oaE4zMWU5dVVfaktXOTlkRDR4NXJWQ28xSUk1cVU4NC1jU2lhbTFvbE05bTFIbWVFZlVsS2hwTnBBcGJGTWc?oc=5",
-     "source": "BigGo Finance",
-     "published": "2026-11-12T01:35:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Australia cyber attacks rise 39% as ransomware grows",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWHRidkhlTEhDYm8xUkgxUFpmODVlSno4Wm84TFdxY21hZzYyamRhSThlckNhcGdmSnRGN1ZXVVRBUWg4MlA1dVBQN0VuM2h6TmQ3OURZMGxXTWtkVm5WS0VLV3RINFhVaXZPMUdHMkdBZXpBdWoxTzlBekluR1hYUmxwTWxtSDg?oc=5",
-     "source": "IT Brief Australia",
-     "published": "2026-11-12T01:28:45+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Ransomware",
       "APAC"
      ],
      "also": []
@@ -940,20 +903,6 @@
      "summary": "Unit 42 examines recent cyberattacks targeting European refrigeration systems and outlines defense and mitigation strategies. The post Turning Up the Heat: Inside the Attacks on Europe’s Refrigeration Systems appeared first on Unit 42 .",
      "extra": "",
      "tags": [],
-     "also": []
-    },
-    {
-     "title": "Threat actors use agentic AI tooling to find and abuse exposed secrets",
-     "subtitle": "",
-     "link": "https://www.microsoft.com/en-us/security/blog/2026/11/05/threat-actors-use-agentic-ai-tooling-to-find-and-abuse-exposed-secrets/",
-     "source": "Microsoft Threat Intelligence",
-     "published": "2026-11-05T23:46:50+00:00",
-     "date_only": false,
-     "summary": "Microsoft Threat Intelligence has observed threat actors using the agentic offensive security framework ARTEX to search GitHub for OAuth application secrets, which can be used to compromise the associated OAuth application and perform…",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
      "also": []
     }
    ]
