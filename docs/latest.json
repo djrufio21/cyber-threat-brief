@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T09:43:34+00:00",
+ "generated": "2026-11-13T17:52:38+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -197,6 +197,304 @@
    "name": "Breaking Threats",
    "stories": [
     {
+     "title": "German military drone operations disrupted by cyberattack",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/",
+     "source": "BleepingComputer",
+     "published": "2026-11-13T17:31:56+00:00",
+     "date_only": false,
+     "summary": "German defense technology company Quantum Systems confirmed that it detected an incident in late October that was part of an active cyberattack by \"hostile actors.\" [...]",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "University of Texas at Arlington warns personal information stolen during cyberattack",
+     "subtitle": "",
+     "link": "https://therecord.media/university-of-texas-arlington-warns-data-breach",
+     "source": "The Record",
+     "published": "2026-11-13T17:26:00+00:00",
+     "date_only": false,
+     "summary": "In a statement to Recorded Future News, a spokesperson said an investigation into the attack confirmed the stolen data but declined to say what information was obtained by the threat actors.",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": []
+    },
+    {
+     "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html",
+     "source": "The Hacker News",
+     "published": "2026-11-13T16:53:08+00:00",
+     "date_only": false,
+     "summary": "A type confusion flaw in PostgreSQL lets a database user who can create objects run code on the server. Updates released yesterday fix it, along with 51 other security flaws. Full protection from this flaw also requires rebuilding any…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "German parliament passes law giving spy agencies hacking, sabotage powers",
+     "subtitle": "",
+     "link": "https://therecord.media/german-parliament-passes-law-giving-spy-agencies-hacking-power",
+     "source": "The Record",
+     "published": "2026-11-13T16:32:00+00:00",
+     "date_only": false,
+     "summary": "In the biggest overhaul of the country’s spy laws of the postwar era, the Bundestag approved the bill by 308 votes to 190 — with 71 abstentions — months after Chancellor Friedrich Merz’s cabinet signed off on the draft.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/",
+     "source": "BleepingComputer",
+     "published": "2026-11-13T16:21:43+00:00",
+     "date_only": false,
+     "summary": "Vulnerable Check Point Security Gateway instances have been targeted in PHP2Shell attacks that deployed data-wiping malware on VMware ESXi hosts. [...]",
+     "extra": "",
+     "tags": [],
+     "also": [
+      "The Hacker News"
+     ]
+    },
+    {
+     "title": "DOJ: Gootloader used in at least 44 ransomware attacks costing $29 million since 2018",
+     "subtitle": "",
+     "link": "https://therecord.media/gootloader-ransomware-doj-details",
+     "source": "The Record",
+     "published": "2026-11-13T15:59:00+00:00",
+     "date_only": false,
+     "summary": "In a briefing adjacent to European announcements about an international anti-malware operation, U.S. officials detailed the history and impact of the Gootloader ransomware.",
+     "extra": "",
+     "tags": [
+      "Ransomware"
+     ],
+     "also": []
+    },
+    {
+     "title": "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html",
+     "source": "The Hacker News",
+     "published": "2026-11-13T15:27:05+00:00",
+     "date_only": false,
+     "summary": "Two attacks made public this week allow a malicious host to read data inside AMD SEV-SNP-protected virtual machines (VMs), which are built to keep the server's operator out. One of them, Mior, can also modify a VM's memory and fake the…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "In Other News: New CISA Director Nominee, Connected Car Hacking, Baker Tilly Data Breach",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/in-other-news-new-cisa-director-nominee-connected-car-hacking-baker-tilly-data-breach/",
+     "source": "SecurityWeek",
+     "published": "2026-11-13T15:20:00+00:00",
+     "date_only": false,
+     "summary": "Noteworthy stories that might have slipped under the radar: Siemens details security advisory policy, OpenAI Codex backdoor risk, Microsoft warns of model weight backdoors. The post In Other News: New CISA Director Nominee, Connected Car…",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": []
+    },
+    {
+     "title": "TSMC confirms employee data breach tied to cloud service provider",
+     "subtitle": "",
+     "link": "https://therecord.media/tsmc-confirms-employee-data-breach-cloud-provider",
+     "source": "The Record",
+     "published": "2026-11-13T15:06:00+00:00",
+     "date_only": false,
+     "summary": "An investigation into the breach found that no TSMC systems were compromised but the information was “verified to match data stored in the system services of a cloud service provider, but is unrelated to the company’s operations or…",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": []
+    },
+    {
+     "title": "How one AI agent exposed five critical enterprise security gaps",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/",
+     "source": "BleepingComputer",
+     "published": "2026-11-13T15:01:11+00:00",
+     "date_only": false,
+     "summary": "An AI agent built to automate invoice processing could be manipulated into changing vendor bank details through a malicious email, without triggering traditional security alerts. Token Security examines five critical AI agent security gaps…",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html",
+     "source": "The Hacker News",
+     "published": "2026-11-13T14:28:58+00:00",
+     "date_only": false,
+     "summary": "The U.S. Federal Bureau of Investigation (FBI) has established that threat actors tied to the Democratic People's Republic of Korea (DPRK aka North Korea) have stolen more than $400 million worth of cryptocurrency as part of a social…",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": [
+      "NHKニュース",
+      "AsiaOne.com"
+     ]
+    },
+    {
+     "title": "Ransomware attack on Belarusian cloud firm disrupts businesses for days",
+     "subtitle": "",
+     "link": "https://therecord.media/belarus-cloud-provider-activecloud-ransomware-attack",
+     "source": "The Record",
+     "published": "2026-11-13T14:28:00+00:00",
+     "date_only": false,
+     "summary": "ActiveCloud said hackers had breached its systems and encrypted parts of its cloud infrastructure, leaving customers unable to access key services for several days.",
+     "extra": "",
+     "tags": [
+      "Ransomware",
+      "Breach"
+     ],
+     "also": []
+    },
+    {
+     "title": "Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html",
+     "source": "The Hacker News",
+     "published": "2026-11-13T13:54:20+00:00",
+     "date_only": false,
+     "summary": "Three Trezor Safe 5 wallets bought from the reseller CryptoBilis contain an implant, an extra circuit board that can copy their recovery phrases, hardware wallet maker Trezor said yesterday. The implant reads the phrase from the wallet's…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Microsoft Struggles to Restore Email and Other Services in a Global Outage",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/microsoft-struggles-to-restore-email-and-other-services-in-a-global-outage/",
+     "source": "SecurityWeek",
+     "published": "2026-11-13T13:47:42+00:00",
+     "date_only": false,
+     "summary": "Microsoft is trying different ways to identify the cause of the problem and get its servers back online, using “a measured approach to identify and repair affected infrastructure.” The post Microsoft Struggles to Restore Email and Other…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Attackers in Binance Breach Targeted Known Weakness, Missing Controls",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/cybersecurity-operations/attackers-binance-breach-targeted-weakness-missing-controls",
+     "source": "Dark Reading",
+     "published": "2026-11-13T13:00:00+00:00",
+     "date_only": false,
+     "summary": "Blockchain complexities, such as attacker-deployed sweepers, hobble security controls designed to limit the damage of an exchange compromise.",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": []
+    },
+    {
+     "title": "Apify Confirms Customer Data Accessed in Cyberattack",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/apify-confirms-customer-data-accessed-in-cyberattack/",
+     "source": "SecurityWeek",
+     "published": "2026-11-13T12:41:01+00:00",
+     "date_only": false,
+     "summary": "The web scraping company says an intruder accessed customer accounts and obtained personal information or stored data. The post Apify Confirms Customer Data Accessed in Cyberattack appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Microsoft says November security updates cause printing issues",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/",
+     "source": "BleepingComputer",
+     "published": "2026-11-13T12:27:40+00:00",
+     "date_only": false,
+     "summary": "Microsoft warned customers earlier this week that the November 2026 security updates may break printing for documents with complex formatting. [...]",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "SilentAir Hackers Intercept Calls, SMS From Inside Mobile Networks",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/silentair-hackers-intercept-calls-sms-from-inside-mobile-networks/",
+     "source": "SecurityWeek",
+     "published": "2026-11-13T12:20:28+00:00",
+     "date_only": false,
+     "summary": "Enea says SilentAir hijacked mobile network nodes to intercept calls and messages, with Taiwanese subscribers the primary targets. The post SilentAir Hackers Intercept Calls, SMS From Inside Mobile Networks appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [
+      "Telecom",
+      "APAC"
+     ],
+     "also": [
+      "The Hacker News"
+     ]
+    },
+    {
+     "title": "When an AI Agent Goes Wrong, Can You Stop It?",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html",
+     "source": "The Hacker News",
+     "published": "2026-11-13T11:52:31+00:00",
+     "date_only": false,
+     "summary": "Suppose an AI agent is asked to sort support tickets and look up account details. A ticket contains instructions that lead the agent to export records to an unfamiliar destination. The agent can make the request because its identity has…",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html",
+     "source": "The Hacker News",
+     "published": "2026-11-13T10:55:03+00:00",
+     "date_only": false,
+     "summary": "An international police operation took down servers behind Gootloader, CastleRAT and StealC this week. Criminals used the three malware tools to gain access to computers, steal passwords, and launch ransomware attacks. Police also seized…",
+     "extra": "",
+     "tags": [
+      "Ransomware"
+     ],
+     "also": []
+    },
+    {
+     "title": "Law Enforcement Disrupts Gootloader, CastleRAT, and StealC Infrastructure",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/law-enforcement-disrupts-gootloader-castlerat-and-stealc-infrastructure/",
+     "source": "SecurityWeek",
+     "published": "2026-11-13T10:48:40+00:00",
+     "date_only": false,
+     "summary": "Investigators seized 235 servers and 257 domains, along with 6.4 million victim credentials as part of Operation Endgame. The post Law Enforcement Disrupts Gootloader, CastleRAT, and StealC Infrastructure appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Check Point warns of zero-day flaw exploited for root access",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/",
+     "source": "BleepingComputer",
+     "published": "2026-11-13T10:44:22+00:00",
+     "date_only": false,
+     "summary": "Check Point Software has released emergency hotfixes to address a high-severity flaw that hackers have been exploiting to gain root privileges and establish persistence on vulnerable devices since late October. [...]",
+     "extra": "",
+     "tags": [
+      "Exploited",
+      "Zero-day"
+     ],
+     "also": []
+    },
+    {
      "title": "Citrix Patches 10 Critical NetScaler Vulnerabilities",
      "subtitle": "",
      "link": "https://www.securityweek.com/citrix-patches-10-critical-netscaler-vulnerabilities/",
@@ -233,307 +531,27 @@
       "AI"
      ],
      "also": []
-    },
-    {
-     "title": "Nightmare Eclipse Drops Windows Zero-Day Exploit ‘SignDrop’",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-signdrop/",
-     "source": "SecurityWeek",
-     "published": "2026-11-13T08:50:36+00:00",
-     "date_only": false,
-     "summary": "It abuses CLFS and Windows Defender to trigger arbitrary file creation in the context of the antimalware process. The post Nightmare Eclipse Drops Windows Zero-Day Exploit ‘SignDrop’ appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [
-      "Zero-day"
-     ],
-     "also": [
-      "The Hacker News"
-     ]
-    },
-    {
-     "title": "Police arrest 354 suspects in dark web cybercrime crackdown",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/",
-     "source": "BleepingComputer",
-     "published": "2026-11-13T08:34:20+00:00",
-     "date_only": false,
-     "summary": "Authorities arrested 354 suspects in a joint international operation targeting vendors and buyers on the Archetyp, Nemesis, Tor2Door, Bohemia, and Kingdom dark web marketplaces. [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html",
-     "source": "The Hacker News",
-     "published": "2026-11-13T08:05:49+00:00",
-     "date_only": false,
-     "summary": "An unknown threat actor has been observed targeting unpatched Check Point Security Gateways to obtain initial access via the PHP2Shell vulnerabilities and then a previously unreported local privilege escalation flaw in Gaia OS to deploy a…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "PHP2Shell Exploited in Destructive Check Point Gateway Attacks",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/php2shell-exploited-in-destructive-check-point-gateway-attacks/",
-     "source": "SecurityWeek",
-     "published": "2026-11-13T07:39:04+00:00",
-     "date_only": false,
-     "summary": "PHP2Shell enabled initial compromise, while CVE-2026-123039 allowed attackers to elevate privileges to root. The post PHP2Shell Exploited in Destructive Check Point Gateway Attacks appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [],
-     "also": [
-      "Check Point Research"
-     ]
-    },
-    {
-     "title": "Hackers Exploit New N-central Zero-Day Hours After PoC Publication",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/hackers-exploit-new-n-central-zero-day-hours-after-poc-publication/",
-     "source": "SecurityWeek",
-     "published": "2026-11-13T07:20:50+00:00",
-     "date_only": false,
-     "summary": "Dubbed 4EverAble2Shell, the flaw could allow remote, unauthenticated attackers to execute code with root privileges. The post Hackers Exploit New N-central Zero-Day Hours After PoC Publication appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [
-      "Zero-day"
-     ],
-     "also": []
-    },
-    {
-     "title": "Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html",
-     "source": "The Hacker News",
-     "published": "2026-11-13T05:43:28+00:00",
-     "date_only": false,
-     "summary": "N-able on Thursday said it's taking additional precautions in the wake of public disclosure of a new set of flaws tracked as 4EverAble2Shell and Agent2Shell. \"We are restricting certain N-central features and integrations,\" the company…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "FBI Says US Seized $1.2 Billion Worth of Cryptocurrency Stolen From Binance",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/fbi-says-us-seized-1-2-billion-worth-of-cryptocurrency-stolen-from-binance/",
-     "source": "SecurityWeek",
-     "published": "2026-11-13T02:28:21+00:00",
-     "date_only": false,
-     "summary": "Also Thursday, the FBI blamed North Korea for a separate social engineering scheme that officials say resulted in the theft of $400 million worth of cryptocurrency. The post FBI Says US Seized $1.2 Billion Worth of Cryptocurrency Stolen…",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/",
-     "source": "BleepingComputer",
-     "published": "2026-11-12T22:53:10+00:00",
-     "date_only": false,
-     "summary": "A new worm-like malware toolkit named SCKit was deployed in the recent ScreenConnect attacks targeting managed service providers (MSPs), designed to spread from infected customer devices to MSP technicians' computers and compromise…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Getting Past the Post-Quantum Cryptography Discovery Phase",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/cybersecurity-operations/getting-past-post-quantum-cryptography-discovery",
-     "source": "Dark Reading",
-     "published": "2026-11-12T22:46:05+00:00",
-     "date_only": false,
-     "summary": "Most organizations haven't sorted out their cryptographic estate enough to even know where they'd start with post-quantum cryptography (PQC).",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Hackers compromise 4,800 GitHub accounts to steal cloud credentials",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-4-800-github-accounts-to-steal-cloud-credentials/",
-     "source": "BleepingComputer",
-     "published": "2026-11-12T22:25:30+00:00",
-     "date_only": false,
-     "summary": "A new campaign dubbed 'wfx-loot' has unfolded on GitHub where threat actors used 4,837 compromised accounts to probe 61,764 repositories, open pull requests, and push secrets-stealing malware. [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Feds announce seizure of $1.2 billion from Binance theft; also takedown of ‘FaceStealer’ tools",
-     "subtitle": "",
-     "link": "https://therecord.media/stolen-binance-crypto-recovered-doj-facestealer-disrupted",
-     "source": "The Record",
-     "published": "2026-11-12T21:42:00+00:00",
-     "date_only": false,
-     "summary": "The Department of Justice and FBI announced two separate actions in response to North Korea-linked cryptocurrency theft operations.",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Cyber Experts Weigh In: How to Fight Artex & AntiFox",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/cybersecurity-operations/cyber-experts-fight-artex-antifox",
-     "source": "Dark Reading",
-     "published": "2026-11-12T21:18:52+00:00",
-     "date_only": false,
-     "summary": "Cybercriminals using agentic pen-testing tools is a proverbial genie out of the bottle at this point, so enterprises need to get a defense plan in place right away.",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Microsoft 365 Outage Disrupts Outlook, Exchange Online and Teams",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/microsoft-365-outage-disrupts-outlook-exchange-online-and-teams/",
-     "source": "SecurityWeek",
-     "published": "2026-11-12T20:55:30+00:00",
-     "date_only": false,
-     "summary": "Microsoft says failed server health checks disrupted Outlook and other Microsoft 365 services. The company is still investigating the cause and has disclosed no evidence of a cyberattack. The post Microsoft 365 Outage Disrupts Outlook…",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": [
-      "BleepingComputer"
-     ]
-    },
-    {
-     "title": "Extortion Group Luna Moth Flits Into Law Firms a Second Time",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/data-privacy/extortion-luna-moth-law-firms-second-time",
-     "source": "Dark Reading",
-     "published": "2026-11-12T20:09:41+00:00",
-     "date_only": false,
-     "summary": "The cybercriminals are retargeting law firms that refused to pay its first ransom, with a social engineering con aimed at stealing Microsoft access tokens.",
-     "extra": "",
-     "tags": [
-      "Ransomware"
-     ],
-     "also": []
-    },
-    {
-     "title": "New N-able \"4EverAble2Shell\" zero-day exploited hours after PoC released",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/new-n-able-4everable2shell-zero-day-exploited-hours-after-poc-released/",
-     "source": "BleepingComputer",
-     "published": "2026-11-12T19:51:16+00:00",
-     "date_only": false,
-     "summary": "Hackers are actively exploiting a newly disclosed N-able N-central zero-day vulnerability dubbed \"4EverAble2Shell\" to compromise servers and deploy cryptocurrency miners, with researchers reporting at least 21 affected systems, including…",
-     "extra": "",
-     "tags": [
-      "Zero-day"
-     ],
-     "also": []
-    },
-    {
-     "title": "United to block customers from using AI agents, citing cyber threats",
-     "subtitle": "",
-     "link": "https://therecord.media/united-airlines-to-block-customers-using-ai-agents",
-     "source": "The Record",
-     "published": "2026-11-12T19:20:00+00:00",
-     "date_only": false,
-     "summary": "“Sharing account credentials with personal, third-party, AI assistants can expose sensitive information, and actions taken by these tools may result in unintended purchases\" and more, United Airlines said.",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Apache HTTP Server patches critical HTTP/2 remote code execution flaw",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/apache-http-server-patches-critical-http-2-remote-code-execution-flaw/",
-     "source": "BleepingComputer",
-     "published": "2026-11-12T19:12:55+00:00",
-     "date_only": false,
-     "summary": "A critical vulnerability in the HTTP/2 module of Apache HTTP Server could be exploited by an unauthenticated attacker to obtain remote code execution (RCE). [...]",
-     "extra": "",
-     "tags": [
-      "Exploited"
-     ],
-     "also": [
-      "SecurityWeek",
-      "The Hacker News"
-     ]
-    },
-    {
-     "title": "Shipping giant Maersk says recent cyber incident affected legacy system",
-     "subtitle": "",
-     "link": "https://therecord.media/shipping-giant-maersk-says-recent-incident-affected-legacy-system",
-     "source": "The Record",
-     "published": "2026-11-12T18:28:00+00:00",
-     "date_only": false,
-     "summary": "The incident is the latest in a string of attacks on ports and other shipping organizations worldwide, with Brazil’s largest port hit with ransomware last week.",
-     "extra": "",
-     "tags": [
-      "Ransomware"
-     ],
-     "also": []
-    },
-    {
-     "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
-     "source": "The Hacker News",
-     "published": "2026-11-12T18:07:15+00:00",
-     "date_only": false,
-     "summary": "Security teams have more alerts, logs, and monitoring tools than ever. Yet when an attack happens, one simple question can still take too long to answer: Who or what is behind this activity, and what can they access? A suspicious login…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "ThreatsDay: 59 Linux Kernel Bugs, Falcon Spyware, GSocket Backdoors + 17 More Stories",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/threatsday-59-linux-kernel-bugs-falcon.html",
-     "source": "The Hacker News",
-     "published": "2026-11-12T18:02:51+00:00",
-     "date_only": false,
-     "summary": "A search result isn't always safe. An access request isn't always harmless. And a familiar account doesn't always mean a familiar person is using it. Simple things to remember. Yet a surprising amount of this week's trouble starts right…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html",
-     "source": "The Hacker News",
-     "published": "2026-11-12T16:27:01+00:00",
-     "date_only": false,
-     "summary": "A critical flaw in Red Hat Quay allows an attacker who can access a Quay registry to read and overwrite private container images in every repository. Quay enables anonymous access by default, and while it is enabled, the attacker needs no…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "European authorities take down SteaIC malware servers for second time this year",
-     "subtitle": "",
-     "link": "https://therecord.media/european-authorities-take-down-stealic-malware-second-time",
-     "source": "The Record",
-     "published": "2026-11-12T16:21:00+00:00",
-     "date_only": false,
-     "summary": "German authorities on Thursday said investigators traced the rebuilt network to the Virtualine bulletproof hosting provider, seized by the FBI in October, with the assistance of police in Frankfurt and the Dutch National High Tech Crime…",
-     "extra": "",
-     "tags": [],
-     "also": []
     }
    ]
   },
   {
    "name": "APAC Watch",
    "stories": [
+    {
+     "title": "AXA stock: Japan unit discloses MyAXA data breach affecting 597,000",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOY2dpV0F3N1p2WmFrV3BkaGJsVllZbHlNbkxLNFFIVHZ6NUN0VmtKTDZna1RibmFyS1Q4VXRJUFl5bjNBOEFib1loVS1TZ2NYbEs5NUVjeUFHNDNJektkMVNfamVjS2JMckVZRHJJNXQ2d0JSSW1wMDlUZEN2WTZFM1FGeE0ycXd4cHFIWTZaZEprMU54SVA2T20wM1R6Zm1VRkR3X1E3amNjTnVCTnkxM1V0YzduOGRpemhYdldkVGF3MWEwZ2dTeg?oc=5",
+     "source": "ad-hoc-news.de",
+     "published": "2026-11-13T16:04:54+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
     {
      "title": "South Korea's Ministry of SMEs and Startups Hit by Another Data Breach in \"Startup for Everyone\" Program; 818 Affected, Recurrence in Just 5 Months",
      "subtitle": "",
@@ -552,9 +570,9 @@
     {
      "title": "No sign of cyberattack, says Microsoft exec as outage snares OpenAI, Anthropic and even Australia’s spy agency",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZktxTVRKV3RwMzF1d3F2Y091cVk1bDFFVkh1Vmg4TlRqa3p3bmFDMDIzSHJhcURVU3FEZDRwY05ncnczZTdUVDNlanE3NEtrTTliR3JBQ1ZmQlFNT3dWYVRmd0tBZlV5eklyRV9KWkpyUlZLQ2hmdXR4ZGVKSjhoZ2E1bENmNzNDY215VF9ZemhVd2VCYWFyS3dCNDNzeU01cHp5OTVKR0lOa2RtMWZ6Vy0zeElpeDg?oc=5",
-     "source": "Newswav",
-     "published": "2026-11-13T08:56:39+00:00",
+     "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQbVNRLXJlbmEwQkRqRF9KRUEtWVdrRmFOaUcycS1BaWNObE1wRVc5am9CQ0xLLVdMZExaTEhOMUZWd3YxR25MQ3Y5dFoxMDZmbWs5bVlYbDgydGJkVnRwODNTQWE0MkZmTlRGNWdyd3dEdmpUTGhTS2xsZEs3WnkwRGJEc1VTb2ZSVEdQWlctWEhVZTJlMTk5eDFEZFBURHJGTk1rZXJSSkkzQm44ZDFJckpkNU1mMmh0ZEVPbzVoV0VfNThzM0JmT0xNcFFuRWtad2ZHMVNZdWlkMjNfVzJ0RTVuSWo4d01LRmJOcGdMbk84ckFzdlZBNy1IWHd3d9IBgwJBVV95cUxPbUdUaXBaQXkzNm1ObjFsSlJvYWllbUNKNHlTR3ZLNzdzQUlsdE96b1NVSlRENXc5UGxEdzBDb3M2WHp6V083c25SLWhnVFlNYXB5VHRNOTJqSGpmekdfbzNOaDlfLUZ1M0sxZmk0TnZjTmhscjdZR3F0LTh5dzZlSWZnTXR3cFJLV1lDYzQ4Vmpjck5RVEFSMFJVU3NiQy1MMzlxejNNMzlIVmdqTjVkNE8xQ1JfcUdkdzhTUm5QNmpCeER4OE5NY0xsOHBreDRTTXhROHY1WWQ5MzhoTmhMdWZ3TENYTXBEN2tJa1Y5cnZXU1hrLUN0QloxSk1FdzBiY3Fv?oc=5",
+     "source": "Malay Mail",
+     "published": "2026-11-13T08:59:22+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -588,6 +606,21 @@
      "summary": "",
      "extra": "",
      "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Malaysia maintains amber alert amid cyberattack, security breach claims",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcnFiZzBsdmM3QU8xVVNqRDBUcDhmQ2NtLTV3Tk16UVYtSGY0T3dTZWpVaUVUSzZEMXlYRHhwSXJpWUNQbVpkMTE5ZE9DWnhtcWdPNmtLSi01amNueE85c2dvbldNOFF3Z0hvbmpMLU80SVNjMWN6ZU5OOTRpSUdQN3Zrajd6cE1lenBMMGlheDFrVnYyNC1VR2JOM1M?oc=5",
+     "source": "Asia News Network",
+     "published": "2026-11-13T02:11:42+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
       "APAC"
      ],
      "also": []
@@ -646,63 +679,6 @@
      "extra": "",
      "tags": [
       "Ransomware",
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "North Korean Hackers Earned Millions Building Illegal Gambling Websites",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObndDVEg0RmJkUTdqMEYtUlZjT1RqNnNodE9wOS1MZExUMzgzUk5uRENJdnhsSzIxcVFVVm1WUi1IdUs2QW1pNHBPTXpzOTVldjVvcW93a2NYRkY4eVNwWEdDcWt0aTM2aW12c0pHVzVsZUlyTjlsVklCdzNWcFJ4ZUJiVTM4a3NnS0FmOVFoLWNWQ2dBTGpxNDFzNTJCLUI4N1E?oc=5",
-     "source": "Casino.org",
-     "published": "2026-11-12T16:54:26+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "South Korea’s Financial Security Institute reports data breach exposing personal information",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9UQ3JOMjhyNVpycWJTb3VMV284N3dhWUpJV09UamJ4WUtiSWU4VVZtd1FvYWhaZURLbzJwVWV4empLeVpBZ0NETkpaTGZxNmpKQ2kwbnp6Qk5HYVA5RVZyUlBZc2t6QVVmc1pyc29vNTlJRWc?oc=5",
-     "source": "Digital Watch Observatory",
-     "published": "2026-11-12T11:54:39+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Why data breaches are surging in Singapore, and why firms owe victims more than an apology",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQTR6Wm0yUy1KLUFOY0NOWXFscUZFazZ5a1M4NWlfQVVkWWVTMEp6MUk5NldVNU9EV2FSdWZTZWpfcFpwcGVYTGx0YW5wMWlWSEU3UVZJTl9wRkNrNTFSTjZwYmRZeGFkelZES1hua19wdm1pWldLSVVmLTRuQTBJdTU5S2o5MEFCMzhLZURrTllGcEVzQnBZNy0wTm5qekFabTdaQXY2cU1jUmJFZ0VOeHpnMGQ5cFJEVWl2YzRR?oc=5",
-     "source": "The Business Times",
-     "published": "2026-11-12T11:43:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Muji operator apologizes for data breach | NHK WORLD-JAPAN News",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9SWnRRQmZORC1KMTE0dGlkQTZtTVBvREhna2ZGM3pJNXFyNlVmbGNWRXU2Mk4tRy1IYTVFR3V3cE9YeGgyT25XandZM1lqV2w4MmkwcWhjUFZlcUJqcmRSd2I0QQ?oc=5",
-     "source": "NHKニュース",
-     "published": "2026-11-12T11:32:02+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
       "Breach",
       "APAC"
      ],
@@ -1008,20 +984,6 @@
      "summary": "",
      "extra": "",
      "tags": [],
-     "also": []
-    },
-    {
-     "title": "CISA Adds Six Known Exploited Vulnerabilities to Catalog",
-     "subtitle": "",
-     "link": "https://www.cisa.gov/news-events/alerts/2026/11/10/cisa-adds-six-known-exploited-vulnerabilities-catalog",
-     "source": "CISA",
-     "published": "2026-11-10T12:00:00+00:00",
-     "date_only": false,
-     "summary": "CISA has added six new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-20320 Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability…",
-     "extra": "",
-     "tags": [
-      "Exploited"
-     ],
      "also": []
     }
    ]
