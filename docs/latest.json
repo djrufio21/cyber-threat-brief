@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T01:56:59+00:00",
+ "generated": "2026-11-13T09:43:34+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -197,6 +197,138 @@
    "name": "Breaking Threats",
    "stories": [
     {
+     "title": "Citrix Patches 10 Critical NetScaler Vulnerabilities",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/citrix-patches-10-critical-netscaler-vulnerabilities/",
+     "source": "SecurityWeek",
+     "published": "2026-11-13T09:36:56+00:00",
+     "date_only": false,
+     "summary": "Successful exploitation could lead to unexpected behavior or denial-of-service (DoS) conditions. The post Citrix Patches 10 Critical NetScaler Vulnerabilities appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Microsoft confirms Windows activation failures after November updates",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-windows-activation-failures-after-november-updates/",
+     "source": "BleepingComputer",
+     "published": "2026-11-13T09:36:18+00:00",
+     "date_only": false,
+     "summary": "Microsoft has confirmed that this month's Patch Tuesday security updates are causing Windows activation and licensing failures with 0x80041008 error codes. [...]",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "OpenAI Unveils Daybreak Red Team, Defense Factory Security Tools",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/openai-unveils-daybreak-red-team-defense-factory-security-tools/",
+     "source": "SecurityWeek",
+     "published": "2026-11-13T09:21:01+00:00",
+     "date_only": false,
+     "summary": "Daybreak Red Team pentests web applications with AI agents, while Defense Factory investigates security findings and prepares patches. The post OpenAI Unveils Daybreak Red Team, Defense Factory Security Tools appeared first on SecurityWeek…",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "Nightmare Eclipse Drops Windows Zero-Day Exploit ‘SignDrop’",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/nightmare-eclipse-drops-windows-zero-day-exploit-signdrop/",
+     "source": "SecurityWeek",
+     "published": "2026-11-13T08:50:36+00:00",
+     "date_only": false,
+     "summary": "It abuses CLFS and Windows Defender to trigger arbitrary file creation in the context of the antimalware process. The post Nightmare Eclipse Drops Windows Zero-Day Exploit ‘SignDrop’ appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [
+      "Zero-day"
+     ],
+     "also": [
+      "The Hacker News"
+     ]
+    },
+    {
+     "title": "Police arrest 354 suspects in dark web cybercrime crackdown",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/police-arrest-354-vendors-buyers-in-global-cybercrime-crackdown/",
+     "source": "BleepingComputer",
+     "published": "2026-11-13T08:34:20+00:00",
+     "date_only": false,
+     "summary": "Authorities arrested 354 suspects in a joint international operation targeting vendors and buyers on the Archetyp, Nemesis, Tor2Door, Bohemia, and Kingdom dark web marketplaces. [...]",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html",
+     "source": "The Hacker News",
+     "published": "2026-11-13T08:05:49+00:00",
+     "date_only": false,
+     "summary": "An unknown threat actor has been observed targeting unpatched Check Point Security Gateways to obtain initial access via the PHP2Shell vulnerabilities and then a previously unreported local privilege escalation flaw in Gaia OS to deploy a…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "PHP2Shell Exploited in Destructive Check Point Gateway Attacks",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/php2shell-exploited-in-destructive-check-point-gateway-attacks/",
+     "source": "SecurityWeek",
+     "published": "2026-11-13T07:39:04+00:00",
+     "date_only": false,
+     "summary": "PHP2Shell enabled initial compromise, while CVE-2026-123039 allowed attackers to elevate privileges to root. The post PHP2Shell Exploited in Destructive Check Point Gateway Attacks appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [],
+     "also": [
+      "Check Point Research"
+     ]
+    },
+    {
+     "title": "Hackers Exploit New N-central Zero-Day Hours After PoC Publication",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/hackers-exploit-new-n-central-zero-day-hours-after-poc-publication/",
+     "source": "SecurityWeek",
+     "published": "2026-11-13T07:20:50+00:00",
+     "date_only": false,
+     "summary": "Dubbed 4EverAble2Shell, the flaw could allow remote, unauthenticated attackers to execute code with root privileges. The post Hackers Exploit New N-central Zero-Day Hours After PoC Publication appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [
+      "Zero-day"
+     ],
+     "also": []
+    },
+    {
+     "title": "Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html",
+     "source": "The Hacker News",
+     "published": "2026-11-13T05:43:28+00:00",
+     "date_only": false,
+     "summary": "N-able on Thursday said it's taking additional precautions in the wake of public disclosure of a new set of flaws tracked as 4EverAble2Shell and Agent2Shell. \"We are restricting certain N-central features and integrations,\" the company…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "FBI Says US Seized $1.2 Billion Worth of Cryptocurrency Stolen From Binance",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/fbi-says-us-seized-1-2-billion-worth-of-cryptocurrency-stolen-from-binance/",
+     "source": "SecurityWeek",
+     "published": "2026-11-13T02:28:21+00:00",
+     "date_only": false,
+     "summary": "Also Thursday, the FBI blamed North Korea for a separate social engineering scheme that officials say resulted in the theft of $400 million worth of cryptocurrency. The post FBI Says US Seized $1.2 Billion Worth of Cryptocurrency Stolen…",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
      "title": "New worm-like 'SCKit' malware targets MSPs in ScreenConnect attacks",
      "subtitle": "",
      "link": "https://www.bleepingcomputer.com/news/security/new-worm-like-sckit-malware-targets-msps-in-screenconnect-attacks/",
@@ -204,6 +336,18 @@
      "published": "2026-11-12T22:53:10+00:00",
      "date_only": false,
      "summary": "A new worm-like malware toolkit named SCKit was deployed in the recent ScreenConnect attacks targeting managed service providers (MSPs), designed to spread from infected customer devices to MSP technicians' computers and compromise…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Getting Past the Post-Quantum Cryptography Discovery Phase",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/cybersecurity-operations/getting-past-post-quantum-cryptography-discovery",
+     "source": "Dark Reading",
+     "published": "2026-11-12T22:46:05+00:00",
+     "date_only": false,
+     "summary": "Most organizations haven't sorted out their cryptographic estate enough to even know where they'd start with post-quantum cryptography (PQC).",
      "extra": "",
      "tags": [],
      "also": []
@@ -362,22 +506,6 @@
      "also": []
     },
     {
-     "title": "New SignDrop Zero-Day Exploit Turns Windows CLFS Security Feature Into SYSTEM Access",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/new-signdrop-zero-day-exploit-turns.html",
-     "source": "The Hacker News",
-     "published": "2026-11-12T17:50:27+00:00",
-     "date_only": false,
-     "summary": "Public exploit code released earlier this week claims that a local Windows user can gain SYSTEM privileges through the Common Log File System driver. The proof of concept, called SignDrop, targets a log-authentication feature added to the…",
-     "extra": "",
-     "tags": [
-      "Zero-day"
-     ],
-     "also": [
-      "BleepingComputer"
-     ]
-    },
-    {
      "title": "Critical Red Hat Quay Flaw Lets Attackers Read and Overwrite All Private Container Images in a Registry",
      "subtitle": "",
      "link": "https://thehackernews.com/2026/11/critical-red-hat-quay-flaw-lets.html",
@@ -387,9 +515,7 @@
      "summary": "A critical flaw in Red Hat Quay allows an attacker who can access a Quay registry to read and overwrite private container images in every repository. Quay enables anonymous access by default, and while it is enabled, the attacker needs no…",
      "extra": "",
      "tags": [],
-     "also": [
-      "SecurityWeek"
-     ]
+     "also": []
     },
     {
      "title": "European authorities take down SteaIC malware servers for second time this year",
@@ -402,136 +528,6 @@
      "extra": "",
      "tags": [],
      "also": []
-    },
-    {
-     "title": "ConnectWise investigates ScreenConnect breaches after reports of incidents at nearly 50 organizations",
-     "subtitle": "",
-     "link": "https://therecord.media/connectwise-screenconnect-breaches-third-party-tool",
-     "source": "The Record",
-     "published": "2026-11-12T16:16:00+00:00",
-     "date_only": false,
-     "summary": "Abuse of an independent third-party tool led to breaches at ScreenConnect customers, confirmed the software's maker, ConnectWise. Cybersecurity researchers had spotted intrusions at nearly 50.",
-     "extra": "",
-     "tags": [
-      "Breach"
-     ],
-     "also": []
-    },
-    {
-     "title": "Citrix Patches 12 NetScaler and Secure Access Client Flaws, Including Authentication Bypass",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html",
-     "source": "The Hacker News",
-     "published": "2026-11-12T15:38:49+00:00",
-     "date_only": false,
-     "summary": "Citrix has released patches for multiple critical security flaws impacting NetScaler ADC, Citrix NetScaler Gateway, and NetScaler Console that could lead to denial-of-service (DoS) or an authentication bypass. The critical vulnerabilities…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "186 Fake AI Domains Redirect Users to ClickFix Lures, Browser Malware, and Search Hijackers",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html",
-     "source": "The Hacker News",
-     "published": "2026-11-12T15:15:40+00:00",
-     "date_only": false,
-     "summary": "Cybersecurity researchers have found that lookalike domains masquerading as artificial intelligence (AI) tools are being used to serve ClickFix-style lures, browser-hijacking malware, and a set of extensions that hijack user searches. This…",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Police dismantle Gootloader, CastleRAT, StealC malware infrastructure",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-gootloader-castlerat-stealc-malware-infrastructure/",
-     "source": "BleepingComputer",
-     "published": "2026-11-12T15:07:20+00:00",
-     "date_only": false,
-     "summary": "Europol and law enforcement partners from nine countries have seized hundreds of servers and domains used by the Gootloader, CastleRAT, and StealC malware operations. [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Your Endpoint Management Platform Could Be Your Biggest Security Risk",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/your-endpoint-management-platform-could-be-your-biggest-security-risk/",
-     "source": "BleepingComputer",
-     "published": "2026-11-12T15:00:10+00:00",
-     "date_only": false,
-     "summary": "Endpoint management platforms can become powerful attack tools when compromised, allowing hackers to deploy malware, execute commands, and disrupt thousands of devices. Action1 explains how customer-controlled cryptographic authorization…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Apify rotates API tokens, prompts 2FA resets after breach",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/apify-rotates-api-tokens-prompts-2fa-resets-after-breach/",
-     "source": "BleepingComputer",
-     "published": "2026-11-12T14:36:47+00:00",
-     "date_only": false,
-     "summary": "Apify has rotated critical internal secrets and revoked some third-party OAuth connections after detecting unauthorized access to its internal systems. [...]",
-     "extra": "",
-     "tags": [
-      "Breach"
-     ],
-     "also": []
-    },
-    {
-     "title": "Chrome, Firefox Updates Patch Over 180 Vulnerabilities",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/chrome-firefox-updates-patch-180-vulnerabilities/",
-     "source": "SecurityWeek",
-     "published": "2026-11-12T13:42:09+00:00",
-     "date_only": false,
-     "summary": "Google fixed 83 flaws with a new Chrome 157 release, and Mozilla addressed 99 bugs in Firefox 160. The post Chrome, Firefox Updates Patch Over 180 Vulnerabilities appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Attacker Targets 60,000 GitHub Repositories in Credential Theft Campaign",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/attacker-targets-60000-github-repositories-in-credential-theft-campaign/",
-     "source": "SecurityWeek",
-     "published": "2026-11-12T13:39:03+00:00",
-     "date_only": false,
-     "summary": "Using thousands of hijacked accounts, the wfx-loot campaign planted a CI secret stealer that ran in over 1,800 GitHub repositories. The post Attacker Targets 60,000 GitHub Repositories in Credential Theft Campaign appeared first on…",
-     "extra": "",
-     "tags": [
-      "Phishing"
-     ],
-     "also": []
-    },
-    {
-     "title": "Daylight Lands $80 Million for AI-Powered Security Operations",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/daylight-lands-80-million-for-ai-powered-security-operations/",
-     "source": "SecurityWeek",
-     "published": "2026-11-12T13:12:11+00:00",
-     "date_only": false,
-     "summary": "The company plans to accelerate product development, hire new talent, expand its US presence, and enter new markets. The post Daylight Lands $80 Million for AI-Powered Security Operations appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "SCKit Malware Turns ScreenConnect Support Sessions Into Potential MSP Attack Paths",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/sckit-malware-targets-screenconnect.html",
-     "source": "The Hacker News",
-     "published": "2026-11-12T13:08:28+00:00",
-     "date_only": false,
-     "summary": "The ongoing campaign targeting ConnectWise ScreenConnect deployments involves the exploitation of a now-patched critical security flaw in the remote access software, and not a new vulnerability, it has emerged. Blackpoint Cyber's Adversary…",
-     "extra": "",
-     "tags": [],
-     "also": []
     }
    ]
   },
@@ -539,10 +535,82 @@
    "name": "APAC Watch",
    "stories": [
     {
+     "title": "South Korea's Ministry of SMEs and Startups Hit by Another Data Breach in \"Startup for Everyone\" Program; 818 Affected, Recurrence in Just 5 Months",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5NZnNFY0E3MHRPWXIyWS14Ylo3LWFUajcyT2RmODdzYTV0VlRyaUpFUUl2VUpQNVhrWE01TUxOWUE2YnBGM1h6STJLOFZpVklLVGdiTWo4di1ZNlV6LVhDYVVGYk5YTDBPUU9JUnBMbms4VDRGU1E?oc=5",
+     "source": "BigGo Finance",
+     "published": "2026-11-13T09:26:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "No sign of cyberattack, says Microsoft exec as outage snares OpenAI, Anthropic and even Australia’s spy agency",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZktxTVRKV3RwMzF1d3F2Y091cVk1bDFFVkh1Vmg4TlRqa3p3bmFDMDIzSHJhcURVU3FEZDRwY05ncnczZTdUVDNlanE3NEtrTTliR3JBQ1ZmQlFNT3dWYVRmd0tBZlV5eklyRV9KWkpyUlZLQ2hmdXR4ZGVKSjhoZ2E1bENmNzNDY215VF9ZemhVd2VCYWFyS3dCNDNzeU01cHp5OTVKR0lOa2RtMWZ6Vy0zeElpeDg?oc=5",
+     "source": "Newswav",
+     "published": "2026-11-13T08:56:39+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Thailand tightens aviation cybersecurity after 60,000 passenger data breach",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSlh5SkpEVEE5czlBNXMzY1RtRzk3VGNtYmFZLTdHRlRTRk9CRWJkRGRQa2hLbV96Q1lFSFV6NjBQWVZJblotVmtiVkNJcEpLYVpSODRYamZhalpWbnA1UEtHdXVTbEN5bE9PX3czTkZDOXV6X05qOWU1TDFpMXdxd2hTZEJVYUpVdXdvMWs0NHNKWXJOTkNGaldWbVF4UDdSOERMQTBKbk45eWt0dXRTTVdzLXA4SXpQTGt3NkhMZw?oc=5",
+     "source": "VnExpress International",
+     "published": "2026-11-13T07:29:47+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "BREAKING NEWS: Microsoft Japan rules out cyberattack as cause of platform outage",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90cVZ5bmE3NmlBdmpaOGlLZ0dsd1NXeTRDNTdkcVlmRXlDZHZjZHVmek1iWS0wUy00RllOWHBXcF9NRjRVZXlfVWZfYVdSNVdJOG5fNW1uWUlpdw?oc=5",
+     "source": "Japan Wire by Kyodo News",
+     "published": "2026-11-13T03:42:43+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "South Korea Financial Security Portal Hacked, Employee Data Exposed",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdXlqaFU0RDd6RWpaU0RpWWF2dzQ3c04zN3ZvdHBCVjB3Szd2QzZJM0ZURlJ5V0tldnB0aWIxM09MS0VYdHdLV1ZiUGJMd1Y5M2RpcGlwMnJJYk5Sb1JGUVFyblZqdzc2b1ZLY1czNmZMUW83dkxfbXZiVEFDNmlQdUZXNnFEMnlnNG9EMkRXZDRNbm9pVmtiWjhRQzdxdjRMRkE?oc=5",
+     "source": "eSecurity Planet",
+     "published": "2026-11-13T00:04:11+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
      "title": "Burger King Japan's Data Breach Leaked 11 Million Customer Details – Here's What We Can Learn From It",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5vVzJKLWxna2JXMVdPMHd5bDBRc01KR1Q0eDB4dXQtSWM3bFQzMmR0eksyeTFlQWFTUUdmcEtsb1FrMXFiWGI4aEZJS0JOQlFMWGNBbEVUSUdHRU9NX3c5M0w5S2lGam1YaE95b0ZtU3hkNDdYTHdtSHlERm9TRXM?oc=5",
-     "source": "AOL.com",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5LeFRaeFJ5Y3BnZ3Qza2dsWjBIS1dPeG11QnJoWE5TcFZCX0k0U0V0V0VVcmZfa2k2Z0dWMlU5RnZjMlBZWjk2UlA0S3FBbVJ3V3VkTHltcWxhM2d1dVRVLWdpUU9LMllBQXBBLUozSFg5Q0ls?oc=5",
+     "source": "BGR",
      "published": "2026-11-12T23:17:00+00:00",
      "date_only": false,
      "summary": "",
@@ -584,20 +652,6 @@
      "also": []
     },
     {
-     "title": "South Korea Financial Security Portal Hacked, Employee Data Exposed",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdXlqaFU0RDd6RWpaU0RpWWF2dzQ3c04zN3ZvdHBCVjB3Szd2QzZJM0ZURlJ5V0tldnB0aWIxM09MS0VYdHdLV1ZiUGJMd1Y5M2RpcGlwMnJJYk5Sb1JGUVFyblZqdzc2b1ZLY1czNmZMUW83dkxfbXZiVEFDNmlQdUZXNnFEMnlnNG9EMkRXZDRNbm9pVmtiWjhRQzdxdjRMRkE?oc=5",
-     "source": "eSecurity Planet",
-     "published": "2026-11-12T19:58:59+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
      "title": "North Korean Hackers Earned Millions Building Illegal Gambling Websites",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObndDVEg0RmJkUTdqMEYtUlZjT1RqNnNodE9wOS1MZExUMzgzUk5uRENJdnhsSzIxcVFVVm1WUi1IdUs2QW1pNHBPTXpzOTVldjVvcW93a2NYRkY4eVNwWEdDcWt0aTM2aW12c0pHVzVsZUlyTjlsVklCdzNWcFJ4ZUJiVTM4a3NnS0FmOVFoLWNWQ2dBTGpxNDFzNTJCLUI4N1E?oc=5",
@@ -606,12 +660,8 @@
      "date_only": false,
      "summary": "",
      "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": [
-      "Korea JoongAng Daily"
-     ]
+     "tags": [],
+     "also": []
     },
     {
      "title": "South Korea’s Financial Security Institute reports data breach exposing personal information",
@@ -629,84 +679,26 @@
      "also": []
     },
     {
+     "title": "Why data breaches are surging in Singapore, and why firms owe victims more than an apology",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQTR6Wm0yUy1KLUFOY0NOWXFscUZFazZ5a1M4NWlfQVVkWWVTMEp6MUk5NldVNU9EV2FSdWZTZWpfcFpwcGVYTGx0YW5wMWlWSEU3UVZJTl9wRkNrNTFSTjZwYmRZeGFkelZES1hua19wdm1pWldLSVVmLTRuQTBJdTU5S2o5MEFCMzhLZURrTllGcEVzQnBZNy0wTm5qekFabTdaQXY2cU1jUmJFZ0VOeHpnMGQ5cFJEVWl2YzRR?oc=5",
+     "source": "The Business Times",
+     "published": "2026-11-12T11:43:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
      "title": "Muji operator apologizes for data breach | NHK WORLD-JAPAN News",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9SWnRRQmZORC1KMTE0dGlkQTZtTVBvREhna2ZGM3pJNXFyNlVmbGNWRXU2Mk4tRy1IYTVFR3V3cE9YeGgyT25XandZM1lqV2w4MmkwcWhjUFZlcUJqcmRSd2I0QQ?oc=5",
      "source": "NHKニュース",
-     "published": "2026-11-12T11:31:35+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Why data breaches are surging in Singapore, and why firms owe victims more than an apology",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPUS11THVhTnpidEhUQVpNaGRaY056N2RRWl9aWWpnUkpNNHFpMHZOYV8tZEpXYnEyRVNVVk5lNmgwMHhvMTR3V1FIaXlNUmkwWlN3RnJtWVVOWTlUbmxHbXBBR1hGdkR2T3hTRE5FdnRmWm1BaEFZVldLYzZtZHBzWWNB?oc=5",
-     "source": "Yahoo News Singapore",
-     "published": "2026-11-12T10:30:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Video Hackers strike Thailand as airlines and banks’ Data are targeted | The Next Move EP.39",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1KQlF5aTZVR2MtS0hNVnFvNGVUYzRBcnhLTUYtN01vdlNjNlozMHo5U3VXaVBfNkptU25TOGM1LThZd01SUXhHeTJSbXpYcDM4eGJNOWZFbkRSbjE4?oc=5",
-     "source": "Nation Thailand",
-     "published": "2026-11-12T09:31:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "South Korea Strengthens Crypto Exchange Security Amid Cyberattack Surge",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPd3RPUjN5b1JBUG9XMXNITGxrTHE2MnZRcDNQc3pueDR4QUtoZEV2M0hsQ2hHSzJVdzh0cjlLdVhucTRmWlBlcHpQUzd1UGw5dFB5NHMwUml5c2o0cXN3ZTR5cnNaY1ZIek10RExuOGdOQXhWSWppRGFCUHpwLWFpSFN6MFRhT09ZWERyX181dkNra3VZck5ENXBqYw?oc=5",
-     "source": "ForkLog",
-     "published": "2026-11-12T09:17:25+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Indias DPDP Rules Put Ransomware Attacks Under The Scanner, K7 CyberSecurity Flags Hidden Compliance Risks",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNSEFueUpLOHVEQ0NXVTJfX3llRzBJU2hSaEJwclZxOVhMUUlVVjVEWHRmWmlaX3d6cGhKZEV1V1NXVjdYM1JRVjZ5enI1ckc2cHdPLTdqNV82R3ZnWTNpaWpIYV81SGo3ZmJPbUFSa0lJVjI2amU5YzA5S0FDNE5rUnVfN3FGNHp4M1Blc0k1MmM4Z0tMV2xBYUQ1WmRCNXZmOXIzdVhrdnl0SHRXVlhVYnJPRGUwT0hpdG9rODZqekRzMjRGNWo5YzhVNGJDamhvVXl5cXl0MEVybkhEUncyaWRIQkpVdHh4aVBWTE1HNFdMVGfSAfgBQVVfeXFMT1ROSzJ1dVV5MGtpbTB3alZGaDVudU1VTVAzWHpLZlFUdDdFWlpaNGV2bGI1ZXNlZXhEVmtxaW1Bak5lVDhSX282emNNdnhJcUpvLWJCeGNKZ2FPVEtnd09sOVRMOEI2U09GcWc5NzNUZzJUdE9rNzJha3pPX3BwSUgySC1pQUJScngzMXhrV0EyUDY3YW5MOHo1YW1DLVNNVUlzVXBSemFuTDdxTmhPc01GM1Z0VzBtQ1hMQk5vMG9lMVNEdFJJQ3JiWDRBWTVNQjhQT2dYTXZIWlY1aElGb1NxVzI0dW9qMGpsZ2pIMG1uamVwS2hZY00?oc=5",
-     "source": "Free Press Journal",
-     "published": "2026-11-12T07:42:47+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Ransomware",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Amadeus data breach affects 46,000 Singapore Airlines bookings",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcExYZXI0VV9vaWtZdUppT0QtVi1ITE1jTFZNb19Mbk51NGh6R0t0WHdlZGRhMTdTa3ZlSms0MzBBa2ZhendESE5xWWxoakE0aEhLcGJYVk9tcEFNV2VUZXRRdUNNZjNiTWF5RU5OQTVtSVk5MTRIVHRmOWVxU1dFV0tsYTZ2YlJkbHE3RVRtYkFva0h5eTF5OVBaTGEzekdOckVjSw?oc=5",
-     "source": "The Bangladesh Monitor",
-     "published": "2026-11-12T05:49:27+00:00",
+     "published": "2026-11-12T11:32:02+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -761,18 +753,6 @@
       "Breach",
       "AI"
      ],
-     "also": []
-    },
-    {
-     "title": "PHP2Shell Exploitation on Check Point Gateway",
-     "subtitle": "",
-     "link": "https://research.checkpoint.com/2026/php2shell-exploitation-on-check-point-gateway/",
-     "source": "Check Point Research",
-     "published": "2026-11-12T13:56:37+00:00",
-     "date_only": false,
-     "summary": "Key findings Introduction We have now confirmed that, in late October 2026, approximately one week after a security fix became available, activity originating from 130.94.19[.]204 targeted Israeli organizations through vulnerable Mobile…",
-     "extra": "",
-     "tags": [],
      "also": []
     },
     {
@@ -911,6 +891,30 @@
    "name": "Government Advisories",
    "stories": [
     {
+     "title": "Apache HTTP Server Multiple Vulnerabilities",
+     "subtitle": "",
+     "link": "https://www.hkcert.org/security-bulletin/apache-http-server-multiple-vulnerabilities_20261113",
+     "source": "HKCERT",
+     "published": "2026-11-13T01:00:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Citrix Products Multiple Vulnerabilities",
+     "subtitle": "",
+     "link": "https://www.hkcert.org/security-bulletin/citrix-products-multiple-vulnerabilities_20261113",
+     "source": "HKCERT",
+     "published": "2026-11-13T01:00:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
      "title": "Siemens Desigo, Gridscale",
      "subtitle": "",
      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-316-02",
@@ -971,18 +975,6 @@
      "also": []
     },
     {
-     "title": "Mozilla Products Multiple Vulnerabilities",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20261112",
-     "source": "HKCERT",
-     "published": "2026-11-12T03:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
      "title": "Node.js Multiple Vulnerabilities",
      "subtitle": "",
      "link": "https://www.hkcert.org/security-bulletin/node-js-multiple-vulnerabilities_20261112",
@@ -995,21 +987,9 @@
      "also": []
     },
     {
-     "title": "Citrix XenServer Multiple Vulnerabilities",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/citrix-xenserver-multiple-vulnerabilities_20261112",
-     "source": "HKCERT",
-     "published": "2026-11-12T01:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
      "title": "Ubuntu Linux Kernel Multiple Vulnerabilities",
      "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20261111",
+     "link": "https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20261112",
      "source": "HKCERT",
      "published": "2026-11-12T01:00:00+00:00",
      "date_only": false,
