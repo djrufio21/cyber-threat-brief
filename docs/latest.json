@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T14:18:22+00:00",
+ "generated": "2026-11-14T19:15:49+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -214,6 +214,47 @@
    "name": "Breaking Threats",
    "stories": [
     {
+     "title": "Cursor confirms security breach led to malicious Claude Code extension",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/cursor-confirms-security-breach-led-to-malicious-claude-code-extension/",
+     "source": "BleepingComputer",
+     "published": "2026-11-14T17:27:25+00:00",
+     "date_only": false,
+     "summary": "Cursor confirmed it suffered a security breach that let hackers distribute a malicious Claude Code extension through its marketplace after stealing credentials from AI infrastructure provider Fireworks AI. [...]",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "US disrupts North Korean campaign behind $400 million crypto theft",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/us-disrupts-north-korean-campaign-behind-400-million-crypto-theft/",
+     "source": "BleepingComputer",
+     "published": "2026-11-14T15:15:49+00:00",
+     "date_only": false,
+     "summary": "The U.S. government has disrupted a North Korean social engineering campaign called 'FaceStealer', responsible for stealing more than $400 million in cryptocurrency. [...]",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Is AI Making Us Worse at Cybersecurity?",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/is-ai-making-us-worse-at-cybersecurity/",
+     "source": "SecurityWeek",
+     "published": "2026-11-14T14:00:00+00:00",
+     "date_only": false,
+     "summary": "Overreliance on AI could erode the creativity, clear communication, and critical thinking security teams need when there’s no playbook. The post Is AI Making Us Worse at Cybersecurity? appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
      "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
      "subtitle": "",
      "link": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
@@ -317,140 +358,26 @@
       "APAC"
      ],
      "also": []
-    },
-    {
-     "title": "NYC to bar surveillance pricing as momentum for bans grows nationwide",
-     "subtitle": "",
-     "link": "https://therecord.media/nyc-council-passes-bill-ban-surveillance-pricing",
-     "source": "The Record",
-     "published": "2026-11-13T18:35:00+00:00",
-     "date_only": false,
-     "summary": "The New York City government will be able to fine companies $1,000 for each verified instance of surveillance pricing.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "German military drone operations disrupted by cyberattack",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/german-military-drone-operations-disrupted-by-cyberattack/",
-     "source": "BleepingComputer",
-     "published": "2026-11-13T17:31:56+00:00",
-     "date_only": false,
-     "summary": "German defense technology company Quantum Systems confirmed that it detected an incident in late October that was part of an active cyberattack by \"hostile actors.\" [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "University of Texas at Arlington warns personal information stolen during cyberattack",
-     "subtitle": "",
-     "link": "https://therecord.media/university-of-texas-arlington-warns-data-breach",
-     "source": "The Record",
-     "published": "2026-11-13T17:26:00+00:00",
-     "date_only": false,
-     "summary": "In a statement to Recorded Future News, a spokesperson said an investigation into the attack confirmed the stolen data but declined to say what information was obtained by the threat actors.",
-     "extra": "",
-     "tags": [
-      "Breach"
-     ],
-     "also": []
-    },
-    {
-     "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html",
-     "source": "The Hacker News",
-     "published": "2026-11-13T16:53:08+00:00",
-     "date_only": false,
-     "summary": "A type confusion flaw in PostgreSQL lets a database user who can create objects run code on the server. Updates released yesterday fix it, along with 51 other security flaws. Full protection from this flaw also requires rebuilding any…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "German parliament passes law giving spy agencies hacking, sabotage powers",
-     "subtitle": "",
-     "link": "https://therecord.media/german-parliament-passes-law-giving-spy-agencies-hacking-power",
-     "source": "The Record",
-     "published": "2026-11-13T16:32:00+00:00",
-     "date_only": false,
-     "summary": "In the biggest overhaul of the country’s spy laws of the postwar era, the Bundestag approved the bill by 308 votes to 190 — with 71 abstentions — months after Chancellor Friedrich Merz’s cabinet signed off on the draft.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Check Point gateways hacked via PHP2Shell to deploy VMware ESXi wiper",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/check-point-gateways-hacked-via-php2shell-to-deploy-vmware-esxi-wiper/",
-     "source": "BleepingComputer",
-     "published": "2026-11-13T16:21:43+00:00",
-     "date_only": false,
-     "summary": "Vulnerable Check Point Security Gateway instances have been targeted in PHP2Shell attacks that deployed data-wiping malware on VMware ESXi hosts. [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html",
-     "source": "The Hacker News",
-     "published": "2026-11-13T15:27:05+00:00",
-     "date_only": false,
-     "summary": "Two attacks made public this week allow a malicious host to read data inside AMD SEV-SNP-protected virtual machines (VMs), which are built to keep the server's operator out. One of them, Mior, can also modify a VM's memory and fake the…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "In Other News: New CISA Director Nominee, Connected Car Hacking, Baker Tilly Data Breach",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/in-other-news-new-cisa-director-nominee-connected-car-hacking-baker-tilly-data-breach/",
-     "source": "SecurityWeek",
-     "published": "2026-11-13T15:20:00+00:00",
-     "date_only": false,
-     "summary": "Noteworthy stories that might have slipped under the radar: Siemens details security advisory policy, OpenAI Codex backdoor risk, Microsoft warns of model weight backdoors. The post In Other News: New CISA Director Nominee, Connected Car…",
-     "extra": "",
-     "tags": [
-      "Breach"
-     ],
-     "also": []
-    },
-    {
-     "title": "How one AI agent exposed five critical enterprise security gaps",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/how-one-ai-agent-exposed-five-critical-enterprise-security-gaps/",
-     "source": "BleepingComputer",
-     "published": "2026-11-13T15:01:11+00:00",
-     "date_only": false,
-     "summary": "An AI agent built to automate invoice processing could be manipulated into changing vendor bank details through a malicious email, without triggering traditional security alerts. Token Security examines five critical AI agent security gaps…",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html",
-     "source": "The Hacker News",
-     "published": "2026-11-13T14:28:58+00:00",
-     "date_only": false,
-     "summary": "The U.S. Federal Bureau of Investigation (FBI) has established that threat actors tied to the Democratic People's Republic of Korea (DPRK aka North Korea) have stolen more than $400 million worth of cryptocurrency as part of a social…",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
     }
    ]
   },
   {
    "name": "APAC Watch",
    "stories": [
+    {
+     "title": "Japan’s GMO to Spend ¥3 Billion in Compensation for Cyberattack",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lblRzYkUyc09aYy1RUzBwUG5fMEdGRzUteUo2aTY4S21BMVFHN3Y0R0JlOHBuN25Wd3EyWmNEdGpyc0tjSUR2aG5xNkhodzMzWjJxNVIwQ3h0SkNBTkhxM3hyTkhSNFZIMWl6LVlqSS1NTzZTUnc?oc=5",
+     "source": "The Japan News",
+     "published": "2026-11-14T17:00:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
     {
      "title": "Japan Hit by Record Cyberattack Surge as Hackers Use AI to Exploit Security Vulnerabilities",
      "subtitle": "",
@@ -498,7 +425,7 @@
      "also": []
     },
     {
-     "title": "Japan's wave of cyberattacks reaches Osaka and Sega after a hacked email service exposes 77 million addresses",
+     "title": "Japan's wave of cyberattacks hits Yomiuri Giants fans, Osaka and Sega as the FBI warns about AI tool Artex",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcHpUQ29oWl90VVpKdURwdGNDUmdNangxLVdudkU2d2Yzd2tUR1ozQTc3Q184ZDJuQjQ2S3JKdWZ4QW1Tbi1ETmFjRjgxSjNlYzdmTzJWYVhpQlhXOGtWVnpiNnJXTnlvbTFfMlB2bzVGcmdUMTRsRVgxMVE5YXNBOV9ETi1pS2hmUDFXX0VKQlZrdGlDVmdGX1I2LVg2X2ZXRjR6U1M1WWpmS3JnVVE?oc=5",
      "source": "Nacionale",
@@ -507,20 +434,7 @@
      "summary": "",
      "extra": "",
      "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Japan’s GMO to Spend ¥3 Bil. in Compensation for Cyberattack",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9RSWRWX2NMYmVtSV9yUWlBd0ZiMlN3X2JhbnNwWTFWSl83bVlMRzdZcU5Ud3ZySG4yVTBnU3RQektsX2VVVXRRVmtlZTd6RThBYnE1d21Lck5aMEd4dkEzUy01aVF5UDRYZDRZbWppU3o2SkJES2c?oc=5",
-     "source": "The Japan News",
-     "published": "2026-11-14T07:02:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
+      "AI",
       "APAC"
      ],
      "also": []
@@ -578,35 +492,6 @@
      "extra": "",
      "tags": [
       "AI",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Inside the international cyber raids on India’s NBFCs; Hackers turn NBFC payout APIs into theft routes",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOSFZzSjl3SFdkc1lTUFZUaEFZLU9mMUtMa2FEUXpPdDUyTUdYQ1k0emdBamMyc2VHalRvdFVaUkFncV9ERVBaRWhLVUk2S2F0VDVGeGNLaWVldjVjTWVKM2xBbzhLOHRMYkFhRktrQWRLcGNCTUdmWTdtVmRPbThBbm00eVRick1MZjBCQjd1QjhyWm9zeHo3X0hwQ0lKV0laQ0pwRzJpdHRxSGZvS2wyQ1g2YXRVQ09la210RmJQWEt2MVpSTzI0MFlxYVQ4YXpibGoyR0pDTVBabGJQU25vZ3J2Zm5aNEpqZGJLUlBGcVF3OXZDN3g2RTdsWkRvVEtBT1BmY2JZanPSAY4CQVVfeXFMTVlFNVdaM2lySldveHZ6TlVmdmNJX0FnWDMxN0Fpa1N3MEZsRXhBR2Rtd3gwOGR2X3R6dmp5SXloMHFnX0lfU3FxMlJOQU1YSWpEaUIxbnB3ZXU5TW45QUN6c2Fuc0lLZTc3anVlTG5QODh4VTlGVGhTVUZveS1mZE0wVWtGUDBGUDdCVG9DZXNpaUN5SG5odXhuWWZ3WFVCdmpGSFFVM1pWWGtiRC13cldTN3hpaTRBWUpBeGR2X2kyZkR2ckx3QmVjdjRDSWJKYzRVRGZfd29tREJOZWVYVFQ3eUxvakdxUkhFNnUxN0pDR0ZQNUEtM3gxcTFWTk9zMnU3NTlYRmktOFh2aU5n?oc=5",
-     "source": "The Times of India",
-     "published": "2026-11-13T18:25:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "AXA stock: Japan unit discloses MyAXA data breach affecting 597,000",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOY2dpV0F3N1p2WmFrV3BkaGJsVllZbHlNbkxLNFFIVHZ6NUN0VmtKTDZna1RibmFyS1Q4VXRJUFl5bjNBOEFib1loVS1TZ2NYbEs5NUVjeUFHNDNJektkMVNfamVjS2JMckVZRHJJNXQ2d0JSSW1wMDlUZEN2WTZFM1FGeE0ycXd4cHFIWTZaZEprMU54SVA2T20wM1R6Zm1VRkR3X1E3amNjTnVCTnkxM1V0YzduOGRpemhYdldkVGF3MWEwZ2dTeg?oc=5",
-     "source": "ad-hoc-news.de",
-     "published": "2026-11-13T16:04:54+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
       "APAC"
      ],
      "also": []
