@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-13T23:41:37+00:00",
+ "generated": "2026-11-14T06:43:40+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -207,23 +207,6 @@
      "product": "Aspera Faspex",
      "cve": "CVE-2026-123218",
      "also": []
-    },
-    {
-     "title": "CVE-2026-19868: SonicWall SonicOS SSLVPN",
-     "subtitle": "SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability",
-     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-19868",
-     "source": "CISA KEV",
-     "published": "2026-11-06T00:00:00+00:00",
-     "date_only": true,
-     "summary": "SonicWall SonicOS SSLVPN contains a use of single-factor authentication vulnerability that may allow a user with valid credentials for an alternate authentication method to bypass SAML authentication controls. Successful exploitation may…",
-     "extra": "US federal patch deadline 20 Nov",
-     "tags": [
-      "Exploited"
-     ],
-     "vendor": "SonicWall",
-     "product": "SonicOS SSLVPN",
-     "cve": "CVE-2026-19868",
-     "also": []
     }
    ]
   },
@@ -430,8 +413,7 @@
       "APAC"
      ],
      "also": [
-      "NHKニュース",
-      "AsiaOne.com"
+      "NHKニュース"
      ]
     },
     {
@@ -574,6 +556,35 @@
    "name": "APAC Watch",
    "stories": [
     {
+     "title": "How hackers took control of supermarket fridges across Europe, and what it means for India’s cold chain",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRE5Wc3FxNk5lU1VxYUx6TnF6NnBzOGVTSTVOU2kxUnhiQTZqSTlWVFBFMHBnNTBVZjBUZVZlMWxNZjR0TEh4UTdvSGFfV21JZlMxSjRYSHM3SkJCMVpkcTlzdXQyWG5pUm5oeVVsQkJUb2tLbW8zT0NPMDA4Tm1yaWxUcUhHOTlIRl8xNGM5Ml9uMkE4UTgzaXJsTHFkOTdORHZaQl9lOTRVN0ZvQlFTYVdPdnA5aHgxa0J1UNIBwwFBVV95cUxNZFpqejlsSUtjbHBITjkwYVNWZXFpT1BQQXhmY2s4REpFT1NaWTVlZlNUVThldndGMlRHYkZ0dUFpbHdmMkkwX2liSFdJVG9nZ25UTV84MUwtVzJzdkhyNXhlQ2lVcXJOR3h1ajBXdGRLYkFkWU1jcEE0SkVTLUhUSTk2SUZQYThEWnRTMUdwMkM2VTc4emczUExoUG4ySmFteEx4MWR0elNZNC1ZT2ZLR25ESXMyN2tpcGd2akg2Y2ltZnc?oc=5",
+     "source": "The Indian Express",
+     "published": "2026-11-14T05:24:22+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Explained: How AI-driven hackers are exploiting India's financial plumbing to steal money",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQU9qUWxqOWsybGh6dThENTRBUi1Ma0FkbG1XY3pUd20ydTh1Q2NrX0x3LU4wSG93cXk1ZE9jVUY4eXJIeUFzUFJDQ05XVjdHazFBcEtHcDQwbEFMMFFzSVRWWVI1Z3dJUWNzM2dBNTJBeEdTZmdzd09SOWNjVVZzTkVISFByODI4RGstZDgwcXRVSUV4UXE2M1ZYWHJidE1aZlFHZFhleGxyM2xYU0p5bDRkT2EycjF2cUY4V2hENk9OdVhHc0prTUdrbDh5bm9QQ1MtemJnWl9ESVN5ekprQXpn0gHnAUFVX3lxTE1DejJVWEF3OE1jc3dYb0hOMU5fUjRkX3o0anRDeklFNllITkpnbE5ZOTNmQnRfVUtZTkN6bW9hT2RUX2dBeW5SRjhjRV9COFJWclp6Y1V5b0lTUEl5aEpLZFgxazRZR0FvU3BuS3RNa08yNVBHenVkZHFJZ2xwa3VvZ2c3cjV6aWZQZEx5QVFGeE93bGZqakFRYmViX2tNUmN2Q09nVm1XMmRBclpLZVAtYlltelpDSks4cFRFd2NTNzYwYlFnSjRUdFZ3bkRuOUFyQWdPM2kyc1MxWlROcFhZWTBzZ3BFTQ?oc=5",
+     "source": "bfsi.economictimes.indiatimes.com",
+     "published": "2026-11-14T02:14:08+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "AI",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
      "title": "Inside the international cyber raids on India’s NBFCs; Hackers turn NBFC payout APIs into theft routes",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOSFZzSjl3SFdkc1lTUFZUaEFZLU9mMUtMa2FEUXpPdDUyTUdYQ1k0emdBamMyc2VHalRvdFVaUkFncV9ERVBaRWhLVUk2S2F0VDVGeGNLaWVldjVjTWVKM2xBbzhLOHRMYkFhRktrQWRLcGNCTUdmWTdtVmRPbThBbm00eVRick1MZjBCQjd1QjhyWm9zeHo3X0hwQ0lKV0laQ0pwRzJpdHRxSGZvS2wyQ1g2YXRVQ09la210RmJQWEt2MVpSTzI0MFlxYVQ4YXpibGoyR0pDTVBabGJQU25vZ3J2Zm5aNEpqZGJLUlBGcVF3OXZDN3g2RTdsWkRvVEtBT1BmY2JZanPSAY4CQVVfeXFMTVlFNVdaM2lySldveHZ6TlVmdmNJX0FnWDMxN0Fpa1N3MEZsRXhBR2Rtd3gwOGR2X3R6dmp5SXloMHFnX0lfU3FxMlJOQU1YSWpEaUIxbnB3ZXU5TW45QUN6c2Fuc0lLZTc3anVlTG5QODh4VTlGVGhTVUZveS1mZE0wVWtGUDBGUDdCVG9DZXNpaUN5SG5odXhuWWZ3WFVCdmpGSFFVM1pWWGtiRC13cldTN3hpaTRBWUpBeGR2X2kyZkR2ckx3QmVjdjRDSWJKYzRVRGZfd29tREJOZWVYVFQ3eUxvakdxUkhFNnUxN0pDR0ZQNUEtM3gxcTFWTk9zMnU3NTlYRmktOFh2aU5n?oc=5",
@@ -656,49 +667,6 @@
      "extra": "",
      "tags": [
       "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "BREAKING NEWS: Microsoft Japan rules out cyberattack as cause of platform outage",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE90cVZ5bmE3NmlBdmpaOGlLZ0dsd1NXeTRDNTdkcVlmRXlDZHZjZHVmek1iWS0wUy00RllOWHBXcF9NRjRVZXlfVWZfYVdSNVdJOG5fNW1uWUlpdw?oc=5",
-     "source": "Japan Wire by Kyodo News",
-     "published": "2026-11-13T03:42:43+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Malaysia maintains amber alert amid cyberattack, security breach claims",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcnFiZzBsdmM3QU8xVVNqRDBUcDhmQ2NtLTV3Tk16UVYtSGY0T3dTZWpVaUVUSzZEMXlYRHhwSXJpWUNQbVpkMTE5ZE9DWnhtcWdPNmtLSi01amNueE85c2dvbldNOFF3Z0hvbmpMLU80SVNjMWN6ZU5OOTRpSUdQN3Zrajd6cE1lenBMMGlheDFrVnYyNC1VR2JOM1M?oc=5",
-     "source": "Asia News Network",
-     "published": "2026-11-13T02:11:42+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "South Korea Financial Security Portal Hacked, Employee Data Exposed",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdXlqaFU0RDd6RWpaU0RpWWF2dzQ3c04zN3ZvdHBCVjB3Szd2QzZJM0ZURlJ5V0tldnB0aWIxM09MS0VYdHdLV1ZiUGJMd1Y5M2RpcGlwMnJJYk5Sb1JGUVFyblZqdzc2b1ZLY1czNmZMUW83dkxfbXZiVEFDNmlQdUZXNnFEMnlnNG9EMkRXZDRNbm9pVmtiWjhRQzdxdjRMRkE?oc=5",
-     "source": "eSecurity Planet",
-     "published": "2026-11-13T00:04:11+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
       "APAC"
      ],
      "also": []
@@ -879,20 +847,6 @@
       "Breach"
      ],
      "also": []
-    },
-    {
-     "title": "ARTEX abuse expands as cybercriminals target financial sector",
-     "subtitle": "",
-     "link": "https://www.microsoft.com/en-us/security/blog/2026/11/06/artex-abuse-expands-as-cybercriminals-target-financial-sector/",
-     "source": "Microsoft Threat Intelligence",
-     "published": "2026-11-07T02:44:34+00:00",
-     "date_only": false,
-     "summary": "In October 2026, the financially motivated threat actor Storm-3358 began targeting organizations in the financial sector using the agentic AI offensive framework ARTEX. The post ARTEX abuse expands as cybercriminals target financial sector…",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
     }
    ]
   },
@@ -1015,18 +969,6 @@
      "link": "https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20261112",
      "source": "HKCERT",
      "published": "2026-11-12T01:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Adobe Monthly Security Update (November 2026)",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/adobe-monthly-security-update-november-2026",
-     "source": "HKCERT",
-     "published": "2026-11-11T03:00:00+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
