@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T19:15:49+00:00",
+ "generated": "2026-11-14T23:06:18+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -289,75 +289,6 @@
      "extra": "",
      "tags": [],
      "also": []
-    },
-    {
-     "title": "FAA Ground Stop Issued Due to ‘Extraordinary Circumstances’",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/faa-ground-stop-issued-due-to-extraordinary-circumstances/",
-     "source": "SecurityWeek",
-     "published": "2026-11-13T21:33:27+00:00",
-     "date_only": false,
-     "summary": "Federal officials have yet to say what caused the communications disruption or whether they are investigating a possible cyberattack. The post FAA Ground Stop Issued Due to ‘Extraordinary Circumstances’ appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "FBI flash alert says Artex tool automating cyberattacks at ‘machine speed’",
-     "subtitle": "",
-     "link": "https://therecord.media/artex-ai-tool-fbi-flash-alert",
-     "source": "The Record",
-     "published": "2026-11-13T21:32:00+00:00",
-     "date_only": false,
-     "summary": "Open source hacking tool Artex \"significantly reduces the time required to chain attack techniques, with some intrusions progressing from initial targeting to privileged access in under three hours,\" the FBI said.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "ArcticRAT Cybercrime Gang Profiles Victim Finances With AI",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/mobile-security/arcticrat-cybercrime-gang-profiles-victim-finances-ai",
-     "source": "Dark Reading",
-     "published": "2026-11-13T20:20:27+00:00",
-     "date_only": false,
-     "summary": "The Android malware has expanded from focusing on crypto theft to full device control, and the attackers have added advanced analysis of stolen information.",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "City of Osaka warns of data breach impacting 1 million as Japan reels from dozens of cyber incidents",
-     "subtitle": "",
-     "link": "https://therecord.media/city-of-osaka-japan-email-data-breach",
-     "source": "The Record",
-     "published": "2026-11-13T19:43:00+00:00",
-     "date_only": false,
-     "summary": "Osaka, Japan's third-largest city, told its 2.8 million residents to be wary of suspicious emails purporting to come from the local government.",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": [
-      "The Record from Recorded Future News"
-     ]
-    },
-    {
-     "title": "Trezor confirms crypto-stealing implants in three wallets, releases fix",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/cryptocurrency/trezor-confirms-crypto-stealing-implants-in-three-wallets-releases-fix/",
-     "source": "BleepingComputer",
-     "published": "2026-11-13T19:38:36+00:00",
-     "date_only": false,
-     "summary": "Cryptocurrency hardware wallet maker Trezor has confirmed that three Safe 5 devices sold by Southeast Asian reseller CryptoBilis contained malicious hardware implants designed to steal wallet recovery phrases and send them to attackers…",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
     }
    ]
   },
@@ -369,7 +300,7 @@
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lblRzYkUyc09aYy1RUzBwUG5fMEdGRzUteUo2aTY4S21BMVFHN3Y0R0JlOHBuN25Wd3EyWmNEdGpyc0tjSUR2aG5xNkhodzMzWjJxNVIwQ3h0SkNBTkhxM3hyTkhSNFZIMWl6LVlqSS1NTzZTUnc?oc=5",
      "source": "The Japan News",
-     "published": "2026-11-14T17:00:00+00:00",
+     "published": "2026-11-14T22:51:25+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
