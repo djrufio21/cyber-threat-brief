@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T06:43:40+00:00",
+ "generated": "2026-11-14T14:18:22+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -214,6 +214,42 @@
    "name": "Breaking Threats",
    "stories": [
     {
+     "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
+     "source": "The Hacker News",
+     "published": "2026-11-14T12:38:35+00:00",
+     "date_only": false,
+     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added a high-severity security flaw impacting UnrealIRCd, an open-source Internet Relay Chat (IRC) server, to its Known Exploited Vulnerabilities (KEV) catalog…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Apple Reveals How Secure Exclaves Shield Camera and Microphone Data",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/apple-reveals-how-secure-exclaves-shield-camera-and-microphone-data/",
+     "source": "SecurityWeek",
+     "published": "2026-11-14T11:00:00+00:00",
+     "date_only": false,
+     "summary": "The tech giant has detailed the architecture designed to isolate ambient sensor data from the main OS on HomeView and new iPhones. The post Apple Reveals How Secure Exclaves Shield Camera and Microphone Data appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/no-signs-of-hacking-in-faa-ground-stop-as-fbi-reportedly-probes-software-update/",
+     "source": "SecurityWeek",
+     "published": "2026-11-14T08:40:22+00:00",
+     "date_only": false,
+     "summary": "Officials say there is no evidence of a cyberattack behind the nationwide FAA outage, which may have been caused by a software update. The post No Signs of Hacking in FAA Ground Stop as FBI Reportedly Probes Software Update appeared first…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
      "title": "FAA Ground Stop Issued Due to ‘Extraordinary Circumstances’",
      "subtitle": "",
      "link": "https://www.securityweek.com/faa-ground-stop-issued-due-to-extraordinary-circumstances/",
@@ -280,9 +316,7 @@
      "tags": [
       "APAC"
      ],
-     "also": [
-      "The Hacker News"
-     ]
+     "also": []
     },
     {
      "title": "NYC to bar surveillance pricing as momentum for bans grows nationwide",
@@ -356,9 +390,7 @@
      "summary": "Vulnerable Check Point Security Gateway instances have been targeted in PHP2Shell attacks that deployed data-wiping malware on VMware ESXi hosts. [...]",
      "extra": "",
      "tags": [],
-     "also": [
-      "The Hacker News"
-     ]
+     "also": []
     },
     {
      "title": "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs",
@@ -412,142 +444,6 @@
      "tags": [
       "APAC"
      ],
-     "also": [
-      "NHKニュース"
-     ]
-    },
-    {
-     "title": "Microsoft Struggles to Restore Email and Other Services in a Global Outage",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/microsoft-struggles-to-restore-email-and-other-services-in-a-global-outage/",
-     "source": "SecurityWeek",
-     "published": "2026-11-13T13:47:42+00:00",
-     "date_only": false,
-     "summary": "Microsoft is trying different ways to identify the cause of the problem and get its servers back online, using “a measured approach to identify and repair affected infrastructure.” The post Microsoft Struggles to Restore Email and Other…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Attackers in Binance Breach Targeted Known Weakness, Missing Controls",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/cybersecurity-operations/attackers-binance-breach-targeted-weakness-missing-controls",
-     "source": "Dark Reading",
-     "published": "2026-11-13T13:00:00+00:00",
-     "date_only": false,
-     "summary": "Blockchain complexities, such as attacker-deployed sweepers, hobble security controls designed to limit the damage of an exchange compromise.",
-     "extra": "",
-     "tags": [
-      "Breach"
-     ],
-     "also": []
-    },
-    {
-     "title": "Apify Confirms Customer Data Accessed in Cyberattack",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/apify-confirms-customer-data-accessed-in-cyberattack/",
-     "source": "SecurityWeek",
-     "published": "2026-11-13T12:41:01+00:00",
-     "date_only": false,
-     "summary": "The web scraping company says an intruder accessed customer accounts and obtained personal information or stored data. The post Apify Confirms Customer Data Accessed in Cyberattack appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Microsoft says November security updates cause printing issues",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-november-security-updates-cause-printing-issues/",
-     "source": "BleepingComputer",
-     "published": "2026-11-13T12:27:40+00:00",
-     "date_only": false,
-     "summary": "Microsoft warned customers earlier this week that the November 2026 security updates may break printing for documents with complex formatting. [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "SilentAir Hackers Intercept Calls, SMS From Inside Mobile Networks",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/silentair-hackers-intercept-calls-sms-from-inside-mobile-networks/",
-     "source": "SecurityWeek",
-     "published": "2026-11-13T12:20:28+00:00",
-     "date_only": false,
-     "summary": "Enea says SilentAir hijacked mobile network nodes to intercept calls and messages, with Taiwanese subscribers the primary targets. The post SilentAir Hackers Intercept Calls, SMS From Inside Mobile Networks appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [
-      "Telecom",
-      "APAC"
-     ],
-     "also": [
-      "The Hacker News"
-     ]
-    },
-    {
-     "title": "When an AI Agent Goes Wrong, Can You Stop It?",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html",
-     "source": "The Hacker News",
-     "published": "2026-11-13T11:52:31+00:00",
-     "date_only": false,
-     "summary": "Suppose an AI agent is asked to sort support tickets and look up account details. A ticket contains instructions that lead the agent to export records to an unfamiliar destination. The agent can make the request because its identity has…",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html",
-     "source": "The Hacker News",
-     "published": "2026-11-13T10:55:03+00:00",
-     "date_only": false,
-     "summary": "An international police operation took down servers behind Gootloader, CastleRAT and StealC this week. Criminals used the three malware tools to gain access to computers, steal passwords, and launch ransomware attacks. Police also seized…",
-     "extra": "",
-     "tags": [
-      "Ransomware"
-     ],
-     "also": []
-    },
-    {
-     "title": "Law Enforcement Disrupts Gootloader, CastleRAT, and StealC Infrastructure",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/law-enforcement-disrupts-gootloader-castlerat-and-stealc-infrastructure/",
-     "source": "SecurityWeek",
-     "published": "2026-11-13T10:48:40+00:00",
-     "date_only": false,
-     "summary": "Investigators seized 235 servers and 257 domains, along with 6.4 million victim credentials as part of Operation Endgame. The post Law Enforcement Disrupts Gootloader, CastleRAT, and StealC Infrastructure appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Check Point warns of zero-day flaw exploited for root access",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/check-point-patches-zero-day-that-lets-hackers-get-root-access/",
-     "source": "BleepingComputer",
-     "published": "2026-11-13T10:44:22+00:00",
-     "date_only": false,
-     "summary": "Check Point Software has released emergency hotfixes to address a high-severity flaw that hackers have been exploiting to gain root privileges and establish persistence on vulnerable devices since late October. [...]",
-     "extra": "",
-     "tags": [
-      "Exploited",
-      "Zero-day"
-     ],
-     "also": []
-    },
-    {
-     "title": "Citrix Patches 10 Critical NetScaler Vulnerabilities",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/citrix-patches-10-critical-netscaler-vulnerabilities/",
-     "source": "SecurityWeek",
-     "published": "2026-11-13T09:36:56+00:00",
-     "date_only": false,
-     "summary": "Successful exploitation could lead to unexpected behavior or denial-of-service (DoS) conditions. The post Citrix Patches 10 Critical NetScaler Vulnerabilities appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [],
      "also": []
     }
    ]
@@ -556,11 +452,113 @@
    "name": "APAC Watch",
    "stories": [
     {
+     "title": "Japan Hit by Record Cyberattack Surge as Hackers Use AI to Exploit Security Vulnerabilities",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8wLVNELXl3NlhXV2Zxdjh0UXNST3BKZnFtdUdRbGVNX2kxV0pyOW1ReWEzN2lvNUhoOFV6aHV1clRJcFlDeTJ5UUdtWFdlQVBHeHhDOTI2MUVGa2YyUlJCVldVakpHTklEeGNXTzlDcHR3UWhsOFNz0gF8QVVfeXFMUEpPaWpoTW9UYVJvX1o4XzVybXRpWDJnY1hJV0ZDSFVXeWozdHpRb1NYOFZReTRWQlJvc1JlV3gzaHhwa1dFRlZWRkliU09TdEVZNFh4dTdJdVNjX1NsTVZ2MW9kd1k5eEVEQWVuUWdOeU10UTlBS0kzM3piRA?oc=5",
+     "source": "GBHackers News",
+     "published": "2026-11-14T12:20:26+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "AI",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Malaysia hit by thousands of cyberattack attempts every month: PM Anwar",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZU44QXA5ZUtnc2k0ZzFWcVZZMTUzSGhoYzhjS003Rk9MMElaQ3BmLUtiWWJUNXdzeHhiU3lIMGlIMEIwT0wwM2l1UjE5S3BaMG52SXIxbDJ5Y2JES1FLX01ZUlZ2bmtHQkJxbGwzVEFkVVBXNVFUVTdhUmRuaFZLWnc2MFdSaFJvQlgtX3F1cmpnYWYyUXRqNU02WkRJZVBQXzQtSWRESFJBSnhxcjB0b1lB?oc=5",
+     "source": "The Straits Times",
+     "published": "2026-11-14T11:20:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": [
+      "The Vibes"
+     ]
+    },
+    {
+     "title": "AXA stock faces Japan data-breach risk as foundation expands green focus",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQX3JBN3NfckFKS1FYQ01DSlk0blZuMGlVZWhCWXBPcmtzR2Y4YU54Z0V6a0hPcG5fUGVrU1VFQkV0bVUwYVl2Z2h1VkVKVEJ6TG1aWDZ3d19EdW1PZV9DeUZzbXU1RkRqV3M1Ml9hZ0xILVRxc2RTeDdEb1Q4aHZrWnliRy0zbjhjLWx0ME1hSDhYcF95TkdmYUJmUV9STk9qVVdzcl9PRWt3RG1SNjRBSzY2YWpqcTR1VVFNd2JlVzNTTzZGdEs4Q2dlYWZnbXhk?oc=5",
+     "source": "ad-hoc-news.de",
+     "published": "2026-11-14T10:38:48+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Japan's wave of cyberattacks reaches Osaka and Sega after a hacked email service exposes 77 million addresses",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcHpUQ29oWl90VVpKdURwdGNDUmdNangxLVdudkU2d2Yzd2tUR1ozQTc3Q184ZDJuQjQ2S3JKdWZ4QW1Tbi1ETmFjRjgxSjNlYzdmTzJWYVhpQlhXOGtWVnpiNnJXTnlvbTFfMlB2bzVGcmdUMTRsRVgxMVE5YXNBOV9ETi1pS2hmUDFXX0VKQlZrdGlDVmdGX1I2LVg2X2ZXRjR6U1M1WWpmS3JnVVE?oc=5",
+     "source": "Nacionale",
+     "published": "2026-11-14T07:30:52+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Japan’s GMO to Spend ¥3 Bil. in Compensation for Cyberattack",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9RSWRWX2NMYmVtSV9yUWlBd0ZiMlN3X2JhbnNwWTFWSl83bVlMRzdZcU5Ud3ZySG4yVTBnU3RQektsX2VVVXRRVmtlZTd6RThBYnE1d21Lck5aMEd4dkEzUy01aVF5UDRYZDRZbWppU3o2SkJES2c?oc=5",
+     "source": "The Japan News",
+     "published": "2026-11-14T07:02:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
      "title": "How hackers took control of supermarket fridges across Europe, and what it means for India’s cold chain",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRE5Wc3FxNk5lU1VxYUx6TnF6NnBzOGVTSTVOU2kxUnhiQTZqSTlWVFBFMHBnNTBVZjBUZVZlMWxNZjR0TEh4UTdvSGFfV21JZlMxSjRYSHM3SkJCMVpkcTlzdXQyWG5pUm5oeVVsQkJUb2tLbW8zT0NPMDA4Tm1yaWxUcUhHOTlIRl8xNGM5Ml9uMkE4UTgzaXJsTHFkOTdORHZaQl9lOTRVN0ZvQlFTYVdPdnA5aHgxa0J1UNIBwwFBVV95cUxNZFpqejlsSUtjbHBITjkwYVNWZXFpT1BQQXhmY2s4REpFT1NaWTVlZlNUVThldndGMlRHYkZ0dUFpbHdmMkkwX2liSFdJVG9nZ25UTV84MUwtVzJzdkhyNXhlQ2lVcXJOR3h1ajBXdGRLYkFkWU1jcEE0SkVTLUhUSTk2SUZQYThEWnRTMUdwMkM2VTc4emczUExoUG4ySmFteEx4MWR0elNZNC1ZT2ZLR25ESXMyN2tpcGd2akg2Y2ltZnc?oc=5",
      "source": "The Indian Express",
      "published": "2026-11-14T05:24:22+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Massive Cyberattack Wave Hits Japan, Exposing Millions of Customer Records",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56NVFyNkl6MDMyYkU5cThYZGEyQzBUVG1OTmJUZVNkQlR2eHNpYUlEZTdZRy1CdDJDVnVUTnF0RWE2ZUE2dnJkVFNkcmFvV19HZ18zY3Z0LUhabmJIdm9zUXdGMnBwOThNaDZr0gFrQVVfeXFMTno1UXI2SXowMzJiRTlxOFhkYTJDMFRUbU5OYlRlU2RCVHZ4c2lhSURlN1lHLUJ0MkNWdVROcXRFYTZlQTZ2cmRUU2RyYW9XX0dnXzNjdnQtSFpuYkh2b3NRd0YycHA5OE1oNms?oc=5",
+     "source": "Cyber Press",
+     "published": "2026-11-14T05:13:20+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "No Sign of Cyberattack, Says Microsoft Exec as Outage Snares OpenAI, Anthropic and Even Australia’s Spy Agency",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQeHhlNlJaZkhvZExYTUNadHh6NEFoS2w2clQ1eTJHSlkwUDZuTHFqWC0zaVFFZF9aRmZLa0NhMXF3bDREeGV5eWNSNDNNMGNjRWZjNkcwcHNWUEhIWW9Jc3kxN2dHWHNEOFR6RWE2Q3YwN29iN0swaGVVWmxMa1c2cUxYR2VtajFNTXdJRFRzZ1psOTRoTjdWQ0FUTXEtVTdsaUM2N2hkYVU5Zjd6eTNDOHduenVzYWxTbnFLWGhacW9aSFhORUNub3B2QTNDaE9oWF9xR25B?oc=5",
+     "source": "Malaysia-China Insight",
+     "published": "2026-11-14T04:53:59+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -612,64 +610,6 @@
       "APAC"
      ],
      "also": []
-    },
-    {
-     "title": "Warning of malware targeting financial applications in Vietnam",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNeWEzcGRobzFycHZsR2lFQ0hpclMwNldTek9ud1ctYk1XbmhkSGQxUlpFa3loeElWVU5XNS1rSkVnOVNDR3dJWHJ2ZEx4TmxScWtlQ25HLV9Kc2JmZkNsLUR2bFFlLXVxZGU4MmtBNk1BWHpGc0ZOazV3UHktYzNxbG0zQjN4d2xVWVpsWEk4Z2E5RjVLV1JxTldKVFdmdUhpcE9aMUdTcw?oc=5",
-     "source": "Laodong.vn",
-     "published": "2026-11-13T11:48:21+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "South Korea's Ministry of SMEs and Startups Hit by Another Data Breach in \"Startup for Everyone\" Program; 818 Affected, Recurrence in Just 5 Months",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5NZnNFY0E3MHRPWXIyWS14Ylo3LWFUajcyT2RmODdzYTV0VlRyaUpFUUl2VUpQNVhrWE01TUxOWUE2YnBGM1h6STJLOFZpVklLVGdiTWo4di1ZNlV6LVhDYVVGYk5YTDBPUU9JUnBMbms4VDRGU1E?oc=5",
-     "source": "BigGo Finance",
-     "published": "2026-11-13T09:26:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "No sign of cyberattack, says Microsoft exec as outage snares OpenAI, Anthropic and even Australia’s spy agency",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQbVNRLXJlbmEwQkRqRF9KRUEtWVdrRmFOaUcycS1BaWNObE1wRVc5am9CQ0xLLVdMZExaTEhOMUZWd3YxR25MQ3Y5dFoxMDZmbWs5bVlYbDgydGJkVnRwODNTQWE0MkZmTlRGNWdyd3dEdmpUTGhTS2xsZEs3WnkwRGJEc1VTb2ZSVEdQWlctWEhVZTJlMTk5eDFEZFBURHJGTk1rZXJSSkkzQm44ZDFJckpkNU1mMmh0ZEVPbzVoV0VfNThzM0JmT0xNcFFuRWtad2ZHMVNZdWlkMjNfVzJ0RTVuSWo4d01LRmJOcGdMbk84ckFzdlZBNy1IWHd3d9IBgwJBVV95cUxPbUdUaXBaQXkzNm1ObjFsSlJvYWllbUNKNHlTR3ZLNzdzQUlsdE96b1NVSlRENXc5UGxEdzBDb3M2WHp6V083c25SLWhnVFlNYXB5VHRNOTJqSGpmekdfbzNOaDlfLUZ1M0sxZmk0TnZjTmhscjdZR3F0LTh5dzZlSWZnTXR3cFJLV1lDYzQ4Vmpjck5RVEFSMFJVU3NiQy1MMzlxejNNMzlIVmdqTjVkNE8xQ1JfcUdkdzhTUm5QNmpCeER4OE5NY0xsOHBreDRTTXhROHY1WWQ5MzhoTmhMdWZ3TENYTXBEN2tJa1Y5cnZXU1hrLUN0QloxSk1FdzBiY3Fv?oc=5",
-     "source": "Malay Mail",
-     "published": "2026-11-13T08:59:22+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Thailand tightens aviation cybersecurity after 60,000 passenger data breach",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPSlh5SkpEVEE5czlBNXMzY1RtRzk3VGNtYmFZLTdHRlRTRk9CRWJkRGRQa2hLbV96Q1lFSFV6NjBQWVZJblotVmtiVkNJcEpLYVpSODRYamZhalpWbnA1UEtHdXVTbEN5bE9PX3czTkZDOXV6X05qOWU1TDFpMXdxd2hTZEJVYUpVdXdvMWs0NHNKWXJOTkNGaldWbVF4UDdSOERMQTBKbk45eWt0dXRTTVdzLXA4SXpQTGt3NkhMZw?oc=5",
-     "source": "VnExpress International",
-     "published": "2026-11-13T07:29:47+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
     }
    ]
   },
@@ -700,6 +640,18 @@
      "tags": [
       "AI"
      ],
+     "also": []
+    },
+    {
+     "title": "GTA VI isn’t out yet – and the scams are already in full swing",
+     "subtitle": "",
+     "link": "https://www.welivesecurity.com/en/cybersecurity/gta-vi-isnt-out-yet-scams-full-swing/",
+     "source": "ESET Research",
+     "published": "2026-11-13T10:00:00+00:00",
+     "date_only": false,
+     "summary": "Cybercriminals attempt to cash in on the hype around the game, luring fans with malware-laced downloads and ‘early access’ that doesn’t exist",
+     "extra": "",
+     "tags": [],
      "also": []
     },
     {
@@ -742,6 +694,18 @@
       "Breach",
       "AI"
      ],
+     "also": []
+    },
+    {
+     "title": "PHP2Shell Exploitation on Check Point Gateway",
+     "subtitle": "",
+     "link": "https://research.checkpoint.com/2026/php2shell-exploitation-on-check-point-gateway/",
+     "source": "Check Point Research",
+     "published": "2026-11-12T13:56:37+00:00",
+     "date_only": false,
+     "summary": "Key findings Introduction We have now confirmed that, in late October 2026, approximately one week after a security fix became available, activity originating from 130.94.19[.]204 targeted Israeli organizations through vulnerable Mobile…",
+     "extra": "",
+     "tags": [],
      "also": []
     },
     {
