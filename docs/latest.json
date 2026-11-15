@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T17:50:48+00:00",
+ "generated": "2026-11-15T22:58:21+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -214,6 +214,22 @@
    "name": "Breaking Threats",
    "stories": [
     {
+     "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
+     "source": "BleepingComputer",
+     "published": "2026-11-15T18:29:53+00:00",
+     "date_only": false,
+     "summary": "The FBI is warning that hackers are using an AI-powered penetration testing framework called ARTEX to automate cyberattacks against organizations worldwide, including a recent ConnectWise supply-chain breach that compromised Microsoft 365…",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "Supply chain",
+      "AI"
+     ],
+     "also": []
+    },
+    {
      "title": "TSMC employee data breach linked to cloud provider",
      "subtitle": "",
      "link": "https://www.bleepingcomputer.com/news/security/tsmc-employee-data-breach-linked-to-cloud-provider/",
@@ -252,9 +268,7 @@
      "summary": "Meta was fined €805 million in Italy yesterday over a Facebook for Android feature that suggests photos and videos from users' phone galleries for them to post. The Garante, Italy's data protection authority, found that the feature was…",
      "extra": "",
      "tags": [],
-     "also": [
-      "SecurityWeek"
-     ]
+     "also": []
     },
     {
      "title": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
@@ -277,16 +291,17 @@
    "name": "APAC Watch",
    "stories": [
     {
-     "title": "SPH Media is latest Singapore firm impacted by data breach, report says",
+     "title": "Australia mulls tougher tech laws after AI health breach",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE43QVFMREYyS3VWbHFiOTdFTWJ3ZkJzTUhkY0RZd2hHa0ZwYVZCdGNrUWFOcXJMXzR2Mjl3Y3dvOHJoUGkweWNzblFRNHVTc0pU?oc=5",
-     "source": "The Edge Malaysia",
-     "published": "2026-11-15T12:40:53+00:00",
+     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObm9vMDk4anZQS0xSaENMYkxzU1BoTkRNdlFMS1E3V3B3SzlUN1RYQjQxajVTc01qejBUYWJxUVNKN1phczdULWJDd1QtZzBHV1h3ajlQYnpUTFNOeWpnVnc2alJiR2RpMktUUzNxdDVpMi1UWk5MVmJmS2RMR1hWaVBYSENEYWNJVmRRaTNtT3B3R1lTb0U2eTk4b203OGlyRHU2Rm1BLWdxLVU2bE5GZF9UbEFnb2lTbVY4eGpDTUhCWnN2d3h2aVVFejc2eEpTUjhENA?oc=5",
+     "source": "The Nightly",
+     "published": "2026-11-15T19:59:23+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
      "tags": [
       "Breach",
+      "AI",
       "APAC"
      ],
      "also": []
@@ -381,20 +396,6 @@
      "extra": "",
      "tags": [
       "Nation-state"
-     ],
-     "also": []
-    },
-    {
-     "title": "MUJI Data Breach: 5 Vital Facts for Australian Shoppers",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GX2U5aUhfOG5LNi01ZnlWX09ZU0VLdXRVZmFoMUNLak9IUTJTLWthNGM1a3VYTkdyaFhfUnJlanBJVFFSNVRBMVRDZmx1T19rTUx2eEdLeXZDTGdGb3F1ZzZCR1hCRXRGcU56MzV3?oc=5",
-     "source": "NewsCop",
-     "published": "2026-11-14T22:00:16+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach"
      ],
      "also": []
     }
