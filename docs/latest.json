@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T23:06:18+00:00",
+ "generated": "2026-11-15T02:49:41+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -296,6 +296,34 @@
    "name": "APAC Watch",
    "stories": [
     {
+     "title": "30 servers in South Korea added to hackers’ target list — Korea Herald",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaUpjV3lBcUlDMjlEd29kQUcxdVdSZ2F1MTRaOThzaG1lYVljOTVyWVY0RkJjRmxCREM2Q1NTdVNvMUFtZk5BdzMwM2I3dEpTczZKdXR1bk4xUlJ2cGZUdTFoaThiV0JBTGVCcjNpYXJPVlFGeWQ2XzJEbGk2OFExTDUyOU9XWWw3bEVOSngxM2xVY2VBdFhaTTdPY20yTkJUbS1QVUowZU02WFFSbGVMelln?oc=5",
+     "source": "UA.NEWS",
+     "published": "2026-11-15T01:50:04+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "N. Korea-linked hackers target 30 S. Korean servers: report",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5uV2ptZkJBTXpYVnoyampaNHpYMGxLNzRIUGtfLWZIaW9JUHhIOUNocS1ydUZldnZlb2duMlZFZzB5VHBYX2NiX21WcjRWY2tHU0Z1MllkSQ?oc=5",
+     "source": "The Korea Herald",
+     "published": "2026-11-15T01:14:51+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
      "title": "Japan’s GMO to Spend ¥3 Billion in Compensation for Cyberattack",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lblRzYkUyc09aYy1RUzBwUG5fMEdGRzUteUo2aTY4S21BMVFHN3Y0R0JlOHBuN25Wd3EyWmNEdGpyc0tjSUR2aG5xNkhodzMzWjJxNVIwQ3h0SkNBTkhxM3hyTkhSNFZIMWl6LVlqSS1NTzZTUnc?oc=5",
@@ -306,6 +334,20 @@
      "extra": "",
      "tags": [
       "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "MUJI Data Breach: 5 Vital Facts for Australian Shoppers",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5GX2U5aUhfOG5LNi01ZnlWX09ZU0VLdXRVZmFoMUNLak9IUTJTLWthNGM1a3VYTkdyaFhfUnJlanBJVFFSNVRBMVRDZmx1T19rTUx2eEdLeXZDTGdGb3F1ZzZCR1hCRXRGcU56MzV3?oc=5",
+     "source": "NewsCop",
+     "published": "2026-11-14T22:00:16+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach"
      ],
      "also": []
     },
@@ -408,21 +450,6 @@
      "summary": "",
      "extra": "",
      "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Explained: How AI-driven hackers are exploiting India's financial plumbing to steal money",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQQU9qUWxqOWsybGh6dThENTRBUi1Ma0FkbG1XY3pUd20ydTh1Q2NrX0x3LU4wSG93cXk1ZE9jVUY4eXJIeUFzUFJDQ05XVjdHazFBcEtHcDQwbEFMMFFzSVRWWVI1Z3dJUWNzM2dBNTJBeEdTZmdzd09SOWNjVVZzTkVISFByODI4RGstZDgwcXRVSUV4UXE2M1ZYWHJidE1aZlFHZFhleGxyM2xYU0p5bDRkT2EycjF2cUY4V2hENk9OdVhHc0prTUdrbDh5bm9QQ1MtemJnWl9ESVN5ekprQXpn0gHnAUFVX3lxTE1DejJVWEF3OE1jc3dYb0hOMU5fUjRkX3o0anRDeklFNllITkpnbE5ZOTNmQnRfVUtZTkN6bW9hT2RUX2dBeW5SRjhjRV9COFJWclp6Y1V5b0lTUEl5aEpLZFgxazRZR0FvU3BuS3RNa08yNVBHenVkZHFJZ2xwa3VvZ2c3cjV6aWZQZEx5QVFGeE93bGZqakFRYmViX2tNUmN2Q09nVm1XMmRBclpLZVAtYlltelpDSks4cFRFd2NTNzYwYlFnSjRUdFZ3bkRuOUFyQWdPM2kyc1MxWlROcFhZWTBzZ3BFTQ?oc=5",
-     "source": "bfsi.economictimes.indiatimes.com",
-     "published": "2026-11-14T02:14:08+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "AI",
       "APAC"
      ],
      "also": []
@@ -725,30 +752,6 @@
      "link": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20261112",
      "source": "HKCERT",
      "published": "2026-11-12T03:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Node.js Multiple Vulnerabilities",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/node-js-multiple-vulnerabilities_20261112",
-     "source": "HKCERT",
-     "published": "2026-11-12T02:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Ubuntu Linux Kernel Multiple Vulnerabilities",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/ubuntu-linux-kernel-multiple-vulnerabilities_20261112",
-     "source": "HKCERT",
-     "published": "2026-11-12T01:00:00+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
