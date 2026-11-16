@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T02:51:42+00:00",
+ "generated": "2026-11-16T11:44:43+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -214,6 +214,158 @@
    "name": "Breaking Threats",
    "stories": [
     {
+     "title": "Australian retail giant Coles investigates cybersecurity incident",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/australian-retail-giant-coles-investigates-cybersecurity-incident/",
+     "source": "BleepingComputer",
+     "published": "2026-11-16T11:18:09+00:00",
+     "date_only": false,
+     "summary": "Coles Group Limited, Australia's second-largest retailer, is investigating what it described as a \"cyber security incident\" that has not impacted the company's stores. [...]",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Recent UnrealIRCd Vulnerability Exploited in Attacks",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/recent-unrealircd-vulnerability-exploited-in-attacks/",
+     "source": "SecurityWeek",
+     "published": "2026-11-16T11:15:48+00:00",
+     "date_only": false,
+     "summary": "Tracked as CVE-2026-114713, the high-severity flaw allows attackers to execute commands with server/IRCOp privileges. The post Recent UnrealIRCd Vulnerability Exploited in Attacks appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Hackers Probe Newly Disclosed Flaws in Copeland Refrigeration Controllers",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/hackers-probe-newly-disclosed-flaws-in-copeland-refrigeration-controllers/",
+     "source": "SecurityWeek",
+     "published": "2026-11-16T11:05:42+00:00",
+     "date_only": false,
+     "summary": "Vulncheck disclosed 14 vulnerabilities affecting Copeland XWEB EVO controllers, including two that threat actors quickly targeted. The post Hackers Probe Newly Disclosed Flaws in Copeland Refrigeration Controllers appeared first on…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Uber Data Breach Impacts 150,000 People",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/uber-data-breach-impacts-150000-people/",
+     "source": "SecurityWeek",
+     "published": "2026-11-16T11:02:48+00:00",
+     "date_only": false,
+     "summary": "Hackers compromised a third-party services provider and stole names, addresses, and driver’s license numbers. The post Uber Data Breach Impacts 150,000 People appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": []
+    },
+    {
+     "title": "Anthropic’s Claude Fable 5.2 blocks fewer security tasks, while Mythos gets better at finding bugs",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-claude-fable-52-blocks-fewer-security-tasks-while-mythos-gets-better-at-finding-bugs/",
+     "source": "BleepingComputer",
+     "published": "2026-11-16T11:00:00+00:00",
+     "date_only": false,
+     "summary": "Anthropic recently rolled out Claude Mythos 5.2 to selected partners and Fable 5.2 to regular users, with improvements to coding and reasoning. But we also noticed some interesting cybersecurity changes. [...]",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html",
+     "source": "The Hacker News",
+     "published": "2026-11-16T09:32:57+00:00",
+     "date_only": false,
+     "summary": "A financially motivated threat activity cluster tracked as REF3364 has been attributed to a Linux-focused cryptocurrency mining operation that tampers with the readings used to detect high GPU workloads. Central to the intrusion is a…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "New NoisyTCP vulnerability lets attackers crash Linux servers",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/linux/new-noisytcp-linux-kernel-flaw-lets-attackers-crash-servers/",
+     "source": "BleepingComputer",
+     "published": "2026-11-16T09:30:04+00:00",
+     "date_only": false,
+     "summary": "An 11-year-old Linux kernel vulnerability, dubbed NoisyTCP, affects almost all Linux distributions and lets attackers crash systems running Nginx, Apache, and SSH servers with default configurations. [...]",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Tor Updates DoS Defenses Again as Relay Attacks Continue",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/tor-updates-dos-defenses-again-as-relay-attacks-continue/",
+     "source": "SecurityWeek",
+     "published": "2026-11-16T08:55:32+00:00",
+     "date_only": false,
+     "summary": "Tor 0.4.9.17 patches several security issues, including one related to how built-in DoS protections deal with IPv6. The post Tor Updates DoS Defenses Again as Relay Attacks Continue appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Microsoft pushes Windows emergency updates to fix activation failures",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-new-windows-emergency-updates-fix-activation-licensing-failures/",
+     "source": "BleepingComputer",
+     "published": "2026-11-16T08:26:52+00:00",
+     "date_only": false,
+     "summary": "Microsoft has released emergency out-of-band updates to fix Windows activation and licensing failures caused by this month's security updates. [...]",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Microsoft Rules Out Cyberattack in Outage, Warns of Phishing Campaign",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/microsoft-rules-out-cyberattack-in-outage-warns-of-phishing-campaign/",
+     "source": "SecurityWeek",
+     "published": "2026-11-16T08:15:12+00:00",
+     "date_only": false,
+     "summary": "Phishing emails posing as Microsoft 365 service notices referenced the real outage incident and threatened to delete held messages. The post Microsoft Rules Out Cyberattack in Outage, Warns of Phishing Campaign appeared first on…",
+     "extra": "",
+     "tags": [
+      "Phishing"
+     ],
+     "also": []
+    },
+    {
+     "title": "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html",
+     "source": "The Hacker News",
+     "published": "2026-11-16T07:34:21+00:00",
+     "date_only": false,
+     "summary": "Attackers' AI agents have been hunting for weak spots in internet-exposed AI apps such as LiteLLM, One API, and Dify to steal the AI provider keys stored inside, according to the agents' own records. The records, which Amazon's threat…",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html",
+     "source": "The Hacker News",
+     "published": "2026-11-16T06:53:34+00:00",
+     "date_only": false,
+     "summary": "An investigation into suspicious activity within a Russian software developer's network has uncovered a months-long compromise of its development infrastructure and a software code-signing server. The activity, documented by Kaspersky's…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
      "title": "FBI warns ARTEX AI hacking tool is powering global cyberattacks",
      "subtitle": "",
      "link": "https://www.bleepingcomputer.com/news/security/fbi-warns-artex-ai-hacking-tool-is-powering-global-cyberattacks/",
@@ -257,39 +409,68 @@
       "AI"
      ],
      "also": []
-    },
-    {
-     "title": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html",
-     "source": "The Hacker News",
-     "published": "2026-11-15T11:27:31+00:00",
-     "date_only": false,
-     "summary": "Meta was fined €805 million in Italy yesterday over a Facebook for Android feature that suggests photos and videos from users' phone galleries for them to post. The Garante, Italy's data protection authority, found that the feature was…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Cursor Says Stolen Fireworks AI Key Led to Trojanized Claude Code Extension Incident",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/stolen-fireworks-ai-key-led-to-cursor.html",
-     "source": "The Hacker News",
-     "published": "2026-11-15T08:22:04+00:00",
-     "date_only": false,
-     "summary": "The compromise of Anthropic's official Claude Code extension on Cursor's extension marketplace was the result of the theft of an access key that was exposed in the wake of a breach targeting Fireworks AI. \"An attacker obtained an access…",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "AI"
-     ],
-     "also": []
     }
    ]
   },
   {
    "name": "APAC Watch",
    "stories": [
+    {
+     "title": "Japan Reports Record 233 Cyber Incidents as 185 Million Personal Records Are Put at Risk",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GVEJIdi1EQ2dadVdXakE5eUNJMmNRRFQxeE1qQXpzWHk2Z1ViSWdWWVJidFAxZmdWR1gzRHZ1eTlQbVRodkh3ZGxoOFhETU4ydFA1YXdRYjJ1UTRJOWM00gFkQVVfeXFMT2V3VEpMREVZMHdibFpyaW5TOC1oemFZbWRXLXZYRW9iQmxzOG1aS1Y1b29EbDlLWGhuWlNTSW0wbjdiUEgxTndzbXdDZGE4WWhmX1J4RjcxcjY1cWl6ZzZ2bnNaVA?oc=5",
+     "source": "CyberSecurityNews",
+     "published": "2026-11-16T09:58:17+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "After European supermarket fridges, Australia’s Coles hit by cyber incident",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNME4tVDQ4bDBiNXJhd2JHOEpid290NVdianFWOFJRaGU0aE10bVcxSm9DU1dxNDFvSS13eTZxZ09zXzE0N0RoaWVXYUdOaXBYSktPZHhaVE4xd1JoUW9oUkRicFpVMDRXU3Q0YkNwTFF6SWh6RHBXeVdhUHM0UHc3djFCckFWdDZJRlBqenBNRkZWamFPZXE2MHRYVUlNWGFoYzFGUXJPYmpEZXAxTlHSAbMBQVVfeXFMTWJDaHlCc2NkV0pFVnRBVXlrejd4ZkdSSXN1NVpSTVBWNlNpU1JyT1lwdVRCb0RwR3dvMDhDeTE0U1dXd0R4Z3FWZzFfa2tNaFBDWUV3STNrb3g5MVh3ZllWUHA3dWxrUmExN0FoUnF1cXQ1RkoxZE5vT1RVeUNEeXNJOUd0c1RVdjJTNi04SEtDSUZPb1laQnF4Q19hbTJTX3ZKbm9seG5YbzdNMUcwTGxjcmM?oc=5",
+     "source": "News9live",
+     "published": "2026-11-16T07:52:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Coles Investigates Cyberattack as Australia’s Food Supply Security Comes Under Scrutiny",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBTNnI1ZEdLck8zbGxESUpZUnpleFhMNmowRkpWQktUTy15R1lHSlNpQVNSejU2dTh3UGRIeVN6TUFkTnJ5TnBPdS0tbVg3SFJEdzFlZzF4S0JiRjFIa1JQS0c2U0RpdDVmbGJfdVlhb1pIZlY5V0w5aDhXcw?oc=5",
+     "source": "Hokanews",
+     "published": "2026-11-16T07:36:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "What's behind Japan's wave of cyberattacks?",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNHcxRmZNSWhzN2N5M2llRVBBV3hsQzAzRkJ4a1AyWElJOE1UWkVzOTg0RkFzdVQyZGU5T2NIbVl3ZHUtMF9LWmhOV0lkQ3plZDFhM1BmbS02VjdUZy1remwwMzJpcUN1dHFtNGRCdDJKcGRfVWxMRUU2aWNPVTZRSU94ZzJuU3E2WTJheVpLYW9aQlE?oc=5",
+     "source": "Escudo Digital",
+     "published": "2026-11-16T05:00:02+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
     {
      "title": "Why Comiket Ticket Seller Locking Out Overseas Fans Won’t Stop Japan’s Hackers",
      "subtitle": "",
@@ -314,9 +495,7 @@
      "summary": "",
      "extra": "",
      "tags": [],
-     "also": [
-      "Korea JoongAng Daily"
-     ]
+     "also": []
     },
     {
      "title": "Malaysia facing thousands of cyberattack attempts every month, Anwar reveals",
@@ -324,51 +503,6 @@
      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uV1NseXZQd3ZrUENULVZYZjRKcDlMZ01fS2tfTnVNWk9lNy1oWVhfTl9VMnVKV1RPaFRld004OFhQaV93RU80QTk1U0RKaFVL?oc=5",
      "source": "The Edge Malaysia",
      "published": "2026-11-15T22:07:24+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Australia mulls tougher tech laws after AI health breach",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObm9vMDk4anZQS0xSaENMYkxzU1BoTkRNdlFMS1E3V3B3SzlUN1RYQjQxajVTc01qejBUYWJxUVNKN1phczdULWJDd1QtZzBHV1h3ajlQYnpUTFNOeWpnVnc2alJiR2RpMktUUzNxdDVpMi1UWk5MVmJmS2RMR1hWaVBYSENEYWNJVmRRaTNtT3B3R1lTb0U2eTk4b203OGlyRHU2Rm1BLWdxLVU2bE5GZF9UbEFnb2lTbVY4eGpDTUhCWnN2d3h2aVVFejc2eEpTUjhENA?oc=5",
-     "source": "The Nightly",
-     "published": "2026-11-15T19:59:23+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "AI",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "South Korea’s Coinone data breach may expose passwords, IDs, wallet addresses",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5QN2FQSFpzdHlLVEV5YlBrd1RGX1hDU1hWZWhqVEc5cHlSMkRLQkY1LUlEUlVxQzFxUTM4QzFJQUtiRlVJSWJEdWpocUdkZnkwc1FSLVJYREVYX0drWmtsT3BKZHVndFJZS1pCdTRubw?oc=5",
-     "source": "Crypto News",
-     "published": "2026-11-15T11:18:41+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Japan Cyber Cases Up 2x: DDS Data Shows Surge",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE15NjJlMmdFdVJqaHRqT1haRERrMHAzMjV5VDhaYVQyeXR5bWh5LWlrNjdhSHZKUjBoM3FuYm1QbjNabm5FbG1XTFh0N01kTEtkalRkckVtb0VmYk9vdTd2cFgzMlowMklPWFE3RTJjM3pkX2pFLXcwUndRM1k?oc=5",
-     "source": "shattered.io",
-     "published": "2026-11-15T07:42:25+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
