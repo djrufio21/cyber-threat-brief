@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-15T22:58:21+00:00",
+ "generated": "2026-11-16T02:51:42+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -291,6 +291,48 @@
    "name": "APAC Watch",
    "stories": [
     {
+     "title": "Why Comiket Ticket Seller Locking Out Overseas Fans Won’t Stop Japan’s Hackers",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9GTWJCRU56aHRlamxPQnRCTWdpNk1Pdk5GenZmN0h1UDh5VEZOUlFtcThURDZZbk5aWDhoaFJuVTlwcU9KbkJ5Q08xZmFKV2F0MWd3SVY0QTlqNXMzLUluakdoUXFKeDdFVkczaEU2QVI?oc=5",
+     "source": "Unseen Japan",
+     "published": "2026-11-16T02:29:47+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "North Korean-linked hackers target 30 South Korean servers",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9fTDA0eUpHRFFsQTN6LTI5bndhTkxSTVJKVVdzZmVlU1pNN0d0ckxIVjJJOW5haEtlOHBZT3lfdnVwNzhSVFk3ejI1eXZiVWJDd1VPdFVUR01BaENZQzNOZTVoOWh2QQ?oc=5",
+     "source": "동아일보",
+     "published": "2026-11-16T00:29:42+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": [
+      "Korea JoongAng Daily"
+     ]
+    },
+    {
+     "title": "Malaysia facing thousands of cyberattack attempts every month, Anwar reveals",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uV1NseXZQd3ZrUENULVZYZjRKcDlMZ01fS2tfTnVNWk9lNy1oWVhfTl9VMnVKV1RPaFRld004OFhQaV93RU80QTk1U0RKaFVL?oc=5",
+     "source": "The Edge Malaysia",
+     "published": "2026-11-15T22:07:24+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
      "title": "Australia mulls tougher tech laws after AI health breach",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObm9vMDk4anZQS0xSaENMYkxzU1BoTkRNdlFMS1E3V3B3SzlUN1RYQjQxajVTc01qejBUYWJxUVNKN1phczdULWJDd1QtZzBHV1h3ajlQYnpUTFNOeWpnVnc2alJiR2RpMktUUzNxdDVpMi1UWk5MVmJmS2RMR1hWaVBYSENEYWNJVmRRaTNtT3B3R1lTb0U2eTk4b203OGlyRHU2Rm1BLWdxLVU2bE5GZF9UbEFnb2lTbVY4eGpDTUhCWnN2d3h2aVVFejc2eEpTUjhENA?oc=5",
@@ -332,70 +374,6 @@
      "extra": "",
      "tags": [
       "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "North Korean hackers target 30 South Korean servers and domains in cyberoperation",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNaW9CWU1qWnVQTm4wYW9ha01LRUR2M21IaHVoYzhQR2hneDdWUEVyWldraHY0dHN1SF94WUFlS3dXNTYtXzRqX2FOSi1PME53eTRxS3dHdHJRc1o0dG5Zb2R3V01wS2trTGpILWxOdy1BaWUzblgzdUlCVS1OMEtiNGJjSUg3LVpxVkQ0elJrQURkQWxDNG5KdE1DSzFpZkRRZm9KczZCTlRyR2JzbWRNQ2RzczRHWnFEZGRHcE80emc0cV81bVRXSmtEQQ?oc=5",
-     "source": "Korea JoongAng Daily",
-     "published": "2026-11-15T05:41:56+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": [
-      "아시아경제",
-      "UA.NEWS",
-      "The Korea Times",
-      "BigGo Finance"
-     ]
-    },
-    {
-     "title": "Lazarus targets 30 South Korea servers in PHP flaw probe, no breaches confirmed",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4yNURjSHFONGhackV2R3NXTmhqYWRTV1dmZDh6ZFJIdkN6TW4wNV83MDQzRWNXcWV6LUwzNDdKRzVfNGtrNE44TDFjY1RMNjZyR1pSbVBoX2htS21LYWRSVW1RRkgxeVFJWDNMMWpXY1h6Y1hvR0tENnV30gGOAUFVX3lxTE5tNHppR0plM3UxUTVtUmdmeGYwMDlhWm9WcWxfQlBsVjlEcmZwNVA2RWdZUjduQlBsWkhNOVlFMVNQRngzNEpqYXIwdDhaME1kNExWcExFODI5cTlqQUlLSDBBOUVKejB5T1g3eTBXOEJKZEUxMGd6b05DRUc2S3kxSEhaZDhjYUstVEZ3LWc?oc=5",
-     "source": "Chosunbiz",
-     "published": "2026-11-15T00:55:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Nation-state",
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Japan-led probe finds 1,000 servers likely used for AI-driven cyberattacks",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQWXhQRVFhUFJLUXhvcTVybFNCREZpNnRVRnZhM3FKZXJlMDctZXQ2YWFsX3VSNTR3RVNMMzVsUWRQUGdZTjFMeGNNaldSYUxRY1RDQ1RmZG1FNXdUQzBoWW5EVW1adFFZOV9nMnlZYUY4UmhKTlpmOUM1X2RWQnk4aFphU3plOEZobVFBM1RvWXp0NGdRdG1HUlptYUNmVFJKUDZrRUFsUkFOTHFRYmxKWVBxWnJxRkdY?oc=5",
-     "source": "The Straits Times",
-     "published": "2026-11-15T00:06:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "AI",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "It was found that the North Korean-linked hacking organization \"Lazarus\" attempted cyberattacks targ..",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0d3lpN0cyUU9qSDhlbFZyS21XTDlLMERobmZ5dUhBd2NSSDRuNm1hX3VFOW9wcEthUlR3VlV5UFhqZnBaWnY5RC12LVBRZnNFMjNr?oc=5",
-     "source": "매일경제",
-     "published": "2026-11-14T23:34:24+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Nation-state"
      ],
      "also": []
     }
@@ -606,6 +584,30 @@
    "name": "Government Advisories",
    "stories": [
     {
+     "title": "Microsoft Edge Multiple Vulnerabilities",
+     "subtitle": "",
+     "link": "https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20261116",
+     "source": "HKCERT",
+     "published": "2026-11-16T02:00:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Apple tvOS Multiple Vulnerabilities",
+     "subtitle": "",
+     "link": "https://www.hkcert.org/security-bulletin/apple-tvos-multiple-vulnerabilities_20261116",
+     "source": "HKCERT",
+     "published": "2026-11-16T01:00:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
      "subtitle": "",
      "link": "https://www.cisa.gov/news-events/alerts/2026/11/13/cisa-adds-two-known-exploited-vulnerabilities-catalog",
@@ -617,30 +619,6 @@
      "tags": [
       "Exploited"
      ],
-     "also": []
-    },
-    {
-     "title": "Apache HTTP Server Multiple Vulnerabilities",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/apache-http-server-multiple-vulnerabilities_20261113",
-     "source": "HKCERT",
-     "published": "2026-11-13T01:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Citrix Products Multiple Vulnerabilities",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/citrix-products-multiple-vulnerabilities_20261113",
-     "source": "HKCERT",
-     "published": "2026-11-13T01:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
      "also": []
     }
    ]
