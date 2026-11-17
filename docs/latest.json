@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-16T22:20:01+00:00",
+ "generated": "2026-11-17T04:38:19+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -139,80 +139,71 @@
      "product": "Chromium",
      "cve": "CVE-2026-125350",
      "also": []
-    },
-    {
-     "title": "CVE-2026-102895: GPUStack GPUStack",
-     "subtitle": "GPUStack Improper Authentication Vulnerability",
-     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-102895",
-     "source": "CISA KEV",
-     "published": "2026-11-09T00:00:00+00:00",
-     "date_only": true,
-     "summary": "GPUStack contains an improper authentication vulnerability which could allow unauthenticated administrative access, including user and model changes, persistent administrator API-key creation, disclosure of worker and cloud-provider…",
-     "extra": "US federal patch deadline 12 Nov",
-     "tags": [
-      "Exploited"
-     ],
-     "vendor": "GPUStack",
-     "product": "GPUStack",
-     "cve": "CVE-2026-102895",
-     "also": []
-    },
-    {
-     "title": "CVE-2026-123158: OpenBSD OpenSSH",
-     "subtitle": "OpenBSD OpenSSH Unexpected Status Code or Return Value Vulnerability",
-     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123158",
-     "source": "CISA KEV",
-     "published": "2026-11-09T00:00:00+00:00",
-     "date_only": true,
-     "summary": "OpenBSD OpenSSH on Linux contains an unexpected status code or return value vulnerability that could allow for authentication bypass.",
-     "extra": "US federal patch deadline 12 Nov",
-     "tags": [
-      "Exploited"
-     ],
-     "vendor": "OpenBSD",
-     "product": "OpenSSH",
-     "cve": "CVE-2026-123158",
-     "also": []
-    },
-    {
-     "title": "CVE-2026-116779: SignalWire FreeSwitch",
-     "subtitle": "SignalWire FreeSwitch Code Injection Vulnerability",
-     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-116779",
-     "source": "CISA KEV",
-     "published": "2026-11-09T00:00:00+00:00",
-     "date_only": true,
-     "summary": "SignalWire FreeSwitch contains a code injection vulnerability that permits configuration and credential disclosure, arbitrary call control, and command execution.",
-     "extra": "US federal patch deadline 12 Nov",
-     "tags": [
-      "Exploited"
-     ],
-     "vendor": "SignalWire",
-     "product": "FreeSwitch",
-     "cve": "CVE-2026-116779",
-     "also": []
-    },
-    {
-     "title": "CVE-2026-123218: IBM Aspera Faspex",
-     "subtitle": "IBM Aspera Faspex Incorrect Authorization Vulnerability",
-     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123218",
-     "source": "CISA KEV",
-     "published": "2026-11-09T00:00:00+00:00",
-     "date_only": true,
-     "summary": "IBM Aspera Faspex contains an incorrect authorization vulnerability that could allow an authenticated user to craft a specific message to bypass authorization, causing privilege escalations.",
-     "extra": "US federal patch deadline 12 Nov",
-     "tags": [
-      "Exploited"
-     ],
-     "vendor": "IBM",
-     "product": "Aspera Faspex",
-     "cve": "CVE-2026-123218",
-     "also": []
     }
    ]
   },
   {
    "name": "Breaking Threats",
    "stories": [
+    {
+     "title": "Uber says nearly 150,000 impacted by third-party breach",
+     "subtitle": "",
+     "link": "https://therecord.media/uber-says-150000-impacted-third-party-breach",
+     "source": "The Record",
+     "published": "2026-11-18T01:20:00+00:00",
+     "date_only": false,
+     "summary": "In breach notification letters, the rideshare company said it was notified by a third party service provider on October 9 that internal credentials were stolen and used to access Uber’s account.",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": []
+    },
+    {
+     "title": "Optimizely hack infected CNN, Fox News, BBC, Salesforce sites with malware",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/optimizely-supply-chain-attack-delivers-malware-to-cnn-fox-news-bbc-salesforce-sites/",
+     "source": "BleepingComputer",
+     "published": "2026-11-17T02:12:17+00:00",
+     "date_only": false,
+     "summary": "A suspected supply chain attack targeting Optimizely has led to malicious JavaScript being loaded on numerous popular websites, including Zoom, CNN, Fox News, BBC, Salesforce, and GitLab, exposing visitors to scripts designed to steal…",
+     "extra": "",
+     "tags": [
+      "Supply chain"
+     ],
+     "also": []
+    },
+    {
+     "title": "Gemini AI agents repeatedly bypassed safeguards to attack real website",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/gemini-ai-agents-repeatedly-bypassed-safeguards-to-attack-real-website/",
+     "source": "BleepingComputer",
+     "published": "2026-11-16T22:54:00+00:00",
+     "date_only": false,
+     "summary": "Google's Gemini AI agents repeatedly attempted to hack a real organization's website during AI model safety testing, finding ways to circumvent increasingly restrictive security controls designed to prevent them from accessing live…",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "Google Project Zero Slashes Bug Disclosure Deadlines, Splitting Experts",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/vulnerabilities-threats/google-project-zero-bug-disclosure-deadlines",
+     "source": "Dark Reading",
+     "published": "2026-11-16T22:08:20+00:00",
+     "date_only": false,
+     "summary": "One of the oldest running bug disclosure programs announced it would shorten public disclosure timelines to vendors from 120 days to 30 over the next 14 months.",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": [
+      "BleepingComputer",
+      "SecurityWeek"
+     ]
+    },
     {
      "title": "California sues OpenAI for Hugging Face and other incidents, alleging deception and recklessness",
      "subtitle": "",
@@ -223,20 +214,6 @@
      "summary": "\"OpenAI thwarted the Attorney General’s efforts to investigate these incidents, including by refusing to provide detailed information about the full universe of incidents known to the company,” California alleges in a new lawsuit.",
      "extra": "",
      "tags": [],
-     "also": []
-    },
-    {
-     "title": "Google Project Zero cuts bug disclosures to 30 days amid AI threats",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/google-project-zero-cuts-bug-disclosure-deadline-to-30-days-amid-ai-threats/",
-     "source": "BleepingComputer",
-     "published": "2026-11-16T21:31:44+00:00",
-     "date_only": false,
-     "summary": "Google Project Zero will replace its \"90+30\" disclosure policy with shorter, fixed deadlines in response to AI-accelerated vulnerability discovery and exploitation. [...]",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
      "also": []
     },
     {
@@ -349,18 +326,6 @@
      "also": []
     },
     {
-     "title": "Russia denies intercepting Romanian government emails",
-     "subtitle": "",
-     "link": "https://therecord.media/romania-russia-cyberattack-espionage",
-     "source": "The Record",
-     "published": "2026-11-16T17:00:00+00:00",
-     "date_only": false,
-     "summary": "Russia has denied accusations that its state-backed hackers targeted a Romanian government institution in an attempt to intercept emails exchanged with NATO and the European Union.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
      "title": "Microsoft says months-old bug caused global Microsoft 365 outage",
      "subtitle": "",
      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-months-old-bug-caused-global-microsoft-365-outage/",
@@ -415,18 +380,6 @@
      "tags": [
       "Breach"
      ],
-     "also": []
-    },
-    {
-     "title": "Google Project Zero Sets Course for 30-Day Disclosure Deadline",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/google-project-zero-sets-course-for-30-day-disclosure-deadline/",
-     "source": "SecurityWeek",
-     "published": "2026-11-16T15:31:25+00:00",
-     "date_only": false,
-     "summary": "It will move to a 60-day vulnerability disclosure window in February 2027 and to a 30-day window in January 2028. The post Google Project Zero Sets Course for 30-Day Disclosure Deadline appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [],
      "also": []
     },
     {
@@ -532,28 +485,213 @@
      "extra": "",
      "tags": [],
      "also": []
-    },
-    {
-     "title": "Retadup Worm Resurfaces 7 Years After Takedown to Spread CoffeeLoader Malware",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/retadup-worm-resurfaces-7-years-after.html",
-     "source": "The Hacker News",
-     "published": "2026-11-16T12:33:18+00:00",
-     "date_only": false,
-     "summary": "Cybersecurity researchers have disclosed details of a new variant of CoffeeLoader, a malware designed to deliver additional payloads to infected machines. \"On launch, the NSIS-based installer executable dropped a file named '7z.dll' into a…",
-     "extra": "",
-     "tags": [],
-     "also": []
     }
    ]
   },
   {
    "name": "APAC Watch",
-   "stories": []
+   "stories": [
+    {
+     "title": "Hackers steal 17,000 Hong Kong Disneyland ticket QR codes",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPalRjLXAzM0FKTjVyQ05BUWVCcE4welJFNHhZNXNoQ3VwcXFOUDVPRk9adE50N0Y3aFE5dHlJNkVUeW9lTGJqQWdtcDVFN3A3SEhvRVFZTjZWQTFnNmppbUVDTTJ4Vk1uZXBBTFphSDBTd3JPU056UzFVWTRua0M5Vm9reVpjRm1FLUtXU0hDdzJRUzUwbFRvSlF2eTEteGRYRFJnVDFtRjFBQ0xpNEM5ZmcyN1o?oc=5",
+     "source": "Travel Weekly Asia",
+     "published": "2026-11-17T02:57:50+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Over 34% of Vietnamese smartphone users face malware-related security risks",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPVlJZX2VncjdObU9jSS0zUjBKX09FTjJ3cDBJRjFRUDVFSklnb1lfZzkzWWpNZTJyRWc0T2oxMnc5dzZKTDBvTnRpTmEyekM4Vk9ybnJEd0NVTnM0c2p6N25xNHgwTkpmaHZNYjFRUUNPeUItTEQ3cTI0V1dLeHpMT1cyZThqVzZzaHVGejdTOUNBMXRYRndSMjVsTFQ0NG5lNmo4bUI5d0RXRzdEeE16c09n?oc=5",
+     "source": "Báo VietNamNet",
+     "published": "2026-11-17T01:34:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Dragos reports 20 Australian industrial ransomware incidents in Q3 2026",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSEU3UTEzaDJ1WTdCYTdObXNzY2NnYjhTV0YxSEs1ejlSTzdXZ3Ffd1lJZzNzXzJ6LVR1QzVzcFZtUUlpei12djNGWlA2VUlFbUhxOHRGRGJTb0o2T2NGT1JGYnk5Q1lkcUEyNjBkbmRxTG5CQ0oxLXJmWGZCaXV2eVIwTURKdXZRWWdkT0xWZ0hLZGFMRXVBLUUzWHoxbjhqLU5JRGZoYXJvZlRVY1NJSk5OUXJuWnl3Uk4w?oc=5",
+     "source": "Australian Cyber Security Magazine",
+     "published": "2026-11-16T23:46:24+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Ransomware"
+     ],
+     "also": []
+    },
+    {
+     "title": "Vietnam mobile cyber threats grow broader and more acute",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS21iNXJ3S2ZqcmJlMTdlSEhpQzFmWW42S3pQYlRKeEtZTGhQc2ZuYTFWcHFFWHlNNXJYV3lZTGNwUTFMZ2luR2dtNlRHMkRPMk9RZVo3a0RuNl9rT0R6eGVvVlAxNHJ6a1J0V2tqVzVzLUZxSEc4dlQ1cXh3VGtCUUEwWUdfZFpCSjV3SA?oc=5",
+     "source": "Vietnam Economic Times",
+     "published": "2026-11-16T23:40:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Australia logs 20 industrial ransomware incidents in Q3",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN1RWRkxUTWMzNHRwSDJYME1TWlhXRHZkQ0RlUEJXNmdTRTF5dGNMYk54bG5WNEUwUFhlUlVSRWpoM1pvQU1pSWc0dXFiTFdNSEJNby1fVGZOX25CQkV2NU9ONHAzSEJRcWRoZ0oxQ0g1aVAxcklFUlhweTd4S0JMcm16YkdUTmRzdGRpbHp5YmZ0M2Fn?oc=5",
+     "source": "SecurityBrief Australia",
+     "published": "2026-11-16T23:15:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Ransomware",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Australian businesses pay ransomware demands more often",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNM1pJTjd1cGlZNldmVG5BY0czU1JRanlLQU9US1hfNlRJSFdWYllNZ1diZ2NnWHYydWxzNUo4amxidGNYWk1iYWV2NkI0STQwOFlmeTZCdkZBekRkR0MxcGx2Y01JR0FRYXRuR3lxajZfTmw1SnVpcjV0TnZPQXdqRXRhZ0JneGJkeUxVd2lmWXNUQnNq?oc=5",
+     "source": "SecurityBrief Australia",
+     "published": "2026-11-16T21:00:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Ransomware"
+     ],
+     "also": []
+    },
+    {
+     "title": "BHIC Bofors Asia Ransomware Attack by INC Ransom",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNXlCdzYxVlJSemwtRTFITjlFTjA1clAzdnl2ZWFVNGNMMko1TllnZVlsdnIyMU5wNGttZjU0eDRVbjdDd25GckdQc0tMdUppT3VVRklDQUV4cHdienI5bC1hamM5alljb0p5Z2hOaW15Y25DaTRGQ2hQNG5PbU1mMldxQjZzUTd1aTZUbzZZS1M2dlk1Q0p1Q3lvcVItcEZ2?oc=5",
+     "source": "SOCRadar",
+     "published": "2026-11-16T19:35:19+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Ransomware"
+     ],
+     "also": []
+    },
+    {
+     "title": "Before the Binance Hack, North Korea Listed 49 US Servers to Attack: Were They Breached?",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBUbXh0R1VHS3dOQk5JeWtVX3ZFQVlXTWliV1NscEJtNzBwQ2pRNjItSHVacUdydGVKLVV3aWdEYmx4T1JlSUJwcW53alJ3SmlXeE5wcDItajk3WmcwMXdtYjZDcUlaUTZWbjNJQWFxendYUmM?oc=5",
+     "source": "BeInCrypto",
+     "published": "2026-11-16T19:00:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Yet another massive cyberattack hits Japan — city of Osaka latest to be hit, as more than a million email addresses exposed",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNZDhVMGtkRnNXMFdmY1dmd0tRcVRmNWJJZzNMbERqOUk4T1k3ZDNzbEt2dGFRek1nQzVZNGJKZ1hYaS1ZeXAtbnlUd2RfWFZMeDliUkI0VGI1M3k0ajVCVXpxU2VOWDFFTDhEU2hqV0pmN0laNTczaEVqajJjTG1qdWVjZ3BoWWozemxOVWROVmVESGxKSjE3MnZFc21aZ3QxSGZnSktSR1R2TEVLS09fVVYzTFphdVhXdVVXbnQ2MlJIekdUM3h5S19BdzcwZGpobC1QT1FidjZYdnVJWWdacjl5MER4andrNmJoWUlTNUhBUDU3?oc=5",
+     "source": "TechRadar",
+     "published": "2026-11-16T16:25:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Japan Reports Record 233 Cyber Incidents as 185 Million Personal Records Are Put at Risk",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5GVEJIdi1EQ2dadVdXakE5eUNJMmNRRFQxeE1qQXpzWHk2Z1ViSWdWWVJidFAxZmdWR1gzRHZ1eTlQbVRodkh3ZGxoOFhETU4ydFA1YXdRYjJ1UTRJOWM00gFkQVVfeXFMT2V3VEpMREVZMHdibFpyaW5TOC1oemFZbWRXLXZYRW9iQmxzOG1aS1Y1b29EbDlLWGhuWlNTSW0wbjdiUEgxTndzbXdDZGE4WWhmX1J4RjcxcjY1cWl6ZzZ2bnNaVA?oc=5",
+     "source": "CyberSecurityNews",
+     "published": "2026-11-16T09:58:17+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "After European supermarket fridges, Australia’s Coles hit by cyber incident",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNME4tVDQ4bDBiNXJhd2JHOEpid290NVdianFWOFJRaGU0aE10bVcxSm9DU1dxNDFvSS13eTZxZ09zXzE0N0RoaWVXYUdOaXBYSktPZHhaVE4xd1JoUW9oUkRicFpVMDRXU3Q0YkNwTFF6SWh6RHBXeVdhUHM0UHc3djFCckFWdDZJRlBqenBNRkZWamFPZXE2MHRYVUlNWGFoYzFGUXJPYmpEZXAxTlHSAbMBQVVfeXFMTWJDaHlCc2NkV0pFVnRBVXlrejd4ZkdSSXN1NVpSTVBWNlNpU1JyT1lwdVRCb0RwR3dvMDhDeTE0U1dXd0R4Z3FWZzFfa2tNaFBDWUV3STNrb3g5MVh3ZllWUHA3dWxrUmExN0FoUnF1cXQ1RkoxZE5vT1RVeUNEeXNJOUd0c1RVdjJTNi04SEtDSUZPb1laQnF4Q19hbTJTX3ZKbm9seG5YbzdNMUcwTGxjcmM?oc=5",
+     "source": "News9live",
+     "published": "2026-11-16T07:52:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Coles Investigates Cyberattack as Australia’s Food Supply Security Comes Under Scrutiny",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBTNnI1ZEdLck8zbGxESUpZUnpleFhMNmowRkpWQktUTy15R1lHSlNpQVNSejU2dTh3UGRIeVN6TUFkTnJ5TnBPdS0tbVg3SFJEdzFlZzF4S0JiRjFIa1JQS0c2U0RpdDVmbGJfdVlhb1pIZlY5V0w5aDhXcw?oc=5",
+     "source": "Hokanews",
+     "published": "2026-11-16T07:36:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "What's behind Japan's wave of cyberattacks?",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNHcxRmZNSWhzN2N5M2llRVBBV3hsQzAzRkJ4a1AyWElJOE1UWkVzOTg0RkFzdVQyZGU5T2NIbVl3ZHUtMF9LWmhOV0lkQ3plZDFhM1BmbS02VjdUZy1remwwMzJpcUN1dHFtNGRCdDJKcGRfVWxMRUU2aWNPVTZRSU94ZzJuU3E2WTJheVpLYW9aQlE?oc=5",
+     "source": "Escudo Digital",
+     "published": "2026-11-16T05:00:02+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    }
+   ]
   },
   {
    "name": "Threat Research",
    "stories": [
+    {
+     "title": "QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments",
+     "subtitle": "",
+     "link": "https://unit42.paloaltonetworks.com/custom-rats-target-southeast-asia-governments/",
+     "source": "Unit 42",
+     "published": "2026-11-16T23:00:55+00:00",
+     "date_only": false,
+     "summary": "We uncover a Southeast Asian cyberespionage campaign deploying PerfectPioneer RAT, modular KUKURAT and stealth HTTP/3 C2 communication channels. The post QUIC and Covert: Novel HTTP/3-Powered RATs Target Southeast Asian Governments…",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
     {
      "title": "16th November – Threat Intelligence Report",
      "subtitle": "",
@@ -565,20 +703,6 @@
      "extra": "",
      "tags": [
       "Breach"
-     ],
-     "also": []
-    },
-    {
-     "title": "GTIG AI Threat Tracker: Agentic Threat Activity Crosses a Significant Threshold",
-     "subtitle": "",
-     "link": "https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold/",
-     "source": "Google Threat Intelligence",
-     "published": "2026-11-16T14:00:00+00:00",
-     "date_only": false,
-     "summary": "Written by: Aurora Blum, Kelli Vanderlee, Jess Xia, David Mainor Executive Summary As threat actors increasingly move beyond basic prompting to deploying autonomous multi-agent frameworks , automated vulnerability exploitation pipelines…",
-     "extra": "",
-     "tags": [
-      "AI"
      ],
      "also": []
     },
@@ -755,6 +879,30 @@
   {
    "name": "Government Advisories",
    "stories": [
+    {
+     "title": "Check Point Products Multiple Vulnerabilities",
+     "subtitle": "",
+     "link": "https://www.hkcert.org/security-bulletin/check-point-products-multiple-vulnerabilities_20261117",
+     "source": "HKCERT",
+     "published": "2026-11-17T03:00:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Vulnerabilities are moving quickly, so patch, protect, prevent",
+     "subtitle": "",
+     "link": "https://www.cyber.gov.au/alert/vulnerabilities-are-moving-quickly-so-patch-protect-prevent",
+     "source": "ACSC Australia",
+     "published": "2026-11-17T01:41:43+00:00",
+     "date_only": false,
+     "summary": "Actions organisations can take to identify internet-exposed systems, address vulnerabilities and reduce cyber security risk.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
     {
      "title": "Microsoft Edge Multiple Vulnerabilities",
      "subtitle": "",
