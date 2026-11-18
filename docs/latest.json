@@ -1,9 +1,26 @@
 {
- "generated": "2026-11-17T22:59:22+00:00",
+ "generated": "2026-11-18T04:33:25+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
    "stories": [
+    {
+     "title": "CVE-2026-115731: Perforce Puppet Enterprise",
+     "subtitle": "Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability",
+     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115731",
+     "source": "CISA KEV",
+     "published": "2026-11-17T00:00:00+00:00",
+     "date_only": true,
+     "summary": "Perforce Puppet Enterprise contains a deserialization of untrusted data vulnerability in Puppet’s report-processing code that allows a client with any CA-signed agent certificate to execute arbitrary code on the Puppet Server as the…",
+     "extra": "US federal patch deadline 1 Dec",
+     "tags": [
+      "Exploited"
+     ],
+     "vendor": "Perforce",
+     "product": "Puppet Enterprise",
+     "cve": "CVE-2026-115731",
+     "also": []
+    },
     {
      "title": "CVE-2026-114713: UnrealIRCd UnrealIRCd",
      "subtitle": "UnrealIRCd Improper Neutralization of Delimiters Vulnerability",
@@ -37,114 +54,48 @@
      "product": "Multiple Products",
      "cve": "CVE-2026-123039",
      "also": []
-    },
-    {
-     "title": "CVE-2026-124194: Microsoft Office",
-     "subtitle": "Microsoft Office Outlook Missing User Interaction for Potentially Unsafe Action Vulnerability",
-     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-124194",
-     "source": "CISA KEV",
-     "published": "2026-11-10T00:00:00+00:00",
-     "date_only": true,
-     "summary": "Microsoft Office Outlook contains a missing user interaction for potentially unsafe action vulnerability that allows an unauthorized attacker to perform spoofing over a network.",
-     "extra": "US federal patch deadline 24 Nov",
-     "tags": [
-      "Exploited"
-     ],
-     "vendor": "Microsoft",
-     "product": "Office",
-     "cve": "CVE-2026-124194",
-     "also": []
-    },
-    {
-     "title": "CVE-2026-111793: Openwave Messaging Limited Webtop Media Transcoder",
-     "subtitle": "Openwave Messaging Limited Webtop Media Transcoder Incorrect Resource Transfer Between Spheres Vulnerability",
-     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-111793",
-     "source": "CISA KEV",
-     "published": "2026-11-10T00:00:00+00:00",
-     "date_only": true,
-     "summary": "Openwave Messaging Limited Webtop Media Transcoder contains an incorrect resource transfer between spheres vulnerability that may allow an authenticated user to process and convert unintended document types if bypassing the Webmail…",
-     "extra": "US federal patch deadline 24 Nov",
-     "tags": [
-      "Exploited"
-     ],
-     "vendor": "Openwave Messaging Limited",
-     "product": "Webtop Media Transcoder",
-     "cve": "CVE-2026-111793",
-     "also": []
-    },
-    {
-     "title": "CVE-2026-20320: Cisco BroadWorks",
-     "subtitle": "Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability",
-     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-20320",
-     "source": "CISA KEV",
-     "published": "2026-11-10T00:00:00+00:00",
-     "date_only": true,
-     "summary": "Cisco BroadWorks contains an improper restriction of XML external entity reference vulnerability that could allow an unauthenticated, remote attacker to read sensitive configuration information on an affected system.",
-     "extra": "US federal patch deadline 24 Nov",
-     "tags": [
-      "Exploited"
-     ],
-     "vendor": "Cisco",
-     "product": "BroadWorks",
-     "cve": "CVE-2026-20320",
-     "also": []
-    },
-    {
-     "title": "CVE-2026-111560: Barracuda Networks Multiple Products",
-     "subtitle": "Barracuda Networks Multiple Products OS Command Injection Vulnerability",
-     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-111560",
-     "source": "CISA KEV",
-     "published": "2026-11-10T00:00:00+00:00",
-     "date_only": true,
-     "summary": "Barracuda Networks Email Security Gateway (ESG), Load Balancer, Application Delivery Controller (ADC), Message Archiver (BMA), WAF Control Center (WCC), Web Application Firewall (WAF), and Web Security Gateway (WSG) contain an OS command…",
-     "extra": "US federal patch deadline 13 Nov",
-     "tags": [
-      "Exploited"
-     ],
-     "vendor": "Barracuda Networks",
-     "product": "Multiple Products",
-     "cve": "CVE-2026-111560",
-     "also": []
-    },
-    {
-     "title": "CVE-2026-116606: Barracuda Networks Barracuda Email Security Gateway (ESG)",
-     "subtitle": "Barracuda Networks Email Security Gateway (ESG) Authentication Bypass Using an Alternate Path or Channel Vulnerability",
-     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-116606",
-     "source": "CISA KEV",
-     "published": "2026-11-10T00:00:00+00:00",
-     "date_only": true,
-     "summary": "Barracuda Networks Email Security Gateway (ESG) contains an authentication bypass using an alternate path or channel that could allow an unauthenticated remote attacker to invoke a configuration-import function and restore a crafted…",
-     "extra": "US federal patch deadline 13 Nov",
-     "tags": [
-      "Exploited"
-     ],
-     "vendor": "Barracuda Networks",
-     "product": "Barracuda Email Security Gateway (ESG)",
-     "cve": "CVE-2026-116606",
-     "also": []
-    },
-    {
-     "title": "CVE-2026-125350: Google Chromium",
-     "subtitle": "Google Chromium Use-After-Free Vulnerability",
-     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-125350",
-     "source": "CISA KEV",
-     "published": "2026-11-10T00:00:00+00:00",
-     "date_only": true,
-     "summary": "Google Chromium contains a use-after-free vulnerability in the XML component that could allow a remote attacker to execute arbitrary code inside the sandbox via a specially crafted webpage. This vulnerability could affect multiple web…",
-     "extra": "US federal patch deadline 24 Nov",
-     "tags": [
-      "Exploited"
-     ],
-     "vendor": "Google",
-     "product": "Chromium",
-     "cve": "CVE-2026-125350",
-     "also": []
     }
    ]
   },
   {
    "name": "Breaking Threats",
    "stories": [
+    {
+     "title": "Attackers Used Optimizely to A/B Test Malware on Top Websites",
+     "subtitle": "",
+     "link": "https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/",
+     "source": "Krebs on Security",
+     "published": "2026-11-18T02:52:04+00:00",
+     "date_only": false,
+     "summary": "At least 178 top web destinations unwittingly served a variety of malware exploits against visitors over the past 24 hours thanks to a security vulnerability involving Optimizely, a company that helps websites customize user experiences…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Classified Communications Network at the National Security Agency Goes Down, Defense Official Says",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/classified-communications-network-at-the-national-security-agency-goes-down-defense-official-says/",
+     "source": "SecurityWeek",
+     "published": "2026-11-18T02:15:07+00:00",
+     "date_only": false,
+     "summary": "The problem disrupted the operations of NSANet, a classified internal network used by employees of the agency. The post Classified Communications Network at the National Security Agency Goes Down, Defense Official Says appeared first on…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Critical Java4Shell flaw allows RCE attacks on major Java applications",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/critical-java4shell-flaw-allows-rce-attacks-on-major-java-applications/",
+     "source": "BleepingComputer",
+     "published": "2026-11-17T23:04:21+00:00",
+     "date_only": false,
+     "summary": "A critical vulnerability dubbed Java4Shell in OpenJDK, the open-source implementation of Java, can allow unauthenticated attackers to remotely execute code on popular enterprise applications, including Jenkins, Atlassian Jira, Confluence…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
     {
      "title": "Optimizely Malware Attacks Highlight Third-Party Vendor Risks",
      "subtitle": "",
@@ -214,10 +165,7 @@
       "Breach",
       "APAC"
      ],
-     "also": [
-      "Law360",
-      "MLex"
-     ]
+     "also": []
     },
     {
      "title": "Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses",
@@ -373,7 +321,9 @@
      "summary": "Oracle is preparing to release security patches for 11 vulnerabilities in Java SE on Tuesday, November 17, 2026, all of which may be exploited remotely without authentication, as separate reports warn of a potentially critical remote code…",
      "extra": "",
      "tags": [],
-     "also": []
+     "also": [
+      "Cisco Talos"
+     ]
     },
     {
      "title": "Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers",
@@ -442,52 +392,56 @@
       "AI"
      ],
      "also": []
-    },
-    {
-     "title": "MSP ScreenConnect Servers Targeted in Month-Long Campaign",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/msp-screenconnect-servers-targeted-in-month-long-campaign/",
-     "source": "SecurityWeek",
-     "published": "2026-11-17T13:24:43+00:00",
-     "date_only": false,
-     "summary": "More than 40 servers received over 688,000 requests exploiting CVE-2026-84869 to execute guest-pushed files. The post MSP ScreenConnect Servers Targeted in Month-Long Campaign appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Grok Bots Attempt to Access Corporate Data Without User Approval",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/application-security/grok-bots-corporate-data-without-user-approval",
-     "source": "Dark Reading",
-     "published": "2026-11-17T13:12:56+00:00",
-     "date_only": false,
-     "summary": "Two AI agents, separately over a five-day period, autonomously tried to access connected applications, including Google Calendar, Gmail, Slack, and GitHub, without account owner approval.",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Access Dental Management Data Breach Impacts Over 340,000",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/access-dental-management-data-breach-impacts-over-340000/",
-     "source": "SecurityWeek",
-     "published": "2026-11-17T12:59:04+00:00",
-     "date_only": false,
-     "summary": "Hackers breached Access Dental’s network and stole personal, health, and insurance information. The post Access Dental Management Data Breach Impacts Over 340,000 appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [
-      "Breach"
-     ],
-     "also": []
     }
    ]
   },
   {
    "name": "APAC Watch",
    "stories": [
+    {
+     "title": "South Korea's Mirae Asset Life Insurance Data Breach Widens to 10,418 Victims; Crypto Exchange Operator Streami Also Hit With 2,009",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jbFBkbWFXWUdpN0xCS0FMSHdUZV84aVNEOWN5amFJdXFDM2ttTUdfaUlodHVjQlBvVHFxdm1ESjNWMEQ5aXlCVlZLRVM3aXFSZGVCTlB6TkowQzNqbVFwNlI2WWtaak9rZnFXZGZBcktRTGlCLVE?oc=5",
+     "source": "finance.biggo.com",
+     "published": "2026-11-18T01:55:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Australia’s 72-Hour Ransomware Payment Reporting Rule",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN3ptSjFiRGFvbXhCNlVXd0huRUVqRmFndzRocmVDRVF4RENUTmp0eU9OOVRtM1ZlT1ZodkR6RUVQTk55eS1ZWGRzbW9RbmNsNkVTOFg0dk1RM0R6blI5NkkxaW1nWTduaWpiOTRVZHdyakVDQnRPVHo3bDhEb1BEcXQyQ3BVYjRKd0twUlhMc3FsTXZk?oc=5",
+     "source": "JournalArta",
+     "published": "2026-11-18T00:11:32+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Ransomware",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Delhi NBFC Loses ₹41.27 Crore In Cyberattack, Police Trace Suspected Links To Hong Kong",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMmYtSHdYOHQxMUlyZDNSaWZFalFadWdJc1VPV0c1dk83bWtEX0RWRWhKLW1OZmlKUWdzMzNaTVZDUUhlTWR2WUQzRVhuZy1qZHpyQWtyTWJabERYV1FpTVRRdEl0ODhLNTkwT19sLTZlaHEzNWFQMXNldGVmMUhvVm12NXQ3aWxvUjktN1F2REgxOTBpQ3Y1VTdxLWtHMEtIdUlNX2w0b0kzbUw2R0ZOdlBjUQ?oc=5",
+     "source": "The 420.in",
+     "published": "2026-11-17T17:20:17+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
     {
      "title": "​Cyberattack on Japan’s Fugaku Supercomputer Puts Data of 4,597 Users at Risk",
      "subtitle": "",
@@ -539,50 +493,6 @@
      "extra": "",
      "tags": [
       "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "China-linked hackers use AI to hit 200 targets, including South Korea",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9oTzV3RkVGZzVCb2IxbTdUYmNTdkZ1OERuZHIzdkxiZllrRjdnNDRuN1NYUFZKbDBqcVMwdm80X3hRejduQVVKTWZndHBBaGNCZHo0QjZtM2VsZ1YxSEF2QkR4bWtjZzJ4Q1hzTlZhTERhWXRSMGw0Rmt30gGOAUFVX3lxTE1TaDFycE9GVWtvWW5OTThkcW0yN2dzdlkwVk9PcjdwNDN0aGRVTHBIZTZLQ0lmX0M0SjRMcjY1WWlSOVlIczZCelpySlRvM1dSSWM1MnlFdnBqWFlvclZrSS1jVzZtUEhaVkpCYmtrMnc5am5kYUhsUF84Y2RibG9kcnFIVDNHWnFiT1RuQlE?oc=5",
-     "source": "Chosunbiz",
-     "published": "2026-11-17T04:32:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "AI",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "In Japan, one of the most powerful supercomputers was subjected to a cyberattack",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVzlHeVVIcGVWUFhaSmdjVXN6Q1lPNEtsYWJyQ21uM19xRzBXYXhXaDRSWTlKTzJXak9FMXAxWWtKSnM2UUo3QXZHel9NQ3h2OTFXZUZWeGg1ODhtb0hDRHhjT0pIeXFOQW1XdlNTTUpIU2ZlUFpqNTgwLUVSdVk1Wk15UDEwSm1rSjFSaF95NzhZMFo5RkNOQkhBZmlxWm9fY2hnSzI1cGNJRXVUWVBmOWNWWl8yem9HRUE?oc=5",
-     "source": "open.kg",
-     "published": "2026-11-17T04:10:18+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Australia logs 20 industrial ransomware incidents in Q3",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN1RWRkxUTWMzNHRwSDJYME1TWlhXRHZkQ0RlUEJXNmdTRTF5dGNMYk54bG5WNEUwUFhlUlVSRWpoM1pvQU1pSWc0dXFiTFdNSEJNby1fVGZOX25CQkV2NU9ONHAzSEJRcWRoZ0oxQ0g1aVAxcklFUlhweTd4S0JMcm16YkdUTmRzdGRpbHp5YmZ0M2Fn?oc=5",
-     "source": "SecurityBrief Australia",
-     "published": "2026-11-16T23:15:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Ransomware",
       "APAC"
      ],
      "also": []
@@ -801,6 +711,42 @@
    "name": "Government Advisories",
    "stories": [
     {
+     "title": "Google Chrome Multiple Vulnerabilities",
+     "subtitle": "",
+     "link": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20261118",
+     "source": "HKCERT",
+     "published": "2026-11-18T03:00:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "GitLab Multiple Vulnerabilities",
+     "subtitle": "",
+     "link": "https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20261118",
+     "source": "HKCERT",
+     "published": "2026-11-18T01:00:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Oracle Products Multiple Vulnerabilities",
+     "subtitle": "",
+     "link": "https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20261118",
+     "source": "HKCERT",
+     "published": "2026-11-18T01:00:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
      "title": "Siemens ROS#",
      "subtitle": "",
      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-06",
@@ -935,18 +881,6 @@
      "also": []
     },
     {
-     "title": "Check Point Products Multiple Vulnerabilities",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/check-point-products-multiple-vulnerabilities_20261117",
-     "source": "HKCERT",
-     "published": "2026-11-17T03:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
      "title": "Vulnerabilities are moving quickly, so patch, protect, prevent",
      "subtitle": "",
      "link": "https://www.cyber.gov.au/alert/vulnerabilities-are-moving-quickly-so-patch-protect-prevent",
@@ -954,30 +888,6 @@
      "published": "2026-11-17T01:41:43+00:00",
      "date_only": false,
      "summary": "Actions organisations can take to identify internet-exposed systems, address vulnerabilities and reduce cyber security risk.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Microsoft Edge Multiple Vulnerabilities",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20261116",
-     "source": "HKCERT",
-     "published": "2026-11-16T02:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Apple tvOS Multiple Vulnerabilities",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/apple-tvos-multiple-vulnerabilities_20261116",
-     "source": "HKCERT",
-     "published": "2026-11-16T01:00:00+00:00",
-     "date_only": false,
-     "summary": "",
      "extra": "",
      "tags": [],
      "also": []
