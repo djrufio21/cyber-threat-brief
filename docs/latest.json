@@ -1,9 +1,77 @@
 {
- "generated": "2026-11-18T22:07:51+00:00",
+ "generated": "2026-11-19T03:40:43+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
    "stories": [
+    {
+     "title": "CVE-2024-10441: Synology DiskStation Manager (DSM)",
+     "subtitle": "Synology DiskStation Manager (DSM) Improper Encoding or Escaping of Output Vulnerability",
+     "link": "https://nvd.nist.gov/vuln/detail/CVE-2024-10441",
+     "source": "CISA KEV",
+     "published": "2026-11-18T00:00:00+00:00",
+     "date_only": true,
+     "summary": "Synology DSM contains an improper encoding or escaping of output vulnerability in the system plugin daemon in Synology BeeStation OS (BSM) that could allow a remote attacker to execute arbitrary code via unspecified vectors.",
+     "extra": "US federal patch deadline 21 Nov",
+     "tags": [
+      "Exploited"
+     ],
+     "vendor": "Synology",
+     "product": "DiskStation Manager (DSM)",
+     "cve": "CVE-2024-10441",
+     "also": []
+    },
+    {
+     "title": "CVE-2026-40217: BerriAI LiteLLM",
+     "subtitle": "BerriAI LiteLLM Unprotected Alternate Channel Vulnerability",
+     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-40217",
+     "source": "CISA KEV",
+     "published": "2026-11-18T00:00:00+00:00",
+     "date_only": true,
+     "summary": "BerriAI LiteLLM contains an unprotected alternate channel vulnerability that could allow remote attackers to execute arbitrary code via bytecode rewriting at the /guardrails/test_custom_code URI.",
+     "extra": "US federal patch deadline 2 Dec",
+     "tags": [
+      "Exploited"
+     ],
+     "vendor": "BerriAI",
+     "product": "LiteLLM",
+     "cve": "CVE-2026-40217",
+     "also": []
+    },
+    {
+     "title": "CVE-2026-90817: Vanderbilt University Research Electronic Data Capture (REDCap)",
+     "subtitle": "Vanderbilt University Research Electronic Data Capture (REDCap) Code Injection Vulnerability",
+     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90817",
+     "source": "CISA KEV",
+     "published": "2026-11-18T00:00:00+00:00",
+     "date_only": true,
+     "summary": "Vanderbilt University Research Electronic Data Capture (REDCap) contains a code injection vulnerability which could allow an unauthenticated attacker to execute arbitrary code on the server. An attacker could exploit this via crafted HTTP…",
+     "extra": "US federal patch deadline 21 Nov",
+     "tags": [
+      "Exploited"
+     ],
+     "vendor": "Vanderbilt University",
+     "product": "Research Electronic Data Capture (REDCap)",
+     "cve": "CVE-2026-90817",
+     "also": []
+    },
+    {
+     "title": "CVE-2026-90436: Apache Axis",
+     "subtitle": "Apache Axis Unsafe Reflection Vulnerability",
+     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90436",
+     "source": "CISA KEV",
+     "published": "2026-11-18T00:00:00+00:00",
+     "date_only": true,
+     "summary": "Apache Axis contains an unsafe reflection vulnerability that could allow an unauthenticated remote attacker to execute arbitrary code via a crafted SOAP fault message that causes Axis to load and instantiate an attacker-specified class…",
+     "extra": "US federal patch deadline 21 Nov",
+     "tags": [
+      "Exploited"
+     ],
+     "vendor": "Apache",
+     "product": "Axis",
+     "cve": "CVE-2026-90436",
+     "also": []
+    },
     {
      "title": "CVE-2026-115731: Perforce Puppet Enterprise",
      "subtitle": "Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability",
@@ -60,6 +128,48 @@
   {
    "name": "Breaking Threats",
    "stories": [
+    {
+     "title": "Palo Alto Networks to Buy AI Startup Applied Compute for $4.5 Billion",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/palo-alto-networks-to-buy-ai-startup-applied-compute-for-4-5-billion/",
+     "source": "SecurityWeek",
+     "published": "2026-11-19T03:25:23+00:00",
+     "date_only": false,
+     "summary": "The all-stock deal will give the cybersecurity company a platform for fine-tuning and running open-weight AI models in public and sovereign clouds. The post Palo Alto Networks to Buy AI Startup Applied Compute for $4.5 Billion appeared…",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "Ukraine, FBI arrest ransomware gang members tied to $40M in ransoms",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/ukraine-fbi-arrest-ransomware-gang-members-tied-to-40m-in-ransoms/",
+     "source": "BleepingComputer",
+     "published": "2026-11-18T23:08:33+00:00",
+     "date_only": false,
+     "summary": "Ukrainian authorities, working with the FBI, have arrested four suspected members of an international ransomware organization linked to more than $40.5 million in ransom payments from at least 28 companies worldwide. [...]",
+     "extra": "",
+     "tags": [
+      "Ransomware"
+     ],
+     "also": []
+    },
+    {
+     "title": "Russia's Cold Relic APT Turns One Cloud Breach Into Another",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/cyberattacks-data-breaches/cold-relic-turns-one-cloud-breach-into-another",
+     "source": "Dark Reading",
+     "published": "2026-11-18T21:59:46+00:00",
+     "date_only": false,
+     "summary": "The Russia-linked threat group is using data stolen from one victim to target others via convincing impersonations and social engineering attacks.",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": []
+    },
     {
      "title": "Coinbase blocks $4.7 million in transfers to Elon Musk deepfake scam",
      "subtitle": "",
@@ -354,44 +464,6 @@
       "AI"
      ],
      "also": []
-    },
-    {
-     "title": "Microsoft Takes Perception Agentic Security Platform Out of Preview",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/microsoft-takes-perception-agentic-security-platform-out-of-preview/",
-     "source": "SecurityWeek",
-     "published": "2026-11-18T12:14:23+00:00",
-     "date_only": false,
-     "summary": "Four blue team agents and the Recon Agent are now generally available, while integrations and vulnerability shielding are in preview. The post Microsoft Takes Perception Agentic Security Platform Out of Preview appeared first on…",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "CISO Conversations: Patti Degnan – Part of the Job Is Deciding What Not to Do",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/ciso-conversations-patti-degnan-part-of-the-job-is-deciding-what-not-to-do/",
-     "source": "SecurityWeek",
-     "published": "2026-11-18T12:00:00+00:00",
-     "date_only": false,
-     "summary": "Patti Degnan’s identity was stolen in 2006. It set her on a path to the CISO seat at endpoint security firm Glow. The post CISO Conversations: Patti Degnan – Part of the Job Is Deciding What Not to Do appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
-     "source": "The Hacker News",
-     "published": "2026-11-18T11:55:49+00:00",
-     "date_only": false,
-     "summary": "A Java flaw called Java4Shell can let attackers without an account run their own code on Jira, Jenkins, Keycloak, and three other widely used applications, says Calif, the security research firm that disclosed it this week. The flaw is…",
-     "extra": "",
-     "tags": [],
-     "also": []
     }
    ]
   },
@@ -399,32 +471,30 @@
    "name": "APAC Watch",
    "stories": [
     {
-     "title": "Japan Shuts Down Fugaku Supercomputer After Cyberattack",
+     "title": "RIKEN Takes Japan’s Fugaku Supercomputer Offline After Cyberattack",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWnR4aGc0M21IaUFYWjBWalh3WUxRclExNUtwaG1SdGRUZEVpMm0zRnZyUjZtSlJXRUpEQ2ZYUm42c0Y2c1NiSmMxeUtsOWowdE83QlBFRlg5MGVVdEVnNUF6cDRLWl9KSExxRUxDcW5xcU9aLThVN1E2RkJ2YjB2NWdRelRwWWk1QUNiV28yeFh2YVk?oc=5",
      "source": "eSecurity Planet",
-     "published": "2026-11-18T18:51:38+00:00",
+     "published": "2026-11-18T22:14:03+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
      "tags": [
-      "APAC",
-      "Breach"
+      "APAC"
      ],
-     "also": [
-      "CyberSecurityNews"
-     ]
+     "also": []
     },
     {
-     "title": "Java flaw leaves systems open to hackers, say US, South Korea, China's Tencent",
+     "title": "Hackers Breach Japan’s Fugaku Supercomputer, Exposing Data of Up to 4,597 Users",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFAyNDR0QkxROUdFaHhYUnVvWDBaUjJ0T21RSFRfbU1yMm84S2hIM2NJLXotZG9zdTlrOEZ5M0c5amdaTXlMTlptVlRVUUlRWXJmb2tn?oc=5",
-     "source": "The Edge Malaysia",
-     "published": "2026-11-18T13:01:02+00:00",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1QUm5QQU4tLXRrc3gxZngyWGwxWGdjNTAybVRzM3J2bzdKMnpBODQzWlZ6SVdiWmFpckNlZ3dNYjM4U0F3UUZiS2xSdDZ4cG9keVUzQlZ4Z3JGZXZLaDFZVlJqRF9CY1hrSVYtMlo5T1ktNEdK0gF0QVVfeXFMTVBSblBBTi0tdGtzeDFmeDJYbDFYZ2M1MDJtVHMzcnZvN0oyekE4NDNaVnpJV2JaYWlyQ2Vnd01iMzhTQXdRRmJLbFJ0Nnhwb2R5VTNCVnhnckZldktoMVlWUmpEX0JjWGtJVi0yWjlPWS00R0o?oc=5",
+     "source": "Cyber Press",
+     "published": "2026-11-18T11:14:06+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
      "tags": [
+      "Breach",
       "APAC"
      ],
      "also": []
@@ -491,25 +561,11 @@
      "also": []
     },
     {
-     "title": "Japan's most powerful supercomputer hit by cyberattack",
+     "title": "Japan Shuts Down Fugaku Supercomputer After Hackers Breach Internal Servers",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcHFZb0tZQ2ZESHVSMk1EalR1cTA2RXdFVG5OZWJkRGZoZ0NMOTlyNFpBcGlUX1ZvbGxpdUpsQjN6Q3pjalZuSHRHSksxcWtabnU5aGhxQzVhVU84aFU2X3pmX3VFMFBVaXlmVHAwYi1sVlNXSHdWZWZmU1QtOUs4LXVVSDY4OHZrQnVnZVZJZHIyWEQ2M0ZvaE84dTlLYzN4WFdJX1pR?oc=5",
-     "source": "NewsBytes",
-     "published": "2026-11-18T06:08:56+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "South Korea's Mirae Asset Life Insurance Data Breach Widens to 10,418 Victims; Crypto Exchange Operator Streami Also Hit With 2,009",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9jbFBkbWFXWUdpN0xCS0FMSHdUZV84aVNEOWN5amFJdXFDM2ttTUdfaUlodHVjQlBvVHFxdm1ESjNWMEQ5aXlCVlZLRVM3aXFSZGVCTlB6TkowQzNqbVFwNlI2WWtaak9rZnFXZGZBcktRTGlCLVE?oc=5",
-     "source": "finance.biggo.com",
-     "published": "2026-11-18T01:55:00+00:00",
+     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1RaEZZSlNpaUN0OGhaUHc4RVlhQWEwLUhfNnZBbWRKa3lyVXNwam9iZDNLd3owUHpPcW03bUFMMlpKUGlTOENwSUh1WE1UcmtrSzNrLXlJYkZkM1N2YXE1X1RDS2hlNWVKckZaekllTU5kYlhWWG5R0gF8QVVfeXFMUFptTXdpNy1IWnpObkZLYmJrY1BreEVrQUN1aW9nZWNCOU9EaHlRYnUyZ1VZSlp4NUxWTTA4cWRRTlhOcjRtZ2pfX2huYThZRDUtUm9vN3BIUTZJcWZYcEZmR2RtTVFDNHVZZ09rR1dqQnY5NlpXcHNiRGQ5eg?oc=5",
+     "source": "CyberSecurityNews",
+     "published": "2026-11-18T08:01:05+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -520,16 +576,15 @@
      "also": []
     },
     {
-     "title": "Australia’s 72-Hour Ransomware Payment Reporting Rule",
+     "title": "Japan's most powerful supercomputer hit by cyberattack",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNN3ptSjFiRGFvbXhCNlVXd0huRUVqRmFndzRocmVDRVF4RENUTmp0eU9OOVRtM1ZlT1ZodkR6RUVQTk55eS1ZWGRzbW9RbmNsNkVTOFg0dk1RM0R6blI5NkkxaW1nWTduaWpiOTRVZHdyakVDQnRPVHo3bDhEb1BEcXQyQ3BVYjRKd0twUlhMc3FsTXZk?oc=5",
-     "source": "JournalArta",
-     "published": "2026-11-18T00:11:32+00:00",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcHFZb0tZQ2ZESHVSMk1EalR1cTA2RXdFVG5OZWJkRGZoZ0NMOTlyNFpBcGlUX1ZvbGxpdUpsQjN6Q3pjalZuSHRHSksxcWtabnU5aGhxQzVhVU84aFU2X3pmX3VFMFBVaXlmVHAwYi1sVlNXSHdWZWZmU1QtOUs4LXVVSDY4OHZrQnVnZVZJZHIyWEQ2M0ZvaE84dTlLYzN4WFdJX1pR?oc=5",
+     "source": "NewsBytes",
+     "published": "2026-11-18T06:08:56+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
      "tags": [
-      "Ransomware",
       "APAC"
      ],
      "also": []
@@ -621,20 +676,6 @@
      "also": []
     },
     {
-     "title": "COLD RELIC: A Case Study in Impersonation and Compromise",
-     "subtitle": "",
-     "link": "https://cloud.google.com/blog/topics/threat-intelligence/cold-relic-a-case-study-in-impersonation-and-compromise/",
-     "source": "Google Threat Intelligence",
-     "published": "2026-11-17T14:00:00+00:00",
-     "date_only": false,
-     "summary": "Written by: Josh Murchie, John Wolfram, Joseph Spero, Peter Ukhanov, Fernando Tomlinson, Jr., Wesley Shields Introduction Over the past year, Mandiant has responded to a series of linked intrusions demonstrating how Russian cyber espionage…",
-     "extra": "",
-     "tags": [
-      "Nation-state"
-     ],
-     "also": []
-    },
-    {
      "title": "High volume phishing campaign uses Microsoft 365 outage lures to target multiple industry sectors",
      "subtitle": "",
      "link": "https://www.microsoft.com/en-us/security/blog/2026/11/16/high-volume-phishing-campaign-uses-microsoft-365-outage-lures-target-multiple-industry-sectors-2/",
@@ -673,20 +714,6 @@
      "extra": "",
      "tags": [
       "Breach"
-     ],
-     "also": []
-    },
-    {
-     "title": "GTIG AI Threat Tracker: Agentic Threat Activity Crosses a Significant Threshold",
-     "subtitle": "",
-     "link": "https://cloud.google.com/blog/topics/threat-intelligence/agentic-threat-activity-crosses-a-significant-threshold/",
-     "source": "Google Threat Intelligence",
-     "published": "2026-11-16T14:00:00+00:00",
-     "date_only": false,
-     "summary": "Written by: Aurora Blum, Kelli Vanderlee, Jess Xia, David Mainor Executive Summary As threat actors increasingly move beyond basic prompting to deploying autonomous multi-agent frameworks , automated vulnerability exploitation pipelines…",
-     "extra": "",
-     "tags": [
-      "AI"
      ],
      "also": []
     },
@@ -739,12 +766,87 @@
      "extra": "",
      "tags": [],
      "also": []
+    },
+    {
+     "title": "Never be afraid to ask questions",
+     "subtitle": "",
+     "link": "https://blog.talosintelligence.com/never-be-afraid-to-ask-questions/",
+     "source": "Cisco Talos",
+     "published": "2026-11-12T19:00:00+00:00",
+     "date_only": false,
+     "summary": "Amy reflects on a formative college anthropology course that taught her the power of asking questions to bridge cultural gaps.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Trained to betray: How post-training supply chain attacks hijack coding agents",
+     "subtitle": "",
+     "link": "https://www.microsoft.com/en-us/security/blog/2026/11/12/trained-to-betray-how-post-training-supply-chain-attacks-hijack-coding-agents/",
+     "source": "Microsoft Threat Intelligence",
+     "published": "2026-11-12T17:00:00+00:00",
+     "date_only": false,
+     "summary": "Microsoft Defender Research and the AI Red Team discuss how poisoned datasets and poisoned model checkpoints can trigger remote code execution and other malicious activities. The post Trained to betray: How post-training supply chain…",
+     "extra": "",
+     "tags": [
+      "Supply chain",
+      "AI"
+     ],
+     "also": []
     }
    ]
   },
   {
    "name": "Government Advisories",
    "stories": [
+    {
+     "title": "Drupal Multiple Vulnerabilities",
+     "subtitle": "",
+     "link": "https://www.hkcert.org/security-bulletin/drupal-multiple-vulnerabilities_20261119",
+     "source": "HKCERT",
+     "published": "2026-11-19T03:00:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Mozilla Firefox Multiple Vulnerabilities",
+     "subtitle": "",
+     "link": "https://www.hkcert.org/security-bulletin/mozilla-firefox-multiple-vulnerabilities_20261119",
+     "source": "HKCERT",
+     "published": "2026-11-19T03:00:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Synology DiskStation Manager Multiple Vulnerabilities",
+     "subtitle": "",
+     "link": "https://www.hkcert.org/security-bulletin/synology-diskstation-manager-remote-code-execution-vulnerability_20261119",
+     "source": "HKCERT",
+     "published": "2026-11-19T02:00:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "F5 Products Multiple Vulnerabilities",
+     "subtitle": "",
+     "link": "https://www.hkcert.org/security-bulletin/f5-products-multiple-vulnerabilities_20261119",
+     "source": "HKCERT",
+     "published": "2026-11-19T01:00:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
     {
      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
      "subtitle": "",
@@ -765,30 +867,6 @@
      "link": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20261118",
      "source": "HKCERT",
      "published": "2026-11-18T03:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "GitLab Multiple Vulnerabilities",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20261118",
-     "source": "HKCERT",
-     "published": "2026-11-18T01:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Oracle Products Multiple Vulnerabilities",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/oracle-products-multiple-vulnerabilities_20261118",
-     "source": "HKCERT",
-     "published": "2026-11-18T01:00:00+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -901,30 +979,6 @@
      "published": "2026-11-17T12:00:00+00:00",
      "date_only": false,
      "summary": "View CSAF Summary The products listed below contain an authentication bypass vulnerability that could allow an on-path attacker to take over the session of a legitimate user and execute arbitrary code with the privileges of the victim…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Siemens RUGGEDCOM APE1808",
-     "subtitle": "",
-     "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-07",
-     "source": "CISA",
-     "published": "2026-11-17T12:00:00+00:00",
-     "date_only": false,
-     "summary": "View CSAF Summary Fortinet has published information on a Double Free vulnerability in FortiOS. This advisory lists the related Siemens Industrial products. Siemens recommends to update Fortigate NGFW to V7.6.9 or later following the…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Siemens meta-iot2050",
-     "subtitle": "",
-     "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-321-11",
-     "source": "CISA",
-     "published": "2026-11-17T12:00:00+00:00",
-     "date_only": false,
-     "summary": "View CSAF Summary meta-iot2050 (https://github.com/siemens/meta-iot2050) from V01.03.01 contains a Command Injection vulnerability in the firmware update tool that could allow an attacker which is able to manipulate a configuration file to…",
      "extra": "",
      "tags": [],
      "also": []
