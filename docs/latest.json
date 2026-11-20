@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-19T22:17:35+00:00",
+ "generated": "2026-11-20T03:31:38+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -129,6 +129,53 @@
    "name": "Breaking Threats",
    "stories": [
     {
+     "title": "VMware patches vCenter zero-day exploited in attacks since September",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/vmware-patches-vcenter-zero-day-exploited-in-attacks-since-september/",
+     "source": "BleepingComputer",
+     "published": "2026-11-20T00:26:25+00:00",
+     "date_only": false,
+     "summary": "Broadcom has released security updates to fix a critical VMware vCenter Server authentication bypass vulnerability that Chinese-linked hackers have exploited in zero-day attacks since September 2026. [...]",
+     "extra": "",
+     "tags": [
+      "Zero-day",
+      "Nation-state"
+     ],
+     "also": [
+      "SecurityWeek"
+     ]
+    },
+    {
+     "title": "Qwen Incidents Show Self-Hosted AI Models Need Stronger Steering",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/cyber-risk/qwen-incidents-self-hosted-ai-models-stronger-steering",
+     "source": "Dark Reading",
+     "published": "2026-11-19T22:40:03+00:00",
+     "date_only": false,
+     "summary": "Companies deploying AI agents have the illusion of control, but several incidents demonstrate that businesses need to be ready to enforce directions.",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "Hackers steal data of 1.6 million SBC Medical Group customers",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/hackers-steal-data-of-16-million-sbc-medical-group-customers/",
+     "source": "BleepingComputer",
+     "published": "2026-11-19T22:25:42+00:00",
+     "date_only": false,
+     "summary": "SBC Medical Group has warned in a filing with the U.S. Securities and Exchange Commission (SEC) that two cybersecurity incidents exposed sensitive customer and employee information, including personal data belonging to 1.6 million people…",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": [
+      "MLQ.ai"
+     ]
+    },
+    {
      "title": "Lawmakers launch new AI safety caucus amid rising security concerns",
      "subtitle": "",
      "link": "https://therecord.media/lawmakers-launch-new-ai-safety-caucus",
@@ -195,21 +242,6 @@
      "extra": "",
      "tags": [
       "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Newly Patched VMware vCenter Flaw Exploited as Zero-Day by Chinese APT",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/newly-patched-vmware-vcenter-flaw-exploited-as-zero-day-by-chinese-apt/",
-     "source": "SecurityWeek",
-     "published": "2026-11-19T19:21:06+00:00",
-     "date_only": false,
-     "summary": "Google says a China-linked espionage group exploited a critical VMware vCenter authentication bypass before Broadcom released a patch. The post Newly Patched VMware vCenter Flaw Exploited as Zero-Day by Chinese APT appeared first on…",
-     "extra": "",
-     "tags": [
-      "Zero-day",
-      "Nation-state"
      ],
      "also": []
     },
@@ -427,32 +459,6 @@
      "extra": "",
      "tags": [],
      "also": []
-    },
-    {
-     "title": "StepSecurity Secures $20 Million to Expand Supply Chain Protection",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/stepsecurity-secures-20-million-to-expand-supply-chain-protection/",
-     "source": "SecurityWeek",
-     "published": "2026-11-19T12:23:34+00:00",
-     "date_only": false,
-     "summary": "The company will use the funds to accelerate the development and distribution of its security platform. The post StepSecurity Secures $20 Million to Expand Supply Chain Protection appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [
-      "Supply chain"
-     ],
-     "also": []
-    },
-    {
-     "title": "Critical Apache Roller, Axis Vulnerabilities Exploited in Attacks",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/critical-apache-roller-axis-vulnerabilities-exploited-in-attacks/",
-     "source": "SecurityWeek",
-     "published": "2026-11-19T12:13:24+00:00",
-     "date_only": false,
-     "summary": "Attackers are targeting Confluence Data Center through an Axis flaw and Apache is warning of attacks against Roller. The post Critical Apache Roller, Axis Vulnerabilities Exploited in Attacks appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [],
-     "also": []
     }
    ]
   },
@@ -460,26 +466,11 @@
    "name": "APAC Watch",
    "stories": [
     {
-     "title": "Japan's Rumoi City says over 70,000 resident registry records may have leaked after contractor device infected with malware",
+     "title": "Binance Founder CZ Warns Against Unnecessary Storage of ID Documents After Japan Data Breach",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCVElHa2Q1aXJYY1JZNlFpZUh4RjU3S1dTUjhJY284X3VMVkwtdjN5SDVzQk9CMklDS0JNZlNLOVBJSW50TmZzLVluT09BdTFXWmNCSjRvMnpDUDd5U0dlaG8yVDVMVUl5LU9RZU5EOTN4MUdvOXc?oc=5",
-     "source": "BigGo Finance",
-     "published": "2026-11-19T13:05:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Japan's SBC Medical Group hit by 770,000 overseas attacks; personal data of 1.62 million leaked, passwords stored in plaintext",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBLUS1XYWJLWlRDcGdGOHpPUlp0TVAycUl1THp0WEtjcHAwTTEwLVE3akhMQ09UTlFaTFg5UEZjazZyZ3RnSFlYYVVkYnJnbVZSV2JOTUxiaGxwaFJNenNrRUtkWTNKMXM5M2xoQjRPUHdrSFNLV2c?oc=5",
-     "source": "BigGo Finance",
-     "published": "2026-11-19T10:25:00+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBVQWt3cnJsbFhmRy1vQ3pjT05UaWdDOUd5MjJvU0xsVXVaelZfRTRZUlhfbGZ4Z2FXM21wZy1yd0FPUkRJS1U2ODhpNU1OSHlKMElYbktTcEJZUEt0eS1YRlE0WlpPaUVYZmtzTkVyVkhJWlFIUDBrVHRn?oc=5",
+     "source": "Hokanews",
+     "published": "2026-11-19T16:17:00+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -548,39 +539,6 @@
       "APAC"
      ],
      "also": []
-    },
-    {
-     "title": "Australia mulls tougher tech laws after AI health breach",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxObm9vMDk4anZQS0xSaENMYkxzU1BoTkRNdlFMS1E3V3B3SzlUN1RYQjQxajVTc01qejBUYWJxUVNKN1phczdULWJDd1QtZzBHV1h3ajlQYnpUTFNOeWpnVnc2alJiR2RpMktUUzNxdDVpMi1UWk5MVmJmS2RMR1hWaVBYSENEYWNJVmRRaTNtT3B3R1lTb0U2eTk4b203OGlyRHU2Rm1BLWdxLVU2bE5GZF9UbEFnb2lTbVY4eGpDTUhCWnN2d3h2aVVFejc2eEpTUjhENA?oc=5",
-     "source": "The Nightly",
-     "published": "2026-11-19T04:42:54+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "AI",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Japan’s Fugaku Supercomputer Hit by Cyberattack: Data of 4,597 Users at Risk After Security Breach",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZHRib2tqbzJxcC1rdW9IMXV5SzBwQTludmRlamZ3eXBkR3NjalA2UURYNHFOdUxGbWxFanUtWlpFcWpNbUI4Z29WWUkwTXdZMlgtRk9pSXFUNlFELWxiYlFtZGw5V0tQaGdLa3h2OFdFOEU3OWREaHllbFJIU1I5T2otY2NhNFpHcEVRRW1RRTIybTBSa1V5RzB6OXdOT1ozc0FZYkpxbndYZmg2QjlHS0h4WEM4aWtqME5HWE5NZjhUcDRlUHFDY0JGRFJmWmRfQW5MR01B?oc=5",
-     "source": "Convergence Now",
-     "published": "2026-11-19T04:26:21+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": [
-      "eSecurity Planet"
-     ]
     }
    ]
   },
@@ -794,6 +752,42 @@
    "name": "Government Advisories",
    "stories": [
     {
+     "title": "ChromeOS Multiple Vulnerabilities",
+     "subtitle": "",
+     "link": "https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20261120",
+     "source": "HKCERT",
+     "published": "2026-11-20T03:00:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "GitHub Enterprise Server Multiple Vulnerabilities",
+     "subtitle": "",
+     "link": "https://www.hkcert.org/security-bulletin/github-enterprise-server-multiple-vulnerabilities_20261120",
+     "source": "HKCERT",
+     "published": "2026-11-20T03:00:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Splunk Products Multiple Vulnerabilities",
+     "subtitle": "",
+     "link": "https://www.hkcert.org/security-bulletin/splunk-products-multiple-vulnerabilities_20261120",
+     "source": "HKCERT",
+     "published": "2026-11-20T01:00:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
      "title": "Elecbrakes EB2, VM1, ELBC2000",
      "subtitle": "",
      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-02",
@@ -830,18 +824,6 @@
      "also": []
     },
     {
-     "title": "Drupal Multiple Vulnerabilities",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/drupal-multiple-vulnerabilities_20261119",
-     "source": "HKCERT",
-     "published": "2026-11-19T03:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
      "title": "Mozilla Firefox Multiple Vulnerabilities",
      "subtitle": "",
      "link": "https://www.hkcert.org/security-bulletin/mozilla-firefox-multiple-vulnerabilities_20261119",
@@ -866,9 +848,9 @@
      "also": []
     },
     {
-     "title": "F5 Products Multiple Vulnerabilities",
+     "title": "Nginx Multiple Vulnerabilities",
      "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/f5-products-multiple-vulnerabilities_20261119",
+     "link": "https://www.hkcert.org/security-bulletin/nginx-multiple-vulnerabilities_20261119",
      "source": "HKCERT",
      "published": "2026-11-19T01:00:00+00:00",
      "date_only": false,
@@ -889,18 +871,6 @@
      "tags": [
       "Exploited"
      ],
-     "also": []
-    },
-    {
-     "title": "Google Chrome Multiple Vulnerabilities",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/google-chrome-multiple-vulnerabilities_20261118",
-     "source": "HKCERT",
-     "published": "2026-11-18T03:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
      "also": []
     },
     {
@@ -961,18 +931,6 @@
      "published": "2026-11-17T12:00:00+00:00",
      "date_only": false,
      "summary": "View CSAF Summary .NET Client Library for SIMATIC S7 Webserver API contains multiple vulnerabilities that could allow an attacker to obtain sensitive information or write arbitrary files outside the intended download directory. Siemens has…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Critical Java Vulnerability Requires Immediate Patching",
-     "subtitle": "",
-     "link": "https://www.cisa.gov/news-events/alerts/2026/11/17/critical-java-vulnerability-requires-immediate-patching",
-     "source": "CISA",
-     "published": "2026-11-17T12:00:00+00:00",
-     "date_only": false,
-     "summary": "Purpose CISA strongly urges organizations to immediately patch the recently disclosed Oracle Java vulnerability CVE-2026-114938 . This critical memory-corruption vulnerability, known as “Java4Shell,” affects the Base64 decoder of the…",
      "extra": "",
      "tags": [],
      "also": []
