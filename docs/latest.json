@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T02:31:32+00:00",
+ "generated": "2026-11-21T11:25:21+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -163,6 +163,34 @@
    "name": "Breaking Threats",
    "stories": [
     {
+     "title": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html",
+     "source": "The Hacker News",
+     "published": "2026-11-21T08:49:20+00:00",
+     "date_only": false,
+     "summary": "Signal has announced that it will restrict screenshots by default to stop artificial intelligence (AI) agents from reading private chats on Android and iOS devices, but conceded that the protection is \"incomplete.\" The feature applies to…",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html",
+     "source": "The Hacker News",
+     "published": "2026-11-21T08:49:13+00:00",
+     "date_only": false,
+     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver, and Broadcom VMware vCenter to its Known Exploited Vulnerabilities (KEV), citing evidence…",
+     "extra": "",
+     "tags": [
+      "Nation-state"
+     ],
+     "also": []
+    },
+    {
      "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
      "subtitle": "",
      "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
@@ -265,7 +293,7 @@
      "source": "The Hacker News",
      "published": "2026-11-20T17:57:20+00:00",
      "date_only": false,
-     "summary": "Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages. The vulnerability, tracked as CVE-2026-23871, has been described…",
+     "summary": "Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages. The vulnerability, tracked as CVE-2026-23871 (CVSS score: 3.5)…",
      "extra": "",
      "tags": [],
      "also": []
@@ -473,33 +501,6 @@
       "APAC"
      ],
      "also": []
-    },
-    {
-     "title": "F5 releases emergency patches for critical BIG-IP RCE flaws",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/f5-releases-emergency-patches-for-critical-big-ip-rce-flaws/",
-     "source": "BleepingComputer",
-     "published": "2026-11-20T10:57:43+00:00",
-     "date_only": false,
-     "summary": "US cybersecurity company F5 warned customers to patch five critical BIG-IP vulnerabilities that attackers can exploit to trigger denial-of-service (DoS) or gain remote code execution. [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "European Commission Confirms AI-Assisted Cyberattack Disrupted Services",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/european-commission-confirms-ai-assisted-cyberattack-disrupted-services/",
-     "source": "SecurityWeek",
-     "published": "2026-11-20T10:51:42+00:00",
-     "date_only": false,
-     "summary": "The Commission took certain services offline to contain the incident, but it has no evidence of a data breach. The post European Commission Confirms AI-Assisted Cyberattack Disrupted Services appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "AI"
-     ],
-     "also": []
     }
    ]
   },
@@ -507,11 +508,54 @@
    "name": "APAC Watch",
    "stories": [
     {
-     "title": "Suspected cyberattack takes Japan’s Fugaku supercomputer offline",
+     "title": "Indonesia's Financial Sector Hit by 1.2 Million Cyberattack Attempts in 24 Hours",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUU5wZVhvZGhqeW9sR1pPemRzWFF1VzJjUVc2enFTZmlvSXIyR3hjV2RnRFpUQmdLd0tTb0dHVEhyN3BGTUQtUjRDU1FZQzljaTdfNHVCNHdZQ1gtVzVZTmJLcXR2SzRxblpxaXI1bnY3TW5FY3dpQ09NREEzbFgwc010OGF2dW5kSU9JM1FpOA?oc=5",
-     "source": "Mezha.net",
-     "published": "2026-11-21T02:10:48+00:00",
+     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSmpncGRoYWoxZHIzY0ZuZURHVW43Q3lyRm5oYlJGbHZWTVM3Mm80ZGlhOUhEbmM4QUg2cnFYS01hWm9lQm1WSXcwdk9sUTZoOWVpRkFxbFZDNjNpcVYxaDk0ejRQajlSWVdfREFrS2hBa3dtdDd4SmZQUEFXUEI2Yll6aEJOcFZlWWdzeXdzeWFfSEZUYXF4cWx4R3pjQmtjaXE0REV2Um80TWoza0Yw?oc=5",
+     "source": "varindia",
+     "published": "2026-11-21T07:31:35+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "CERT-In warns AI-armed hackers targeting business payment systems in India",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPU01SMUF0eG1tMXdIU1RoenExN1JkU2RtTTgzUE52Z0xHNi1uelZTdlh0SWc5WlQ1QkRKZGNwWmxSUjNPQ2xJaHNTT0o2eUN6MzRCTjA5T1d0dTExSXByc0dwVUotc1RrWjFEYTU1NEdtZWZ5Qlh4ekJ4S0loaWNVTUN1TlNmUmJSNmVMTE1VOFFfTmRzMTVWbmpZU3BhLVRXR0RzdGJMQkw1Uk9fQktFdGZaYXk0T1BSM0hfNGxn?oc=5",
+     "source": "NewsBytes",
+     "published": "2026-11-21T07:09:42+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "AI",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "RIKEN Takes Japan’s Fugaku Supercomputer Offline After Cyberattack",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWnR4aGc0M21IaUFYWjBWalh3WUxRclExNUtwaG1SdGRUZEVpMm0zRnZyUjZtSlJXRUpEQ2ZYUm42c0Y2c1NiSmMxeUtsOWowdE83QlBFRlg5MGVVdEVnNUF6cDRLWl9KSExxRUxDcW5xcU9aLThVN1E2RkJ2YjB2NWdRelRwWWk1QUNiV28yeFh2YVk?oc=5",
+     "source": "eSecurity Planet",
+     "published": "2026-11-21T07:07:26+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Who Is Protecting India from Hackers? 5 Cybersecurity Startups You Should Know",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbGU1LUg4THpzZC15YXJUeXE5QnVTTEg5NmQ2MnM1ODBxY2o3a1VpMkVpMGRKdVliM1hiX2RoczBRZU1KUFo3R3AxMEl6ZURWRHRQMG5NRVRHaEx4TXMteFFsMk81dHM2YlFzYXUycG5Dc2tTbjIwazY5ei1NQkFsWFh1Z1NNcEpobkJfUFVyOGlFUU15b1JpM0ctSC1SLVNRcExNeTlYRVNKY0NnUFN3MWp0TS0?oc=5",
+     "source": "APAC Media",
+     "published": "2026-11-21T05:21:40+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -525,7 +569,7 @@
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOamJaaVk4Q1V5cThZc0QyN2g0MU9WVGhKWVp5MEp3cmd0dmZ6aEdmS3lEdmVaREwxYWJ5eTFINlBBWW1RQlNnZXd4eXhQV2Y5N25mSHR5YVduYmlEQ3Y3OU5mVGZBRjNnSlcxUGg4NHNCRkxESnpORlpQZUdybzVSUjVvbHZnaU1wS0NhWjBNQ3pqUjFGLUd2NjlEWHNLSTJnQjB6WnZ0YWFkSlpQQ3BneUU0ai10cUxWVzIyMmZ3WWhUTV9uQ2xOdXUtaTI4bElNY2NCMEN1eUttc0l1aHJRN1JTdlhPNVhpX3o4eXRpVQ?oc=5",
      "source": "TechRadar",
-     "published": "2026-11-21T02:06:44+00:00",
+     "published": "2026-11-21T02:05:00+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -574,50 +618,6 @@
      "extra": "",
      "tags": [
       "AI",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Japan lags behind in using AI for cybersecurity | NHK WORLD-JAPAN News",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBUX2pVUGd5TFFubXZaal9qNnZlc2NQeUdlTHZvRmJPWmtmUWM0NkxaRHZ5bi1Za2hheWxoeEtrOG0yc2ZHRlFodGpjNlNWdVIzenhNRXhLeUZXVC00RHczRXlndw?oc=5",
-     "source": "NHKニュース",
-     "published": "2026-11-20T06:58:05+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "AI",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Japan's Plaid to swing to ¥2 billion net loss as KARTE shutdown drags data breach tally to 2,220 companies",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBYOHBfZGFFMDlVT1U0UWZ5SVFUXzJNVVNpd29DTDBXQ3JLMWQ0dzVUUjdxLThIcllsOU96R0FiM2tQbThUbXloTlh4dnk3U2pCQkVTcnk2RUpELU5TcVJybndsYWwwMTBhQnJVUnlERnFISDd3V1E?oc=5",
-     "source": "BigGo Finance",
-     "published": "2026-11-20T06:05:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Bell Financial Group announces cyberattack in Australia",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vYUd4MWoxdThpbnc3dHc1SUJzNlFuOUNDVWhCS0JKU1YxRUNrV1B6U2JfcERSbXc3cWJTc2FBWmRpU2p4TG9JRFgwT0NiUi0ydzRjdVV3cTJRd9IBWkFVX3lxTE1vYUd4MWoxdThpbnc3dHc1SUJzNlFuOUNDVWhCS0JKU1YxRUNrV1B6U2JfcERSbXc3cWJTc2FBWmRpU2p4TG9JRFgwT0NiUi0ydzRjdVV3cTJRdw?oc=5",
-     "source": "MLex",
-     "published": "2026-11-20T05:55:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
       "APAC"
      ],
      "also": []
