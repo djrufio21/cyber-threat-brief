@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-21T11:25:21+00:00",
+ "generated": "2026-11-21T19:29:10+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -163,6 +163,101 @@
    "name": "Breaking Threats",
    "stories": [
     {
+     "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
+     "source": "BleepingComputer",
+     "published": "2026-11-21T18:01:58+00:00",
+     "date_only": false,
+     "summary": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant configuration…",
+     "extra": "",
+     "tags": [
+      "Exploited",
+      "Breach"
+     ],
+     "also": []
+    },
+    {
+     "title": "BADBOX botnet returns with record-breaking 40 billion daily ad requests",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/",
+     "source": "BleepingComputer",
+     "published": "2026-11-21T15:17:27+00:00",
+     "date_only": false,
+     "summary": "The BADBOX malware found in a broad range of generic Android TV boxes has returned to large-scale ad-fraud operations following last year's disruptions. [...]",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "FBI reportedly hacked again, this time targeting nationwide police database",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
+     "source": "BleepingComputer",
+     "published": "2026-11-21T14:26:04+00:00",
+     "date_only": false,
+     "summary": "FBI systems have reportedly been breached for the second time in two months, this time targeting the agency's National Crime Information Center (NCIC), which is used to share information between local, state, and federal law enforcement…",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": []
+    },
+    {
+     "title": "Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/",
+     "source": "SecurityWeek",
+     "published": "2026-11-21T12:08:50+00:00",
+     "date_only": false,
+     "summary": "A threat actor used autonomous Cairn AI agents to discover and exploit a critical MONAI Label vulnerability. The post Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [
+      "Zero-day",
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
+     "source": "The Hacker News",
+     "published": "2026-11-21T11:53:07+00:00",
+     "date_only": false,
+     "summary": "A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown. The same attack could be extended to reach the credentials…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html",
+     "source": "The Hacker News",
+     "published": "2026-11-21T11:05:53+00:00",
+     "date_only": false,
+     "summary": "A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work with GnuPG. The GnuPG project warned yesterday that the flaw could be used to steal data from…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
+     "source": "The Hacker News",
+     "published": "2026-11-21T11:03:17+00:00",
+     "date_only": false,
+     "summary": "Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a university server, Amazon Threat Intelligence said this week. The…",
+     "extra": "",
+     "tags": [
+      "Zero-day",
+      "AI"
+     ],
+     "also": []
+    },
+    {
      "title": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
      "subtitle": "",
      "link": "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html",
@@ -256,251 +351,6 @@
      "extra": "",
      "tags": [],
      "also": []
-    },
-    {
-     "title": "Bell Canada says 'agentic' hacker stole enterprise customer data",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/bell-canada-says-agentic-hacker-stole-enterprise-customer-data/",
-     "source": "BleepingComputer",
-     "published": "2026-11-20T18:51:43+00:00",
-     "date_only": false,
-     "summary": "Bell Canada has confirmed that an \"agentic\" threat actor breached its systems on November 17, 2026, and stole enterprise customer data, including information from a system used to order and provision telecommunications circuits. [...]",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "In Security, Words Matter as Much as Tools, Maybe More",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/cybersecurity-operations/security-words-matter",
-     "source": "Dark Reading",
-     "published": "2026-11-20T18:35:40+00:00",
-     "date_only": false,
-     "summary": "From talking cloud security to using AI, cyber leaders are finding that clear, disciplined communication is now a front-line defense capability across the enterprise.",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
-     "source": "The Hacker News",
-     "published": "2026-11-20T17:57:20+00:00",
-     "date_only": false,
-     "summary": "Meta-owned WhatsApp has addressed security vulnerabilities, including one impacting its Android app that it suspects may have been exploited in connection with scam messages. The vulnerability, tracked as CVE-2026-23871 (CVSS score: 3.5)…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Hackers use autonomous AI tool Cairn to find zero-day, take over server",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/hackers-use-autonomous-ai-tool-cairn-to-find-zero-day-take-over-server/",
-     "source": "BleepingComputer",
-     "published": "2026-11-20T17:30:00+00:00",
-     "date_only": false,
-     "summary": "Threat actors used the open-source AI penetration-testing framework Cairn to find a previously unknown vulnerability in a medical imaging application. [...]",
-     "extra": "",
-     "tags": [
-      "Zero-day",
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Amazon says Chinese hackers used Cairn AI tool to discover apparent zero-day during attack on university",
-     "subtitle": "",
-     "link": "https://therecord.media/amazon-research-cairn-ai-university-attacks-possible-zero-day",
-     "source": "The Record",
-     "published": "2026-11-20T17:30:00+00:00",
-     "date_only": false,
-     "summary": "A China-linked threat actor used the open source AI penetration testing tool Cairn to persistently attack two universities, and in one case, possibly discover a zero-day bug, researchers said.",
-     "extra": "",
-     "tags": [
-      "Zero-day",
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "What We Missed: Nvidia CEO Scandal Rocks AI Industry",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/cyber-risk/what-we-missed-nvidia-ceo-scandal-rocks-ai-industry",
-     "source": "Dark Reading",
-     "published": "2026-11-20T17:04:04+00:00",
-     "date_only": false,
-     "summary": "In this video, Dark Reading editors discuss some of the news they didn't get a chance to cover, from Jensen Huang's resignation from Nvidia to Microsoft's recent cloud outage.",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html",
-     "source": "The Hacker News",
-     "published": "2026-11-20T16:58:16+00:00",
-     "date_only": false,
-     "summary": "Cybersecurity researchers have disclosed details of a previously unknown Android malware framework called Bazuka that offers large language model (LLM) integration for victim management and control at scale. Dutch mobile security company…",
-     "extra": "",
-     "tags": [
-      "AI",
-      "Phishing"
-     ],
-     "also": []
-    },
-    {
-     "title": "NSA resumes normal operations following internal network disruptions",
-     "subtitle": "",
-     "link": "https://therecord.media/nsa-resumes-normal-operations-following-internal-disruptions",
-     "source": "The Record",
-     "published": "2026-11-20T16:06:00+00:00",
-     "date_only": false,
-     "summary": "Certain facilities remain under “Code Orange” for non-essential employees, meaning delayed openings and some must check in with their supervisors.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "WhatsApp Fixes Flaw Uncovered While Disrupting Scam Campaign",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/whatsapp-fixes-flaw-uncovered-while-disrupting-scam-campaign/",
-     "source": "SecurityWeek",
-     "published": "2026-11-20T16:01:02+00:00",
-     "date_only": false,
-     "summary": "Tracked as CVE-2026-23871, the vulnerability was found by WhatsApp’s security team, and it may have been used to make scam messages more credible. The post WhatsApp Fixes Flaw Uncovered While Disrupting Scam Campaign appeared first on…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Vendor data breach exposes Chase, Visa, Mastercard customer info",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/vendor-data-breach-exposes-chase-visa-mastercard-customer-info/",
-     "source": "BleepingComputer",
-     "published": "2026-11-20T15:58:06+00:00",
-     "date_only": false,
-     "summary": "J.P. Morgan Chase warned it suffered a data breach after a cyberattack at a third-party service provider exposed customers' personal information and marketing data. [...]",
-     "extra": "",
-     "tags": [
-      "Breach"
-     ],
-     "also": []
-    },
-    {
-     "title": "Still tracking company passwords in spreadsheets? You’re flying blind.",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/still-tracking-company-passwords-in-spreadsheets-youre-flying-blind/",
-     "source": "BleepingComputer",
-     "published": "2026-11-20T15:00:10+00:00",
-     "date_only": false,
-     "summary": "Tracking company passwords in spreadsheets can leave IT administrators unaware of weak, reused, or compromised credentials stored and shared outside approved systems. NordPass explains how centralized password management can improve…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "In Other News: Norwegian Energy Firm Cyberattacks, Supercomputer Hack, New Nightmare Eclipse Exploit",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/in-other-news-norwegian-energy-firm-cyberattacks-supercomputer-hack-new-nightmare-eclipse-exploit/",
-     "source": "SecurityWeek",
-     "published": "2026-11-20T14:56:23+00:00",
-     "date_only": false,
-     "summary": "Noteworthy stories that might have slipped under the radar: EU adds NoName057(16) to cyber sanctions list, malware targets CACs left in personal computers, Gemini agents targeted Epoch AI. The post In Other News: Norwegian Energy Firm…",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "N-able says recent security breach led to major service outage",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/microsoft/n-able-says-recent-security-breach-led-to-major-service-outage/",
-     "source": "BleepingComputer",
-     "published": "2026-11-20T13:18:36+00:00",
-     "date_only": false,
-     "summary": "N-able says attackers who breached one of its servers have caused a major outage affecting Mail Assure and SpamExperts Hosted Cloud services worldwide. [...]",
-     "extra": "",
-     "tags": [
-      "Breach"
-     ],
-     "also": []
-    },
-    {
-     "title": "Industry Reactions to Major Outages and AI Patching Debate: Feedback Friday",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/industry-reactions-to-major-outages-and-ai-patching-questions-feedback-friday/",
-     "source": "SecurityWeek",
-     "published": "2026-11-20T12:38:55+00:00",
-     "date_only": false,
-     "summary": "Experts commented on whether AI-accelerated patching played a role, the need for tested rollback plans, and the fragility of interconnected systems. The post Industry Reactions to Major Outages and AI Patching Debate: Feedback Friday…",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html",
-     "source": "The Hacker News",
-     "published": "2026-11-20T12:20:00+00:00",
-     "date_only": false,
-     "summary": "A flaw in KVM, the hypervisor built into the Linux kernel, let researchers read about 127 GB of a cloud server's memory from inside a virtual machine of their own on DigitalOcean. On a shared server, that memory can include other…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Microsoft now automatically installs Windows 11 26H2 on unmanaged devices",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-now-automatically-installs-windows-11-26h2-on-personal-and-unmanaged-pcs/",
-     "source": "BleepingComputer",
-     "published": "2026-11-20T12:14:28+00:00",
-     "date_only": false,
-     "summary": "Starting this week, Microsoft has begun automatically upgrading eligible devices that aren't managed by an IT department to Windows 11 26H2. [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "The Path to AI Autonomy in the SOC",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html",
-     "source": "The Hacker News",
-     "published": "2026-11-20T12:00:00+00:00",
-     "date_only": false,
-     "summary": "Security leaders are about to hand AI agents a lot more authority. In a recent a16z survey of CISOs at organizations with more than 1,000 employees, 36% said they are comfortable today letting AI agents act autonomously on low-risk…",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "SBC Medical Group Data Breach Impacts Over 2 Million",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/sbc-medical-group-data-breach-impacts-over-2-million/",
-     "source": "SecurityWeek",
-     "published": "2026-11-20T11:36:51+00:00",
-     "date_only": false,
-     "summary": "Threat actors accessed databases containing customer information associated with clinics in Japan. The post SBC Medical Group Data Breach Impacts Over 2 Million appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
     }
    ]
   },
@@ -508,11 +358,57 @@
    "name": "APAC Watch",
    "stories": [
     {
+     "title": "CERT-In AI Alert: Hackers Target Payment Systems in India",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOM09lV3JwX3NsaFE1Uy1zRFp2QU80MkxCWVZsd0dfWEo3WjJNWWJPZTBQbWhiZzFHTm9LUjVaWVRITjkzMDNZZlVQN3REVmwyd2M4T2tRN0JZam1BRVVDVVlkTEFwYmlZNENQdzdnUEU5Y3B1WWc2cXZnanVXbkVwcTNR?oc=5",
+     "source": "theopenpress.in",
+     "published": "2026-11-21T17:59:35+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "AI",
+      "APAC"
+     ],
+     "also": [
+      "NewsBytes"
+     ]
+    },
+    {
+     "title": "AI Hackers Are Finding Security Flaws Faster Than Indian Banks Can Fix Them",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNY0dVdWxmeFVMNGpJcExwd0Z3QXJ3RGlVZlRDLXJ6QmhsSjZXQl9lVjhRbkNSU19yalp3cFpLYldWbm9FTVJmbk9uenBVa2Zib3NDQS1MLXBycGctblRhbm05ZThQLUYwNWViWWNGT3ZWSGc5UVFyekNVNkJ0dHFxLVA1cUdPME1hVzZQQzJ2eVRTZFZKTHZuWVJB?oc=5",
+     "source": "The 420.in",
+     "published": "2026-11-21T17:48:11+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "AI threat landscape calls for stronger cyber resilience: Pendyala at India Data Protection Summit 2026",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYk1oTGpKa1MwWDRUVEQ3aF9KSTNhMWhweE41ZkJ1TWNBa3gxd2FhcF9WbmhJblhzTU0zM2hheExQUGkzVUVoWmNNblFqSmgybzlwV013cmZDSzZpMlNzaEVidUl6Z25hazhQMEp6RVVkYXdjZGMtdmNRcmFVd2JKbFN0elkySUxVbTROYTk5dTF6SXVRbm5zX3MzWnd2WXY4bmtiQk9ENS1FVE11c3hqNVZ4SEl5QXhTUWNGeUM0ZTRVXzJ4cnJGZ2o0MkdqWmZiQlJGY1JrYnJuWERj0gHqAUFVX3lxTE1ONHhFb01pc2VoaGdGNlpaeUcxZDlwYlQwd2dRQy1JTVduUG9OS2ZJNjlKLW81aXBDVjhKVWU5LTFrX1BGbGpTWTllNVFjVFRldy1hRmIza3BvMjJSZVJyYld6Uk8zM1h2cXp1Q19GWWlNVXMxMG9pWlBXMHNlb29rZEZ3djZYaU92LS05ZEx5a1habzJ2N0Vka3h6Yy1keU8yNWdYWnZzNVBLbmloOEZKZ3ZManBsWWpMSWxyZnlKdFVET3h2N0x3WWVZUFVtX0JNUWxmTmp2eXc2TWJjNG5xd0MyVmNxU1o0dw?oc=5",
+     "source": "Deccan Herald",
+     "published": "2026-11-21T15:42:25+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "AI",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
      "title": "Indonesia's Financial Sector Hit by 1.2 Million Cyberattack Attempts in 24 Hours",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSmpncGRoYWoxZHIzY0ZuZURHVW43Q3lyRm5oYlJGbHZWTVM3Mm80ZGlhOUhEbmM4QUg2cnFYS01hWm9lQm1WSXcwdk9sUTZoOWVpRkFxbFZDNjNpcVYxaDk0ejRQajlSWVdfREFrS2hBa3dtdDd4SmZQUEFXUEI2Yll6aEJOcFZlWWdzeXdzeWFfSEZUYXF4cWx4R3pjQmtjaXE0REV2Um80TWoza0Yw?oc=5",
      "source": "varindia",
-     "published": "2026-11-21T07:31:35+00:00",
+     "published": "2026-11-21T10:31:57+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -522,16 +418,16 @@
      "also": []
     },
     {
-     "title": "CERT-In warns AI-armed hackers targeting business payment systems in India",
+     "title": "China-Linked Hackers Target Japan, Taiwan Chip Supply Chains",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPU01SMUF0eG1tMXdIU1RoenExN1JkU2RtTTgzUE52Z0xHNi1uelZTdlh0SWc5WlQ1QkRKZGNwWmxSUjNPQ2xJaHNTT0o2eUN6MzRCTjA5T1d0dTExSXByc0dwVUotc1RrWjFEYTU1NEdtZWZ5Qlh4ekJ4S0loaWNVTUN1TlNmUmJSNmVMTE1VOFFfTmRzMTVWbmpZU3BhLVRXR0RzdGJMQkw1Uk9fQktFdGZaYXk0T1BSM0hfNGxn?oc=5",
-     "source": "NewsBytes",
-     "published": "2026-11-21T07:09:42+00:00",
+     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcUVocGdmMW9KTXVwb29LN0lIWWNONEgtUlhWQ3lXUlZjeHJaUWR0SjJiY2NlTmVDYmpEVXExWUVlVDRqblZnM2stNkxRb0lkLXR2b1FRcEJZd3ZCT0hpWkJ0UXVrNGZPc2FtbzJaOHA4MTd3ek9Qd2ZuTFBnVnhzVWUtT2VrZEQxOS1uX0U3Wkk3WnRWWkl4cGZhajF0cnBPSlM5TQ?oc=5",
+     "source": "Seoul Economic Daily",
+     "published": "2026-11-21T09:00:05+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
      "tags": [
-      "AI",
+      "Supply chain",
       "APAC"
      ],
      "also": []
@@ -555,7 +451,7 @@
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbGU1LUg4THpzZC15YXJUeXE5QnVTTEg5NmQ2MnM1ODBxY2o3a1VpMkVpMGRKdVliM1hiX2RoczBRZU1KUFo3R3AxMEl6ZURWRHRQMG5NRVRHaEx4TXMteFFsMk81dHM2YlFzYXUycG5Dc2tTbjIwazY5ei1NQkFsWFh1Z1NNcEpobkJfUFVyOGlFUU15b1JpM0ctSC1SLVNRcExNeTlYRVNKY0NnUFN3MWp0TS0?oc=5",
      "source": "APAC Media",
-     "published": "2026-11-21T05:21:40+00:00",
+     "published": "2026-11-21T05:37:15+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -589,35 +485,6 @@
      "extra": "",
      "tags": [
       "Ransomware",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "India cyber agency reports unauthorised transactions at payment firms",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQci1tUEZYWHpfWTUyY1FuVDRIbVpOblZyZkFuS3lNSVVkTnhWWXVrZmtPY1VqcFZQMWxJWmdmUlBrZnI0NXBHcjY5ZDd1VDNUZmNrZFNFa2d6UjhhN3ZjUzdvZmhvZGdTMFJuVGNiek5JbmFPTl9YWDdFLWtJQzRfS2FrZEp0QVhoclcxVEU0eUtkUk9OYXV6Smk5ZTN3SGRiSVBSNC1tdEVkM0g4RVRubkVmZ1lBcnRIS3pVZ0trdEh0YXZ2ZWltVTcxT2pDcFAtbThMZWd30gHbAUFVX3lxTE1Bb3pBanlsSnpmVW92R205TjV2b2ZOWHVJbnhzV01lbklQSnhrdzJxZE5HTUJiUDFWRnoxUWg5eVJNYXhNRDNIVUZUU25kSHZxVUtGS0tfM25EdVRDVC1BTV9hUDk2bjVGemhTdzdfaF9OT3VnZ0c1VWxQTkJDUnA3UFY2RTJPck9iY1dRWU1sRk1Neko5WEZqVGZRX2c1TXhLNWxvekhudERBUXVzSXFJRXMyeHVOYXFab0MzVTFBN1FqXzdsTENDaWVfZmI5WHVSMlRubjBEVkl2VQ?oc=5",
-     "source": "The Economic Times",
-     "published": "2026-11-20T16:29:09+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Japan cyber claims surge as AI sharpens hacking attacks",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdnR6V3M5OF9zaUNzNDBzUlZBZEJNTTJZUW41Zm85WTlCWm5zTExXV1lFZjUzSEhCUWoxZGFwOU93LW5tbEdiMjc0MlVzUzVoaTlVWXV1anRiVVF3X3l4UFdQX1Bza0VBMG50RU1vRnlrd1RKXzRGZVN3VkVXRUdqdmtwTnRCUlU5TFY4ZEpDTGZ2ZnlUTkNwR1NpU0YweEVOOXVqREJSS01wLXZiMFVVczk2Rm8wRFVhaVNsQQ?oc=5",
-     "source": "Insurance Business",
-     "published": "2026-11-20T13:51:01+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "AI",
       "APAC"
      ],
      "also": []
