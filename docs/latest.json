@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T00:27:55+00:00",
+ "generated": "2026-11-22T08:10:50+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -163,6 +163,44 @@
    "name": "Breaking Threats",
    "stories": [
     {
+     "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
+     "source": "The Hacker News",
+     "published": "2026-11-22T05:06:55+00:00",
+     "date_only": false,
+     "summary": "Attackers stole data from inside three AI inference providers for months, and none of the three knew until researchers told them, the industrial cybersecurity company Dragos said this week. Some of the stolen requests were flagged as Zero…",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
+     "source": "The Hacker News",
+     "published": "2026-11-22T05:03:41+00:00",
+     "date_only": false,
+     "summary": "A now-patched flaw in Ghostscript allows a crafted file to escape the program's security sandbox and run commands on the server that processes it. Ghostscript is the interpreter that many Linux servers use to convert uploaded PDFs…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/",
+     "source": "SecurityWeek",
+     "published": "2026-11-22T00:53:02+00:00",
+     "date_only": false,
+     "summary": "The FBI is investigating an apparent hack of a national law enforcement database that it maintains. The post FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
      "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
      "subtitle": "",
      "link": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
@@ -215,6 +253,18 @@
      "tags": [
       "Breach"
      ],
+     "also": []
+    },
+    {
+     "title": "President Trump Taps Kirsten Davies as National Cyber Director",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/president-trump-taps-kirsten-davies-as-national-cyber-director/",
+     "source": "SecurityWeek",
+     "published": "2026-11-21T13:00:00+00:00",
+     "date_only": false,
+     "summary": "White House says the battle-tested cyber leader will drive an America First cyber strategy. The post President Trump Taps Kirsten Davies as National Cyber Director appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [],
      "also": []
     },
     {
@@ -298,26 +348,59 @@
       "Nation-state"
      ],
      "also": []
-    },
-    {
-     "title": "CTO of ‘RansomwareHelp’ Indicted for Wire Fraud",
-     "subtitle": "",
-     "link": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
-     "source": "Krebs on Security",
-     "published": "2026-11-21T00:36:39+00:00",
-     "date_only": false,
-     "summary": "The chief technology officer and co-founder of ransomwarehelp.com, a six year old Florida business that claimed to use \"advanced cryptographic tools\" to restore data locked by ransomware, has been charged with wire fraud after an FBI sting…",
-     "extra": "",
-     "tags": [
-      "Ransomware"
-     ],
-     "also": []
     }
    ]
   },
   {
    "name": "APAC Watch",
    "stories": [
+    {
+     "title": "Singapore asks AI firms for transparency following Australia data breach",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE05NjJrOWZRbEJTX0VRUE12ZjlFZi13ZVFMQ3p2SzNZWnBaUXJQYjBHajBjb0ZKeUFwZVhaVVpndkExMzlXX1lXbnlsekZBZ3dJaE44RUdkRFh5WWV4RWc?oc=5",
+     "source": "The Straits Times",
+     "published": "2026-11-22T06:36:27+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "AI",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "YMCA Singapore data breach may have exposed details of over 13,000 youth programme participants",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQVhNUWtfWDQyTFJ0RHRGUG90RjNsNjdRRy16cWxlN2xITUYzeHFUQm8wemV4T0lmVmNlczJKWkhwVTVsMVpwMExmbXItT0h5YzFSVmdxUmhzRUdvWjV4VWlJM2czRlhsd0pUVWgzaUVVdm8xWFdTT2E1M3hLVjI1YzNOOEVyaVRRaUlRYy1jbFNxS2VqRUFka1F0blRRb3IwNWJsSXY1VUc1TkdGUUpNckFMb2lOdl9CVmlpRzRMb01tQ0ZsUkxZYjY2UUl4TWVSZFlfYmxCbnprQjdQN0N0c2swUjc1dGVR0gHuAUFVX3lxTFB0X3hxUjF6TFlZaTR4SGMzVVlMNVR4TlRPTGgxQkd6M3cwbUZfMlJuM1FDNG9VZjA5QjFlUk9nOWc5TUYtMlZnTzItZlJ6Wm5GWlFjNkltX1JzVlZfZ1duRFF0S0lMTGptSlgtTG1ZaVQwTUdPWTYtOGpXTlVNV1ZleTNyaG9XZnBnWlY5cDlKeGhKR0RkaWtPOW5sMG5uZzJ1UFg2RVFndDhGRU9SQ0lfQjJpbmNweXY2LXRpTnF1UG5FbHd5TUFCSjhGZnJCR2d2WmNBdFpaV2VUcExoWDdMOWl2YlB0R1JacGtWa2c?oc=5",
+     "source": "Malay Mail",
+     "published": "2026-11-22T03:41:12+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Indonesia’s Banking Sector Faces 1.2 Million Cyberattack Attempts in Just 24 Hours",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9FSkZiY0U5X011X1dTTUVQbG9WaFp5ZnhhX2ljNjdad0Jvall4LUNEZEk5Vk85LXNPMVByV0RXV1MxLWRJbk10QWstN2gxaGtKOG5xelpZU0xYZkFYZjl5WWd6MHA3RFBKSkZ6T0tXNWNBTDky?oc=5",
+     "source": "The 420.in",
+     "published": "2026-11-22T03:34:46+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": [
+      "varindia"
+     ]
+    },
     {
      "title": "CERT-In AI Alert: Hackers Target Payment Systems in India",
      "subtitle": "",
@@ -331,9 +414,7 @@
       "AI",
       "APAC"
      ],
-     "also": [
-      "NewsBytes"
-     ]
+     "also": []
     },
     {
      "title": "AI Hackers Are Finding Security Flaws Faster Than Indian Banks Can Fix Them",
@@ -350,32 +431,15 @@
      "also": []
     },
     {
-     "title": "AI threat landscape calls for stronger cyber resilience: Pendyala at India Data Protection Summit 2026",
+     "title": "Iran-linked hackers posed as US expert to target Australian broadcaster",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNYk1oTGpKa1MwWDRUVEQ3aF9KSTNhMWhweE41ZkJ1TWNBa3gxd2FhcF9WbmhJblhzTU0zM2hheExQUGkzVUVoWmNNblFqSmgybzlwV013cmZDSzZpMlNzaEVidUl6Z25hazhQMEp6RVVkYXdjZGMtdmNRcmFVd2JKbFN0elkySUxVbTROYTk5dTF6SXVRbm5zX3MzWnd2WXY4bmtiQk9ENS1FVE11c3hqNVZ4SEl5QXhTUWNGeUM0ZTRVXzJ4cnJGZ2o0MkdqWmZiQlJGY1JrYnJuWERj0gHqAUFVX3lxTE1ONHhFb01pc2VoaGdGNlpaeUcxZDlwYlQwd2dRQy1JTVduUG9OS2ZJNjlKLW81aXBDVjhKVWU5LTFrX1BGbGpTWTllNVFjVFRldy1hRmIza3BvMjJSZVJyYld6Uk8zM1h2cXp1Q19GWWlNVXMxMG9pWlBXMHNlb29rZEZ3djZYaU92LS05ZEx5a1habzJ2N0Vka3h6Yy1keU8yNWdYWnZzNVBLbmloOEZKZ3ZManBsWWpMSWxyZnlKdFVET3h2N0x3WWVZUFVtX0JNUWxmTmp2eXc2TWJjNG5xd0MyVmNxU1o0dw?oc=5",
-     "source": "Deccan Herald",
-     "published": "2026-11-21T15:42:25+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JNnZRMm41VUFtWlhHLWZvMF9yZHFNZkZOLVZNekxPOGZDV1pvVVBWbWNIbnJJSERRb0dWQUo2YWhOdWdJVW9uSWk5UmVTUmFaZ1E?oc=5",
+     "source": "Iran International",
+     "published": "2026-11-21T10:09:09+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
-     "tags": [
-      "AI",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Indonesia's Financial Sector Hit by 1.2 Million Cyberattack Attempts in 24 Hours",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSmpncGRoYWoxZHIzY0ZuZURHVW43Q3lyRm5oYlJGbHZWTVM3Mm80ZGlhOUhEbmM4QUg2cnFYS01hWm9lQm1WSXcwdk9sUTZoOWVpRkFxbFZDNjNpcVYxaDk0ejRQajlSWVdfREFrS2hBa3dtdDd4SmZQUEFXUEI2Yll6aEJOcFZlWWdzeXdzeWFfSEZUYXF4cWx4R3pjQmtjaXE0REV2Um80TWoza0Yw?oc=5",
-     "source": "var india",
-     "published": "2026-11-21T10:31:57+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
+     "tags": [],
      "also": []
     },
     {
@@ -389,34 +453,6 @@
      "extra": "",
      "tags": [
       "Supply chain",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Who Is Protecting India from Hackers? 5 Cybersecurity Startups You Should Know",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbGU1LUg4THpzZC15YXJUeXE5QnVTTEg5NmQ2MnM1ODBxY2o3a1VpMkVpMGRKdVliM1hiX2RoczBRZU1KUFo3R3AxMEl6ZURWRHRQMG5NRVRHaEx4TXMteFFsMk81dHM2YlFzYXUycG5Dc2tTbjIwazY5ei1NQkFsWFh1Z1NNcEpobkJfUFVyOGlFUU15b1JpM0ctSC1SLVNRcExNeTlYRVNKY0NnUFN3MWp0TS0?oc=5",
-     "source": "APAC Media",
-     "published": "2026-11-21T05:37:15+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Hackers infiltrate Japan's former world-leading Fugaku supercomputer",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOamJaaVk4Q1V5cThZc0QyN2g0MU9WVGhKWVp5MEp3cmd0dmZ6aEdmS3lEdmVaREwxYWJ5eTFINlBBWW1RQlNnZXd4eXhQV2Y5N25mSHR5YVduYmlEQ3Y3OU5mVGZBRjNnSlcxUGg4NHNCRkxESnpORlpQZUdybzVSUjVvbHZnaU1wS0NhWjBNQ3pqUjFGLUd2NjlEWHNLSTJnQjB6WnZ0YWFkSlpQQ3BneUU0ai10cUxWVzIyMmZ3WWhUTV9uQ2xOdXUtaTI4bElNY2NCMEN1eUttc0l1aHJRN1JTdlhPNVhpX3o4eXRpVQ?oc=5",
-     "source": "TechRadar",
-     "published": "2026-11-21T02:06:44+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
       "APAC"
      ],
      "also": []
@@ -712,42 +748,6 @@
      "published": "2026-11-19T12:00:00+00:00",
      "date_only": false,
      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow several unauthenticated admin accounts to be created. The following versions of Autonomy Logic OpenPLC Runtime are affected: OpenPLC Runtime <=4.2.4…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Mozilla Firefox Multiple Vulnerabilities",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/mozilla-firefox-multiple-vulnerabilities_20261119",
-     "source": "HKCERT",
-     "published": "2026-11-19T03:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Synology DiskStation Manager Multiple Vulnerabilities",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/synology-diskstation-manager-remote-code-execution-vulnerability_20261119",
-     "source": "HKCERT",
-     "published": "2026-11-19T02:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Nginx Multiple Vulnerabilities",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/nginx-multiple-vulnerabilities_20261119",
-     "source": "HKCERT",
-     "published": "2026-11-19T01:00:00+00:00",
-     "date_only": false,
-     "summary": "",
      "extra": "",
      "tags": [],
      "also": []
