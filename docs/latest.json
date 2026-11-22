@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T08:10:50+00:00",
+ "generated": "2026-11-22T16:26:06+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -163,6 +163,34 @@
    "name": "Breaking Threats",
    "stories": [
     {
+     "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
+     "source": "BleepingComputer",
+     "published": "2026-11-22T15:43:04+00:00",
+     "date_only": false,
+     "summary": "E-commerce platform Cleverbridge is warning that hackers breached its systems and stole customers' payment card information, including credit card numbers and CVV security codes. [...]",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": []
+    },
+    {
+     "title": "Signal to block Siri, Gemini AI from capturing chats on iOS, Android",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/signal-to-block-siri-gemini-ai-from-capturing-chats-on-ios-android/",
+     "source": "BleepingComputer",
+     "published": "2026-11-22T15:15:25+00:00",
+     "date_only": false,
+     "summary": "Signal has announced new protections that block screenshots on iOS 27 and prevent AI assistants from capturing conversations on supported Android devices. [...]",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
      "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
      "subtitle": "",
      "link": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
@@ -228,132 +256,45 @@
       "Breach"
      ],
      "also": []
-    },
-    {
-     "title": "BADBOX botnet returns with record-breaking 40 billion daily ad requests",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/badbox-30-botnet-returns-with-record-breaking-40-billion-daily-ad-requests/",
-     "source": "BleepingComputer",
-     "published": "2026-11-21T15:17:27+00:00",
-     "date_only": false,
-     "summary": "The BADBOX malware found in a broad range of generic Android TV boxes has returned to large-scale ad-fraud operations following last year's disruptions. [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "FBI reportedly hacked again, this time targeting nationwide police database",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/fbi-reportedly-hacked-again-this-time-targeting-nationwide-police-database/",
-     "source": "BleepingComputer",
-     "published": "2026-11-21T14:26:04+00:00",
-     "date_only": false,
-     "summary": "FBI systems have reportedly been breached for the second time in two months, this time targeting the agency's National Crime Information Center (NCIC), which is used to share information between local, state, and federal law enforcement…",
-     "extra": "",
-     "tags": [
-      "Breach"
-     ],
-     "also": []
-    },
-    {
-     "title": "President Trump Taps Kirsten Davies as National Cyber Director",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/president-trump-taps-kirsten-davies-as-national-cyber-director/",
-     "source": "SecurityWeek",
-     "published": "2026-11-21T13:00:00+00:00",
-     "date_only": false,
-     "summary": "White House says the battle-tested cyber leader will drive an America First cyber strategy. The post President Trump Taps Kirsten Davies as National Cyber Director appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/amazon-china-linked-hackers-ai-agents-exploited-medical-software-zero-day/",
-     "source": "SecurityWeek",
-     "published": "2026-11-21T12:08:50+00:00",
-     "date_only": false,
-     "summary": "A threat actor used autonomous Cairn AI agents to discover and exploit a critical MONAI Label vulnerability. The post Amazon: China-Linked Hackers’ AI Agents Exploited Medical Software Zero-Day appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [
-      "Zero-day",
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
-     "source": "The Hacker News",
-     "published": "2026-11-21T11:53:07+00:00",
-     "date_only": false,
-     "summary": "A malicious webpage could extract a Meta Muse user's private conversations and stored memories from the assistant without triggering any approval prompt, researchers have shown. The same attack could be extended to reach the credentials…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html",
-     "source": "The Hacker News",
-     "published": "2026-11-21T11:05:53+00:00",
-     "date_only": false,
-     "summary": "A malicious OpenPGP key with an unusually long user ID can trigger a critical memory bug in GPGME, the standard library that programs use to work with GnuPG. The GnuPG project warned yesterday that the flaw could be used to steal data from…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
-     "source": "The Hacker News",
-     "published": "2026-11-21T11:03:17+00:00",
-     "date_only": false,
-     "summary": "Suspected China-linked hackers used autonomous AI agents to find a previously unknown flaw in MONAI Label, an open-source medical imaging server, and gain root access to a university server, Amazon Threat Intelligence said this week. The…",
-     "extra": "",
-     "tags": [
-      "Zero-day",
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html",
-     "source": "The Hacker News",
-     "published": "2026-11-21T08:49:20+00:00",
-     "date_only": false,
-     "summary": "Signal has announced that it will restrict screenshots by default to stop artificial intelligence (AI) agents from reading private chats on Android and iOS devices, but conceded that the protection is \"incomplete.\" The feature applies to…",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Hackers Exploit Critical VMware, Cisco, and Apache Flaws as Espionage Attacks Emerge",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-vmware-cisco.html",
-     "source": "The Hacker News",
-     "published": "2026-11-21T08:49:13+00:00",
-     "date_only": false,
-     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Friday added four flaws impacting Apache Roller, Cisco Expressway, SAP NetWeaver, and Broadcom VMware vCenter to its Known Exploited Vulnerabilities (KEV), citing evidence…",
-     "extra": "",
-     "tags": [
-      "Nation-state"
-     ],
-     "also": []
     }
    ]
   },
   {
    "name": "APAC Watch",
    "stories": [
+    {
+     "title": "Malaysia needs AI-skilled cybersecurity talent to tackle emerging cyberthreats, says Kaspersky",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMUlZbWM5Xzh5MEk1OEpTWkRPcms5a0RXemc4Nk9kX1lieEJRcW9kbk12TWRLcWFVdTdEQlk5VUNOQTJnWDN6aHdEWVdPcUdOeTVtZTMtczhfS3FoVlVKX0FPbEtZWkR5cDZxSWZKWm41TWhHNjJQNzFhSExKWmFVVjFDX2x6aWdMaFIzb0kzV1lOSlNBczBTc0VnNy0?oc=5",
+     "source": "Tech Critter",
+     "published": "2026-11-22T14:17:07+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "AI",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Tower Records becomes latest Japan retailer hit by data breach",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdC1GLXpseTNSRGU3OEZlZzZMV1R5a2E1R2VXQ0FwMjNOOTREOWRPWkx4Qk82Vk9hcHFDQmd6bXVVdGY3UllmMDRIdVF5eG9sRVI0dnVuYl93N2wtSjE2a3ROYnpjd1dGNVRBdEZKZEcyZWc5MktMSHBZbHhSYk91NTR5bFpQTXNUcTgyS3NwQ0d4X29pUDZ2dmNwYXJuRFpaMHdiNHhVS1k5QQ?oc=5",
+     "source": "The Edge Singapore",
+     "published": "2026-11-22T10:33:33+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": [
+      "Investing.com India",
+      "Bloomberg.com"
+     ]
+    },
     {
      "title": "Singapore asks AI firms for transparency following Australia data breach",
      "subtitle": "",
@@ -397,9 +338,7 @@
      "tags": [
       "APAC"
      ],
-     "also": [
-      "varindia"
-     ]
+     "also": []
     },
     {
      "title": "CERT-In AI Alert: Hackers Target Payment Systems in India",
@@ -427,33 +366,6 @@
      "extra": "",
      "tags": [
       "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Iran-linked hackers posed as US expert to target Australian broadcaster",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JNnZRMm41VUFtWlhHLWZvMF9yZHFNZkZOLVZNekxPOGZDV1pvVVBWbWNIbnJJSERRb0dWQUo2YWhOdWdJVW9uSWk5UmVTUmFaZ1E?oc=5",
-     "source": "Iran International",
-     "published": "2026-11-21T10:09:09+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "China-Linked Hackers Target Japan, Taiwan Chip Supply Chains",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcUVocGdmMW9KTXVwb29LN0lIWWNONEgtUlhWQ3lXUlZjeHJaUWR0SjJiY2NlTmVDYmpEVXExWUVlVDRqblZnM2stNkxRb0lkLXR2b1FRcEJZd3ZCT0hpWkJ0UXVrNGZPc2FtbzJaOHA4MTd3ek9Qd2ZuTFBnVnhzVWUtT2VrZEQxOS1uX0U3Wkk3WnRWWkl4cGZhajF0cnBPSlM5TQ?oc=5",
-     "source": "Seoul Economic Daily",
-     "published": "2026-11-21T09:00:05+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Supply chain",
-      "APAC"
      ],
      "also": []
     }
@@ -712,42 +624,6 @@
      "published": "2026-11-20T01:00:00+00:00",
      "date_only": false,
      "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Elecbrakes EB2, VM1, ELBC2000",
-     "subtitle": "",
-     "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-02",
-     "source": "CISA",
-     "published": "2026-11-19T12:00:00+00:00",
-     "date_only": false,
-     "summary": "View CSAF Summary Successful exploitation of these vulnerabilities could allow an attacker to gain control of the brakes of a trailer, modify the firmware, disable the brake lights, modify the brake conditions or disable other critical…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "libumqtt",
-     "subtitle": "",
-     "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-03",
-     "source": "CISA",
-     "published": "2026-11-19T12:00:00+00:00",
-     "date_only": false,
-     "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow a remote attacker to cause a denial of service, memory corruption, or information disclosure. The following versions of libumqtt are affected: libumqtt <=1.1.1…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Autonomy Logic OpenPLC Runtime",
-     "subtitle": "",
-     "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-323-01",
-     "source": "CISA",
-     "published": "2026-11-19T12:00:00+00:00",
-     "date_only": false,
-     "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow several unauthenticated admin accounts to be created. The following versions of Autonomy Logic OpenPLC Runtime are affected: OpenPLC Runtime <=4.2.4…",
      "extra": "",
      "tags": [],
      "also": []
