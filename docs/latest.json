@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T16:26:06+00:00",
+ "generated": "2026-11-22T22:33:52+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -163,6 +163,18 @@
    "name": "Breaking Threats",
    "stories": [
     {
+     "title": "Hackers exploit GL.iNet cloud flaw to infect routers, KVM devices",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-glinet-cloud-flaw-to-infect-routers-kvm-devices/",
+     "source": "BleepingComputer",
+     "published": "2026-11-22T18:45:37+00:00",
+     "date_only": false,
+     "summary": "GL.iNet has confirmed that hackers exploited a vulnerability in its cloud remote management services to install custom malware on customers' routers and KVM devices, with some affected users reporting backdoors and reverse shells giving…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
      "title": "Cleverbridge warns hackers stole credit card numbers, CVVs in data breach",
      "subtitle": "",
      "link": "https://www.bleepingcomputer.com/news/security/cleverbridge-warns-hackers-stole-credit-card-numbers-cvvs-in-data-breach/",
@@ -241,21 +253,6 @@
       "Breach"
      ],
      "also": []
-    },
-    {
-     "title": "Microsoft Entra Connect Health flaw exploited to steal tenant data",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/microsoft-entra-connect-health-flaw-exploited-to-steal-tenant-data/",
-     "source": "BleepingComputer",
-     "published": "2026-11-21T18:01:58+00:00",
-     "date_only": false,
-     "summary": "Microsoft is warning organizations that it suffered a data breach after attackers exploited a vulnerability in its Entra Connect Health service to gain unauthorized access to administrator email addresses and tenant configuration…",
-     "extra": "",
-     "tags": [
-      "Exploited",
-      "Breach"
-     ],
-     "also": []
     }
    ]
   },
@@ -263,11 +260,25 @@
    "name": "APAC Watch",
    "stories": [
     {
-     "title": "Malaysia needs AI-skilled cybersecurity talent to tackle emerging cyberthreats, says Kaspersky",
+     "title": "Japan a sitting duck for cyberattacks",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNMUlZbWM5Xzh5MEk1OEpTWkRPcms5a0RXemc4Nk9kX1lieEJRcW9kbk12TWRLcWFVdTdEQlk5VUNOQTJnWDN6aHdEWVdPcUdOeTVtZTMtczhfS3FoVlVKX0FPbEtZWkR5cDZxSWZKWm41TWhHNjJQNzFhSExKWmFVVjFDX2x6aWdMaFIzb0kzV1lOSlNBczBTc0VnNy0?oc=5",
-     "source": "Tech Critter",
-     "published": "2026-11-22T14:17:07+00:00",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZEVDVU9OLXlEUER4SlBmSVRiSE1sWjdmVXlVQTU0YWJPdlItV3lUeEZCVHhHQ2xjWHVoazFNWjNOTk1JQ3NVTFBYaW90QVpqcWtZUG9tN3RUSGR6dUUxTHNZS2FyTDZNVnlVY2hxWk4yVHpudHc2Tkp1SlZGRDJQdk1NZWRaUDdSU2pjOXBZakZMdw?oc=5",
+     "source": "Japan Today",
+     "published": "2026-11-22T21:34:20+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "askST: AI tool Artex hijacked for hacking globally, drawing FBI warning; is Singapore vulnerable?",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSFpsWng2cHVfQmdmZm9weDdHUDFKU1hfZnBhcnJWUUhYUVhFb0pJV1hzOWhLQnJjZ3hpOGhmSnJwNjBFU2xQb2xlSWlvY2RpWFF3VEgtZWdiQ0pkZk9pXzdETENoREVsU0hPejlVMEtmQi1mRlVaZlBYYXpDUm1qNTFtdFlBLW85Q1c4OW1BejBFWnJKV0FuU3BFa0ROWV8tRFNnQXF2d1hPNGNLNXAtUHM3dFEwRFZveWVVWkhTeDROV1NfVkE?oc=5",
+     "source": "The Straits Times",
+     "published": "2026-11-22T21:00:00+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -278,11 +289,11 @@
      "also": []
     },
     {
-     "title": "Tower Records becomes latest Japan retailer hit by data breach",
+     "title": "Tower Records Japan data breach exposes around 11 million customer records",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdC1GLXpseTNSRGU3OEZlZzZMV1R5a2E1R2VXQ0FwMjNOOTREOWRPWkx4Qk82Vk9hcHFDQmd6bXVVdGY3UllmMDRIdVF5eG9sRVI0dnVuYl93N2wtSjE2a3ROYnpjd1dGNVRBdEZKZEcyZWc5MktMSHBZbHhSYk91NTR5bFpQTXNUcTgyS3NwQ0d4X29pUDZ2dmNwYXJuRFpaMHdiNHhVS1k5QQ?oc=5",
-     "source": "The Edge Singapore",
-     "published": "2026-11-22T10:33:33+00:00",
+     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVUYwdTc1VXB6c29ENVIza3RuRTUtRUhuN3Fvb2lIWWJ4cU5kYWlORGVxaENaM0hoY3BfaUpiM2s3LU0yNFNySFlpNmItMDJfdlk4OG9TbWVFQzZ1VEtyTkpjbTdrRlRZcUxEN0p2YjdodFZiMWZnMHl3UlQ5V0NvcXlnMm5GNGJJ?oc=5",
+     "source": "Electric Bloom Webzine",
+     "published": "2026-11-22T18:53:09+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -291,9 +302,36 @@
       "APAC"
      ],
      "also": [
-      "Investing.com India",
+      "Investing.com",
       "Bloomberg.com"
      ]
+    },
+    {
+     "title": "Hackers Target South Korean Power Giant KEPCO, Exposing Sensitive Customer Banking Details",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQnJYaXZwVVVnUFBBY2JQdjJUVFZVVGlTeUdDNWxFUGlYa0tFWFFTZUhWZkhUcmtaNXpwZFhzT295YlNuaUJzN05vdUdpMHZwTHZsYXRSX191czh0a3BCY05aX0lwQV9lRTFGd1l4ejZhemFCamw5VkFHV0RKS3c0bVA2dUtfeW5BRklmUGZRemdGTHlWZW1PR1lnc21kaVNkcnU4ZjFyZ0RBbDdq?oc=5",
+     "source": "The 420.in",
+     "published": "2026-11-22T17:34:25+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "South Korea's KEPCO Hit by Second Major Data Breach; 1.52 Million Customers' Data Leaked, Including Bank and Card Numbers",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9IbXJhUS15RXV0UXFLZEhVOWY4am85WmNwNjlSSmdDaWhOazZSUF9BR0hXYXBrQkVCdVQyakVPZ3BmSndrcTZFcUZCbmdia1BCQWtDM0ZHMk1QZW9Ld25HcThJNi1tS2RsQjNJbkRya1paRDFudWc?oc=5",
+     "source": "BigGo Finance",
+     "published": "2026-11-22T10:35:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
     },
     {
      "title": "Singapore asks AI firms for transparency following Australia data breach",
@@ -337,35 +375,6 @@
      "extra": "",
      "tags": [
       "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "CERT-In AI Alert: Hackers Target Payment Systems in India",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOM09lV3JwX3NsaFE1Uy1zRFp2QU80MkxCWVZsd0dfWEo3WjJNWWJPZTBQbWhiZzFHTm9LUjVaWVRITjkzMDNZZlVQN3REVmwyd2M4T2tRN0JZam1BRVVDVVlkTEFwYmlZNENQdzdnUEU5Y3B1WWc2cXZnanVXbkVwcTNR?oc=5",
-     "source": "theopenpress.in",
-     "published": "2026-11-21T19:33:05+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "AI",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "AI Hackers Are Finding Security Flaws Faster Than Indian Banks Can Fix Them",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNY0dVdWxmeFVMNGpJcExwd0Z3QXJ3RGlVZlRDLXJ6QmhsSjZXQl9lVjhRbkNSU19yalp3cFpLYldWbm9FTVJmbk9uenBVa2Zib3NDQS1MLXBycGctblRhbm05ZThQLUYwNWViWWNGT3ZWSGc5UVFyekNVNkJ0dHFxLVA1cUdPME1hVzZQQzJ2eVRTZFZKTHZuWVJB?oc=5",
-     "source": "The 420.in",
-     "published": "2026-11-21T17:48:11+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "AI"
      ],
      "also": []
     }
