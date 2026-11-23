@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-22T22:33:52+00:00",
+ "generated": "2026-11-23T03:48:00+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -227,32 +227,6 @@
      "extra": "",
      "tags": [],
      "also": []
-    },
-    {
-     "title": "FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/fbi-investigating-apparent-hack-of-its-key-national-criminal-justice-database-ap-source-says/",
-     "source": "SecurityWeek",
-     "published": "2026-11-22T00:53:02+00:00",
-     "date_only": false,
-     "summary": "The FBI is investigating an apparent hack of a national law enforcement database that it maintains. The post FBI Investigating Apparent Hack of Its Key National Criminal Justice Database, AP Source Says appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Rackspace Spot breach let hackers access customer Kubernetes secrets",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/rackspace-spot-breach-let-hackers-access-customer-kubernetes-secrets/",
-     "source": "BleepingComputer",
-     "published": "2026-11-21T22:59:58+00:00",
-     "date_only": false,
-     "summary": "Rackspace warned customers that hackers breached its Rackspace Spot cloud platform using compromised credentials, allowing them to deploy unauthorized workloads and access Kubernetes secrets in customer clusters. [...]",
-     "extra": "",
-     "tags": [
-      "Breach"
-     ],
-     "also": []
     }
    ]
   },
@@ -260,40 +234,26 @@
    "name": "APAC Watch",
    "stories": [
     {
-     "title": "Japan a sitting duck for cyberattacks",
+     "title": "South Korea's Samsung Securities Hit by Data Breach Affecting 8,241 Customers as Brokerage Hacking Worries Mount",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZEVDVU9OLXlEUER4SlBmSVRiSE1sWjdmVXlVQTU0YWJPdlItV3lUeEZCVHhHQ2xjWHVoazFNWjNOTk1JQ3NVTFBYaW90QVpqcWtZUG9tN3RUSGR6dUUxTHNZS2FyTDZNVnlVY2hxWk4yVHpudHc2Tkp1SlZGRDJQdk1NZWRaUDdSU2pjOXBZakZMdw?oc=5",
-     "source": "Japan Today",
-     "published": "2026-11-22T21:34:20+00:00",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9CeTJUeFVhQ1lOem1OSjdjM0Z5T2pVUkhjT0M0RDcwNXRpemRfSTB2WlBMMGdpNWJsa3Mzc09MaGM1Yk5LbUc1TkFnUi1pNTRDS3JXelk5akhCMXotT3NRdHE4MHZhRXphMDJBeHJXWmJseW1hU1E?oc=5",
+     "source": "finance.biggo.com",
+     "published": "2026-11-23T01:55:00+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
      "tags": [
+      "Breach",
       "APAC"
      ],
      "also": []
     },
     {
-     "title": "askST: AI tool Artex hijacked for hacking globally, drawing FBI warning; is Singapore vulnerable?",
+     "title": "Tower Records Japan reports data breach affecting 10.2 million accounts",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSFpsWng2cHVfQmdmZm9weDdHUDFKU1hfZnBhcnJWUUhYUVhFb0pJV1hzOWhLQnJjZ3hpOGhmSnJwNjBFU2xQb2xlSWlvY2RpWFF3VEgtZWdiQ0pkZk9pXzdETENoREVsU0hPejlVMEtmQi1mRlVaZlBYYXpDUm1qNTFtdFlBLW85Q1c4OW1BejBFWnJKV0FuU3BFa0ROWV8tRFNnQXF2d1hPNGNLNXAtUHM3dFEwRFZveWVVWkhTeDROV1NfVkE?oc=5",
-     "source": "The Straits Times",
-     "published": "2026-11-22T21:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "AI",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Tower Records Japan data breach exposes around 11 million customer records",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVUYwdTc1VXB6c29ENVIza3RuRTUtRUhuN3Fvb2lIWWJ4cU5kYWlORGVxaENaM0hoY3BfaUpiM2s3LU0yNFNySFlpNmItMDJfdlk4OG9TbWVFQzZ1VEtyTkpjbTdrRlRZcUxEN0p2YjdodFZiMWZnMHl3UlQ5V0NvcXlnMm5GNGJJ?oc=5",
-     "source": "Electric Bloom Webzine",
-     "published": "2026-11-22T18:53:09+00:00",
+     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOM21uaTREU0t3WTdBdEhXTnZ5R3pwVDlFdDFRemk0dUZDeU5TVGFOOHdVOVctMjcyNmVQUkhnTnBuTUVkVWtGdXVMU3loYTA3NlF4cVBnZXRlTjBwWUlWTktTMTBma0JVcUhKTGlhTWgtcWh0ekVYbGVqVmJuQnczeUZIRzI?oc=5",
+     "source": "Mezha.net",
+     "published": "2026-11-23T01:48:38+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -302,9 +262,25 @@
       "APAC"
      ],
      "also": [
+      "Electric Bloom Webzine",
+      "The Edge Singapore",
       "Investing.com",
       "Bloomberg.com"
      ]
+    },
+    {
+     "title": "Japan a sitting duck for cyberattacks",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZEVDVU9OLXlEUER4SlBmSVRiSE1sWjdmVXlVQTU0YWJPdlItV3lUeEZCVHhHQ2xjWHVoazFNWjNOTk1JQ3NVTFBYaW90QVpqcWtZUG9tN3RUSGR6dUUxTHNZS2FyTDZNVnlVY2hxWk4yVHpudHc2Tkp1SlZGRDJQdk1NZWRaUDdSU2pjOXBZakZMdw?oc=5",
+     "source": "Japan Today",
+     "published": "2026-11-22T20:30:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
     },
     {
      "title": "Hackers Target South Korean Power Giant KEPCO, Exposing Sensitive Customer Banking Details",
@@ -352,28 +328,14 @@
     {
      "title": "YMCA Singapore data breach may have exposed details of over 13,000 youth programme participants",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQVhNUWtfWDQyTFJ0RHRGUG90RjNsNjdRRy16cWxlN2xITUYzeHFUQm8wemV4T0lmVmNlczJKWkhwVTVsMVpwMExmbXItT0h5YzFSVmdxUmhzRUdvWjV4VWlJM2czRlhsd0pUVWgzaUVVdm8xWFdTT2E1M3hLVjI1YzNOOEVyaVRRaUlRYy1jbFNxS2VqRUFka1F0blRRb3IwNWJsSXY1VUc1TkdGUUpNckFMb2lOdl9CVmlpRzRMb01tQ0ZsUkxZYjY2UUl4TWVSZFlfYmxCbnprQjdQN0N0c2swUjc1dGVR0gHuAUFVX3lxTFB0X3hxUjF6TFlZaTR4SGMzVVlMNVR4TlRPTGgxQkd6M3cwbUZfMlJuM1FDNG9VZjA5QjFlUk9nOWc5TUYtMlZnTzItZlJ6Wm5GWlFjNkltX1JzVlZfZ1duRFF0S0lMTGptSlgtTG1ZaVQwTUdPWTYtOGpXTlVNV1ZleTNyaG9XZnBnWlY5cDlKeGhKR0RkaWtPOW5sMG5uZzJ1UFg2RVFndDhGRU9SQ0lfQjJpbmNweXY2LXRpTnF1UG5FbHd5TUFCSjhGZnJCR2d2WmNBdFpaV2VUcExoWDdMOWl2YlB0R1JacGtWa2c?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQdF94cVIxekxZWWk0eEhjM1VZTDVUeE5UT0xoMUJHejN3MG1GXzJSbjNRQzRvVWYwOUIxZVJPZzlnOU1GLTJWZ08yLWZSelpuRlpRYzZJbV9Sc1ZWX2dXbkRRdEtJTExqbUpYLUxtWWlUME1HT1k2LThqV05VTVdWZXkzcmhvV2ZwZ1pWOXA5SnhoSkdEZGlrTzlubDBubmcydVBYNkVRZ3Q4RkVPUkNJX0IyaW5jcHl2Ni10aU5xdVBuRWx3eU1BQko4RmZyQkdndlpjQXRaWldlVHBMaFg3TDlpdmJQdEdSWnBrVmtn0gHuAUFVX3lxTFB0X3hxUjF6TFlZaTR4SGMzVVlMNVR4TlRPTGgxQkd6M3cwbUZfMlJuM1FDNG9VZjA5QjFlUk9nOWc5TUYtMlZnTzItZlJ6Wm5GWlFjNkltX1JzVlZfZ1duRFF0S0lMTGptSlgtTG1ZaVQwTUdPWTYtOGpXTlVNV1ZleTNyaG9XZnBnWlY5cDlKeGhKR0RkaWtPOW5sMG5uZzJ1UFg2RVFndDhGRU9SQ0lfQjJpbmNweXY2LXRpTnF1UG5FbHd5TUFCSjhGZnJCR2d2WmNBdFpaV2VUcExoWDdMOWl2YlB0R1JacGtWa2c?oc=5",
      "source": "Malay Mail",
-     "published": "2026-11-22T03:41:12+00:00",
+     "published": "2026-11-22T03:48:27+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
      "tags": [
       "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Indonesia’s Banking Sector Faces 1.2 Million Cyberattack Attempts in Just 24 Hours",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9FSkZiY0U5X011X1dTTUVQbG9WaFp5ZnhhX2ljNjdad0Jvall4LUNEZEk5Vk85LXNPMVByV0RXV1MxLWRJbk10QWstN2gxaGtKOG5xelpZU0xYZkFYZjl5WWd6MHA3RFBKSkZ6T0tXNWNBTDky?oc=5",
-     "source": "The 420.in",
-     "published": "2026-11-22T03:34:46+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
       "APAC"
      ],
      "also": []
@@ -588,6 +550,54 @@
    "name": "Government Advisories",
    "stories": [
     {
+     "title": "F5 BIG-IP Remote Code Execution Vulnerability",
+     "subtitle": "",
+     "link": "https://www.hkcert.org/security-bulletin/f5-big-ip-remote-code-execution-vulnerability_20261123",
+     "source": "HKCERT",
+     "published": "2026-11-23T03:00:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Palo Alto Products Multiple Vulnerabilities",
+     "subtitle": "",
+     "link": "https://www.hkcert.org/security-bulletin/palo-alto-products-multiple-vulnerabilities_20261123",
+     "source": "HKCERT",
+     "published": "2026-11-23T03:00:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Synology Products Denial of Service Vulnerability",
+     "subtitle": "",
+     "link": "https://www.hkcert.org/security-bulletin/synology-products-denial-of-service-vulnerability_20261123",
+     "source": "HKCERT",
+     "published": "2026-11-23T03:00:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "WhatsApp Multiple Vulnerabilities",
+     "subtitle": "",
+     "link": "https://www.hkcert.org/security-bulletin/whatsapp-multiple-vulnerabilities_20261123",
+     "source": "HKCERT",
+     "published": "2026-11-23T01:00:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
      "title": "CISA Adds Four Known Exploited Vulnerabilities to Catalog",
      "subtitle": "",
      "link": "https://www.cisa.gov/news-events/alerts/2026/11/20/cisa-adds-four-known-exploited-vulnerabilities-catalog",
@@ -599,42 +609,6 @@
      "tags": [
       "Exploited"
      ],
-     "also": []
-    },
-    {
-     "title": "ChromeOS Multiple Vulnerabilities",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/chromeos-multiple-vulnerabilities_20261120",
-     "source": "HKCERT",
-     "published": "2026-11-20T03:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "GitHub Enterprise Server Multiple Vulnerabilities",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/github-enterprise-server-multiple-vulnerabilities_20261120",
-     "source": "HKCERT",
-     "published": "2026-11-20T03:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Splunk Products Multiple Vulnerabilities",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/splunk-products-multiple-vulnerabilities_20261120",
-     "source": "HKCERT",
-     "published": "2026-11-20T01:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
      "also": []
     }
    ]
