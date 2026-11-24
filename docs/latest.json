@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T02:21:34+00:00",
+ "generated": "2026-11-24T12:43:03+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -198,6 +198,135 @@
    "name": "Breaking Threats",
    "stories": [
     {
+     "title": "OpenAI, Cisco Unveil Open Source Tool to Shield Unpatched Linux Systems",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/openai-cisco-unveil-open-source-tool-to-shield-unpatched-linux-systems/",
+     "source": "SecurityWeek",
+     "published": "2026-11-24T12:20:41+00:00",
+     "date_only": false,
+     "summary": "OpenAI and Cisco’s Shirudo uses AI-generated shields to block Linux exploits while patches are prepared, but it’s not yet production-ready. The post OpenAI, Cisco Unveil Open Source Tool to Shield Unpatched Linux Systems appeared first on…",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": [
+      "The Hacker News"
+     ]
+    },
+    {
+     "title": "1.5 Million Impacted by Data Breach at South Korean Electric Company KEPCO",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/1-5-million-impacted-by-data-breach-at-south-korean-electric-company-kepco/",
+     "source": "SecurityWeek",
+     "published": "2026-11-24T11:50:21+00:00",
+     "date_only": false,
+     "summary": "Hackers stole personal information from the company’s customer portal and supplier relationship management platform. The post 1.5 Million Impacted by Data Breach at South Korean Electric Company KEPCO appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": [
+      "BleepingComputer",
+      "The 420.in",
+      "upi"
+     ]
+    },
+    {
+     "title": "Microsoft Fixes Azure API Management Classic Flaw as Actor Targets Customer Secrets",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html",
+     "source": "The Hacker News",
+     "published": "2026-11-24T10:44:49+00:00",
+     "date_only": false,
+     "summary": "Norway's National Security Authority (NSM) has disclosed that it became aware of a security vulnerability in Microsoft's Azure API Management (APIM) that has affected multiple businesses in the country, including energy companies Equinor…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Elecbrakes Bluetooth Vulnerabilities Expose Trailers to Forced Braking",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/elecbrakes-bluetooth-vulnerabilities-expose-trailers-to-forced-braking/",
+     "source": "SecurityWeek",
+     "published": "2026-11-24T10:44:44+00:00",
+     "date_only": false,
+     "summary": "Critical Bluetooth flaws in Elecbrakes controllers could let nearby attackers force trailer braking, potentially causing accidents. The post Elecbrakes Bluetooth Vulnerabilities Expose Trailers to Forced Braking appeared first on…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Peninsula Energy Halts Trading After Cyber Incident Hits US Uranium Mine",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/peninsula-energy-halts-trading-after-cyber-incident-hits-us-uranium-mine/",
+     "source": "SecurityWeek",
+     "published": "2026-11-24T10:35:04+00:00",
+     "date_only": false,
+     "summary": "The company told the ASX that a cybersecurity incident at its Wyoming uranium project would temporarily affect operations. The post Peninsula Energy Halts Trading After Cyber Incident Hits US Uranium Mine appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "WHMCS SQL Injection Could Expose Customer Data and Admin Password Hashes without Login",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/whmcs-sql-injection-flaw-could-expose.html",
+     "source": "The Hacker News",
+     "published": "2026-11-24T08:34:20+00:00",
+     "date_only": false,
+     "summary": "A flaw in WHMCS's shopping cart, the billing and automation platform many web hosting companies use to run their businesses, could allow anyone on the internet to retrieve customer records and administrator password hashes from an…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html",
+     "source": "The Hacker News",
+     "published": "2026-11-24T06:02:45+00:00",
+     "date_only": false,
+     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added two flaws impacting N-able MailAssure and MONAI Label to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The…",
+     "extra": "",
+     "tags": [
+      "Exploited",
+      "Zero-day",
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "LaLiga hacked: Spain’s top football league confirms theft of fans’ personal data",
+     "subtitle": "",
+     "link": "https://therecord.media/laliga-hacked-spain-top-professional-league-confirms-cyber-incident",
+     "source": "The Record",
+     "published": "2026-11-24T00:00:00+00:00",
+     "date_only": false,
+     "summary": "Spain’s professional soccer league LaLiga said Monday hackers stole personal information belonging to fans in a cyberattack affecting its digital services and those of several Spanish clubs.",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": [
+      "BleepingComputer"
+     ]
+    },
+    {
+     "title": "‘Grand Theft Auto VI’ hacker sentenced to seven years, released the same day",
+     "subtitle": "",
+     "link": "https://therecord.media/gta-vi-hacker-arion-kurtaj-released-on-license",
+     "source": "The Record",
+     "published": "2026-11-24T00:00:00+00:00",
+     "date_only": false,
+     "summary": "A British cybercriminal who hacked Rockstar Games and leaked footage of Grand Theft Auto VI was sentenced Monday to seven years in prison, and then released on license because of time served.",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": []
+    },
+    {
      "title": "Hackers breach Austrian Foreign Ministry website, access diplomats' contact details",
      "subtitle": "",
      "link": "https://therecord.media/austrian-foreign-ministry-says-website-hacked",
@@ -238,23 +367,6 @@
      "also": []
     },
     {
-     "title": "South Korea’s power giant KEPCO confirms data breach impacting 1.5 million",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/south-koreas-power-giant-kepco-confirms-data-breach-impacting-15-million/",
-     "source": "BleepingComputer",
-     "published": "2026-11-23T20:54:51+00:00",
-     "date_only": false,
-     "summary": "A threat actor breached the internal network of Korea Electric Power Corporation (KEPCO) and accessed two systems containing customer, employee, and contractor data. [...]",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": [
-      "upi"
-     ]
-    },
-    {
      "title": "US Cyber Director Pick Signals Shift Toward Expertise",
      "subtitle": "",
      "link": "https://www.darkreading.com/cybersecurity-operations/us-cyber-director-pick-signals-shift-toward-expertise",
@@ -292,20 +404,6 @@
      "extra": "",
      "tags": [
       "Exploited"
-     ],
-     "also": []
-    },
-    {
-     "title": "Spanish LaLiga confirms hackers stole soccer fans’ personal data",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/spanish-laliga-confirms-hackers-stole-soccer-fans-personal-data/",
-     "source": "BleepingComputer",
-     "published": "2026-11-23T18:38:40+00:00",
-     "date_only": false,
-     "summary": "LaLiga, Spain's top men's football league, disclosed a data breach that exposed personal information belonging to users of its services and those of some affiliated clubs. [...]",
-     "extra": "",
-     "tags": [
-      "Breach"
      ],
      "also": []
     },
@@ -364,22 +462,6 @@
      "also": []
     },
     {
-     "title": "CrowdStrike to purchase Zscaler for $43.9 billion",
-     "subtitle": "",
-     "link": "https://therecord.media/crowdstrike-zscaler",
-     "source": "The Record",
-     "published": "2026-11-23T17:14:00+00:00",
-     "date_only": false,
-     "summary": "“We see a path to become the largest AI safety and security company the world has ever seen,” CrowdStrike CEO George Kurtz said.",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": [
-      "SecurityWeek"
-     ]
-    },
-    {
      "title": "GlobeTopper loses $2.5 million after hackers steal $70k in gift cards",
      "subtitle": "",
      "link": "https://www.bleepingcomputer.com/news/security/globetopper-loses-25-million-after-hackers-steal-70k-in-gift-cards/",
@@ -423,20 +505,6 @@
      "also": []
     },
     {
-     "title": "Norway says hackers exploited Microsoft security flaw to attack energy firms Equinor, Skagerak Energi",
-     "subtitle": "",
-     "link": "https://therecord.media/norway-microsoft-cyberattack-equinor",
-     "source": "The Record",
-     "published": "2026-11-23T15:45:00+00:00",
-     "date_only": false,
-     "summary": "Norwegian energy companies Equinor and Skagerak Energi were affected by a Microsoft cloud security vulnerability that hackers have exploited to target sensitive credentials, Norway's cybersecurity authorities said.",
-     "extra": "",
-     "tags": [
-      "Exploited"
-     ],
-     "also": []
-    },
-    {
      "title": "⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble",
      "subtitle": "",
      "link": "https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html",
@@ -451,20 +519,16 @@
      "also": []
     },
     {
-     "title": "N-able Patches Critical Flaw Disclosed After Mail Assure Cyberattack",
+     "title": "N-able Patches Critical Flaw Discovered After Mail Assure Cyberattack",
      "subtitle": "",
      "link": "https://www.securityweek.com/n-able-patches-critical-flaw-disclosed-after-mail-assure-cyberattack/",
      "source": "SecurityWeek",
      "published": "2026-11-23T15:06:49+00:00",
      "date_only": false,
-     "summary": "The company has restored access to the affected services and continues to monitor the affected environments. The post N-able Patches Critical Flaw Disclosed After Mail Assure Cyberattack appeared first on SecurityWeek .",
+     "summary": "The company has restored access to the affected services and continues to monitor the affected environments. The post N-able Patches Critical Flaw Discovered After Mail Assure Cyberattack appeared first on SecurityWeek .",
      "extra": "",
-     "tags": [
-      "Breach"
-     ],
-     "also": [
-      "The Hacker News"
-     ]
+     "tags": [],
+     "also": []
     },
     {
      "title": "AI Agents Are Creating a Shared Responsibility Gap",
@@ -479,66 +543,6 @@
       "AI"
      ],
      "also": []
-    },
-    {
-     "title": "phpAfterShell Vulnerability Revives PHP2Shell’s Attack Path",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/phpaftershell-vulnerability-revives-php2shells-attack-path/",
-     "source": "SecurityWeek",
-     "published": "2026-11-23T13:58:07+00:00",
-     "date_only": false,
-     "summary": "If a session overwrite operation is interrupted, an attacker who controls the fresh data could trigger data deserialization and RCE. The post phpAfterShell Vulnerability Revives PHP2Shell’s Attack Path appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Microsoft testing fix for Windows 11 Bluetooth audio quality drops",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-fix-for-windows-11-bluetooth-audio-quality-drops/",
-     "source": "BleepingComputer",
-     "published": "2026-11-23T13:28:45+00:00",
-     "date_only": false,
-     "summary": "Microsoft is working to fix a long-standing Windows issue that has been causing significant audio quality drops for Bluetooth headphone users. [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "GL.iNet Routers, KVMs Compromised via Remote Management Service Flaw",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/gl-inet-routers-kvms-compromised-via-remote-management-service-flaw/",
-     "source": "SecurityWeek",
-     "published": "2026-11-23T13:26:22+00:00",
-     "date_only": false,
-     "summary": "Attackers abused a flaw in the GoodCloud remote management service to push malware to devices, and cleaning them requires new firmware. The post GL.iNet Routers, KVMs Compromised via Remote Management Service Flaw appeared first on…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html",
-     "source": "The Hacker News",
-     "published": "2026-11-23T13:22:20+00:00",
-     "date_only": false,
-     "summary": "A critical security flaw has been disclosed in the popular binary-parser library that could allow an attacker who controls parser definitions to execute arbitrary code. The vulnerability, tracked as CVE-2026-134814 (CVSS score: 9.2 / 8.1)…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html",
-     "source": "The Hacker News",
-     "published": "2026-11-23T12:41:04+00:00",
-     "date_only": false,
-     "summary": "Threat actors are exploiting a now-patched security flaw in ConnectWise ScreenConnect to target managed service provider (MSP) servers. The activity revolves around CVE-2026-84869 (CVSS score: 9.9), a critical ScreenConnect client flaw…",
-     "extra": "",
-     "tags": [],
-     "also": []
     }
    ]
   },
@@ -546,11 +550,25 @@
    "name": "APAC Watch",
    "stories": [
     {
-     "title": "Tower Records Japan Data Breach Exposes 10.2 Million Logins",
+     "title": "Legacy Windows vulnerabilities account for 73% of cyber threats detected in India: K7 report",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORzNucHF6QVByQWRfMHptczRNQlFPZG5BRFFBTTZMdG41NTVXX3hmN0pyNDRsRWFMTHNEQjA0b0tLX0cwT3hoNXdKd0lyODNLY2RrUHhiQXZRSkMyODk0ZWl5WDhoOXU1Q1BnUkVBMk1FbjQwTFVXRHB0QUo3a0xhMk5ZRkNoZndVeDE3LVY4LVh1UkUzRXlnejJoaUk4Rl9nY0NUSVd0bVl6ZjhiY3pzTV83cjBONTNTTWlhVENjQWpYSlAtT3VMVg?oc=5",
-     "source": "UrduPoint",
-     "published": "2026-11-23T17:45:02+00:00",
+     "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNOXdvSkFBaDdjRHphZVFmeS11dm9iV3htV2NhQ0gzS2wyVm5FeUZZNVU2OHNQUEx2dGZUVnNXaGtrTmFfM1IzVEFWWC1KX2FZb3E5MHNicDBOd2ZyNkpqSFYtXzRxanUwVi1VaDhFWlllV1RlYV9pX1dqQjFsVWh0dnRiZ09udmJZTkRDeFZsdzM3YVAxTUR2aWhXWXRyQ3VPR2xTNVZ2bEpWald6SGkwNTFmdXlrVDJ2bWo2eWgwd0JLX3pSU3YwSHJLODdsLS1oQURlRnFoYzU4REw1aHhXcElpZWNUR3ZiRThxRXEzSENCaGloX1Rn0gH8AUFVX3lxTE50SXNuY1gzOTdPa2pGSmtJRFdwZ25ESWhfQkk3QmRmeG85cjFYeVJ1OU81Ty1UVVNfUV9MNjU2N3RoM1RrcG1QaXliU3h4b00yN19NaHZEaW1fY0NHMXBvcXRhTlJoRG95Wk1zejQyd0szNzV2TXVaMF9HbmEwSENodTVuQnliSVlQdFRoN1VlZUpuTzVOcjVYanUzZk9GQXBNZnlUTlRTOGdVc0ZjMDBvTE9mN084LWVBTHBZXzUzamFkUHhpNmhzajFVY19vZ1p3NTJHdDVtZDQ1d3FsVjZvVDk5aDQ4Tk9JRFh2MmVvcVdfc1NSMEdpTENJNw?oc=5",
+     "source": "ET Enterprise AI",
+     "published": "2026-11-24T11:24:11+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Tower Records Hit By Japan’s Latest Data Breach",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CTTNQRTdqRlNTZEVUXzYzVU9vb1lCeXA2OGJpUk1ER3Mtb013OHN3ZHAxWVU5MmJtdjZmSzltT3dqV0xlWkFfM1BQMjcyLTNIMlp2WXhFa25PTTBxVzlTOGx4aEFXM2lYZnEyMGFQLXJ5aEE1WE5YZHp3dDVZZw?oc=5",
+     "source": "Silicon UK",
+     "published": "2026-11-24T10:03:23+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -559,51 +577,92 @@
       "APAC"
      ],
      "also": [
-      "Neowin",
-      "Insurance Journal"
+      "UrduPoint",
+      "Neowin"
      ]
     },
     {
-     "title": "AI-Powered Hackers Exploit Indian Banks’ Payment Systems",
+     "title": "Fortinet: Ransomware Groups Targeting South Korea Double in a Year as AI Accelerates Attacks",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0tWDRoVmVnQkNBXzlGQTNHZGllbHdyYXZwelBQOXM1b2N6Z0ptVnhkYk4xUTJ4a0R4Q2YxbHFIdUxIRE5oNmRLWkx1TkY3TllXVDNGRDRzZGk?oc=5",
-     "source": "Israel Defense",
-     "published": "2026-11-23T09:42:15+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Paper Notebooks Surge in Popularity in Japan Amid Repeated Data Leaks: Why?",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qeTNkb2tDZ1ZOT2J2dDBtTk9IQ3N6M092NXFzTHVoREtSd0RkSmlBeUNKQTZJS2FVM2pQc3NTU1JwNUx5Vjg2ZkFQS3BMTjlYYmxMX3FwdjQ1aDgwSkxjbEluV3haeTA1Zko5X3lB?oc=5",
-     "source": "news.sbs.co.kr",
-     "published": "2026-11-23T06:10:39+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "South Korea's Bug Bounty Program Deploys 698 White-Hat Hackers, Fixes All 202 Valid Flaws; Full Rollout Set for Next Year",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB6NGgyZEhTNTBjWG44TjYySEo5WTdUOV94ak91VkZjTVh3Y0NpZ3VjR3RJN25MSUxhcE8wamtqRV80WFlpZkFlT0lCbUdXZXVEVGdBLWpwNnhRNzVqYllqYlZDS3lVNVpwUFRVS0IwSDQ1Z05vMkE?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE53QWZmbE5ta0tyVEcxcjNtU0d5TkoyZ0I2N3d0c29nREdtbzVJS2JpZGp2YzN3VFpIUGt3aThPbE1UTWZYVVNweGp0cnRSWDBRTjRpXzlKS3NSSmduOVl3YXFDZkNHZ3ktVS1Kd2tYWFBLRE5nLWc?oc=5",
      "source": "BigGo Finance",
-     "published": "2026-11-23T04:05:00+00:00",
+     "published": "2026-11-24T09:05:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Ransomware",
+      "AI",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "RIKEN Takes Japan’s Fugaku Supercomputer Offline After Cyberattack",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWnR4aGc0M21IaUFYWjBWalh3WUxRclExNUtwaG1SdGRUZEVpMm0zRnZyUjZtSlJXRUpEQ2ZYUm42c0Y2c1NiSmMxeUtsOWowdE83QlBFRlg5MGVVdEVnNUF6cDRLWl9KSExxRUxDcW5xcU9aLThVN1E2RkJ2YjB2NWdRelRwWWk1QUNiV28yeFh2YVk?oc=5",
+     "source": "eSecurity Planet",
+     "published": "2026-11-24T08:05:01+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
      "tags": [
       "APAC"
      ],
+     "also": []
+    },
+    {
+     "title": "Deepfake attacks in Vietnam are nearly double the global average.",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTHZDbmhpRWNhZDVpRDdoV3NQRjIxLWViRzltaGM2ajZZNUVERWNVZ0ZCOTdDOVpXMlM2aTUxbTRqUXVtdEl3bGJyQzVvZGxiMkhpRFlTbzZXS2g5cThRZEpXSG85V2RseExtQk9vRnlJSFE2LVdoUjRBWVpOU1hoQ2x4LWRpeTBmb0hrNVFpcHFwclhydkxYeVRXWUtJR1dIVGdhdThfdm0?oc=5",
+     "source": "Vietnam.vn",
+     "published": "2026-11-24T05:01:55+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Tower Records customer data hacked | NHK WORLD-JAPAN News",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zUjJzWmU2SjFwWkx1NFJ2c19lQ1FEX2RrMjZzRnFmaFZsOS1qZE8xODhSVWNMVURhNmhKRjMwbTA4b29pWkRPV2tScnJLSVJYOVZqMDUzTFFPbVZDWGZHUVJicw?oc=5",
+     "source": "NHKニュース",
+     "published": "2026-11-24T04:02:13+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Cyberattacks expose weaknesses in South Korea's financial sector",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hTlR5WUZpUDIwTi1FY0hPUy1ublNqdzhhelBkaExWWDV6dUVfdUdrTTZYc1p1RHFuLXpRUEwxRWZ6UFR0cTFCY20xWnNlZmxySVJxY0tSc2ZRSVFIUHVOWkVSWkFtdw?oc=5",
+     "source": "동아일보",
+     "published": "2026-11-24T00:21:32+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Hackers are exploiting a vulnerability of Vietnamese commuters.",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcm1jd3VpYzFMaHVQWFJuaEcwTl9GcFhjRjh1aTV0UDVtdEVqMl9qamdaUzU2UjZ4R1pPMURTejRWQ1ptOVlNYTlfS3hoTnBIeUdadkR6MEMxMVFVeThDYU9QeElBVDNZQkF3ekV4Y2JNRGRxUk5VOS1yT3dEdnUyWk5LUlcxNTliVnJGUk9nV1pxdXdM?oc=5",
+     "source": "Vietnam.vn",
+     "published": "2026-11-23T15:46:54+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
      "also": []
     }
    ]
