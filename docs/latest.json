@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T23:06:13+00:00",
+ "generated": "2026-11-25T05:30:10+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -225,29 +225,26 @@
      "product": "Axis",
      "cve": "CVE-2026-90436",
      "also": []
-    },
-    {
-     "title": "CVE-2026-115731: Perforce Puppet Enterprise",
-     "subtitle": "Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability",
-     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-115731",
-     "source": "CISA KEV",
-     "published": "2026-11-17T00:00:00+00:00",
-     "date_only": true,
-     "summary": "Perforce Puppet Enterprise contains a deserialization of untrusted data vulnerability in Puppet’s report-processing code that allows a client with any CA-signed agent certificate to execute arbitrary code on the Puppet Server as the…",
-     "extra": "US federal patch deadline 1 Dec",
-     "tags": [
-      "Exploited"
-     ],
-     "vendor": "Perforce",
-     "product": "Puppet Enterprise",
-     "cve": "CVE-2026-115731",
-     "also": []
     }
    ]
   },
   {
    "name": "Breaking Threats",
    "stories": [
+    {
+     "title": "Cyber Insurers See New Divide: AI Defense 'Haves' & 'Have Nots'",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/cybersecurity-operations/cyber-insurers-see-new-ai-divide",
+     "source": "Dark Reading",
+     "published": "2026-11-25T15:00:00+00:00",
+     "date_only": false,
+     "summary": "Dark Reading Confidential Episode 23: Cyber insurers share their view of the AI-driven threat landscape and how mounting challenges are putting pressure on both sides of the policy, leaving the current model unsustainable.",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
     {
      "title": "An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says",
      "subtitle": "",
@@ -580,26 +577,73 @@
       "AI"
      ],
      "also": []
-    },
-    {
-     "title": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html",
-     "source": "The Hacker News",
-     "published": "2026-11-24T13:28:26+00:00",
-     "date_only": false,
-     "summary": "Broadcom has shipped patches to address 23 vulnerabilities impacting VMware ESX, vCenter, Workstation, Fusion, and Avi Load Balancer, including one critical bug that could be abused to bypass authentication. The critical vulnerability…",
-     "extra": "",
-     "tags": [
-      "Zero-day"
-     ],
-     "also": []
     }
    ]
   },
   {
    "name": "APAC Watch",
    "stories": [
+    {
+     "title": "Dementia Singapore Data Breach Highlights Third Party Vendor Cybersecurity Risks",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWTRBZ1NZdi1GLXVlZ19JSlNSSmpSMkJjdFBZaWctRzRzSzBvRTNMMVBmNG9RdDdLWFdSdXBrWno0ZHlLam12STk2bzVSLTU3Wmd3QlRmRWpmYlM5M2NWaVl0Qm1wVTFrbG5GcXFCaWJxTVJreFYtOG1GaEFNejNYd2oyc2tRMHQ5blZ2aXN4VldzdkNyMHh4elRIbmJRSkJQa19pY3Q5M21IQWxQR3BKanpOaHZtQi04NGpaUEVpZVY2YTg?oc=5",
+     "source": "BusinessToday Malaysia",
+     "published": "2026-11-25T04:38:43+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Indonesian Government Data Breach Claim Lists 49,000 Civil Servant Records",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUlIzTU4tYmlXNkVGd0s1a05sRDNHVC0wMHRUY1hCcklnTjBCWUh3U1p4U3RKWkE4Tmgxb0tfUWxIQXI3LVZ1c0pQT04xdXBYWjFReFJvOTRXeHgydjRrckdtV0gyRHd6RzdHRTU4akJ4dXRLcmdOS055RE1GTExwcl8wZEZtdVgxRjVBZ0p3VDNQb05aMG1qc2d2YzlHZjA?oc=5",
+     "source": "Homeland411",
+     "published": "2026-11-25T02:28:05+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": []
+    },
+    {
+     "title": "Osaki Electric ransomware attack disrupts smart meter production, raising supplier continuity concerns across Asia-Pacific",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQQWRWMldwZ2ZPLTJuQjFxOTVRUjYxY2MyLU1nX3JDXzRFMkE1MHJ6NWU1T3BwWU85MDc5b0tGc2c3eDRnb3o4QWNqb1lZS2M3MDdHREdWQmJmMjZJbTVjanpZb1pDX3QxX18tVV9lZFprc3A4dFl5TlZseHd4b0kwN1RLdTB1eGVjZlFrbTlMdGRCQThJcmd0QnR3ZXRkTTlKakdPYVRoQkEwd3pidUpTN2F1U1NjMFhUd21JUG5MTDJ6R0JIa3RkaDFvaGl2clpBWlBVV2U3Wk1oRjNWX1RIMkRMTWh5enVSR193QkhGdTZ3X1k2a1Y1OQ?oc=5",
+     "source": "Industrial Cyber",
+     "published": "2026-11-24T15:11:16+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Ransomware",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Korea Electric Power Corporation reports data breach affecting 1.5 million individuals",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPa1B5bDE1X21FQVhEcWhaR19NMXAxdlBzazExclVtTVF1cjBvYzdCUHRhTEhWVWNCWk9iUTdpUmZGSDZUZjRWSTFGYXNjMjhUOUtQOUJ0dXlTOFF3NXhqdVc3RmpoWlNFYlN0WVVUcjFvNWRKOWEyemZuV043QUVLdkl2SHBCaU1mUEpOdEJpNzh6bnJkV2VpakhpSEVJQl9LUVJNVU52TmRJcDIyMk9Sc3E2aWpVd0E?oc=5",
+     "source": "SC Media",
+     "published": "2026-11-24T14:55:42+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": [
+      "BigGo Finance"
+     ]
+    },
     {
      "title": "South Korea: PIPC launches investigation into KEPCO following data breach",
      "subtitle": "",
@@ -674,70 +718,24 @@
       "APAC"
      ],
      "also": []
-    },
-    {
-     "title": "South Korea's Korea Electric Power Corporation Says It Never Negotiated With Hackers Over 1.5 Million-Record Data Breach",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9mR25pQko3RzdkRlllSWJyS2NlaU9CZlZHcnJPbld6ZUFrVXlvejZBQnA5RzhFMGEyYTFOUEgyeEt4ME9PYjdMSURoSUpQemVfMjBuR3g2RWhnZzM1Y1JRUGdabjhjTGVHaDFyOGdhQjBuS19YekE?oc=5",
-     "source": "BigGo Finance",
-     "published": "2026-11-24T07:26:40+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Australia's Bendigo Bank fined $5.6m over cyberattack-linked breaches (update*)",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZkdvNG1iUlVJemxVY0oxMjVINnJVc01uMTBZb3JJYS04S3E1NS12MFVTWEE4dGRTSS16Q0QtS2NMRzFHOWNEc2JlTVZvVDl1aENtVkhjXzY2bHpjOW51UGxRd3h0a2ZNYjZYVUJEZ3FVbDBLYWVVNFhuanpDUTU4dHc4c0ZqVGxjbDJPRFg4T3VtQUtDanVNamhENlRGSFdDQXNkdHgzOVc1SWJrWVR1d1BJYnRWWGpfX3NB0gFaQVVfeXFMUGxGRjl1S3YzNmU2TlpMcXhnM2h1YWlJbjI3QS1YdXRmWFhGY3FZSWhZMnpublM4b2I3dUk3Qzg4ZDE4c0xid0txSU50ZjU2WHJNREdrMEZ1YlZR?oc=5",
-     "source": "MLex",
-     "published": "2026-11-24T06:13:29+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Tower Records customer data hacked | NHK WORLD-JAPAN News",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE0zUjJzWmU2SjFwWkx1NFJ2c19lQ1FEX2RrMjZzRnFmaFZsOS1qZE8xODhSVWNMVURhNmhKRjMwbTA4b29pWkRPV2tScnJLSVJYOVZqMDUzTFFPbVZDWGZHUVJicw?oc=5",
-     "source": "NHKニュース",
-     "published": "2026-11-24T04:02:13+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Cyberattacks expose weaknesses in South Korea's financial sector",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1hTlR5WUZpUDIwTi1FY0hPUy1ublNqdzhhelBkaExWWDV6dUVfdUdrTTZYc1p1RHFuLXpRUEwxRWZ6UFR0cTFCY20xWnNlZmxySVJxY0tSc2ZRSVFIUHVOWkVSWkFtdw?oc=5",
-     "source": "동아일보",
-     "published": "2026-11-24T00:21:32+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
     }
    ]
   },
   {
    "name": "Threat Research",
    "stories": [
+    {
+     "title": "NGINX HTTP/2 Use-After-Free: CVE-2026-123633",
+     "subtitle": "",
+     "link": "https://unit42.paloaltonetworks.com/cve-2026-123633-nginx-http2-vulnerability/",
+     "source": "Unit 42",
+     "published": "2026-11-24T23:00:14+00:00",
+     "date_only": false,
+     "summary": "Technical analysis of CVE-2026-123633, an NGINX HTTP/2 use-after-free flaw, with details on affected versions, sanitizer tests, and patch guidance. The post NGINX HTTP/2 Use-After-Free: CVE-2026-123633 appeared first on Unit 42 .",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
     {
      "title": "Recent Trends and Tactics of Agentic AI Attacks",
      "subtitle": "",
@@ -881,24 +879,24 @@
      "extra": "",
      "tags": [],
      "also": []
-    },
-    {
-     "title": "CVE-2026-114938: Critical vulnerability in OpenJDK Java",
-     "subtitle": "",
-     "link": "https://blog.talosintelligence.com/java4shell/",
-     "source": "Cisco Talos",
-     "published": "2026-11-18T01:53:03+00:00",
-     "date_only": false,
-     "summary": "Cisco Talos is tracking the disclosure of a critical vulnerability in OpenJDK Java (CVE-2026-114938), dubbed “Java4Shell,” with a CVSS 4.0 score of 9.2 that may lead to unauthenticated remote code execution (RCE).",
-     "extra": "",
-     "tags": [],
-     "also": []
     }
    ]
   },
   {
    "name": "Government Advisories",
    "stories": [
+    {
+     "title": "Mozilla Products Multiple Vulnerabilities",
+     "subtitle": "",
+     "link": "https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20261125",
+     "source": "HKCERT",
+     "published": "2026-11-25T03:00:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
     {
      "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
      "subtitle": "",
@@ -965,18 +963,6 @@
      "title": "F5 BIG-IP Remote Code Execution Vulnerability",
      "subtitle": "",
      "link": "https://www.hkcert.org/security-bulletin/f5-big-ip-remote-code-execution-vulnerability_20261123",
-     "source": "HKCERT",
-     "published": "2026-11-23T03:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Palo Alto Products Multiple Vulnerabilities",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/palo-alto-products-multiple-vulnerabilities_20261123",
      "source": "HKCERT",
      "published": "2026-11-23T03:00:00+00:00",
      "date_only": false,
