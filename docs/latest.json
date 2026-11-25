@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T05:30:10+00:00",
+ "generated": "2026-11-25T17:25:47+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -232,6 +232,96 @@
    "name": "Breaking Threats",
    "stories": [
     {
+     "title": "Australia passes tough legislation requiring big tech to preempt foreseeable harms",
+     "subtitle": "",
+     "link": "https://therecord.media/australia-passes-online-safety-legislation-preempt-harms",
+     "source": "The Record",
+     "published": "2026-11-25T17:07:00+00:00",
+     "date_only": false,
+     "summary": "The Digital Duty of Care Act sailed through Australia's Parliament. It will mandate that online providers establish protocols to protect users from threats of violence and rape as well as behavior that could cause significant harms.",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "CISA warns of critical unpatched flaw in Danfoss refrigeration controllers",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/",
+     "source": "BleepingComputer",
+     "published": "2026-11-25T16:13:40+00:00",
+     "date_only": false,
+     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning about a critical vulnerability in Danfoss AK-SM 8xxA Series controllers used by food retailers to manage commercial refrigeration, HVAC, and lighting systems. [...]",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Attackers Target .NET Developers With Poisoned Job Assessments",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/threat-intelligence/attackers-net-developers-poisoned-job-assessments",
+     "source": "Dark Reading",
+     "published": "2026-11-25T15:48:04+00:00",
+     "date_only": false,
+     "summary": "Researchers discovered 13 malicious NuGet packages as part of a fake recruitment campaign that spreads malware and gives attackers access to developers' machines.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Two Newly Disclosed GeoServer Vulnerabilities Under Attack",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/two-newly-disclosed-geoserver-vulnerabilities-under-attack/",
+     "source": "SecurityWeek",
+     "published": "2026-11-25T15:27:36+00:00",
+     "date_only": false,
+     "summary": "Attackers are probing GeoServer instances for two high-severity flaws that can be chained with other bugs for unauthenticated RCE. The post Two Newly Disclosed GeoServer Vulnerabilities Under Attack appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "It's a Bot World. We're Just Living in It",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/cyber-risk/bot-world-just-living",
+     "source": "Dark Reading",
+     "published": "2026-11-25T15:20:27+00:00",
+     "date_only": false,
+     "summary": "Bot detection has become a losing game. Security teams need to limit privileged access for humans and their machine counterparts equally.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "More Pentests Without More Pentesters: Where AI Safely Helps",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/more-pentests-without-more-pentesters-where-ai-safely-helps/",
+     "source": "BleepingComputer",
+     "published": "2026-11-25T15:00:10+00:00",
+     "date_only": false,
+     "summary": "Penetration testers spend a significant portion of their engagements on documentation, reporting, and other tasks outside of testing. PentestPad explains how AI can reduce this workload, help teams handle more engagements, and keep…",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "InfraTrust warns of exploited supply chain flaws in network appliances",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/",
+     "source": "BleepingComputer",
+     "published": "2026-11-25T15:00:00+00:00",
+     "date_only": false,
+     "summary": "Eclypsium's November InfraTrust report warns that most infrastructure security advisories addressing exploited vulnerabilities over the past month involve flaws in third-party software bundled into products rather than code developed by…",
+     "extra": "",
+     "tags": [
+      "Supply chain"
+     ],
+     "also": []
+    },
+    {
      "title": "Cyber Insurers See New Divide: AI Defense 'Haves' & 'Have Nots'",
      "subtitle": "",
      "link": "https://www.darkreading.com/cybersecurity-operations/cyber-insurers-see-new-ai-divide",
@@ -246,91 +336,63 @@
      "also": []
     },
     {
-     "title": "An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says",
+     "title": "ShinyHunters Claims Comeback, New Inception Group Rejects Alleged Ties",
      "subtitle": "",
-     "link": "https://www.securityweek.com/an-unclassified-cia-system-was-breached-in-a-cyberattack-ap-source-says/",
+     "link": "https://www.securityweek.com/shinyhunters-claims-comeback-new-inception-group-rejects-alleged-ties/",
      "source": "SecurityWeek",
-     "published": "2026-11-24T22:41:58+00:00",
+     "published": "2026-11-25T14:15:25+00:00",
      "date_only": false,
-     "summary": "It was not clear what specific information was compromised or who was responsible. The post An Unclassified CIA System Was Breached in a Cyberattack, AP Source Says appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [
-      "Breach"
-     ],
-     "also": []
-    },
-    {
-     "title": "Satellites Have a Ground-Level Cybersecurity Problem",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/cyber-risk/satellites-ground-level-cybersecurity-problem",
-     "source": "Dark Reading",
-     "published": "2026-11-24T22:05:34+00:00",
-     "date_only": false,
-     "summary": "Weaknesses in the ground-based infrastructure supporting satellite services are becoming more consequential as a new space race gathers pace.",
+     "summary": "An account tied to ShinyHunters announced the group’s return, as Okta spots possible links between Inception and ShinyHunters hackers. The post ShinyHunters Claims Comeback, New Inception Group Rejects Alleged Ties appeared first on…",
      "extra": "",
      "tags": [],
      "also": []
     },
     {
-     "title": "Webworm APT Slithers Into Networks With Customized SoftEther VPN",
+     "title": "Latin America Sees Cyberattacks on Ports, Pipelines & Manufacturing",
      "subtitle": "",
-     "link": "https://www.darkreading.com/perimeter/webworm-slithers-customized-softether-vpn",
+     "link": "https://www.darkreading.com/cyberattacks-data-breaches/latin-america-cyberattacks-ports-pipelines-manufacturing",
      "source": "Dark Reading",
-     "published": "2026-11-24T21:48:06+00:00",
+     "published": "2026-11-25T14:00:00+00:00",
      "date_only": false,
-     "summary": "The China-aligned espionage group rebuilt the open source VPN software from source, stripping out the artifacts that would normally expose it to defenders.",
-     "extra": "",
-     "tags": [
-      "Nation-state"
-     ],
-     "also": []
-    },
-    {
-     "title": "Rackspace shuts down Spot cloud platform after security breach",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/rackspace-shuts-down-spot-cloud-platform-after-security-breach/",
-     "source": "BleepingComputer",
-     "published": "2026-11-24T21:37:30+00:00",
-     "date_only": false,
-     "summary": "Rackspace is shutting down its Rackspace Spot cloud platform after a security breach allowed hackers to access customer Kubernetes clusters and secrets, giving customers until December 8 to migrate their services and download their data…",
-     "extra": "",
-     "tags": [
-      "Breach"
-     ],
-     "also": []
-    },
-    {
-     "title": "'God Mode' Flaws Could Wreak Border-Control Havoc",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/vulnerabilities-threats/god-mode-flaws-wreak-border-control-havoc",
-     "source": "Dark Reading",
-     "published": "2026-11-24T21:36:11+00:00",
-     "date_only": false,
-     "summary": "Attackers could have disrupted traveler entry into Nigeria, Ethiopia, Zambia, Sri Lanka, Fiji, and Ghana via several vulnerabilities in their online visa and immigration systems.",
+     "summary": "From the Port of Santos in Brazil to a pipeline in Argentina, cyberattacks are increasingly affecting industrial systems throughout the region.",
      "extra": "",
      "tags": [],
      "also": []
     },
     {
-     "title": "Colorado says cyberattack took down myColorado app, warns 150,000 had data stolen",
+     "title": "US Treasury’s FinCEN Disconnects Systems Following Cyber Incident",
      "subtitle": "",
-     "link": "https://therecord.media/mycolorado-app-down-data-breach",
+     "link": "https://www.securityweek.com/us-treasurys-fincen-disconnects-systems-following-cyber-incident/",
+     "source": "SecurityWeek",
+     "published": "2026-11-25T13:39:21+00:00",
+     "date_only": false,
+     "summary": "FinCEN has extended deadlines for filers affected by the disruptions while it is investigating the incident. The post US Treasury’s FinCEN Disconnects Systems Following Cyber Incident appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [],
+     "also": [
+      "The Record"
+     ]
+    },
+    {
+     "title": "Ground Truth: CISO Matt Martin on Building a Real Security Program Without an Enterprise Budget",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/ground-truth-ciso-matt-martin-on-building-a-real-security-program-without-an-enterprise-budget/",
+     "source": "SecurityWeek",
+     "published": "2026-11-25T13:30:00+00:00",
+     "date_only": false,
+     "summary": "Matthew Martin is Chief Information Security and Privacy Officer at Western Carolina University. The post Ground Truth: CISO Matt Martin on Building a Real Security Program Without an Enterprise Budget appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Suspected ransomware attack disrupts cancer treatments, surgeries at Guadeloupe hospital",
+     "subtitle": "",
+     "link": "https://therecord.media/guadeloupe-ransomware-hospital-cyber",
      "source": "The Record",
-     "published": "2026-11-24T20:52:00+00:00",
+     "published": "2026-11-25T13:30:00+00:00",
      "date_only": false,
-     "summary": "Cybercriminals likely stole data from 150,000 users of myColorado, which residents typically use for digital identification, document storage and accessing state government services.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "New Inception extortion gang launches large-scale vishing campaign",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/new-inception-extortion-gang-launches-large-scale-vishing-campaign/",
-     "source": "BleepingComputer",
-     "published": "2026-11-24T20:21:20+00:00",
-     "date_only": false,
-     "summary": "A newly formed data extortion group named 'Inception' has been linked to a large-scale campaign that targets single sign-on (SSO) credentials of multiple global brands and firms. [...]",
+     "summary": "France’s national cybersecurity agency is investigating a suspected ransomware attack that impaired the computer systems of the University Hospital of Guadeloupe, forcing doctors to postpone surgeries, suspend some cancer treatments and…",
      "extra": "",
      "tags": [
       "Ransomware"
@@ -338,191 +400,137 @@
      "also": []
     },
     {
-     "title": "California privacy agency director Kemp to leave after two-year tenure",
+     "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
      "subtitle": "",
-     "link": "https://therecord.media/california-privacy-agency-kemp",
-     "source": "The Record",
-     "published": "2026-11-24T19:30:00+00:00",
-     "date_only": false,
-     "summary": "The director of the trailblazing California Privacy Protection Agency announced his departure following implementation of a first-in-the-nation platform allowing consumers to easily opt out of data sharing.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Turnitin discloses cyberattack affecting customer-facing systems",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/turnitin-discloses-cyberattack-affecting-customer-facing-systems/",
-     "source": "BleepingComputer",
-     "published": "2026-11-24T18:59:52+00:00",
-     "date_only": false,
-     "summary": "Turnitin disclosed via a statement from its CEO, Chris Caren, that it recently detected unauthorized activity involving certain customer-facing systems. [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Radware discloses breach exposing customer cloud access keys",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/radware-discloses-breach-exposing-customer-cloud-access-keys/",
-     "source": "BleepingComputer",
-     "published": "2026-11-24T17:49:05+00:00",
-     "date_only": false,
-     "summary": "Cybersecurity company Radware says attackers gained access to some of its customers' account details and cloud access keys through an unsecured internal Cloud WAF (Web Application Firewall) management API that was left exposed online. [...]",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": [
-      "The Record from Recorded Future News"
-     ]
-    },
-    {
-     "title": "Lawmakers warn ID verification companies to bolster security after September hack",
-     "subtitle": "",
-     "link": "https://therecord.media/idscan-data-breach-warning-congressional-letter",
-     "source": "The Record",
-     "published": "2026-11-24T17:49:00+00:00",
-     "date_only": false,
-     "summary": "A bicameral, bipartisan letter from lawmakers said identity verification companies still have significant security work to do in the wake of a data breach at IDscan in September.",
-     "extra": "",
-     "tags": [
-      "Breach"
-     ],
-     "also": []
-    },
-    {
-     "title": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html",
+     "link": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html",
      "source": "The Hacker News",
-     "published": "2026-11-24T16:54:07+00:00",
+     "published": "2026-11-25T12:48:54+00:00",
      "date_only": false,
-     "summary": "A previously undocumented Iran-aligned cyber espionage group called Volant Manticore has targeted telecommunications companies, airlines, and critical infrastructure in Cyprus. Central to the group's operations is a backdoor called…",
-     "extra": "",
-     "tags": [
-      "Nation-state"
-     ],
-     "also": []
-    },
-    {
-     "title": "VMware Updates Patch Critical ESX, vCenter Vulnerabilities",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/vmware-updates-patch-critical-esx-vcenter-vulnerabilities/",
-     "source": "SecurityWeek",
-     "published": "2026-11-24T16:32:56+00:00",
-     "date_only": false,
-     "summary": "The critical bugs include an authentication bypass in vCenter and flaws that could allow code execution on ESX hosts. The post VMware Updates Patch Critical ESX, vCenter Vulnerabilities appeared first on SecurityWeek .",
+     "summary": "Threat actors are actively exploiting two newly patched security flaws in GeoServer, according to watchTowr. The vulnerabilities in question are CVE-2026-120705 and CVE-2026-129243, details of which are below - CVE-2026-120705 (CVSS score…",
      "extra": "",
      "tags": [],
      "also": []
     },
     {
-     "title": "ShinyHunters claims to return after FBI arrests, uses old PGP keys as proof",
+     "title": "U.S. Treasury's Financial Crimes Agency Takes Some Systems Offline After Cyber Intrusion",
      "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-resurfaces-after-fbi-arrests-uses-old-pgp-keys-as-proof/",
-     "source": "BleepingComputer",
-     "published": "2026-11-24T16:30:19+00:00",
+     "link": "https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html",
+     "source": "The Hacker News",
+     "published": "2026-11-25T12:30:08+00:00",
      "date_only": false,
-     "summary": "The ShinyHunters extortion gang claims to have returned in posts on a new data leak site after a series of arrests over the past two months targeting alleged members. [...]",
+     "summary": "The U.S. Treasury Department's Financial Crimes Enforcement Network (FinCEN) has been hit by a cybersecurity incident that resulted in \"unauthorized access to a limited subset of its systems,\" the bureau said on Tuesday. As a precaution…",
      "extra": "",
-     "tags": [
-      "Ransomware",
-      "Breach"
-     ],
+     "tags": [],
      "also": []
     },
     {
-     "title": "European Commission confirms data theft in EU Academy breach",
+     "title": "Credential Remediation Is Slow When You Don’t Know What Will Break",
      "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/european-commission-confirms-data-theft-in-eu-academy-breach/",
-     "source": "BleepingComputer",
-     "published": "2026-11-24T16:22:44+00:00",
+     "link": "https://thehackernews.com/2026/11/credential-remediation-is-slow-when-you.html",
+     "source": "The Hacker News",
+     "published": "2026-11-25T11:51:48+00:00",
      "date_only": false,
-     "summary": "The European Commission, the European Union's main executive body, has confirmed that attackers breached its EU Academy online learning hub and stole the personal data of an undisclosed number of users. [...]",
+     "summary": "TL;DR More than 64% still valid after four years: GitGuardian’s State of Secrets Sprawl 2026 found that most valid secrets discovered in 2022 still worked in January 2026, because teams stall on what a revoke will break. Validity-only…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Drupal Fail2Install Exploit Details Emerge as Critical RCE Flaw Faces Active Exploitation",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html",
+     "source": "The Hacker News",
+     "published": "2026-11-25T11:23:26+00:00",
+     "date_only": false,
+     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical flaw impacting Drupal to its Known Exploited Vulnerabilities (KEV) catalog, requiring federal agencies to apply the fixes by November 27, 2026…",
      "extra": "",
      "tags": [
-      "Breach",
-      "AI"
+      "Exploited"
      ],
      "also": [
-      "SecurityWeek"
+      "BleepingComputer"
      ]
     },
     {
-     "title": "Hackers compromise Check Point Servers in 22 organizations",
+     "title": "Microsoft fixes Microsoft 365 bug blocking access to Office apps",
      "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-check-point-servers-in-22-organizations/",
+     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/",
      "source": "BleepingComputer",
-     "published": "2026-11-24T16:15:23+00:00",
+     "published": "2026-11-25T11:16:32+00:00",
      "date_only": false,
-     "summary": "Threat actors have exploited multiple vulnerabilities to compromise two dozen Check Point Security management servers in an ongoing campaign targeting 22 organizations. [...]",
+     "summary": "Earlier this week, Microsoft resolved a known issue that was preventing some Microsoft 365 customers from accessing Office applications. [...]",
      "extra": "",
      "tags": [],
      "also": []
     },
     {
-     "title": "Carnegie Endowment for International Peace says third-party breach leaked donation info",
+     "title": "Ex-OpenAI Employee Accused of Bugging Company Offices Granted $1 Million Bail",
      "subtitle": "",
-     "link": "https://therecord.media/carnegie-endowment-data-breach",
-     "source": "The Record",
-     "published": "2026-11-24T16:00:00+00:00",
+     "link": "https://thehackernews.com/2026/11/ex-openai-employee-accused-of-bugging.html",
+     "source": "The Hacker News",
+     "published": "2026-11-25T10:43:07+00:00",
      "date_only": false,
-     "summary": "Some donors to the Carnegie Endowment for International Peace had their information leaked due to a cyberattack on a third-party vendor named Soapbox Engage.",
-     "extra": "",
-     "tags": [
-      "Breach"
-     ],
-     "also": []
-    },
-    {
-     "title": "Police disrupt 57 illegal streaming services with 7.3 million visits",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/police-disrupt-57-illegal-streaming-services-with-73-million-visits/",
-     "source": "BleepingComputer",
-     "published": "2026-11-24T15:10:10+00:00",
-     "date_only": false,
-     "summary": "Law enforcement authorities from 11 countries have disrupted 57 illegal streaming services that operated hundreds of websites and drew over 7.3 million visits each year. [...]",
+     "summary": "A former OpenAI employee accused of concealing a covert recording device at the company's San Francisco offices will be allowed to be released from jail on a $1 million bond, a San Francisco federal court judge ruled Tuesday. Abdulrahman…",
      "extra": "",
      "tags": [],
      "also": []
     },
     {
-     "title": "From Vulnerability Noise to Resilience: Rethinking Security in the AI Era",
+     "title": "Plagiarism Checker Turnitin Investigating Cyberattack",
      "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/from-vulnerability-noise-to-resilience-rethinking-security-in-the-ai-era/",
-     "source": "BleepingComputer",
-     "published": "2026-11-24T15:01:11+00:00",
-     "date_only": false,
-     "summary": "AI-driven development is adding complexity to software supply chains, leaving security teams overwhelmed by vulnerabilities that may pose little actual risk. RapidFort explains how runtime visibility, container hardening, and automated…",
-     "extra": "",
-     "tags": [
-      "Supply chain",
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "CISA warns of exploited N-able bug as company restores email platform",
-     "subtitle": "",
-     "link": "https://therecord.media/cisa-nable-cybersecurity-bug",
-     "source": "The Record",
-     "published": "2026-11-24T15:00:00+00:00",
-     "date_only": false,
-     "summary": "The U.S. cyber agency is giving government departments until Thanksgiving to patch a vulnerability impacting a critical email security platform that blocks spam, malware and other threats.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Check Point Security Management Servers Hacked in AI-Assisted Campaign",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/check-point-security-management-servers-hacked-in-ai-assisted-campaign/",
+     "link": "https://www.securityweek.com/plagiarism-checker-turnitin-investigating-cyberattack/",
      "source": "SecurityWeek",
-     "published": "2026-11-24T14:21:56+00:00",
+     "published": "2026-11-25T10:40:07+00:00",
      "date_only": false,
-     "summary": "The attacks were launched from 99 IP addresses and targeted organizations across multiple industries and countries. The post Check Point Security Management Servers Hacked in AI-Assisted Campaign appeared first on SecurityWeek .",
+     "summary": "The edtech company says the systems are fully operational and safe to use while it investigates the incident. The post Plagiarism Checker Turnitin Investigating Cyberattack appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Hackers Exploited CVSS 10.0 Hex.pm RCE Flaw to Compromise 6 Package Registry Servers",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/hackers-exploited-cvss-100-hexpm-rce.html",
+     "source": "The Hacker News",
+     "published": "2026-11-25T09:06:59+00:00",
+     "date_only": false,
+     "summary": "An attacker ran operating system commands on Monday on six production servers of Hex.pm, the package registry that Elixir and Erlang developers fetch their dependencies from. The flaw used in the attack had been in the registry's code…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Hackers Exploit Unpatched Flaw in Defunct Idunno AntiCsrf Library",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/hackers-exploit-unpatched-flaw-in-defunct-idunno-anticsrf-library/",
+     "source": "SecurityWeek",
+     "published": "2026-11-25T09:05:13+00:00",
+     "date_only": false,
+     "summary": "Attackers can exploit CVE-2026-131914 to achieve remote code execution via a single web request containing specially crafted data. The post Hackers Exploit Unpatched Flaw in Defunct Idunno AntiCsrf Library appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Microsoft confirms authentication issues after November updates",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/",
+     "source": "BleepingComputer",
+     "published": "2026-11-25T09:02:57+00:00",
+     "date_only": false,
+     "summary": "Microsoft has confirmed that customers may experience authentication issues after installing November security updates that address a high-severity remote code execution vulnerability. [...]",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Palo Alto Networks Patches Fragnesia Flaw Used to Root Firewalls",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/palo-alto-networks-patches-fragnesia-flaw-used-to-root-firewalls/",
+     "source": "SecurityWeek",
+     "published": "2026-11-25T08:12:24+00:00",
+     "date_only": false,
+     "summary": "A China-linked hacking group chained PHP2Shell with Fragnesia in AI-assisted attacks that hit 25 servers. The post Palo Alto Networks Patches Fragnesia Flaw Used to Root Firewalls appeared first on SecurityWeek .",
      "extra": "",
      "tags": [
       "AI"
@@ -530,52 +538,15 @@
      "also": []
     },
     {
-     "title": "McDonald's Japan data breach exposes customer location information",
+     "title": "Drupal Flaw Found by Anthropic Scanner Exploited in Attacks",
      "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/mcdonalds-japan-data-breach-exposes-customer-location-information/",
-     "source": "BleepingComputer",
-     "published": "2026-11-24T14:09:37+00:00",
-     "date_only": false,
-     "summary": "McDonald's Japan, the fast-food giant's Japanese subsidiary, has disclosed a data breach after attackers accessed a database containing sensitive information for users of the company's official smartphone app. [...]",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": [
-      "CyberSecurityNews",
-      "SQ Magazine",
-      "Mezha.net"
-     ]
-    },
-    {
-     "title": "New Shirudo tool uses AI to shield unpatched Linux systems from exploits",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/new-shirudo-tool-uses-ai-to-shield-unpatched-linux-systems-from-exploits/",
-     "source": "BleepingComputer",
-     "published": "2026-11-24T13:34:23+00:00",
-     "date_only": false,
-     "summary": "OpenAI and Cisco launched an open-source Linux security tool named Shirudo that deploys temporary runtime protections to block vulnerability exploitation while administrators prepare and roll out patches, without restarting services. [...]",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": [
-      "SecurityWeek"
-     ]
-    },
-    {
-     "title": "Anthropic Expands Enterprise Safeguards for Detecting AI Misuse",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/anthropic-expands-enterprise-safeguards-for-detecting-ai-misuse/",
+     "link": "https://www.securityweek.com/drupal-flaw-found-by-anthropic-scanner-exploited-in-attacks/",
      "source": "SecurityWeek",
-     "published": "2026-11-24T13:30:23+00:00",
+     "published": "2026-11-25T08:01:06+00:00",
      "date_only": false,
-     "summary": "EFS helps zero-retention customers spot Claude misuse spread across many requests while keeping conversation data in their own cloud. The post Anthropic Expands Enterprise Safeguards for Detecting AI Misuse appeared first on SecurityWeek .",
+     "summary": "CISA has added the vulnerability to its KEV catalog and instructed federal agencies to patch it within three days. The post Drupal Flaw Found by Anthropic Scanner Exploited in Attacks appeared first on SecurityWeek .",
      "extra": "",
-     "tags": [
-      "AI"
-     ],
+     "tags": [],
      "also": []
     }
    ]
@@ -583,6 +554,56 @@
   {
    "name": "APAC Watch",
    "stories": [
+    {
+     "title": "McDonald’s Japan hit by data breach — customer purchase and location data leaked in latest major incident in the country",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVnNJOEdIaTE4TENFZm1vU2JqTnVuNkE0dUk4d1NhU1dQSnYxVWtKb2JzSHJfSHpyd3lnUmt2NTZuWVE2V3UzcEhuem91bWxTYVZJUkI1RFdpSURtMjRmbXJtSHo4bEItOFUzQ3RlXzZ2Y0xmdmxJdW42SkdQNDZ6Zk9ncS1Zem1rMTViODlOcW5LZ3g0dUozQkJtdnF5WGpheVhnM0hnaXA3eTg0S0ZsRUlyRG5jWGROLVNHbjNXd1JHYkJ2cWFKdGI2VktKSDFsUlhXTGduM2dNekRzRXF6YjVEZkUzVkVFeHpzdQ?oc=5",
+     "source": "TechRadar",
+     "published": "2026-11-25T11:42:24+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": [
+      "shattered.io",
+      "Latest news from Azerbaijan",
+      "GBHackers News",
+      "Cyber Press"
+     ]
+    },
+    {
+     "title": "Japan’s Keio Corporation Fears Data Breach of 11 Million Records Including Passports and Credit Card Numbers",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxQekpRZktMVVVYVmpYd1lwbUJ3LW5sTW5uUUZfV2lWcUZjWmdkVWIxRmFscFRLNHBOYzRhUU10UmNhZUxyTW9hQk5UMHRkWjR2ZTJqc3kzOXpseDVzc29MZWhZVmxySnM2cU1ZazAwa29oUThSRnBycTZTY1ZVekFxck9kNHlIX2dhTWhFZ1RQRV9ZUnJzOG1NSDMtY0dHeXVCNmtXMUtQc3ZGcDBQZmhaSUpuU3VRVVlJWEYzMjR4MVl6RkRKOEJmYTA1ZUJHWkRnd19ELUx4bFlOWDhHZWJVR1RNeFNieExtX20zUVdjMzZ6RWdHYUx0LTVBR3JjVTFwQXl2aHB1aHdobm1Vb0FKWUtZbjdyTFFEeTBMaWF1RmtBREJBb0xheWJ2Vi1VeUw0U1lKWC01TVRhb3ladHdINnNoY2Q3d29FcEM0VUdZd294MUgzRmxaeWVQTm42WW11WjRMLWxfWjhFc08xVlRDczFB?oc=5",
+     "source": "联合日报",
+     "published": "2026-11-25T08:12:17+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "South Korea's Financial Authorities Hold First Joint Drill Simulating Combined AI Cyberattack and Bank Run Crisis",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwQnlfakdHWEFqanV0cHBjdnFURUcwUVA1bnNGbXNXNldTcGh5QzVtd0o1Zk5oT0tjVDZLbW4wckVjWHZTdmdicDc4Qm5WT3ZGNTBpc0tPcXkwTGgxRWotSkMwNUYzQ1pCRVV3N0tNX1NYV0JpY3c?oc=5",
+     "source": "BigGo Finance",
+     "published": "2026-11-25T06:25:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "AI",
+      "APAC"
+     ],
+     "also": []
+    },
     {
      "title": "Dementia Singapore Data Breach Highlights Third Party Vendor Cybersecurity Risks",
      "subtitle": "",
@@ -597,133 +618,53 @@
       "APAC"
      ],
      "also": []
-    },
-    {
-     "title": "Indonesian Government Data Breach Claim Lists 49,000 Civil Servant Records",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUlIzTU4tYmlXNkVGd0s1a05sRDNHVC0wMHRUY1hCcklnTjBCWUh3U1p4U3RKWkE4Tmgxb0tfUWxIQXI3LVZ1c0pQT04xdXBYWjFReFJvOTRXeHgydjRrckdtV0gyRHd6RzdHRTU4akJ4dXRLcmdOS055RE1GTExwcl8wZEZtdVgxRjVBZ0p3VDNQb05aMG1qc2d2YzlHZjA?oc=5",
-     "source": "Homeland411",
-     "published": "2026-11-25T02:28:05+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach"
-     ],
-     "also": []
-    },
-    {
-     "title": "Osaki Electric ransomware attack disrupts smart meter production, raising supplier continuity concerns across Asia-Pacific",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQQWRWMldwZ2ZPLTJuQjFxOTVRUjYxY2MyLU1nX3JDXzRFMkE1MHJ6NWU1T3BwWU85MDc5b0tGc2c3eDRnb3o4QWNqb1lZS2M3MDdHREdWQmJmMjZJbTVjanpZb1pDX3QxX18tVV9lZFprc3A4dFl5TlZseHd4b0kwN1RLdTB1eGVjZlFrbTlMdGRCQThJcmd0QnR3ZXRkTTlKakdPYVRoQkEwd3pidUpTN2F1U1NjMFhUd21JUG5MTDJ6R0JIa3RkaDFvaGl2clpBWlBVV2U3Wk1oRjNWX1RIMkRMTWh5enVSR193QkhGdTZ3X1k2a1Y1OQ?oc=5",
-     "source": "Industrial Cyber",
-     "published": "2026-11-24T15:11:16+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Ransomware",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Korea Electric Power Corporation reports data breach affecting 1.5 million individuals",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPa1B5bDE1X21FQVhEcWhaR19NMXAxdlBzazExclVtTVF1cjBvYzdCUHRhTEhWVWNCWk9iUTdpUmZGSDZUZjRWSTFGYXNjMjhUOUtQOUJ0dXlTOFF3NXhqdVc3RmpoWlNFYlN0WVVUcjFvNWRKOWEyemZuV043QUVLdkl2SHBCaU1mUEpOdEJpNzh6bnJkV2VpakhpSEVJQl9LUVJNVU52TmRJcDIyMk9Sc3E2aWpVd0E?oc=5",
-     "source": "SC Media",
-     "published": "2026-11-24T14:55:42+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": [
-      "BigGo Finance"
-     ]
-    },
-    {
-     "title": "South Korea: PIPC launches investigation into KEPCO following data breach",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNYy1ZenJJei1ua1JzRFFpelhvU1pScUI0TFlvd1J1VFU3NHpyd0RpVXZfOUNpYUdteUlrQTJGdEdBU3d1RXl0Z21VZ1RzZGRfWm81YzA3R29rNmZ4YjgyRDFJNWhQRHBxSFNzWm9Fb0VDbVdlWFBLLVE0eldzSl9SMmctVkxHUQ?oc=5",
-     "source": "DataGuidance",
-     "published": "2026-11-24T11:46:22+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Legacy Windows vulnerabilities account for 73% of cyber threats detected in India: K7 report",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNOXdvSkFBaDdjRHphZVFmeS11dm9iV3htV2NhQ0gzS2wyVm5FeUZZNVU2OHNQUEx2dGZUVnNXaGtrTmFfM1IzVEFWWC1KX2FZb3E5MHNicDBOd2ZyNkpqSFYtXzRxanUwVi1VaDhFWlllV1RlYV9pX1dqQjFsVWh0dnRiZ09udmJZTkRDeFZsdzM3YVAxTUR2aWhXWXRyQ3VPR2xTNVZ2bEpWald6SGkwNTFmdXlrVDJ2bWo2eWgwd0JLX3pSU3YwSHJLODdsLS1oQURlRnFoYzU4REw1aHhXcElpZWNUR3ZiRThxRXEzSENCaGloX1Rn0gH8AUFVX3lxTE50SXNuY1gzOTdPa2pGSmtJRFdwZ25ESWhfQkk3QmRmeG85cjFYeVJ1OU81Ty1UVVNfUV9MNjU2N3RoM1RrcG1QaXliU3h4b00yN19NaHZEaW1fY0NHMXBvcXRhTlJoRG95Wk1zejQyd0szNzV2TXVaMF9HbmEwSENodTVuQnliSVlQdFRoN1VlZUpuTzVOcjVYanUzZk9GQXBNZnlUTlRTOGdVc0ZjMDBvTE9mN084LWVBTHBZXzUzamFkUHhpNmhzajFVY19vZ1p3NTJHdDVtZDQ1d3FsVjZvVDk5aDQ4Tk9JRFh2MmVvcVdfc1NSMEdpTENJNw?oc=5",
-     "source": "ET Enterprise AI",
-     "published": "2026-11-24T11:24:11+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Tower Records Japan Breach Exposes 10.2M Login Records",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ3BVX3dBQ21heWdGTDgtZ1FQTVd3LW9sX3RnckVKemJGd1V6TDRtcGhudHdibEJCbkZ6NnV0a3E2MmthbXVzNUhoSS1idmFEdC1TNEtfUktTVzlqZFdoOUhZRUpwZmVPN1BvcXE2QkRRT1F1cTIzQmRYZ00yZHY2dHM3V09TZi1FVGNJeEIwSFV5QUFHaUV3Tw?oc=5",
-     "source": "eSecurity Planet",
-     "published": "2026-11-24T11:05:14+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Tower Records Hit By Japan’s Latest Data Breach",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5CTTNQRTdqRlNTZEVUXzYzVU9vb1lCeXA2OGJpUk1ER3Mtb013OHN3ZHAxWVU5MmJtdjZmSzltT3dqV0xlWkFfM1BQMjcyLTNIMlp2WXhFa25PTTBxVzlTOGx4aEFXM2lYZnEyMGFQLXJ5aEE1WE5YZHp3dDVZZw?oc=5",
-     "source": "Silicon UK",
-     "published": "2026-11-24T11:00:38+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Fortinet: Ransomware Groups Targeting South Korea Double in a Year as AI Accelerates Attacks",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE53QWZmbE5ta0tyVEcxcjNtU0d5TkoyZ0I2N3d0c29nREdtbzVJS2JpZGp2YzN3VFpIUGt3aThPbE1UTWZYVVNweGp0cnRSWDBRTjRpXzlKS3NSSmduOVl3YXFDZkNHZ3ktVS1Kd2tYWFBLRE5nLWc?oc=5",
-     "source": "BigGo Finance",
-     "published": "2026-11-24T09:05:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Ransomware",
-      "AI",
-      "APAC"
-     ],
-     "also": []
     }
    ]
   },
   {
    "name": "Threat Research",
    "stories": [
+    {
+     "title": "The AI Threat Horizon: Why Speed, Edge AI and Baselines Are Our Best Defense",
+     "subtitle": "",
+     "link": "https://unit42.paloaltonetworks.com/ai-threat-horizon/",
+     "source": "Unit 42",
+     "published": "2026-11-25T15:00:09+00:00",
+     "date_only": false,
+     "summary": "Unit 42 examines the evolution of AI-driven cyberattacks and outlines proactive defense strategies for security teams. The post The AI Threat Horizon: Why Speed, Edge AI and Baselines Are Our Best Defense appeared first on Unit 42 .",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "The Great Escape: Tradecraft insights from an agentic swarm",
+     "subtitle": "",
+     "link": "https://blog.talosintelligence.com/the-great-escape-tradecraft-insights-from-an-agentic-swarm/",
+     "source": "Cisco Talos",
+     "published": "2026-11-25T11:00:00+00:00",
+     "date_only": false,
+     "summary": "The OpenAI-linked swarm activity in 2026 is fully traceable through public records. This blog analyzes its tradecraft and compares it to early signals and behaviors from current agentic attack activity seen in the wild.",
+     "extra": "",
+     "tags": [
+      "Exploited",
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "Securing Grandma's groceries with Pierre Cadieux",
+     "subtitle": "",
+     "link": "https://blog.talosintelligence.com/securing-grandmas-groceries-with-pierre-cadieux/",
+     "source": "Cisco Talos",
+     "published": "2026-11-25T11:00:00+00:00",
+     "date_only": false,
+     "summary": "Pierre takes us back to his early days on help desks in the 90s, where learning to correlate logs between Windows and Unix systems sparked the curiosity that eventually led him to security.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
     {
      "title": "NGINX HTTP/2 Use-After-Free: CVE-2026-123633",
      "subtitle": "",
@@ -838,44 +779,6 @@
      "published": "2026-11-19T08:00:00+00:00",
      "date_only": false,
      "summary": "End-of-life smart devices can be a security risk if left unmanaged – here’s what to do instead",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "The challenge of defending against bulletproof dead drops on public blockchains",
-     "subtitle": "",
-     "link": "https://blog.talosintelligence.com/the-challenge-of-defending-against-bulletproof-dead-drops-on-public-blockchains/",
-     "source": "Cisco Talos",
-     "published": "2026-11-18T11:00:00+00:00",
-     "date_only": false,
-     "summary": "The evolution of malware command-and-control (C2) infrastructure has shifted away from fragile, centralized servers and hardcoded domains toward resilient, decentralized blockchain networks that eliminate single points of failure.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "UAT-12643: Suspected North Korea-aligned actor blends blockchain resilience with targeted infostealing",
-     "subtitle": "",
-     "link": "https://blog.talosintelligence.com/uat-12643-suspected-north-korea-aligned-actor-blends-blockchain-resilience-with-targeted-infostealing/",
-     "source": "Cisco Talos",
-     "published": "2026-11-18T11:00:00+00:00",
-     "date_only": false,
-     "summary": "Cisco Talos discovered malicious infrastructure associated with a financially motivated threat group we are tracking as UAT-12643.",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Who was that trying to phone me just now? How one-ring phone scams work",
-     "subtitle": "",
-     "link": "https://www.welivesecurity.com/en/scams/who-was-trying-phone-how-one-ring-phone-scams-work/",
-     "source": "ESET Research",
-     "published": "2026-11-18T10:00:00+00:00",
-     "date_only": false,
-     "summary": "Sometimes it only takes one ring to get your attention – here’s how to keep “wangiri” scammers at bay",
      "extra": "",
      "tags": [],
      "also": []
