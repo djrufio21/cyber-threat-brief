@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T11:05:51+00:00",
+ "generated": "2026-11-26T20:17:08+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -333,6 +333,161 @@
    "name": "Breaking Threats",
    "stories": [
     {
+     "title": "ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html",
+     "source": "The Hacker News",
+     "published": "2026-11-26T19:39:57+00:00",
+     "date_only": false,
+     "summary": "A website can look perfectly fine to the person running it. Log out, visit the same page, and things might look different. Something similar is happening with browser extensions, where even the way you find and install one can change what…",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "NordVPN Black Friday Deal: Get 78% off VPN plans in 2026",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/nordvpn-black-friday-deal-get-78-percent-off-vpn-plans-in-2026/",
+     "source": "BleepingComputer",
+     "published": "2026-11-26T17:58:42+00:00",
+     "date_only": false,
+     "summary": "NordVPN's 2026 Black Friday and Cyber Monday deal is now live, offering savings of up to 78% on VPN subscriptions, plus three extra months of protection. [...]",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Fake paid expert interviews impersonate brands to steal Google logins",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/apple/fake-paid-expert-interviews-impersonate-brands-to-steal-google-logins/",
+     "source": "BleepingComputer",
+     "published": "2026-11-26T17:15:27+00:00",
+     "date_only": false,
+     "summary": "An ongoing phishing campaign dubbed \"GoodGuys\" impersonates major brands, including Google, Nvidia, Accenture, and SpaceX, to steal corporate Google and Okta credentials using fake invitations to paid expert interviews and webinars. [...]",
+     "extra": "",
+     "tags": [
+      "Phishing"
+     ],
+     "also": []
+    },
+    {
+     "title": "FIFA Says It Has Been Victim of a Cyberattack Accessing ‘Personal and Business Information’",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/fifa-says-it-has-been-victim-of-a-cyberattack-accessing-personal-and-business-information/",
+     "source": "SecurityWeek",
+     "published": "2026-11-26T17:06:55+00:00",
+     "date_only": false,
+     "summary": "FIFA didn’t say when the cyberattack took place, or the precise nature of the hacked information. The post FIFA Says It Has Been Victim of a Cyberattack Accessing ‘Personal and Business Information’ appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": [
+      "The Record"
+     ]
+    },
+    {
+     "title": "Remus malware steals Gmail messages via fake Google Sheets extension",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/remus-malware-steals-gmail-messages-via-fake-google-sheets-extension/",
+     "source": "BleepingComputer",
+     "published": "2026-11-26T15:23:28+00:00",
+     "date_only": false,
+     "summary": "The Remus infostealer is stealing Gmail messages through a stealthy malicious Chrome extension, a capability the malware operators marketed as a zero-day exploit in Google's email service. [...]",
+     "extra": "",
+     "tags": [
+      "Zero-day"
+     ],
+     "also": []
+    },
+    {
+     "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
+     "source": "The Hacker News",
+     "published": "2026-11-26T15:13:41+00:00",
+     "date_only": false,
+     "summary": "The threat actors behind the PolinRider campaign have been observed planting a Python loader in GitHub repositories, as evidence emerges that the activity may have started as far back as February 2025. \"The loader hides in a small utils…",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Critical Juniper Session Smart Conductor Flaw Exploited in Attacks",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/critical-juniper-session-smart-conductor-flaw-exploited-in-attacks/",
+     "source": "SecurityWeek",
+     "published": "2026-11-26T13:04:06+00:00",
+     "date_only": false,
+     "summary": "Tracked as CVE-2026-103406, the vulnerability allows remote attackers to execute arbitrary commands as root. The post Critical Juniper Session Smart Conductor Flaw Exploited in Attacks appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "SYS010 malware abuses browser management to spy on Gmail, Outlook",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/sys010-malware-abuses-browser-management-to-spy-on-gmail-outlook/",
+     "source": "BleepingComputer",
+     "published": "2026-11-26T11:50:17+00:00",
+     "date_only": false,
+     "summary": "A new version of the SYS01 infostealer malware delivered through Meta ads is enrolling browsers into enterprise-style management to force the installation of an extension that steals sensitive data, including Gmail and Outlook emails. [...]",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Mitel MiCollab Zero-Days Exploited in Suspected AI-Assisted Attacks",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/mitel-micollab-zero-days-exploited-in-suspected-ai-assisted-attacks/",
+     "source": "SecurityWeek",
+     "published": "2026-11-26T11:35:25+00:00",
+     "date_only": false,
+     "summary": "Accenture says hackers exploited MiCollab flaws before Mitel’s advisory, likely aided by AI, in a suspected extortion campaign. The post Mitel MiCollab Zero-Days Exploited in Suspected AI-Assisted Attacks appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [
+      "Zero-day",
+      "Ransomware",
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html",
+     "source": "The Hacker News",
+     "published": "2026-11-26T10:57:55+00:00",
+     "date_only": false,
+     "summary": "Every phishing attack has to get past email security, web filtering, and safe browsing before it reaches an employee. Some kits manage that far more often than others, and those are the kits that security teams need to know about. At Push…",
+     "extra": "",
+     "tags": [
+      "Phishing"
+     ],
+     "also": []
+    },
+    {
+     "title": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
+     "source": "The Hacker News",
+     "published": "2026-11-26T10:57:25+00:00",
+     "date_only": false,
+     "summary": "Popular password management software 1Password on Wednesday disclosed a security incident involving its backend systems that led to the unauthorized access of some customer information, but emphasized that customer password vaults and…",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": [
+      "SecurityWeek",
+      "BleepingComputer"
+     ]
+    },
+    {
      "title": "Drupal Installer Patch Left a Gap Attackers Are Already Exploiting",
      "subtitle": "",
      "link": "https://www.securityweek.com/drupal-installer-patch-left-a-gap-attackers-are-already-exploiting/",
@@ -343,23 +498,6 @@
      "extra": "",
      "tags": [],
      "also": []
-    },
-    {
-     "title": "1Password Breach Exposes Customer Data, Internal Source Code",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/1password-breach-exposes-customer-data-internal-source-code/",
-     "source": "SecurityWeek",
-     "published": "2026-11-26T08:32:10+00:00",
-     "date_only": false,
-     "summary": "A hacker used a compromised employee GitHub account to push malicious code and steal customer records, but vaults were not accessed. The post 1Password Breach Exposes Customer Data, Internal Source Code appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [
-      "Breach"
-     ],
-     "also": [
-      "The Hacker News",
-      "BleepingComputer"
-     ]
     },
     {
      "title": "Cyprus Becomes Espionage Target for Iranian Hackers",
@@ -414,6 +552,18 @@
      "also": []
     },
     {
+     "title": "UK’s long-awaited National Cyber Action Plan delayed until December",
+     "subtitle": "",
+     "link": "https://therecord.media/britain-delays-national-cyber-action-plan-again",
+     "source": "The Record",
+     "published": "2026-11-26T00:00:00+00:00",
+     "date_only": false,
+     "summary": "Officials, who had planned to publish the document in mid-November, now aim to unveil the strategy for defending the wider economy against state-backed and criminal hackers on December 9.",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
      "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
      "subtitle": "",
      "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
@@ -442,226 +592,6 @@
       "APAC"
      ],
      "also": []
-    },
-    {
-     "title": "FIFA says hackers accessed ‘limited set of personal and business information’",
-     "subtitle": "",
-     "link": "https://therecord.media/fifa-data-breach-limited",
-     "source": "The Record",
-     "published": "2026-11-25T20:40:00+00:00",
-     "date_only": false,
-     "summary": "The Switzerland-based international governing body for soccer says it's working with relevant authorities and law enforcement to investigate a recent breach.",
-     "extra": "",
-     "tags": [
-      "Breach"
-     ],
-     "also": []
-    },
-    {
-     "title": "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
-     "source": "BleepingComputer",
-     "published": "2026-11-25T19:39:31+00:00",
-     "date_only": false,
-     "summary": "Swiss and Italian cybersecurity agencies are warning about automated cyberattacks powered by AI agents targeting organizations in the critical infrastructure sector. [...]",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Florida ransomware recovery CEO indicted for allegedly paying hacker ransoms",
-     "subtitle": "",
-     "link": "https://therecord.media/ransomware-doj-indictment-recovery",
-     "source": "The Record",
-     "published": "2026-11-25T17:30:00+00:00",
-     "date_only": false,
-     "summary": "The CEO of a ransomware recovery firm was indicted by a federal grand jury over allegations he lied about his services and paid out ransoms to cybercriminals.",
-     "extra": "",
-     "tags": [
-      "Ransomware"
-     ],
-     "also": []
-    },
-    {
-     "title": "Australia passes tough legislation requiring big tech to preempt foreseeable harms",
-     "subtitle": "",
-     "link": "https://therecord.media/australia-passes-online-safety-legislation-preempt-harms",
-     "source": "The Record",
-     "published": "2026-11-25T17:07:00+00:00",
-     "date_only": false,
-     "summary": "The Digital Duty of Care Act sailed through Australia's Parliament. It will mandate that online providers establish protocols to protect users from threats of violence and rape as well as behavior that could cause significant harms.",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "CISA warns of critical unpatched flaw in Danfoss refrigeration controllers",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-critical-unpatched-flaw-in-danfoss-refrigeration-controllers/",
-     "source": "BleepingComputer",
-     "published": "2026-11-25T16:13:40+00:00",
-     "date_only": false,
-     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning about a critical vulnerability in Danfoss AK-SM 8xxA Series controllers used by food retailers to manage commercial refrigeration, HVAC, and lighting systems. [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Attackers Target .NET Developers With Poisoned Job Assessments",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/threat-intelligence/attackers-net-developers-poisoned-job-assessments",
-     "source": "Dark Reading",
-     "published": "2026-11-25T15:48:04+00:00",
-     "date_only": false,
-     "summary": "Researchers discovered 13 malicious NuGet packages as part of a fake recruitment campaign that spreads malware and gives attackers access to developers' machines.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Two Newly Disclosed GeoServer Vulnerabilities Under Attack",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/two-newly-disclosed-geoserver-vulnerabilities-under-attack/",
-     "source": "SecurityWeek",
-     "published": "2026-11-25T15:27:36+00:00",
-     "date_only": false,
-     "summary": "Attackers are probing GeoServer instances for two high-severity flaws that can be chained with other bugs for unauthenticated RCE. The post Two Newly Disclosed GeoServer Vulnerabilities Under Attack appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "It's a Bot World. We're Just Living in It",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/cyber-risk/bot-world-just-living",
-     "source": "Dark Reading",
-     "published": "2026-11-25T15:20:27+00:00",
-     "date_only": false,
-     "summary": "Bot detection has become a losing game. Security teams need to limit privileged access for humans and their machine counterparts equally.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "More Pentests Without More Pentesters: Where AI Safely Helps",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/more-pentests-without-more-pentesters-where-ai-safely-helps/",
-     "source": "BleepingComputer",
-     "published": "2026-11-25T15:00:10+00:00",
-     "date_only": false,
-     "summary": "Penetration testers spend a significant portion of their engagements on documentation, reporting, and other tasks outside of testing. PentestPad explains how AI can reduce this workload, help teams handle more engagements, and keep…",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "InfraTrust warns of exploited supply chain flaws in network appliances",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/infratrust-warns-of-exploited-supply-chain-flaws-in-network-appliances/",
-     "source": "BleepingComputer",
-     "published": "2026-11-25T15:00:00+00:00",
-     "date_only": false,
-     "summary": "Eclypsium's November InfraTrust report warns that most infrastructure security advisories addressing exploited vulnerabilities over the past month involve flaws in third-party software bundled into products rather than code developed by…",
-     "extra": "",
-     "tags": [
-      "Supply chain"
-     ],
-     "also": []
-    },
-    {
-     "title": "Cyber Insurers See New Divide: AI Defense 'Haves' & 'Have Nots'",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/cybersecurity-operations/cyber-insurers-see-new-ai-divide",
-     "source": "Dark Reading",
-     "published": "2026-11-25T15:00:00+00:00",
-     "date_only": false,
-     "summary": "Dark Reading Confidential Episode 23: Cyber insurers share their view of the AI-driven threat landscape and how mounting challenges are putting pressure on both sides of the policy, leaving the current model unsustainable.",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "ShinyHunters Claims Comeback, New Inception Group Rejects Alleged Ties",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/shinyhunters-claims-comeback-new-inception-group-rejects-alleged-ties/",
-     "source": "SecurityWeek",
-     "published": "2026-11-25T14:15:25+00:00",
-     "date_only": false,
-     "summary": "An account tied to ShinyHunters announced the group’s return, as Okta spots possible links between Inception and ShinyHunters hackers. The post ShinyHunters Claims Comeback, New Inception Group Rejects Alleged Ties appeared first on…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Latin America Sees Cyberattacks on Ports, Pipelines & Manufacturing",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/cyberattacks-data-breaches/latin-america-cyberattacks-ports-pipelines-manufacturing",
-     "source": "Dark Reading",
-     "published": "2026-11-25T14:00:00+00:00",
-     "date_only": false,
-     "summary": "From the Port of Santos in Brazil to a pipeline in Argentina, cyberattacks are increasingly affecting industrial systems throughout the region.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "US Treasury’s FinCEN Disconnects Systems Following Cyber Incident",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/us-treasurys-fincen-disconnects-systems-following-cyber-incident/",
-     "source": "SecurityWeek",
-     "published": "2026-11-25T13:39:21+00:00",
-     "date_only": false,
-     "summary": "FinCEN has extended deadlines for filers affected by the disruptions while it is investigating the incident. The post US Treasury’s FinCEN Disconnects Systems Following Cyber Incident appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Ground Truth: CISO Matt Martin on Building a Real Security Program Without an Enterprise Budget",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/ground-truth-ciso-matt-martin-on-building-a-real-security-program-without-an-enterprise-budget/",
-     "source": "SecurityWeek",
-     "published": "2026-11-25T13:30:00+00:00",
-     "date_only": false,
-     "summary": "Matthew Martin is Chief Information Security and Privacy Officer at Western Carolina University. The post Ground Truth: CISO Matt Martin on Building a Real Security Program Without an Enterprise Budget appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Suspected ransomware attack disrupts cancer treatments, surgeries at Guadeloupe hospital",
-     "subtitle": "",
-     "link": "https://therecord.media/guadeloupe-ransomware-hospital-cyber",
-     "source": "The Record",
-     "published": "2026-11-25T13:30:00+00:00",
-     "date_only": false,
-     "summary": "France’s national cybersecurity agency is investigating a suspected ransomware attack that impaired the computer systems of the University Hospital of Guadeloupe, forcing doctors to postpone surgeries, suspend some cancer treatments and…",
-     "extra": "",
-     "tags": [
-      "Ransomware"
-     ],
-     "also": []
-    },
-    {
-     "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html",
-     "source": "The Hacker News",
-     "published": "2026-11-25T12:48:54+00:00",
-     "date_only": false,
-     "summary": "Threat actors are actively exploiting two newly patched security flaws in GeoServer, according to watchTowr. The vulnerabilities in question are CVE-2026-120705 and CVE-2026-129243, details of which are below - CVE-2026-120705 (CVSS score…",
-     "extra": "",
-     "tags": [],
-     "also": []
     }
    ]
   },
@@ -669,11 +599,26 @@
    "name": "APAC Watch",
    "stories": [
     {
-     "title": "Flight Centre investigates data breach affecting customer records in Australia",
+     "title": "Top Singapore law firm fined S$247,000 for data breach; cybersecurity staff brushed off warnings",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcXpYaWc0ZVhrb3lDOXNMaVB5eWdKY2ZJZXkzWWVCNFEzSG1tdHRRMmpOeHBBeEZXZ3poSUZrd3pTaWtjMTQyWkVlOThUV212Q0FFVmFTMkxTWEdwcGo4UG5rU09rRzVoSFo1eXFSSFkzMXE2OWMzZ3h6OVFrTW02UmEtbDJlU2RsaDdtT1JTNVRhVWs?oc=5",
-     "source": "Traders Union",
-     "published": "2026-11-26T10:55:33+00:00",
+     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOUlFBSHRQQVhuVURNR1J1TDkydmx4S1hfbzV5enRWQ01pQzE5WWFlRFFLTERubm9NWmd6S1ozWnFmc094ZHlMUWlLbEJhMWpWZ1FHS250TTRkTll3Y2c4WUhiWkpYU2NIaGtkb0J3TUNSN01Sd05rX1hiZWlPbC02TzltWDVBa3dvQnpHVmY3NUxIZVd5RUFkaXRHZjMzRXAtLWpfam1mSy0wblpOMnp0b3hxeVk3aU1mX2NoOGVxTERseHltZ1hkS0ZGNi1ZTFA3M3ZobmNZOFZTOV85anZxS00tMWItZ0NZdXExRg?oc=5",
+     "source": "The Star",
+     "published": "2026-11-26T13:38:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Australia’s Flight Centre Data Breach Exposes Customer Records and Passport Details",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQd3V3LVVURnVzR05GbjRyWWRPLVdyS1RRcVR2U2xWcUhSTUN2LWxVY2VrQjRVaDJrc1dheGlyZnhqUDFXWkpWS2xCdjlfRExVQnoyZ2JScU5qVDRqRkMxLVNmNmNhWGFHaEg2bTBZajBrcy0xT2dMOHI0Q2VoRVRmeHp6cUo2WjRNUVE0T0lRRi10ZnJJVmdFRldabWdURWhyYllCRWtUdVZEX05nejVSaTJKTWYyUFduUDZYcWFmWG5iUGl5bjd0QVlDS2hHeVXSAdQBQVVfeXFMUG9haTNQOGNNQ0ZPRm04TUR2elVNUXhSaEcwZ3dlTDZrcVphNHJLMXROMU9qTlNUemhtc3Z2MWxIZkFZVG1TWkhYaTAyOUF4Z1BsTktpdk5yUDhycTdqaXAtenpraFl2QkxTRVV4T2FHMlFrRnZjczExZlMyUWhET0llTU9SMmdVdzFDOXBGdEtYR1AzM0l0X3NKekdqM1M2Z2ptb21HSHU5YnV2WXB3N0RDOC14S0ZGY0ZGX0VNTmVCZ0l3bzlUUDZCeVIwXzJOY1NZUDE?oc=5",
+     "source": "Security Affairs",
+     "published": "2026-11-26T12:39:29+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -682,6 +627,7 @@
       "APAC"
      ],
      "also": [
+      "Traders Union",
       "TradingView",
       "CNA"
      ]
@@ -692,38 +638,6 @@
      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ3l0VHB3YU9jYmhDVmZnNlR5UFZhMjU2azVmTTRqUW9xTWtIaEtuNkdWMVlKcS1tZGVOMHVYb3lzdjdDUGdQLWNfd3hjclg3ZUl5VjZTMXdBdkpyVGZOVlh5Q2NYcEFwaVYzYnpjaE01TFdnY3duRkNqaThOX3VyXy1R?oc=5",
      "source": "www.techtimes.co.uk",
      "published": "2026-11-26T09:53:06+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": [
-      "2-Spyware"
-     ]
-    },
-    {
-     "title": "Japan's Keio says cyberattack may have leaked 11mn records",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOEt1SWNMZXg0R2ZRZ1d5NWxiMHF2dUtfaTVVV05NQ1VVQ09KTUJhOHRCZEdueEJITExSUm9KazFDN3dZcUpFb18zdkh1MjNHVUI4NzdESThHZWl4WlJGSFZ2dTNOVm5OQzJiaEpaZ0l1dXVBaFk0TmdjNmNnMjJGSG1MTEVLUGx3ckpBUWIyam9tcnlCby1YTzdYZkswQ1ZFT1Z0dUNWdGttS3dCU3MxbEpRNnpodw?oc=5",
-     "source": "TradingView",
-     "published": "2026-11-26T03:39:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "McDonald’s Japan hit by data breach — customer purchase and location data leaked in latest major incident in the country",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVnNJOEdIaTE4TENFZm1vU2JqTnVuNkE0dUk4d1NhU1dQSnYxVWtKb2JzSHJfSHpyd3lnUmt2NTZuWVE2V3UzcEhuem91bWxTYVZJUkI1RFdpSURtMjRmbXJtSHo4bEItOFUzQ3RlXzZ2Y0xmdmxJdW42SkdQNDZ6Zk9ncS1Zem1rMTViODlOcW5LZ3g0dUozQkJtdnF5WGpheVhnM0hnaXA3eTg0S0ZsRUlyRG5jWGROLVNHbjNXd1JHYkJ2cWFKdGI2VktKSDFsUlhXTGduM2dNekRzRXF6YjVEZkUzVkVFeHpzdQ?oc=5",
-     "source": "TechRadar",
-     "published": "2026-11-25T11:42:24+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -872,44 +786,6 @@
      "extra": "",
      "tags": [
       "Ransomware"
-     ],
-     "also": []
-    },
-    {
-     "title": "The internet needs a nap (and you do, too)",
-     "subtitle": "",
-     "link": "https://blog.talosintelligence.com/the-internet-needs-a-nap-and-you-do-too/",
-     "source": "Cisco Talos",
-     "published": "2026-11-19T19:00:00+00:00",
-     "date_only": false,
-     "summary": "Bill takes a break from the non-stop breaking news to promote prioritizing environmental awareness and team stability over reactive patching.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "ARMORY CASTLE Exploits vSphere",
-     "subtitle": "",
-     "link": "https://cloud.google.com/blog/topics/threat-intelligence/armory-castle-exploits-vsphere/",
-     "source": "Google Threat Intelligence",
-     "published": "2026-11-19T14:00:00+00:00",
-     "date_only": false,
-     "summary": "Written by: Jayson Frost, Bryce Greathouse, Dhanesh Kizhakkinan, John Palmisano, Steve Rasch, Daniel Sislo, John Wolfram Introduction On Oct. 15, 2026, Mandiant and Google Threat Intelligence Group (GTIG) published a blog post detailing…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "30 Years of Gatekeeper Asymmetry Doom: The Paradox that Makes Powerful LLMs More Vulnerable",
-     "subtitle": "",
-     "link": "https://research.checkpoint.com/2026/30-years-of-gatekeeper-asymmetry-doom-the-paradox-that-makes-powerful-llms-more-vulnerable/",
-     "source": "Check Point Research",
-     "published": "2026-11-19T13:19:10+00:00",
-     "date_only": false,
-     "summary": "Abstract We give an exposition for a principle of gatekeeper asymmetry doom in information security, which states that “If the system vetting adversarial input has strictly less power than the system processing that input, without…",
-     "extra": "",
-     "tags": [
-      "AI"
      ],
      "also": []
     }
