@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T01:51:08+00:00",
+ "generated": "2026-11-26T11:05:51+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -333,6 +333,87 @@
    "name": "Breaking Threats",
    "stories": [
     {
+     "title": "Drupal Installer Patch Left a Gap Attackers Are Already Exploiting",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/drupal-installer-patch-left-a-gap-attackers-are-already-exploiting/",
+     "source": "SecurityWeek",
+     "published": "2026-11-26T09:12:26+00:00",
+     "date_only": false,
+     "summary": "Drupal warns that its previous installer patch left some websites vulnerable to takeover, with attackers already exploiting the gap. The post Drupal Installer Patch Left a Gap Attackers Are Already Exploiting appeared first on SecurityWeek…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "1Password Breach Exposes Customer Data, Internal Source Code",
+     "subtitle": "",
+     "link": "https://www.securityweek.com/1password-breach-exposes-customer-data-internal-source-code/",
+     "source": "SecurityWeek",
+     "published": "2026-11-26T08:32:10+00:00",
+     "date_only": false,
+     "summary": "A hacker used a compromised employee GitHub account to push malicious code and steal customer records, but vaults were not accessed. The post 1Password Breach Exposes Customer Data, Internal Source Code appeared first on SecurityWeek .",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": [
+      "The Hacker News",
+      "BleepingComputer"
+     ]
+    },
+    {
+     "title": "Cyprus Becomes Espionage Target for Iranian Hackers",
+     "subtitle": "",
+     "link": "https://www.darkreading.com/cyberattacks-data-breaches/cyprus-espionage-target-iranian-hackers",
+     "source": "Dark Reading",
+     "published": "2026-11-26T08:00:00+00:00",
+     "date_only": false,
+     "summary": "A previously undocumented Iranian threat group called \"Volant Manticore\" is targeting Cypriot organizations as part of an intelligence-gathering effort for Tehran.",
+     "extra": "",
+     "tags": [
+      "Nation-state"
+     ],
+     "also": []
+    },
+    {
+     "title": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html",
+     "source": "The Hacker News",
+     "published": "2026-11-26T07:02:34+00:00",
+     "date_only": false,
+     "summary": "Drupal has warned of a new \"highly critical\" security flaw impacting Drupal core that it said has been exploited in the wild. The vulnerability, tracked as CVE-2026-136716 (CVSS score: N/A), has been described as a case of improper…",
+     "extra": "",
+     "tags": [
+      "Exploited"
+     ],
+     "also": []
+    },
+    {
+     "title": "Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html",
+     "source": "The Hacker News",
+     "published": "2026-11-26T06:44:46+00:00",
+     "date_only": false,
+     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added 10 security flaws to its Known Exploited Vulnerabilities (KEV) catalog, including five vulnerabilities impacting Mitel MiCollab that were disclosed last…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps",
+     "subtitle": "",
+     "link": "https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html",
+     "source": "The Hacker News",
+     "published": "2026-11-26T03:48:52+00:00",
+     "date_only": false,
+     "summary": "Cybersecurity researchers have discovered 13 malicious NuGet packages that are designed to target Windows .NET developers under the guise of a fake take-home job assessment. \"Most of the packages pose as WinUI 3 and WPF [Windows…",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
      "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
      "subtitle": "",
      "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
@@ -341,25 +422,7 @@
      "date_only": false,
      "summary": "Threat actors are chaining exploits for the PHP2Shell and Fragnesia vulnerabilities to target Palo Alto Networks devices with management interfaces exposed to the internet. [...]",
      "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": [
-      "SecurityWeek"
-     ]
-    },
-    {
-     "title": "1Password customer data stolen after employee GitHub account breach",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/",
-     "source": "BleepingComputer",
-     "published": "2026-11-25T21:33:33+00:00",
-     "date_only": false,
-     "summary": "1Password has disclosed a data breach after a an employee's corporate GitHub account was hacked and used to deploy malicious code to the company's backend services to steal customer data. [...]",
-     "extra": "",
-     "tags": [
-      "Breach"
-     ],
+     "tags": [],
      "also": []
     },
     {
@@ -599,70 +662,6 @@
      "extra": "",
      "tags": [],
      "also": []
-    },
-    {
-     "title": "U.S. Treasury's Financial Crimes Agency Takes Some Systems Offline After Cyber Intrusion",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html",
-     "source": "The Hacker News",
-     "published": "2026-11-25T12:30:08+00:00",
-     "date_only": false,
-     "summary": "The U.S. Treasury Department's Financial Crimes Enforcement Network (FinCEN) has been hit by a cybersecurity incident that resulted in \"unauthorized access to a limited subset of its systems,\" the bureau said on Tuesday. As a precaution…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Credential Remediation Is Slow When You Don’t Know What Will Break",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/credential-remediation-is-slow-when-you.html",
-     "source": "The Hacker News",
-     "published": "2026-11-25T11:51:48+00:00",
-     "date_only": false,
-     "summary": "TL;DR More than 64% still valid after four years: GitGuardian’s State of Secrets Sprawl 2026 found that most valid secrets discovered in 2022 still worked in January 2026, because teams stall on what a revoke will break. Validity-only…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Drupal Fail2Install Exploit Details Emerge as Critical RCE Flaw Faces Active Exploitation",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html",
-     "source": "The Hacker News",
-     "published": "2026-11-25T11:23:26+00:00",
-     "date_only": false,
-     "summary": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a critical flaw impacting Drupal to its Known Exploited Vulnerabilities (KEV) catalog, requiring federal agencies to apply the fixes by November 27, 2026…",
-     "extra": "",
-     "tags": [
-      "Exploited"
-     ],
-     "also": [
-      "BleepingComputer"
-     ]
-    },
-    {
-     "title": "Microsoft fixes Microsoft 365 bug blocking access to Office apps",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-blank-dialog-that-made-microsoft-365-office-apps-unusable/",
-     "source": "BleepingComputer",
-     "published": "2026-11-25T11:16:32+00:00",
-     "date_only": false,
-     "summary": "Earlier this week, Microsoft resolved a known issue that was preventing some Microsoft 365 customers from accessing Office applications. [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Ex-OpenAI Employee Accused of Bugging Company Offices Granted $1 Million Bail",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/ex-openai-employee-accused-of-bugging.html",
-     "source": "The Hacker News",
-     "published": "2026-11-25T10:43:07+00:00",
-     "date_only": false,
-     "summary": "A former OpenAI employee accused of concealing a covert recording device at the company's San Francisco offices will be allowed to be released from jail on a $1 million bond, a San Francisco federal court judge ruled Tuesday. Abdulrahman…",
-     "extra": "",
-     "tags": [],
-     "also": []
     }
    ]
   },
@@ -670,11 +669,11 @@
    "name": "APAC Watch",
    "stories": [
     {
-     "title": "Australia's Flight Centre probes data breach in third-party system",
+     "title": "Flight Centre investigates data breach affecting customer records in Australia",
      "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUjlnZU1xSXVubUtDNm9lLTBxdnVoUWRfdUNrTkVTTldIM1VGZXdHbFRDQWljdFlYZlVqZ2dHTlJsdDYtbkZnZ2dmcEMxblQtOUdrNHJXcGREamVGdGZCQTlka1hpaG1ESC1NY2JkdnZwMDFoeDRGMUxQcGZaTW9mVnhGRW93OXRqQnRkRTlSU1NZNFkxNVczYWZ0UWtySDdOYi13LXUzLU5xVnNVeUtYTS1mZTJPR3VpdHdqaFo0UmRKeDUzeldSMS0xVFlDZE1aV2c?oc=5",
-     "source": "TradingView",
-     "published": "2026-11-25T23:35:57+00:00",
+     "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcXpYaWc0ZVhrb3lDOXNMaVB5eWdKY2ZJZXkzWWVCNFEzSG1tdHRRMmpOeHBBeEZXZ3poSUZrd3pTaWtjMTQyWkVlOThUV212Q0FFVmFTMkxTWEdwcGo4UG5rU09rRzVoSFo1eXFSSFkzMXE2OWMzZ3h6OVFrTW02UmEtbDJlU2RsaDdtT1JTNVRhVWs?oc=5",
+     "source": "Traders Union",
+     "published": "2026-11-26T10:55:33+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -683,8 +682,41 @@
       "APAC"
      ],
      "also": [
+      "TradingView",
       "CNA"
      ]
+    },
+    {
+     "title": "McDonald's Japan Confirms App Data Breach Exposing What Customers Bought and Their Location Data",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ3l0VHB3YU9jYmhDVmZnNlR5UFZhMjU2azVmTTRqUW9xTWtIaEtuNkdWMVlKcS1tZGVOMHVYb3lzdjdDUGdQLWNfd3hjclg3ZUl5VjZTMXdBdkpyVGZOVlh5Q2NYcEFwaVYzYnpjaE01TFdnY3duRkNqaThOX3VyXy1R?oc=5",
+     "source": "www.techtimes.co.uk",
+     "published": "2026-11-26T09:53:06+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": [
+      "2-Spyware"
+     ]
+    },
+    {
+     "title": "Japan's Keio says cyberattack may have leaked 11mn records",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOEt1SWNMZXg0R2ZRZ1d5NWxiMHF2dUtfaTVVV05NQ1VVQ09KTUJhOHRCZEdueEJITExSUm9KazFDN3dZcUpFb18zdkh1MjNHVUI4NzdESThHZWl4WlJGSFZ2dTNOVm5OQzJiaEpaZ0l1dXVBaFk0TmdjNmNnMjJGSG1MTEVLUGx3ckpBUWIyam9tcnlCby1YTzdYZkswQ1ZFT1Z0dUNWdGttS3dCU3MxbEpRNnpodw?oc=5",
+     "source": "TradingView",
+     "published": "2026-11-26T03:39:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
     },
     {
      "title": "McDonald’s Japan hit by data breach — customer purchase and location data leaked in latest major incident in the country",
@@ -692,85 +724,6 @@
      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQVnNJOEdIaTE4TENFZm1vU2JqTnVuNkE0dUk4d1NhU1dQSnYxVWtKb2JzSHJfSHpyd3lnUmt2NTZuWVE2V3UzcEhuem91bWxTYVZJUkI1RFdpSURtMjRmbXJtSHo4bEItOFUzQ3RlXzZ2Y0xmdmxJdW42SkdQNDZ6Zk9ncS1Zem1rMTViODlOcW5LZ3g0dUozQkJtdnF5WGpheVhnM0hnaXA3eTg0S0ZsRUlyRG5jWGROLVNHbjNXd1JHYkJ2cWFKdGI2VktKSDFsUlhXTGduM2dNekRzRXF6YjVEZkUzVkVFeHpzdQ?oc=5",
      "source": "TechRadar",
      "published": "2026-11-25T11:42:24+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": [
-      "shattered.io",
-      "Latest news from Azerbaijan",
-      "GBHackers News",
-      "Cyber Press"
-     ]
-    },
-    {
-     "title": "Japan's Osaki Electric to Restore Operations After Cyberattack, Resuming Production in Stages From Nov. 27",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9pLXB2RUR6T0Y0dmh6Z0JhOWtEaVgwMGJOelR0Y1B2NU1tbjNWWTBYZzRoazJETUNCVndBaVFkUk9HY09XQ0tlSWdjb1RzRmlLQWthejk4eEhhbjlaUXhUZ09jaVhubmNlc216cEpDbDdhYXNFQ1E?oc=5",
-     "source": "finance.biggo.com",
-     "published": "2026-11-25T09:55:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Japan’s Keio Corporation Fears Data Breach of 11 Million Records Including Passports and Credit Card Numbers",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi8gJBVV95cUxQekpRZktMVVVYVmpYd1lwbUJ3LW5sTW5uUUZfV2lWcUZjWmdkVWIxRmFscFRLNHBOYzRhUU10UmNhZUxyTW9hQk5UMHRkWjR2ZTJqc3kzOXpseDVzc29MZWhZVmxySnM2cU1ZazAwa29oUThSRnBycTZTY1ZVekFxck9kNHlIX2dhTWhFZ1RQRV9ZUnJzOG1NSDMtY0dHeXVCNmtXMUtQc3ZGcDBQZmhaSUpuU3VRVVlJWEYzMjR4MVl6RkRKOEJmYTA1ZUJHWkRnd19ELUx4bFlOWDhHZWJVR1RNeFNieExtX20zUVdjMzZ6RWdHYUx0LTVBR3JjVTFwQXl2aHB1aHdobm1Vb0FKWUtZbjdyTFFEeTBMaWF1RmtBREJBb0xheWJ2Vi1VeUw0U1lKWC01TVRhb3ladHdINnNoY2Q3d29FcEM0VUdZd294MUgzRmxaeWVQTm42WW11WjRMLWxfWjhFc08xVlRDczFB?oc=5",
-     "source": "联合日报",
-     "published": "2026-11-25T08:12:17+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "South Korea's Financial Authorities Hold First Joint Drill Simulating Combined AI Cyberattack and Bank Run Crisis",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBwQnlfakdHWEFqanV0cHBjdnFURUcwUVA1bnNGbXNXNldTcGh5QzVtd0o1Zk5oT0tjVDZLbW4wckVjWHZTdmdicDc4Qm5WT3ZGNTBpc0tPcXkwTGgxRWotSkMwNUYzQ1pCRVV3N0tNX1NYV0JpY3c?oc=5",
-     "source": "BigGo Finance",
-     "published": "2026-11-25T06:25:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "AI",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Dementia Singapore Data Breach Highlights Third Party Vendor Cybersecurity Risks",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWTRBZ1NZdi1GLXVlZ19JSlNSSmpSMkJjdFBZaWctRzRzSzBvRTNMMVBmNG9RdDdLWFdSdXBrWno0ZHlLam12STk2bzVSLTU3Wmd3QlRmRWpmYlM5M2NWaVl0Qm1wVTFrbG5GcXFCaWJxTVJreFYtOG1GaEFNejNYd2oyc2tRMHQ5blZ2aXN4VldzdkNyMHh4elRIbmJRSkJQa19pY3Q5M21IQWxQR3BKanpOaHZtQi04NGpaUEVpZVY2YTg?oc=5",
-     "source": "BusinessToday Malaysia",
-     "published": "2026-11-25T04:38:43+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Japan's Rakuten Securities continues to face scrutiny over data breach",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOY3VrOWNGRi1fbHpRaVByaE4yLWVjbDAzWUFuUS1FdkprOEJUNWxPR2hTaVpTM1U2T0VrcE1tTlk3UzA2UFdNOWZKVFNsN2pkQzBRTWR3RlZhM3MyVnd2T01JdGRBWG1ES2lVOExNeDd5XzhHc0JibEdRaWxCOHQ4SkRIY19Ydm5sdzhUcDlOSGxrbXZ0RG5yYjVSLTNobEd3TWsxcXNSQ3ktcHZ5MEhueHNaYVFBdTg0Z0dJM18tSHRfcW9saTdzYUp6YmVwNDVW0gFaQVVfeXFMTkZvZWdaTFNtUTVvLTdkLWkyMTRQR0hQQjRJRDQwTUtHT0kwQkxkYTdIVzFjTmFHVkItQXlsMGRIVlBGYldlYXZZLTZPLVpCa0RRa0hpcGZlUGRB?oc=5",
-     "source": "MLex",
-     "published": "2026-11-25T04:00:36+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -959,24 +912,48 @@
       "AI"
      ],
      "also": []
-    },
-    {
-     "title": "My IoT devices are no longer supported – is my smart home safe?",
-     "subtitle": "",
-     "link": "https://www.welivesecurity.com/en/internet-of-things/iot-devices-no-longer-supported-smart-home-safe/",
-     "source": "ESET Research",
-     "published": "2026-11-19T08:00:00+00:00",
-     "date_only": false,
-     "summary": "End-of-life smart devices can be a security risk if left unmanaged – here’s what to do instead",
-     "extra": "",
-     "tags": [],
-     "also": []
     }
    ]
   },
   {
    "name": "Government Advisories",
    "stories": [
+    {
+     "title": "Drupal Security Restriction Bypass Vulnerability",
+     "subtitle": "",
+     "link": "https://www.hkcert.org/security-bulletin/drupal-security-restriction-bypass-vulnerability_20261126",
+     "source": "HKCERT",
+     "published": "2026-11-26T03:00:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "Microsoft Edge Multiple Vulnerabilities",
+     "subtitle": "",
+     "link": "https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20261126",
+     "source": "HKCERT",
+     "published": "2026-11-26T02:00:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "GitLab Multiple Vulnerabilities",
+     "subtitle": "",
+     "link": "https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20261126",
+     "source": "HKCERT",
+     "published": "2026-11-26T01:00:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
     {
      "title": "CISA Adds 10 Known Exploited Vulnerabilities to Catalog",
      "subtitle": "",
@@ -1045,30 +1022,6 @@
      "link": "https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20261124",
      "source": "HKCERT",
      "published": "2026-11-24T01:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "F5 BIG-IP Remote Code Execution Vulnerability",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/f5-big-ip-remote-code-execution-vulnerability_20261123",
-     "source": "HKCERT",
-     "published": "2026-11-23T03:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Synology Products Denial of Service Vulnerability",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/synology-products-denial-of-service-vulnerability_20261123",
-     "source": "HKCERT",
-     "published": "2026-11-23T03:00:00+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
