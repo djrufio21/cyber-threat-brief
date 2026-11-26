@@ -1,9 +1,179 @@
 {
- "generated": "2026-11-25T17:25:47+00:00",
+ "generated": "2026-11-26T01:51:08+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
    "stories": [
+    {
+     "title": "CVE-2026-103406: Hewlett Packard Enterprise (HPE) Juniper Session Smart Conductor and Session Smart Router",
+     "subtitle": "Hewlett Packard Enterprise (HPE) Juniper Session Smart Conductor and Session Smart Router OS Command Injection Vulnerability",
+     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-103406",
+     "source": "CISA KEV",
+     "published": "2026-11-25T00:00:00+00:00",
+     "date_only": true,
+     "summary": "Hewlett Packard Enterprise (HPE) Juniper Session Smart Conductor and Session Smart Router contain an OS command injection vulnerability that could allow a remote attacker to execute arbitrary commands as root via a specially crafted salt…",
+     "extra": "US federal patch deadline 28 Nov",
+     "tags": [
+      "Exploited"
+     ],
+     "vendor": "Hewlett Packard Enterprise (HPE)",
+     "product": "Juniper Session Smart Conductor and Session Smart Router",
+     "cve": "CVE-2026-103406",
+     "also": []
+    },
+    {
+     "title": "CVE-2026-133469: Vates Xen Orchestra",
+     "subtitle": "Vates Xen Orchestra Improper Validation of Specified Type of Input Vulnerability",
+     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-133469",
+     "source": "CISA KEV",
+     "published": "2026-11-25T00:00:00+00:00",
+     "date_only": true,
+     "summary": "Vates Xen Orchestra contains an improper validation of specified type of input vulnerability that could allow an unauthenticated attacker to bypass authentication and perform actions with administrative privileges via a specially crafted…",
+     "extra": "US federal patch deadline 28 Nov",
+     "tags": [
+      "Exploited"
+     ],
+     "vendor": "Vates",
+     "product": "Xen Orchestra",
+     "cve": "CVE-2026-133469",
+     "also": []
+    },
+    {
+     "title": "CVE-2025-41450: Danfoss AK-SM 800A Series",
+     "subtitle": "Danfoss AK-SM 800A Series Improper Authentication Vulnerability",
+     "link": "https://nvd.nist.gov/vuln/detail/CVE-2025-41450",
+     "source": "CISA KEV",
+     "published": "2026-11-25T00:00:00+00:00",
+     "date_only": true,
+     "summary": "Danfoss AK-SM 800A Series contains an improper authentication vulnerability that could allow an attacker to generate a web report exposing sensitive information, including internal IP addresses, usernames, and store names.",
+     "extra": "US federal patch deadline 9 Dec",
+     "tags": [
+      "Exploited"
+     ],
+     "vendor": "Danfoss",
+     "product": "AK-SM 800A Series",
+     "cve": "CVE-2025-41450",
+     "also": []
+    },
+    {
+     "title": "CVE-2023-25914: Danfoss AK-SM 800A Series",
+     "subtitle": "Danfoss AK-SM 800A Series Path Traversal Vulnerability",
+     "link": "https://nvd.nist.gov/vuln/detail/CVE-2023-25914",
+     "source": "CISA KEV",
+     "published": "2026-11-25T00:00:00+00:00",
+     "date_only": true,
+     "summary": "Danfoss AK-SM 800A Series contains a path traversal vulnerability that could allow an attacker to access and read underlying server system files via the XML interface.",
+     "extra": "US federal patch deadline 28 Nov",
+     "tags": [
+      "Exploited"
+     ],
+     "vendor": "Danfoss",
+     "product": "AK-SM 800A Series",
+     "cve": "CVE-2023-25914",
+     "also": []
+    },
+    {
+     "title": "CVE-2023-25915: Danfoss AK-SM 800A Series",
+     "subtitle": "Danfoss AK-SM 800A Series Improper Input Validation Vulnerability",
+     "link": "https://nvd.nist.gov/vuln/detail/CVE-2023-25915",
+     "source": "CISA KEV",
+     "published": "2026-11-25T00:00:00+00:00",
+     "date_only": true,
+     "summary": "Danfoss AK-SM 800A Series contains an improper input validation vulnerability that could allow a remote attacker to run arbitrary commands on the affected system.",
+     "extra": "US federal patch deadline 28 Nov",
+     "tags": [
+      "Exploited"
+     ],
+     "vendor": "Danfoss",
+     "product": "AK-SM 800A Series",
+     "cve": "CVE-2023-25915",
+     "also": []
+    },
+    {
+     "title": "CVE-2026-133324: Mitel MiCollab",
+     "subtitle": "Mitel MiCollab Not Failing Securely Vulnerability",
+     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-133324",
+     "source": "CISA KEV",
+     "published": "2026-11-25T00:00:00+00:00",
+     "date_only": true,
+     "summary": "Mitel MiCollab contains a not failing securely vulnerability in the Audio, Web and Video Conferencing (AWV) component that could allow an unauthenticated attacker to bypass authentication controls and perform unauthorized actions.",
+     "extra": "US federal patch deadline 28 Nov",
+     "tags": [
+      "Exploited"
+     ],
+     "vendor": "Mitel",
+     "product": "MiCollab",
+     "cve": "CVE-2026-133324",
+     "also": []
+    },
+    {
+     "title": "CVE-2026-133275: Mitel MiCollab",
+     "subtitle": "Mitel MiCollab Unrestricted Upload of File with Dangerous Type Vulnerability",
+     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-133275",
+     "source": "CISA KEV",
+     "published": "2026-11-25T00:00:00+00:00",
+     "date_only": true,
+     "summary": "Mitel MiCollab contains an unrestricted upload of file with dangerous type vulnerability in the Audio, Web and Video Conferencing (AWV) component due to insufficient file type validation that could allow an unauthenticated attacker to…",
+     "extra": "US federal patch deadline 28 Nov",
+     "tags": [
+      "Exploited"
+     ],
+     "vendor": "Mitel",
+     "product": "MiCollab",
+     "cve": "CVE-2026-133275",
+     "also": []
+    },
+    {
+     "title": "CVE-2026-133311: Mitel MiCollab",
+     "subtitle": "Mitel MiCollab Weak Authentication Vulnerability",
+     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-133311",
+     "source": "CISA KEV",
+     "published": "2026-11-25T00:00:00+00:00",
+     "date_only": true,
+     "summary": "Mitel MiCollab contains a weak authentication vulnerability in the Audio, Web and Video Conferencing (AWV) component that could allow an unauthenticated attacker to access sensitive information using a specific system-generated random…",
+     "extra": "US federal patch deadline 9 Dec",
+     "tags": [
+      "Exploited"
+     ],
+     "vendor": "Mitel",
+     "product": "MiCollab",
+     "cve": "CVE-2026-133311",
+     "also": []
+    },
+    {
+     "title": "CVE-2026-133303: Mitel MiCollab",
+     "subtitle": "Mitel MiCollab XML Injection Vulnerability",
+     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-133303",
+     "source": "CISA KEV",
+     "published": "2026-11-25T00:00:00+00:00",
+     "date_only": true,
+     "summary": "Mitel MiCollab contains an XML injection vulnerability in its Audio, Web, and Video Conferencing (AWV) component that could allow an unauthenticated attacker to execute arbitrary commands using pre-staged malicious content.",
+     "extra": "US federal patch deadline 28 Nov",
+     "tags": [
+      "Exploited"
+     ],
+     "vendor": "Mitel",
+     "product": "MiCollab",
+     "cve": "CVE-2026-133303",
+     "also": []
+    },
+    {
+     "title": "CVE-2026-133323: Mitel MiCollab",
+     "subtitle": "Mitel MiCollab OS Command Injection Vulnerability",
+     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-133323",
+     "source": "CISA KEV",
+     "published": "2026-11-25T00:00:00+00:00",
+     "date_only": true,
+     "summary": "Mitel MiCollab contains an improper neutralization of special elements used in an OS command (OS command injection) vulnerability in its Audio, Web, and Video Conferencing (AWV) component that could allow an unauthenticated attacker to…",
+     "extra": "US federal patch deadline 28 Nov",
+     "tags": [
+      "Exploited"
+     ],
+     "vendor": "Mitel",
+     "product": "MiCollab",
+     "cve": "CVE-2026-133323",
+     "also": []
+    },
     {
      "title": "CVE-2026-132224: Optimizely Web Experimentation",
      "subtitle": "Optimizely Web Experimentation External Control of Critical State Data Vulnerability",
@@ -156,81 +326,102 @@
      "product": "Expressway Series",
      "cve": "CVE-2026-76466",
      "also": []
-    },
-    {
-     "title": "CVE-2024-10441: Synology DiskStation Manager (DSM)",
-     "subtitle": "Synology DiskStation Manager (DSM) Improper Encoding or Escaping of Output Vulnerability",
-     "link": "https://nvd.nist.gov/vuln/detail/CVE-2024-10441",
-     "source": "CISA KEV",
-     "published": "2026-11-18T00:00:00+00:00",
-     "date_only": true,
-     "summary": "Synology DSM contains an improper encoding or escaping of output vulnerability in the system plugin daemon in Synology BeeStation OS (BSM) that could allow a remote attacker to execute arbitrary code via unspecified vectors.",
-     "extra": "US federal patch deadline 21 Nov",
-     "tags": [
-      "Exploited",
-      "Ransomware"
-     ],
-     "vendor": "Synology",
-     "product": "DiskStation Manager (DSM)",
-     "cve": "CVE-2024-10441",
-     "also": []
-    },
-    {
-     "title": "CVE-2026-40217: BerriAI LiteLLM",
-     "subtitle": "BerriAI LiteLLM Unprotected Alternate Channel Vulnerability",
-     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-40217",
-     "source": "CISA KEV",
-     "published": "2026-11-18T00:00:00+00:00",
-     "date_only": true,
-     "summary": "BerriAI LiteLLM contains an unprotected alternate channel vulnerability that could allow remote attackers to execute arbitrary code via bytecode rewriting at the /guardrails/test_custom_code URI.",
-     "extra": "US federal patch deadline 2 Dec",
-     "tags": [
-      "Exploited"
-     ],
-     "vendor": "BerriAI",
-     "product": "LiteLLM",
-     "cve": "CVE-2026-40217",
-     "also": []
-    },
-    {
-     "title": "CVE-2026-90817: Vanderbilt University Research Electronic Data Capture (REDCap)",
-     "subtitle": "Vanderbilt University Research Electronic Data Capture (REDCap) Code Injection Vulnerability",
-     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90817",
-     "source": "CISA KEV",
-     "published": "2026-11-18T00:00:00+00:00",
-     "date_only": true,
-     "summary": "Vanderbilt University Research Electronic Data Capture (REDCap) contains a code injection vulnerability which could allow an unauthenticated attacker to execute arbitrary code on the server. An attacker could exploit this via crafted HTTP…",
-     "extra": "US federal patch deadline 21 Nov",
-     "tags": [
-      "Exploited"
-     ],
-     "vendor": "Vanderbilt University",
-     "product": "Research Electronic Data Capture (REDCap)",
-     "cve": "CVE-2026-90817",
-     "also": []
-    },
-    {
-     "title": "CVE-2026-90436: Apache Axis",
-     "subtitle": "Apache Axis Unsafe Reflection Vulnerability",
-     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-90436",
-     "source": "CISA KEV",
-     "published": "2026-11-18T00:00:00+00:00",
-     "date_only": true,
-     "summary": "Apache Axis contains an unsafe reflection vulnerability that could allow an unauthenticated remote attacker to execute arbitrary code via a crafted SOAP fault message that causes Axis to load and instantiate an attacker-specified class…",
-     "extra": "US federal patch deadline 21 Nov",
-     "tags": [
-      "Exploited"
-     ],
-     "vendor": "Apache",
-     "product": "Axis",
-     "cve": "CVE-2026-90436",
-     "also": []
     }
    ]
   },
   {
    "name": "Breaking Threats",
    "stories": [
+    {
+     "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
+     "source": "BleepingComputer",
+     "published": "2026-11-25T22:05:09+00:00",
+     "date_only": false,
+     "summary": "Threat actors are chaining exploits for the PHP2Shell and Fragnesia vulnerabilities to target Palo Alto Networks devices with management interfaces exposed to the internet. [...]",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": [
+      "SecurityWeek"
+     ]
+    },
+    {
+     "title": "1Password customer data stolen after employee GitHub account breach",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/1password-customer-data-stolen-after-employee-github-account-breach/",
+     "source": "BleepingComputer",
+     "published": "2026-11-25T21:33:33+00:00",
+     "date_only": false,
+     "summary": "1Password has disclosed a data breach after a an employee's corporate GitHub account was hacked and used to deploy malicious code to the company's backend services to steal customer data. [...]",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": []
+    },
+    {
+     "title": "Microsoft: China’s Salt Typhoon hackers are using Artex",
+     "subtitle": "",
+     "link": "https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool",
+     "source": "The Record",
+     "published": "2026-11-25T21:18:00+00:00",
+     "date_only": false,
+     "summary": "An AI tool implicated in several high-profile breaches is rapidly being integrated into the hacking suites of groups from China and North Korea, Microsoft said.",
+     "extra": "",
+     "tags": [
+      "Nation-state",
+      "Breach",
+      "Telecom",
+      "AI",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "FIFA says hackers accessed ‘limited set of personal and business information’",
+     "subtitle": "",
+     "link": "https://therecord.media/fifa-data-breach-limited",
+     "source": "The Record",
+     "published": "2026-11-25T20:40:00+00:00",
+     "date_only": false,
+     "summary": "The Switzerland-based international governing body for soccer says it's working with relevant authorities and law enforcement to investigate a recent breach.",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": []
+    },
+    {
+     "title": "Italy and Switzerland warn of autonomous AI-driven cyberattacks",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/italy-and-switzerland-warn-of-autonomous-ai-driven-cyberattacks/",
+     "source": "BleepingComputer",
+     "published": "2026-11-25T19:39:31+00:00",
+     "date_only": false,
+     "summary": "Swiss and Italian cybersecurity agencies are warning about automated cyberattacks powered by AI agents targeting organizations in the critical infrastructure sector. [...]",
+     "extra": "",
+     "tags": [
+      "AI"
+     ],
+     "also": []
+    },
+    {
+     "title": "Florida ransomware recovery CEO indicted for allegedly paying hacker ransoms",
+     "subtitle": "",
+     "link": "https://therecord.media/ransomware-doj-indictment-recovery",
+     "source": "The Record",
+     "published": "2026-11-25T17:30:00+00:00",
+     "date_only": false,
+     "summary": "The CEO of a ransomware recovery firm was indicted by a federal grand jury over allegations he lied about his services and paid out ransoms to cybercriminals.",
+     "extra": "",
+     "tags": [
+      "Ransomware"
+     ],
+     "also": []
+    },
     {
      "title": "Australia passes tough legislation requiring big tech to preempt foreseeable harms",
      "subtitle": "",
@@ -369,9 +560,7 @@
      "summary": "FinCEN has extended deadlines for filers affected by the disruptions while it is investigating the incident. The post US Treasury’s FinCEN Disconnects Systems Following Cyber Incident appeared first on SecurityWeek .",
      "extra": "",
      "tags": [],
-     "also": [
-      "The Record"
-     ]
+     "also": []
     },
     {
      "title": "Ground Truth: CISO Matt Martin on Building a Real Security Program Without an Enterprise Budget",
@@ -474,86 +663,29 @@
      "extra": "",
      "tags": [],
      "also": []
-    },
-    {
-     "title": "Plagiarism Checker Turnitin Investigating Cyberattack",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/plagiarism-checker-turnitin-investigating-cyberattack/",
-     "source": "SecurityWeek",
-     "published": "2026-11-25T10:40:07+00:00",
-     "date_only": false,
-     "summary": "The edtech company says the systems are fully operational and safe to use while it investigates the incident. The post Plagiarism Checker Turnitin Investigating Cyberattack appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Hackers Exploited CVSS 10.0 Hex.pm RCE Flaw to Compromise 6 Package Registry Servers",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/hackers-exploited-cvss-100-hexpm-rce.html",
-     "source": "The Hacker News",
-     "published": "2026-11-25T09:06:59+00:00",
-     "date_only": false,
-     "summary": "An attacker ran operating system commands on Monday on six production servers of Hex.pm, the package registry that Elixir and Erlang developers fetch their dependencies from. The flaw used in the attack had been in the registry's code…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Hackers Exploit Unpatched Flaw in Defunct Idunno AntiCsrf Library",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/hackers-exploit-unpatched-flaw-in-defunct-idunno-anticsrf-library/",
-     "source": "SecurityWeek",
-     "published": "2026-11-25T09:05:13+00:00",
-     "date_only": false,
-     "summary": "Attackers can exploit CVE-2026-131914 to achieve remote code execution via a single web request containing specially crafted data. The post Hackers Exploit Unpatched Flaw in Defunct Idunno AntiCsrf Library appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Microsoft confirms authentication issues after November updates",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-authentication-issues-after-november-updates/",
-     "source": "BleepingComputer",
-     "published": "2026-11-25T09:02:57+00:00",
-     "date_only": false,
-     "summary": "Microsoft has confirmed that customers may experience authentication issues after installing November security updates that address a high-severity remote code execution vulnerability. [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Palo Alto Networks Patches Fragnesia Flaw Used to Root Firewalls",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/palo-alto-networks-patches-fragnesia-flaw-used-to-root-firewalls/",
-     "source": "SecurityWeek",
-     "published": "2026-11-25T08:12:24+00:00",
-     "date_only": false,
-     "summary": "A China-linked hacking group chained PHP2Shell with Fragnesia in AI-assisted attacks that hit 25 servers. The post Palo Alto Networks Patches Fragnesia Flaw Used to Root Firewalls appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [
-      "AI"
-     ],
-     "also": []
-    },
-    {
-     "title": "Drupal Flaw Found by Anthropic Scanner Exploited in Attacks",
-     "subtitle": "",
-     "link": "https://www.securityweek.com/drupal-flaw-found-by-anthropic-scanner-exploited-in-attacks/",
-     "source": "SecurityWeek",
-     "published": "2026-11-25T08:01:06+00:00",
-     "date_only": false,
-     "summary": "CISA has added the vulnerability to its KEV catalog and instructed federal agencies to patch it within three days. The post Drupal Flaw Found by Anthropic Scanner Exploited in Attacks appeared first on SecurityWeek .",
-     "extra": "",
-     "tags": [],
-     "also": []
     }
    ]
   },
   {
    "name": "APAC Watch",
    "stories": [
+    {
+     "title": "Australia's Flight Centre probes data breach in third-party system",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUjlnZU1xSXVubUtDNm9lLTBxdnVoUWRfdUNrTkVTTldIM1VGZXdHbFRDQWljdFlYZlVqZ2dHTlJsdDYtbkZnZ2dmcEMxblQtOUdrNHJXcGREamVGdGZCQTlka1hpaG1ESC1NY2JkdnZwMDFoeDRGMUxQcGZaTW9mVnhGRW93OXRqQnRkRTlSU1NZNFkxNVczYWZ0UWtySDdOYi13LXUzLU5xVnNVeUtYTS1mZTJPR3VpdHdqaFo0UmRKeDUzeldSMS0xVFlDZE1aV2c?oc=5",
+     "source": "TradingView",
+     "published": "2026-11-25T23:35:57+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": [
+      "CNA"
+     ]
+    },
     {
      "title": "McDonald’s Japan hit by data breach — customer purchase and location data leaked in latest major incident in the country",
      "subtitle": "",
@@ -573,6 +705,20 @@
       "GBHackers News",
       "Cyber Press"
      ]
+    },
+    {
+     "title": "Japan's Osaki Electric to Restore Operations After Cyberattack, Resuming Production in Stages From Nov. 27",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9pLXB2RUR6T0Y0dmh6Z0JhOWtEaVgwMGJOelR0Y1B2NU1tbjNWWTBYZzRoazJETUNCVndBaVFkUk9HY09XQ0tlSWdjb1RzRmlLQWthejk4eEhhbjlaUXhUZ09jaVhubmNlc216cEpDbDdhYXNFQ1E?oc=5",
+     "source": "finance.biggo.com",
+     "published": "2026-11-25T09:55:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
     },
     {
      "title": "Japan’s Keio Corporation Fears Data Breach of 11 Million Records Including Passports and Credit Card Numbers",
@@ -618,12 +764,55 @@
       "APAC"
      ],
      "also": []
+    },
+    {
+     "title": "Japan's Rakuten Securities continues to face scrutiny over data breach",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOY3VrOWNGRi1fbHpRaVByaE4yLWVjbDAzWUFuUS1FdkprOEJUNWxPR2hTaVpTM1U2T0VrcE1tTlk3UzA2UFdNOWZKVFNsN2pkQzBRTWR3RlZhM3MyVnd2T01JdGRBWG1ES2lVOExNeDd5XzhHc0JibEdRaWxCOHQ4SkRIY19Ydm5sdzhUcDlOSGxrbXZ0RG5yYjVSLTNobEd3TWsxcXNSQ3ktcHZ5MEhueHNaYVFBdTg0Z0dJM18tSHRfcW9saTdzYUp6YmVwNDVW0gFaQVVfeXFMTkZvZWdaTFNtUTVvLTdkLWkyMTRQR0hQQjRJRDQwTUtHT0kwQkxkYTdIVzFjTmFHVkItQXlsMGRIVlBGYldlYXZZLTZPLVpCa0RRa0hpcGZlUGRB?oc=5",
+     "source": "MLex",
+     "published": "2026-11-25T04:00:36+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
     }
    ]
   },
   {
    "name": "Threat Research",
    "stories": [
+    {
+     "title": "Oh, is it Thanksgiving? I hadn’t noticed!",
+     "subtitle": "",
+     "link": "https://blog.talosintelligence.com/oh-is-it-thanksgiving-i-hadnt-noticed/",
+     "source": "Cisco Talos",
+     "published": "2026-11-25T19:00:00+00:00",
+     "date_only": false,
+     "summary": "In true Thanksgiving fashion, David has a few thank-yous to give to the cybersecurity community (and a few choice words for threat actors).",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
+     "title": "What defenders need to know about ARTEX, the agentic AI framework threat actors abuse",
+     "subtitle": "",
+     "link": "https://www.microsoft.com/en-us/security/blog/2026/11/25/what-defenders-need-to-know-artex-agentic-ai-framework-threat-actors-abuse/",
+     "source": "Microsoft Threat Intelligence",
+     "published": "2026-11-25T18:09:06+00:00",
+     "date_only": false,
+     "summary": "The AI-powered penetration testing framework ARTEX has been abused by threat actors like Storm-0940, Storm-3358, Onyx Sleet, Pearl Sleet, Crystal Typhoon, and Salt Typhoon to accelerate their existing workflows related to network…",
+     "extra": "",
+     "tags": [
+      "Nation-state",
+      "Telecom",
+      "AI"
+     ],
+     "also": []
+    },
     {
      "title": "The AI Threat Horizon: Why Speed, Edge AI and Baselines Are Our Best Defense",
      "subtitle": "",
@@ -789,6 +978,20 @@
    "name": "Government Advisories",
    "stories": [
     {
+     "title": "CISA Adds 10 Known Exploited Vulnerabilities to Catalog",
+     "subtitle": "",
+     "link": "https://www.cisa.gov/news-events/alerts/2026/11/25/cisa-adds-10-known-exploited-vulnerabilities-catalog",
+     "source": "CISA",
+     "published": "2026-11-25T12:00:00+00:00",
+     "date_only": false,
+     "summary": "CISA has added 10 new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2023-25914 Danfoss AK-SM 800A Series Path Traversal Vulnerability CVE-2023-25915 Danfoss AK-SM 800A…",
+     "extra": "",
+     "tags": [
+      "Exploited"
+     ],
+     "also": []
+    },
+    {
      "title": "Mozilla Products Multiple Vulnerabilities",
      "subtitle": "",
      "link": "https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20261125",
@@ -801,27 +1004,13 @@
      "also": []
     },
     {
-     "title": "CISA Adds Three Known Exploited Vulnerabilities to Catalog",
+     "title": "AutomationDirect C-More EA9 Programming Software",
      "subtitle": "",
-     "link": "https://www.cisa.gov/news-events/alerts/2026/11/24/cisa-adds-three-known-exploited-vulnerabilities-catalog",
+     "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-01",
      "source": "CISA",
      "published": "2026-11-24T12:00:00+00:00",
      "date_only": false,
-     "summary": "CISA has added three new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog , based on evidence of active exploitation. CVE-2026-131914 Idunno AntiCsrf Deserialization of Untrusted Data Vulnerability CVE-2026-132165…",
-     "extra": "",
-     "tags": [
-      "Exploited"
-     ],
-     "also": []
-    },
-    {
-     "title": "Danfoss AK-SM 8xxA Series",
-     "subtitle": "",
-     "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-03",
-     "source": "CISA",
-     "published": "2026-11-24T12:00:00+00:00",
-     "date_only": false,
-     "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to execute arbitrary code with webserver privileges. The following versions of Danfoss AK-SM 8xxA Series are affected: AK-SM8xxA <=5.4.0…",
+     "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow attackers to corrupt application memory and cause instability or a crash, potentially leading to arbitrary code execution, if a user is convinced to open a…",
      "extra": "",
      "tags": [],
      "also": []
@@ -839,13 +1028,13 @@
      "also": []
     },
     {
-     "title": "AutomationDirect C-More EA9 Programming Software",
+     "title": "Danfoss AK-SM 8xxA Series",
      "subtitle": "",
-     "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-01",
+     "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-328-03",
      "source": "CISA",
      "published": "2026-11-24T12:00:00+00:00",
      "date_only": false,
-     "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow attackers to corrupt application memory and cause instability or a crash, potentially leading to arbitrary code execution, if a user is convinced to open a…",
+     "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to execute arbitrary code with webserver privileges. The following versions of Danfoss AK-SM 8xxA Series are affected: AK-SM8xxA <=5.4.0…",
      "extra": "",
      "tags": [],
      "also": []
@@ -880,18 +1069,6 @@
      "link": "https://www.hkcert.org/security-bulletin/synology-products-denial-of-service-vulnerability_20261123",
      "source": "HKCERT",
      "published": "2026-11-23T03:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "WhatsApp Multiple Vulnerabilities",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/whatsapp-multiple-vulnerabilities_20261123",
-     "source": "HKCERT",
-     "published": "2026-11-23T01:00:00+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
