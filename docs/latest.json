@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T20:17:08+00:00",
+ "generated": "2026-11-27T02:57:08+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -333,6 +333,18 @@
    "name": "Breaking Threats",
    "stories": [
     {
+     "title": "OpenAI warns GPT-6.2 Astra will hit usage limits 40% faster because it fixed a bug",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-warns-gpt-62-astra-will-hit-usage-limits-40-percent-faster-because-it-fixed-a-bug/",
+     "source": "BleepingComputer",
+     "published": "2026-11-26T21:06:22+00:00",
+     "date_only": false,
+     "summary": "OpenAI confirmed that it fixed a 'bug' that incorrectly discounted GPT-6.2 usage, which means you'll now hit GPT usage limits 40% faster than before. [...]",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
      "title": "ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories",
      "subtitle": "",
      "link": "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html",
@@ -381,12 +393,8 @@
      "date_only": false,
      "summary": "FIFA didn’t say when the cyberattack took place, or the precise nature of the hacked information. The post FIFA Says It Has Been Victim of a Cyberattack Accessing ‘Personal and Business Information’ appeared first on SecurityWeek .",
      "extra": "",
-     "tags": [
-      "Breach"
-     ],
-     "also": [
-      "The Record"
-     ]
+     "tags": [],
+     "also": []
     },
     {
      "title": "Remus malware steals Gmail messages via fake Google Sheets extension",
@@ -483,8 +491,7 @@
       "Breach"
      ],
      "also": [
-      "SecurityWeek",
-      "BleepingComputer"
+      "SecurityWeek"
      ]
     },
     {
@@ -550,54 +557,27 @@
      "extra": "",
      "tags": [],
      "also": []
-    },
-    {
-     "title": "UK’s long-awaited National Cyber Action Plan delayed until December",
-     "subtitle": "",
-     "link": "https://therecord.media/britain-delays-national-cyber-action-plan-again",
-     "source": "The Record",
-     "published": "2026-11-26T00:00:00+00:00",
-     "date_only": false,
-     "summary": "Officials, who had planned to publish the document in mid-November, now aim to unveil the strategy for defending the wider economy against state-backed and criminal hackers on December 9.",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Palo Alto Networks warns of Fragnesia flaw exploited in PAN-OS attacks",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-fragnesia-flaw-exploited-in-pan-os-attacks/",
-     "source": "BleepingComputer",
-     "published": "2026-11-25T22:05:09+00:00",
-     "date_only": false,
-     "summary": "Threat actors are chaining exploits for the PHP2Shell and Fragnesia vulnerabilities to target Palo Alto Networks devices with management interfaces exposed to the internet. [...]",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Microsoft: China’s Salt Typhoon hackers are using Artex",
-     "subtitle": "",
-     "link": "https://therecord.media/microsoft-china-salt-typhoon-using-artex-ai-tool",
-     "source": "The Record",
-     "published": "2026-11-25T21:18:00+00:00",
-     "date_only": false,
-     "summary": "An AI tool implicated in several high-profile breaches is rapidly being integrated into the hacking suites of groups from China and North Korea, Microsoft said.",
-     "extra": "",
-     "tags": [
-      "Nation-state",
-      "Breach",
-      "Telecom",
-      "AI",
-      "APAC"
-     ],
-     "also": []
     }
    ]
   },
   {
    "name": "APAC Watch",
    "stories": [
+    {
+     "title": "Bank of Japan Warns AI Could Let Hackers Target Multiple Institutions",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xZUgzODBlTjM4ZGQ0aWRMa001UWw1U1ZXY2pPU1ZMSVdvQkc5ZDhoZHRtWjdWbmQxTUNOdHBHTTY1QVBhcEl0cDhFYnJpa3hYbzc2SFJHOTNmUWc?oc=5",
+     "source": "TOKENPOST",
+     "published": "2026-11-27T01:03:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "AI",
+      "APAC"
+     ],
+     "also": []
+    },
     {
      "title": "Top Singapore law firm fined S$247,000 for data breach; cybersecurity staff brushed off warnings",
      "subtitle": "",
@@ -628,8 +608,7 @@
      ],
      "also": [
       "Traders Union",
-      "TradingView",
-      "CNA"
+      "95.7 KELO-FM"
      ]
     },
     {
@@ -638,6 +617,21 @@
      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ3l0VHB3YU9jYmhDVmZnNlR5UFZhMjU2azVmTTRqUW9xTWtIaEtuNkdWMVlKcS1tZGVOMHVYb3lzdjdDUGdQLWNfd3hjclg3ZUl5VjZTMXdBdkpyVGZOVlh5Q2NYcEFwaVYzYnpjaE01TFdnY3duRkNqaThOX3VyXy1R?oc=5",
      "source": "www.techtimes.co.uk",
      "published": "2026-11-26T09:53:06+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Japan's Keio says cyberattack may have leaked 11mn records",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOEt1SWNMZXg0R2ZRZ1d5NWxiMHF2dUtfaTVVV05NQ1VVQ09KTUJhOHRCZEdueEJITExSUm9KazFDN3dZcUpFb18zdkh1MjNHVUI4NzdESThHZWl4WlJGSFZ2dTNOVm5OQzJiaEpaZ0l1dXVBaFk0TmdjNmNnMjJGSG1MTEVLUGx3ckpBUWIyam9tcnlCby1YTzdYZkswQ1ZFT1Z0dUNWdGttS3dCU3MxbEpRNnpodw?oc=5",
+     "source": "TradingView",
+     "published": "2026-11-26T03:39:00+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -795,35 +789,23 @@
    "name": "Government Advisories",
    "stories": [
     {
+     "title": "MongoDB Multiple Vulnerabilities",
+     "subtitle": "",
+     "link": "https://www.hkcert.org/security-bulletin/mongodb-multiple-vulnerabilities_20261127",
+     "source": "HKCERT",
+     "published": "2026-11-27T03:00:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
      "title": "Drupal Security Restriction Bypass Vulnerability",
      "subtitle": "",
      "link": "https://www.hkcert.org/security-bulletin/drupal-security-restriction-bypass-vulnerability_20261126",
      "source": "HKCERT",
      "published": "2026-11-26T03:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Microsoft Edge Multiple Vulnerabilities",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/microsoft-edge-multiple-vulnerabilities_20261126",
-     "source": "HKCERT",
-     "published": "2026-11-26T02:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "GitLab Multiple Vulnerabilities",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/gitlab-multiple-vulnerabilities_20261126",
-     "source": "HKCERT",
-     "published": "2026-11-26T01:00:00+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
@@ -888,18 +870,6 @@
      "published": "2026-11-24T12:00:00+00:00",
      "date_only": false,
      "summary": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to execute arbitrary code with webserver privileges. The following versions of Danfoss AK-SM 8xxA Series are affected: AK-SM8xxA <=5.4.0…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Google Chrome Remote Code Execution Vulnerability",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/google-chrome-remote-code-execution-vulnerability_20261124",
-     "source": "HKCERT",
-     "published": "2026-11-24T01:00:00+00:00",
-     "date_only": false,
-     "summary": "",
      "extra": "",
      "tags": [],
      "also": []
