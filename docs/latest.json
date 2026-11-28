@@ -1,9 +1,60 @@
 {
- "generated": "2026-11-27T22:07:14+00:00",
+ "generated": "2026-11-28T03:59:36+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
    "stories": [
+    {
+     "title": "CVE-2026-120705: OSGeo GeoServer",
+     "subtitle": "OSGeo GeoServer XML Injection Vulnerability",
+     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-120705",
+     "source": "CISA KEV",
+     "published": "2026-11-27T00:00:00+00:00",
+     "date_only": true,
+     "summary": "OsGeo GeoServer contains an XML injection vulnerability that allows an unauthenticated remote attacker to cause the server to read local text files accessible to the GeoServer process or fetch attacker-specified HTTP or HTTPS URLs via a…",
+     "extra": "US federal patch deadline 30 Nov",
+     "tags": [
+      "Exploited"
+     ],
+     "vendor": "OSGeo",
+     "product": "GeoServer",
+     "cve": "CVE-2026-120705",
+     "also": []
+    },
+    {
+     "title": "CVE-2026-129243: OSGeo GeoServer",
+     "subtitle": "OSGeo GeoServer Incorrect Authorization Vulnerability",
+     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-129243",
+     "source": "CISA KEV",
+     "published": "2026-11-27T00:00:00+00:00",
+     "date_only": true,
+     "summary": "GeoServer contains an incorrect authorization vulnerability that allows an unauthenticated remote attacker to bypass service-level role checks and invoke operations protected solely by those checks via a request with a prefixed service…",
+     "extra": "US federal patch deadline 30 Nov",
+     "tags": [
+      "Exploited"
+     ],
+     "vendor": "OSGeo",
+     "product": "GeoServer",
+     "cve": "CVE-2026-129243",
+     "also": []
+    },
+    {
+     "title": "CVE-2026-136716: Drupal Core",
+     "subtitle": "Drupal Core Improper Check for Unusual or Exceptional Conditions Vulnerability",
+     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-136716",
+     "source": "CISA KEV",
+     "published": "2026-11-27T00:00:00+00:00",
+     "date_only": true,
+     "summary": "Drupal Core contains an improper check for unusual or exceptional conditions vulnerability that allows an unauthenticated remote attacker to take over a site via the exposed Drupal installer when the site is in one of the affected unusual…",
+     "extra": "US federal patch deadline 30 Nov",
+     "tags": [
+      "Exploited"
+     ],
+     "vendor": "Drupal",
+     "product": "Core",
+     "cve": "CVE-2026-136716",
+     "also": []
+    },
     {
      "title": "CVE-2026-103406: Hewlett Packard Enterprise (HPE) Juniper Session Smart Conductor and Session Smart Router",
      "subtitle": "Hewlett Packard Enterprise (HPE) Juniper Session Smart Conductor and Session Smart Router OS Command Injection Vulnerability",
@@ -258,74 +309,6 @@
      "product": "MailAssure",
      "cve": "CVE-2026-134624",
      "also": []
-    },
-    {
-     "title": "CVE-2026-129448: Apache Roller",
-     "subtitle": "Apache Roller Deserialization of Untrusted Data Vulnerability",
-     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-129448",
-     "source": "CISA KEV",
-     "published": "2026-11-20T00:00:00+00:00",
-     "date_only": true,
-     "summary": "Apache Roller contains a deserialization of untrusted data vulnerability that allows an unauthenticated remote attacker to execute arbitrary code via the XML-RPC endpoint, which accepts and deserializes vendor extension types before…",
-     "extra": "US federal patch deadline 23 Nov",
-     "tags": [
-      "Exploited"
-     ],
-     "vendor": "Apache",
-     "product": "Roller",
-     "cve": "CVE-2026-129448",
-     "also": []
-    },
-    {
-     "title": "CVE-2026-123890: Broadcom VMware vCenter",
-     "subtitle": "VMWare vCenter Authentication Bypass Using an Alternate Path or Channel Vulnerability",
-     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-123890",
-     "source": "CISA KEV",
-     "published": "2026-11-20T00:00:00+00:00",
-     "date_only": true,
-     "summary": "Broadcom VMware vCenter contains an authentication bypass using an alternate path or channel vulnerability in the VMware Directory Service that allows an unauthenticated attacker with network access to vCenter to bypass authentication and…",
-     "extra": "US federal patch deadline 23 Nov",
-     "tags": [
-      "Exploited"
-     ],
-     "vendor": "Broadcom",
-     "product": "VMware vCenter",
-     "cve": "CVE-2026-123890",
-     "also": []
-    },
-    {
-     "title": "CVE-2025-42884: SAP NetWeaver",
-     "subtitle": "SAP NetWeaver Improper Neutralization of Special Elements in Data Query Logic Vulnerability",
-     "link": "https://nvd.nist.gov/vuln/detail/CVE-2025-42884",
-     "source": "CISA KEV",
-     "published": "2026-11-20T00:00:00+00:00",
-     "date_only": true,
-     "summary": "SAP NetWeaver Enterprise Portal contains an improper neutralization of special elements in data query logic vulnerability that allows an unauthenticated attacker to disclose or modify server information via injected JNDI environment…",
-     "extra": "US federal patch deadline 23 Nov",
-     "tags": [
-      "Exploited"
-     ],
-     "vendor": "SAP",
-     "product": "NetWeaver",
-     "cve": "CVE-2025-42884",
-     "also": []
-    },
-    {
-     "title": "CVE-2026-76466: Cisco Expressway Series",
-     "subtitle": "Cisco Expressway Series Use of Hard-coded Credentials Vulnerability",
-     "link": "https://nvd.nist.gov/vuln/detail/CVE-2026-76466",
-     "source": "CISA KEV",
-     "published": "2026-11-20T00:00:00+00:00",
-     "date_only": true,
-     "summary": "Cisco Expressway Series contains a use of hard-coded credentials vulnerability that allows an unauthenticated, remote attacker with persistent cookies and network access to execute commands as root on a clustered device via the database…",
-     "extra": "US federal patch deadline 23 Nov",
-     "tags": [
-      "Exploited"
-     ],
-     "vendor": "Cisco",
-     "product": "Expressway Series",
-     "cve": "CVE-2026-76466",
-     "also": []
     }
    ]
   },
@@ -385,7 +368,9 @@
       "Nation-state",
       "APAC"
      ],
-     "also": []
+     "also": [
+      "Cryptopolitan"
+     ]
     },
     {
      "title": "Matters.AI Lands India’s Largest Cybersecurity Pre-Series A Round to Fight AI Data Risks",
@@ -659,24 +644,56 @@
       "Zero-day"
      ],
      "also": []
-    },
-    {
-     "title": "Cyberattack disrupts global news distribution platform at France’s AFP",
-     "subtitle": "",
-     "link": "https://therecord.media/france-afp-hit-by-cyberattack",
-     "source": "The Record",
-     "published": "2026-11-27T00:00:00+00:00",
-     "date_only": false,
-     "summary": "French international news agency Agence France-Presse was hit by a cyberattack Thursday, forcing it to take offline one of its main platforms for distributing news content to media organizations worldwide.",
-     "extra": "",
-     "tags": [],
-     "also": []
     }
    ]
   },
   {
    "name": "APAC Watch",
    "stories": [
+    {
+     "title": "South Korea’s postal service reports data breach affecting 113,855 customers",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9UQVRXMzRyZ0J1bWVscVhDS0U0OTU2Y0RQd1VWUlpoUFE0YXdmRWliUTBTSVQ5SkRqVnlFZVoxdm5SRTdTZmVhWmxob2w1Qm9CVjFyUDB0TGZUTkNKNllDOUlpTzJHQWNHT0FMeW9tWWQ5Zw?oc=5",
+     "source": "Telangana Today",
+     "published": "2026-11-28T03:44:40+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "India Inc tightens third-party vendor checks over data breach liability ahead of DPDP Act deadline",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNy1mcVNpQjRtLXQ3Z2ludDZVN0RHRk52S0VxS2FXZzFUdnlfTjB1YzZtOVRia3lqNEJnZ09yRnVGLWlDdXpzNE52dnhRckdqZXNTWTAxR2dmd0drMGoxdDh4eXZHOWhPc3B5VVZ5ZElpUlkteHpNdllsOVZIM0VfMUNHRzh1ckFXcHF0OXc4QTZYMHNGSV9JZGVkZVdtYUVjNWtWbE5YOEVfLVlNRnRWOVdoMzfSAboBQVVfeXFMT1Q3YW9Oa3pQMnM1M21yQ2QxOGE2OVZiQm9hOXV0VnFBM0N1WFFsM0x4MVFPbzNHNVM1U0dKTHBRUWJsMXJhSHpOeU5ZUGwtX3RzZGNWc0pFUTI4bV9OMUtMMEQ4Qjl2bU5BM3dNNHBRYW41eHhwVl9GX0VMcnN5b3dad2FMTUxfQUFxR0plcGFGWVJObGdTS2x3aGtuOEt4cWdERVU1QUhyOUhZaDg1YUxFN1FscnBlYm13?oc=5",
+     "source": "Livemint",
+     "published": "2026-11-28T00:45:25+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
+     "title": "Veeam vs Rubrik vs Commvault for Australian Ransomware Recovery",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNN2VHUWxhNXRlY3VaNkM1WkNiNkxmTk9FUlR3b3h6OWJwdjdqSWtoT2xXZDJJaUZmdnAtR1pXM3pvUzRJZ1pCUm1VQ29lZ0dOcnBHZ1hDUnlpbUxMRi1TenMzV29lelFkZWo0N05XeXhhal9YQ1llUVBPVzZ1eWR5RnJnZ1pMZDRoYWp2dS1WdlRvbktrLVREVExjVGV6YWI0WlNwajh3?oc=5",
+     "source": "JournalArta",
+     "published": "2026-11-28T00:06:33+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Ransomware"
+     ],
+     "also": []
+    },
     {
      "title": "McDonald’s Japan discloses data breach affecting mobile app users",
      "subtitle": "",
@@ -708,35 +725,6 @@
      "also": []
     },
     {
-     "title": "Japan cyberattacks expose long-known vulnerabilities and lack of capacity",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTjY1RkdvSHkxSk9CR25pNmZsSGp0Vm5NSDB2bmlTT1hvM1FFOEFaUEdhdXhVXzg5MUJSLXQyT2tPRGxKWU0xNmV4N3BXMXczb1FhYmdrejY5U3FwcjR1M01oZmUtMmIteGdCQXE4LWJjc0RXUlA4YjZYVWJHUDdFSDZyTEJGRjB1TmNFN2FSX2RjVjlocDJzLXB3YnFWc2d2N1A4?oc=5",
-     "source": "Resilience Media",
-     "published": "2026-11-27T10:28:53+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Ransomware Attacks in Indonesia Almost Double, Government and Banks Are Targets",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM3BuemxuV2FnOURUTGhvbjJWdjhJWEZnT2RrTTJrZ05WUEV4XzNiblliR2w4SXFOcWRxbHRad3k0Y0ZOOXRqREd2dWpqM1FIUEI4YnFKUk5TUENFbGtuZk9xdF82eFRWb3dodGQ5cVNremEwMDcwMDNWVE5TejJGQjFWbkM5dC01R2hLS2oxalFKOWExYkRSUmRHQ2tvbHIyLWhXbG83WXVUT3hKZ0dqcHdUaWdKaHZ6eUh3TF9HUQ?oc=5",
-     "source": "VOI.ID",
-     "published": "2026-11-27T07:45:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Ransomware",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
      "title": "Philippines ransomware attacks more than double as AI raises pressure on finance, outsourcing sectors",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbjR5cFFRVWp0a3ctc09ZNUR4X3JzLUl3UjYxcXpJMzFZMDZjdHAwQ1JhRmFXVjJ1MTh6aVhyTE1VdlNMR24xOTZJSXg1Y2hOSFhRMHA2OUdWM2xwYVo5em55Y3ItbHNsOWg5MXNTTmVPOGdMQkRpVmVmbTJRNzBpQVlzUTNvdXAxUDdrVG9pY3htNlBkYmtOUjRWZ2NPcl9L?oc=5",
@@ -753,20 +741,6 @@
      "also": []
     },
     {
-     "title": "Samsung Tops Korean Ransomware Credential Exposure Rankings",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBiTjR6bU9MUHZWWTN6WFVOeVdQSzlJTDlOaEdyVHRCVG9wSVFjU1ZncUlyZkNKSXE2dWFqajgwTTk2bzdER2t2a0xxWU5CT1FOVnd3QUI5dUZZV2RSVzI0TE12X3dKdVk?oc=5",
-     "source": "THE ELEC, Korea Electronics Industry Media",
-     "published": "2026-11-27T06:58:58+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Ransomware"
-     ],
-     "also": []
-    },
-    {
      "title": "Hackers Steal Military Files and 19GB of Government Documents in Southeast Asia",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5URzAzOGVNd1dDdjRnS1pSNmtqTVoxcGlGVnZhdmpxTEdtQjB2THVydW52SDFmSGhQLWR1bDZVcGJ1S3lLeGZ0Nk8ycGpsNjd1SXZjTlpiZTfSAV5BVV95cUxNUm8zRHBjd1RjeFhuakxHRFVzQ0wtQ09ubGxQaFh2bThsS0dqTzdwNmd2Mkd5Z2RXWG1kNzhxM1kyS2x1UnZ1cWpBcHNjUzZKcVJ3UEl1TC1zaTVsWTd3?oc=5",
@@ -776,51 +750,6 @@
      "summary": "",
      "extra": "",
      "tags": [],
-     "also": []
-    },
-    {
-     "title": "Japan’s crypto security group taps SEAL to speed up hack response",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYnRJMGRHRkw0SVRzZmwxTzdEYmtuYWVWcVZOc2w3UktldWpLb0ZlZjNpSkVSRENzb2RTSE5LTmFjUGZFZEZaSFdaSlp3blZ3LXNoMDB6bjBtMjJVUmI5Y25UMDBnZmlINjR3bFc4LUZ4TXdpQVdYUHQ0eFJCenRIUEFPbi1jZzhLYXA5VGs3TTlRLUNMdWtBUEZ1YmFJTXNrVXFnM1ZHXy1MQkJtMDEybm5hS3FTVWNYYnFqMldsLUJIX2FnZFJKOQ?oc=5",
-     "source": "TradingView",
-     "published": "2026-11-27T05:22:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "South Korea's Data Breach Reports Hit 1,019, 2.3 Times Last Year's Total; Government to Launch 3-Month AI Hacking Crackdown in December",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5CT0ltQmRGdWtzMmo1Q1hxVjBWYkNET0FxaFNvbEVfSVduRE1GX0lHQ1B0Z0x5NFd0NjFlbm1YMzJhekYxY3Z5YUc3MXdiSUNkUmRfeFJ3MnAweDdZc1NicFcwa0xHQm4yYU1zOFpvWW11VDltdEE?oc=5",
-     "source": "BigGo Finance",
-     "published": "2026-11-27T03:55:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "AI",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Bank of Japan Warns AI Could Let Hackers Target Multiple Institutions",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xZUgzODBlTjM4ZGQ0aWRMa001UWw1U1ZXY2pPU1ZMSVdvQkc5ZDhoZHRtWjdWbmQxTUNOdHBHTTY1QVBhcEl0cDhFYnJpa3hYbzc2SFJHOTNmUWc?oc=5",
-     "source": "TOKENPOST",
-     "published": "2026-11-27T01:03:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "AI",
-      "APAC"
-     ],
      "also": []
     }
    ]
@@ -988,18 +917,6 @@
      "link": "https://www.hkcert.org/security-bulletin/drupal-security-restriction-bypass-vulnerability_20261126",
      "source": "HKCERT",
      "published": "2026-11-26T03:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Mozilla Products Multiple Vulnerabilities",
-     "subtitle": "",
-     "link": "https://www.hkcert.org/security-bulletin/mozilla-products-multiple-vulnerabilities_20261125",
-     "source": "HKCERT",
-     "published": "2026-11-25T03:00:00+00:00",
      "date_only": false,
      "summary": "",
      "extra": "",
