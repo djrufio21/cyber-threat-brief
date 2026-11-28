@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-28T13:16:03+00:00",
+ "generated": "2026-11-28T21:03:55+00:00",
  "sections": [
   {
    "name": "Actively Exploited",
@@ -316,6 +316,32 @@
    "name": "Breaking Threats",
    "stories": [
     {
+     "title": "College Board confirms data breach after unauthorized password changes",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/college-board-confirms-data-breach-after-unauthorized-password-changes/",
+     "source": "BleepingComputer",
+     "published": "2026-11-28T17:45:59+00:00",
+     "date_only": false,
+     "summary": "College Board has confirmed it suffered a data breach after students reported unexpected password changes on Thanksgiving, and the organization said threat actors gained access to its account registration and financial aid application…",
+     "extra": "",
+     "tags": [
+      "Breach"
+     ],
+     "also": []
+    },
+    {
+     "title": "Q-Dir and DesktopOK Windows utilities compromised to push Python RAT",
+     "subtitle": "",
+     "link": "https://www.bleepingcomputer.com/news/security/q-dir-and-desktopok-windows-utilities-compromised-to-push-python-rat/",
+     "source": "BleepingComputer",
+     "published": "2026-11-28T15:32:49+00:00",
+     "date_only": false,
+     "summary": "Official distribution channels for the Q-Dir and DesktopOK Windows utilities were compromised to deliver trojanized installers containing Python-based remote access malware. [...]",
+     "extra": "",
+     "tags": [],
+     "also": []
+    },
+    {
      "title": "pCloud Password Manager Hit by Cyber Attack Involving Email Address Exposure and Login Attempts",
      "subtitle": "",
      "link": "https://thehackernews.com/2026/11/pcloud-password-manager-hit-by-cyber.html",
@@ -323,142 +349,6 @@
      "published": "2026-11-28T08:08:11+00:00",
      "date_only": false,
      "summary": "Cross-platform password manager pCloud Pass has confirmed it was targeted by a cyber attack after users reported seeing unknown devices being connected to their accounts. \"A cyber attack targeting pCloud Pass occurred, which was promptly…",
-     "extra": "",
-     "tags": [],
-     "also": [
-      "BleepingComputer"
-     ]
-    },
-    {
-     "title": "New Boston Scientific data breach exposes personal, medical info",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/new-boston-scientific-data-breach-exposes-personal-medical-info/",
-     "source": "BleepingComputer",
-     "published": "2026-11-27T18:57:42+00:00",
-     "date_only": false,
-     "summary": "Medical technology company Boston Scientific is sending data breach notices to individuals affected by a cyberattack on the firm. [...]",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": [
-      "Sambad English"
-     ]
-    },
-    {
-     "title": "Unpatched Cacti zero-day with public PoC gives remote code execution",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/unpatched-cacti-zero-day-with-public-poc-gives-remote-code-execution/",
-     "source": "BleepingComputer",
-     "published": "2026-11-27T17:06:13+00:00",
-     "date_only": false,
-     "summary": "A zero-day vulnerability in the Cacti network monitoring platform has been publicly disclosed, along with a proof-of-concept exploit that lets unauthenticated attackers execute commands on vulnerable servers. [...]",
-     "extra": "",
-     "tags": [
-      "Zero-day"
-     ],
-     "also": []
-    },
-    {
-     "title": "Suspected Vietnam-Linked Hackers Target Southeast Asia in South China Sea Espionage Campaign",
-     "subtitle": "",
-     "link": "https://thehackernews.com/2026/11/suspected-vietnam-linked-hackers-target.html",
-     "source": "The Hacker News",
-     "published": "2026-11-27T16:36:11+00:00",
-     "date_only": false,
-     "summary": "A Vietnam-sponsored hacking group has been attributed to attacks targeting Southeast Asian military, government, and legislative organizations with an aim to gather intelligence on South China Sea defense and military agreements. The…",
-     "extra": "",
-     "tags": [
-      "Nation-state",
-      "APAC"
-     ],
-     "also": [
-      "Cryptopolitan"
-     ]
-    },
-    {
-     "title": "Matters.AI Lands India’s Largest Cybersecurity Pre-Series A Round to Fight AI Data Risks",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/cyber-risk/matters-india-cybersecurity-pre-series-ai-data-risks",
-     "source": "Dark Reading",
-     "published": "2026-11-27T15:27:20+00:00",
-     "date_only": false,
-     "summary": "The security startup consolidates four legacy security tools into an autonomous platform that uses context-aware AI to trace sensitive data lineage, analyze user intent, and automatically remediate threats across enterprise environments.",
-     "extra": "",
-     "tags": [
-      "AI",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "US Air Force cloud platform reportedly hacked in latest federal breach",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/us-air-force-cloud-platform-reportedly-hacked-in-latest-federal-breach/",
-     "source": "BleepingComputer",
-     "published": "2026-11-27T15:09:40+00:00",
-     "date_only": false,
-     "summary": "Hackers have reportedly breached the US Air Force's Cloud One computing platform, adding to a recent wave of cyberattacks affecting US government agencies, including the FBI, CIA, and Treasury Department. [...]",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": [
-      "Hindustan Times"
-     ]
-    },
-    {
-     "title": "Your Firewall Isn't Enough: The Hidden Risk of Unmanaged VMs",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/your-firewall-isnt-enough-the-hidden-risk-of-unmanaged-vms/",
-     "source": "BleepingComputer",
-     "published": "2026-11-27T15:00:10+00:00",
-     "date_only": false,
-     "summary": "Forgotten virtual machines, unpatched servers, and excessive access permissions can create security blind spots across IT infrastructure. ISPsystem explains how centralized infrastructure management, access controls, and resource lifecycle…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Malwarebytes Antivirus: Get 50% off during Black Friday 2026",
-     "subtitle": "",
-     "link": "https://www.bleepingcomputer.com/news/security/malwarebytes-antivirus-get-50-percent-off-during-black-friday-2026/",
-     "source": "BleepingComputer",
-     "published": "2026-11-27T14:22:06+00:00",
-     "date_only": false,
-     "summary": "Malwarebytes' 2026 Black Friday and Cyber Monday sale is now live, offering 50% off security subscriptions for individuals, families, and small businesses, including its antivirus software, VPN, identity theft protection, and personal data…",
-     "extra": "",
-     "tags": [],
-     "also": []
-    },
-    {
-     "title": "Japan’s education ministry discloses breach of government procurement system",
-     "subtitle": "",
-     "link": "https://therecord.media/japan-education-ministry-cyberattack",
-     "source": "The Record",
-     "published": "2026-11-27T14:15:00+00:00",
-     "date_only": false,
-     "summary": "Japan’s education ministry disclosed earlier this week that hackers breached its government procurement system, potentially exposing records containing business information and email addresses.",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": [
-      "MLQ.ai",
-      "The Record from Recorded Future News"
-     ]
-    },
-    {
-     "title": "'God Mode' Flaws Could Wreak Border-Control Havoc",
-     "subtitle": "",
-     "link": "https://www.darkreading.com/vulnerabilities-threats/god-mode-flaws-wreak-border-control-havoc",
-     "source": "Dark Reading",
-     "published": "2026-11-27T14:00:00+00:00",
-     "date_only": false,
-     "summary": "Attackers could have disrupted traveler entry into Nigeria, Ethiopia, Zambia, Sri Lanka, Fiji, and Ghana via several vulnerabilities in their online visa and immigration systems.",
      "extra": "",
      "tags": [],
      "also": []
@@ -469,6 +359,38 @@
    "name": "APAC Watch",
    "stories": [
     {
+     "title": "Babushahi Global Updates|Nov 28| Afghanistan School Blast Kills 7, 100 Injured | US-Iran Tensions Escalate Over Naval Blockade | Iran Warns of ‘More Surprises’ | Hackers Breach US Air Force Cloud Platform | INDIA Bloc Opposes Delimitation Bill | Presiden",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMZ0JpWWs5VTJ6eVVtOGxYZFV6eGxEcXFyaU5MZXQtOGtzWGdwY3dMTnBqX1IzQ1h5c2dmaEo4NnZ5V0tOVFFLV0J6NFNqbGJuZ2otdFF6UlRYSVNDSWc?oc=5",
+     "source": "Babushahi.com",
+     "published": "2026-11-28T13:25:00+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": [
+      "Hindustan Times"
+     ]
+    },
+    {
+     "title": "Indonesia Denies Reports Of 90 Million Passport Data Breach",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcHl3S2NrLU9tUEtlbXEwUVBzS1VJWnBETVJDZzFWZUphSkh5aDY3MEhPaUo2VlBvR0YzcTZTLUhsVFZfTXdpRVh1RXo5U0RtMXZoUUJBY0taNFRCZksybFJfeGM1WDJfZ21pZlBseVpXR3BlR0EybGtnMU9VSUJzenNWNVp1cHBvSWxfeVQwNk1CYkEyUE5RVnFlODBWQUE3NU1RbDQ4QQ?oc=5",
+     "source": "BusinessToday Malaysia",
+     "published": "2026-11-28T13:20:46+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "Breach",
+      "APAC"
+     ],
+     "also": []
+    },
+    {
      "title": "Korea Post cyberattack exposes personal data of at least 113,855 customers",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE90R1FaZlAwRnpnbERLRTRYYUZDNE5oN2VSb0pnRkoySHluZHo5cThtb0RzaG1ZV2QxaW52RUlPNC1PeEJ4SWJXeVZfaG5oMEh4R012ZzNHMHU0UTFOQU9OMVBEeFBRZGFFSGdfS0RaMnh1WEstazREQzU4OA?oc=5",
@@ -478,26 +400,14 @@
      "summary": "",
      "extra": "",
      "tags": [
-      "APAC"
+      "APAC",
+      "Breach"
      ],
      "also": [
-      "شبكة تواصل الإخبارية",
+      "Firstpost",
+      "Sambad English",
       "Free Press Journal"
      ]
-    },
-    {
-     "title": "Malaysia faces rising cyber threats to national security and infrastructure",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOa3pkMnRic0wyd1JGWGtYMlpRX0VDbkllNUp5bWR6T0huMGQ3RGxzRkYxNzVpdXpzNjdDeldjeUlNM3ZieGNrc21Bb3NYNmJfTGNLQVRVY2RJanI5eXVTYlBpa19mRktIQ0ZSdXhMWk9FLS1MVnlkM1I0dHVYSHdNM1ROeHZUVnY2T1FLWU9rRmdMb1VCQTY3dEdjaVVUZ2xGdVhxLQ?oc=5",
-     "source": "Beinsure",
-     "published": "2026-11-28T12:24:50+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "APAC"
-     ],
-     "also": []
     },
     {
      "title": "South Korea: Hackers steal personal data of over 113,000 postal service customers.",
@@ -542,6 +452,20 @@
      "also": []
     },
     {
+     "title": "Suspected Vietnam-linked hackers hit Southeast Asian governments, SOCRadar says",
+     "subtitle": "",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcHhPOXZ0OW9GVU5KQm0yOTVHUWlETGdjQWJlejBBSDdOcGM0VDhTbDFuM1pMbjF4ZjFFTk1IaS1FUTh3TmU5dDVRMFRUOE0yWVJ2OHJaTnZhOWcyU09PZzBKenkyNmszd2x3b0wxQkZnZlRVUkNacWJuejJ5bVVnbGV5WXN3X3hpUHVMRGcwN0JGekRSWUtBS2lWd2NvZ1NfaWVrTEVKMHRidUMwVnc?oc=5",
+     "source": "Cryptopolitan",
+     "published": "2026-11-28T03:50:19+00:00",
+     "date_only": false,
+     "summary": "",
+     "extra": "",
+     "tags": [
+      "APAC"
+     ],
+     "also": []
+    },
+    {
      "title": "India Inc tightens third-party vendor checks over data breach liability ahead of DPDP Act deadline",
      "subtitle": "",
      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNy1mcVNpQjRtLXQ3Z2ludDZVN0RHRk52S0VxS2FXZzFUdnlfTjB1YzZtOVRia3lqNEJnZ09yRnVGLWlDdXpzNE52dnhRckdqZXNTWTAxR2dmd0drMGoxdDh4eXZHOWhPc3B5VVZ5ZElpUlkteHpNdllsOVZIM0VfMUNHRzh1ckFXcHF0OXc4QTZYMHNGSV9JZGVkZVdtYUVjNWtWbE5YOEVfLVlNRnRWOVdoMzfSAboBQVVfeXFMT1Q3YW9Oa3pQMnM1M21yQ2QxOGE2OVZiQm9hOXV0VnFBM0N1WFFsM0x4MVFPbzNHNVM1U0dKTHBRUWJsMXJhSHpOeU5ZUGwtX3RzZGNWc0pFUTI4bV9OMUtMMEQ4Qjl2bU5BM3dNNHBRYW41eHhwVl9GX0VMcnN5b3dad2FMTUxfQUFxR0plcGFGWVJObGdTS2x3aGtuOEt4cWdERVU1QUhyOUhZaDg1YUxFN1FscnBlYm13?oc=5",
@@ -567,36 +491,6 @@
      "extra": "",
      "tags": [
       "Ransomware"
-     ],
-     "also": []
-    },
-    {
-     "title": "McDonald’s Japan discloses data breach affecting mobile app users",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPT3BCLU5IamtSMmZqOW43N2ZCT2x5WHIwSVhWb0pmbGNLeUhHZzNhdFZ1bF9RU2ZnRi1UVFdtRW1nNEFQZjRvTHNleGhEajc1U1pLdk1KdU5GaS1zSXJIYXdTQXJnbWpMTGVlb2JqZ1phbENzMFJ6NEF5SVZfOGhnR0trT2lrU2ZfZC01T3dWakJKcUFUdUozaUp3?oc=5",
-     "source": "SC Media",
-     "published": "2026-11-27T18:57:17+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
-     ],
-     "also": []
-    },
-    {
-     "title": "Data Breach at South Korea’s Power Giant KEPCO Impacts 1.5 Million People",
-     "subtitle": "",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZmN4MmdrMW9YNUJsR2UwTm1lU3lLb2RWUS1Vc2wzYnJOV1dpakNTTkY0VEdwUTBTQW1YOUpsYTNJaFdOdTdiZTQ5Z0RPRmZmVTAtSV90aEtkYktza3RpTjlrVGRZaWFtLWVDZEFQbjVPM3VWUDFOUjZwWVpVQ3FLTHVMOEVwaUNjaWo0a0hERnBobVd0ZklNdUtSb0RXSnBjTHRSRThUQndqaC1Xb0tGMHpzVTVRTEE?oc=5",
-     "source": "CPO Magazine",
-     "published": "2026-11-27T16:00:00+00:00",
-     "date_only": false,
-     "summary": "",
-     "extra": "",
-     "tags": [
-      "Breach",
-      "APAC"
      ],
      "also": []
     }
